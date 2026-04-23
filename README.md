@@ -1,0 +1,1 @@
+Init new albo scraper
