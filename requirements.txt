@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+feedgen
+openpyxl
+dotenv
+boxsdk
+boxsdk>=10
