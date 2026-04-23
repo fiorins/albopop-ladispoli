@@ -170,12 +170,9 @@ def add_channel_extras(channel):
     ]
 
     webmaster = channel.find("webMaster")
-
-    if webmaster is None:
-        # fallback: aggiunge in fondo
-        insert_index = len(channel)
-    else:
-        insert_index = list(channel).index(webmaster) + 1
+    insert_index = (
+        list(channel).index(webmaster) + 1 if webmaster is not None else len(channel)
+    )
 
     # inserisci categorie
     for i, (domain, value) in enumerate(categories):
@@ -193,12 +190,57 @@ def add_channel_extras(channel):
     channel.insert(insert_index + len(categories), meta)
 
 
-def add_xhtml_meta(channel):
-    XHTML_NS = "http://www.w3.org/1999/xhtml"
+def add_item_categories(item, entry):
+    categories = [
+        ("item-category-entry", str(entry.get("entry_id", ""))),
+        (
+            "http://albopop.it/specs#item-category-pubStart",
+            str(entry.get("pub_start_alt", "")),
+        ),
+        (
+            "http://albopop.it/specs#item-category-pubEnd",
+            str(entry.get("pub_end_alt", "")),
+        ),
+        ("http://albopop.it/specs#item-category-uid", str(entry.get("registry", ""))),
+        ("http://albopop.it/specs#item-category-type", str(entry.get("type", ""))),
+        ("item-category-subType", str(entry.get("sub_type", ""))),
+        (
+            "http://albopop.it/specs#item-category-annotation",
+            str(entry.get("att_count", "")),
+        ),
+        ("item-category-shortIdUrl", str(entry.get("entry_url_short", ""))),
+    ]
 
-    etree.SubElement(
-        channel, f"{{{XHTML_NS}}}meta", attrib={"name": "robots", "content": "noindex"}
-    )
+    guid = item.find("guid")
+    insert_index = list(item).index(guid) + 1 if guid is not None else len(item)
+
+    for i, (domain, value) in enumerate(categories):
+        cat = etree.Element("category")
+        cat.set("domain", domain)
+        cat.text = value
+        item.insert(insert_index + i, cat)
+
+
+def fix_item(item, entry):
+    desc = item.find("description")
+    if desc is not None:
+        # desc.text = etree.CDATA(f"📚 Allegati totali: {entry.get('att_count', '')}")
+        desc.text = f"📚 Allegati totali: {entry['att_count']}"
+
+    guid = item.find("guid")
+    if guid is not None:
+        guid.set("isPermaLink", "true")
+
+    add_item_categories(item, entry)
+
+    # Riordina pubDate prima del guid
+    pub_date = item.find("pubDate")
+    guid = item.find("guid")
+
+    if pub_date is not None and guid is not None:
+        item.remove(pub_date)
+        guid_index = list(item).index(guid)
+        item.insert(guid_index, pub_date)
 
 
 def generate_rss(all_entries):
@@ -221,6 +263,8 @@ def generate_rss(all_entries):
         fe.description(f"📚 Allegati totali: {e['att_count']}")
         if e.get("attachment_url") and e["attachment_url"] != "non presente":
             fe.enclosure(e["attachment_url"], 0, "application/pdf")
+        else:
+            fe.enclosure("", 0, "application/pdf")
 
     # crea XML prima di salvare
     rss_xml = fg.rss_str(pretty=True)
@@ -230,11 +274,15 @@ def generate_rss(all_entries):
 
     # aggiungi categorie custom
     add_channel_extras(channel)
-    add_xhtml_meta(channel)
+    items = channel.findall("item")
+
+    for item, entry in zip(items, all_entries):
+        fix_item(item, entry)
+
+    etree.indent(root, space="  ")
 
     # salva il file finale
     tree = etree.ElementTree(root)
-    etree.indent(root, space="  ")
     tree.write(FEED_FILE, pretty_print=True, xml_declaration=True, encoding="utf-8")
 
 
