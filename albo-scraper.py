@@ -12,6 +12,7 @@ from lxml import etree
 from zoneinfo import ZoneInfo
 
 # from boxsdk import JWTAuth, Client
+from box_sdk_gen import BoxClient, BoxJWTAuth, BoxDeveloperTokenAuth
 
 load_dotenv()
 
@@ -28,9 +29,15 @@ ELEMENT_BASE_URL = "https://ladispoli.trasparenza-valutazione-merito.it/web/tras
 SEEN_FILE = "seen.json"
 FEED_FILE = "feed.xml"
 EXCEL_FILE = "albo.xlsx"
-FEED_URL = "https://fiorins.github.io/albopop-ladispoli/feed.xml"  # ← update this
+FEED_URL = "https://fiorins.github.io/albopop-ladispoli/feed.xml"
 
 HEADERS = {"User-Agent": "Mozilla/5.0"}
+
+# BOX cloud init
+# auth = JWTAuth.from_settings_file(BOX_CONFIG_PATH)
+# box_client = Client(auth)
+auth: BoxDeveloperTokenAuth = BoxDeveloperTokenAuth(token=token)
+client: BoxClient = BoxClient(auth=auth)
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
@@ -354,10 +361,46 @@ def send_telegram_document(title, registry, file_bytes, filename):
 #         client = Client(auth)
 #         import io
 
+
 #         client.folder(folder_id).upload_stream(io.BytesIO(file_bytes), filename)
 #         print(f"Uploaded to Box: {filename}")
 #     except Exception as e:
 #         print(f"Box upload error: {e}")
+# auth: BoxDeveloperTokenAuth = BoxDeveloperTokenAuth(token=token)
+# client: BoxClient = BoxClient(auth=auth)
+BOX_CONFIG_PATH = ".secrets/box_config.json"
+# auth = JWTAuth.from_settings_file(BOX_CONFIG_PATH)
+# box_client = BoxClient(auth)
+
+auth = BoxJWTAuth.from_config_file("config.json")
+client = BoxClient(auth)
+
+
+def upload_to_box(file_bytes, filename, folder_id="0"):
+    try:
+        folder = client.folder(folder_id)
+
+        # 🔍 check duplicati
+        for item in folder.get_items(limit=1000):
+            if item.name == filename:
+                print("Già presente su Box:", filename)
+                return item
+
+        file = folder.upload_stream(io.BytesIO(file_bytes), filename)
+
+        print("Upload OK:", filename)
+        return file
+
+    except Exception as e:
+        print("Errore Box:", e)
+        return None
+
+
+def get_box_link(file):
+    try:
+        return file.get_shared_link()
+    except:
+        return None
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────

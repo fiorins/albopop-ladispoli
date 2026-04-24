@@ -210,5 +210,7 @@ __marimo__/
 .DS_Store
 
 .secrets/
-box_config.json
 *.pem
+
+feed.xml
+test

@@ -1,7 +1,7 @@
 requests
 beautifulsoup4
 feedgen
-openpyxl
 dotenv
-boxsdk
-boxsdk>=10
+box_sdk_gen
+gspread
+oauth2client
