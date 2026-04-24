@@ -16,8 +16,6 @@ from zoneinfo import ZoneInfo
 load_dotenv()
 
 # ── Config ────────────────────────────────────────────────────────────────────
-# TELEGRAM_TOKEN = os.environ["xxx"]
-# TELEGRAM_CHAT_ID = os.environ["@xxx"]
 TELEGRAM_TOKEN = os.getenv("tg_token")
 TELEGRAM_CHAT_ID = os.getenv("tg_chatid")
 BOX_CONFIG_PATH = "box__config.json"
@@ -36,6 +34,7 @@ HEADERS = {"User-Agent": "Mozilla/5.0"}
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
+# Loads the list of already processed entries from seen.json
 def load_seen():
     try:
         return set(json.load(open(SEEN_FILE)))
@@ -43,10 +42,12 @@ def load_seen():
         return set()
 
 
+# After processing new entries it saves the updated list back to seen.json
 def save_seen(seen):
     json.dump(list(seen), open(SEEN_FILE, "w"))
 
 
+# Strips it out the session token embedded in the attachment url
 def clean_jsessionid(url):
     return re.sub(r";jsessionid=.*?(?=\?)", "", url)
 
