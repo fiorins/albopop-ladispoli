@@ -44,7 +44,8 @@ FEED_FILE = "feed.xml"
 FEED_URL = "https://fiorins.github.io/albopop-ladispoli/feed.xml"
 
 TELEGRAM_DELAY = 4  # seconds between each message
-SCRAPING_DELAY = 2  # seconds between each entry page request
+SCRAPING_DELAY = 3  # seconds between each entry page request
+
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 # Loads the list of already processed entries from seen.json
