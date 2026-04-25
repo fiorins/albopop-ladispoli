@@ -1,43 +1,44 @@
-import requests
-import json
-import os
-import re
-import base64
-from datetime import datetime, timezone
-from bs4 import BeautifulSoup
-from feedgen.feed import FeedGenerator
-import openpyxl
-from dotenv import load_dotenv
-from lxml import etree
-from zoneinfo import ZoneInfo
+import os, io, re, json, base64, requests, time
 
-# from boxsdk import JWTAuth, Client
-from box_sdk_gen import BoxClient, BoxJWTAuth, BoxDeveloperTokenAuth
+from datetime import datetime, timezone
+from dotenv import load_dotenv
+
+from bs4 import BeautifulSoup
+from lxml import etree
+from feedgen.feed import FeedGenerator
+
+from box_sdk_gen import (
+    BoxClient,
+    BoxJWTAuth,
+    JWTConfig,
+    UploadFileAttributes,
+    UploadFileAttributesParentField,
+    AddShareLinkToFileSharedLink,
+    AddShareLinkToFileSharedLinkAccessField,
+)
 
 load_dotenv()
 
-# ── Config ────────────────────────────────────────────────────────────────────
+
+# ── Configs ────────────────────────────────────────────────────────────────────
 TELEGRAM_TOKEN = os.getenv("tg_token")
-TELEGRAM_CHAT_ID = os.getenv("tg_chatid")
-BOX_CONFIG_PATH = "box__config.json"
+TELEGRAM_CHAT_ID = "@AlbinoLadispoliTest"
+
+BOX_CONFIG_PATH = ".secrets/config_box.json"
+GOOGLE_CONFIG_PATH = ".secrets/config_google.json"
+
 
 ROOT_URL = (
     "https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
 )
-ELEMENT_BASE_URL = "https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/"
 
-SEEN_FILE = "seen.json"
-FEED_FILE = "feed.xml"
-EXCEL_FILE = "albo.xlsx"
-FEED_URL = "https://fiorins.github.io/albopop-ladispoli/feed.xml"
+ELEMENT_BASE_URL = "https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/"
 
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 
-# BOX cloud init
-# auth = JWTAuth.from_settings_file(BOX_CONFIG_PATH)
-# box_client = Client(auth)
-auth: BoxDeveloperTokenAuth = BoxDeveloperTokenAuth(token=token)
-client: BoxClient = BoxClient(auth=auth)
+SEEN_FILE = "seen.json"
+FEED_FILE = "feed.xml"
+FEED_URL = "https://fiorins.github.io/albopop-ladispoli/feed.xml"
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
@@ -59,11 +60,65 @@ def clean_jsessionid(url):
     return re.sub(r";jsessionid=.*?(?=\?)", "", url)
 
 
+# ── BOX cloud ─────────────────────────────────────────────────────────────────
+jwt_config = JWTConfig.from_config_file(config_file_path=BOX_CONFIG_PATH)
+auth = BoxJWTAuth(config=jwt_config)
+client = BoxClient(auth=auth)
+
+
+def upload_to_box(file_bytes, filename, folder_id="0"):
+    try:
+        uploaded = client.uploads.upload_file(
+            attributes=UploadFileAttributes(
+                name=filename,
+                parent=UploadFileAttributesParentField(id=folder_id),
+            ),
+            file=io.BytesIO(file_bytes),
+        )
+
+        file = uploaded.entries[0]
+        print(f"Uploaded file with ID {file.id} and name {file.name}")
+
+        return file
+
+    except Exception as e:
+        print("Errore BOX: ", e.message)
+        return None
+
+
+def get_or_create_box_link(file_id):
+    # Try to create the shared url
+    try:
+        file = client.shared_links_files.get_shared_link_for_file(
+            file_id, "shared_link"
+        )
+
+        if not file.shared_link:
+            file = client.shared_links_files.add_share_link_to_file(
+                file_id,
+                "shared_link",
+                shared_link=AddShareLinkToFileSharedLink(
+                    access=AddShareLinkToFileSharedLinkAccessField.OPEN
+                ),
+            )
+
+        return file.shared_link.download_url
+
+    # Fallback: recover
+    except Exception as e:
+        print("Errore BOX: ", e.message)
+        return None
+
+
+# salvare il file_id del file nell'excel
+
+
 # ── Scraper ───────────────────────────────────────────────────────────────────
+# Analyze the website scraping the list of entries that are not in seen list
 def scrape_entries(seen):
     """Scrape the main table and return only new entries."""
-    resp = requests.get(ROOT_URL, headers=HEADERS)
-    soup = BeautifulSoup(resp.text, "html.parser")
+    response = requests.get(ROOT_URL, headers=HEADERS)
+    soup = BeautifulSoup(response.text, "html.parser")
 
     entries = []
     for row in soup.select("table tr"):
@@ -159,7 +214,7 @@ def fetch_attachment_url(entry_url):
         return clean_jsessionid(decoded_url)
 
     except Exception as e:
-        print(f"Error fetching attachment: {e}")
+        print(f"Fetching attachment error: {e}")
         return None
 
 
@@ -182,14 +237,14 @@ def add_channel_extras(channel):
         list(channel).index(webmaster) + 1 if webmaster is not None else len(channel)
     )
 
-    # inserisci categorie
+    # Insert categories
     for i, (domain, value) in enumerate(categories):
         cat = etree.Element("category")
         cat.set("domain", domain)
         cat.text = value
         channel.insert(insert_index + i, cat)
 
-    # inserisci xhtml meta subito dopo le categorie
+    # Insert xhtml meta right after categories
     XHTML_NS = "http://www.w3.org/1999/xhtml"
     meta = etree.Element(
         f"{{{XHTML_NS}}}meta", attrib={"name": "robots", "content": "noindex"}
@@ -241,7 +296,7 @@ def fix_item(item, entry):
 
     add_item_categories(item, entry)
 
-    # Riordina pubDate prima del guid
+    # Reorder pubDate before the guid
     pub_date = item.find("pubDate")
     guid = item.find("guid")
 
@@ -269,18 +324,19 @@ def generate_rss(all_entries):
         fe.link(href=e["entry_url"])
         fe.published(e["pub_start"])
         fe.description(f"📚 Allegati totali: {e['att_count']}")
-        if e.get("attachment_url") and e["attachment_url"] != "non presente":
-            fe.enclosure(e["attachment_url"], 0, "application/pdf")
+        # if e.get("box_shared_link") and e["box_shared_link"] != "non presente":
+        if e.get("box_shared_link"):
+            fe.enclosure(e["box_shared_link"], 0, "application/pdf")
         else:
             fe.enclosure("", 0, "application/pdf")
 
-    # crea XML prima di salvare
+    # Create the xml before save
     rss_xml = fg.rss_str(pretty=True)
 
     root = etree.fromstring(rss_xml)
     channel = root.find("channel")
 
-    # aggiungi categorie custom
+    # Add custom categories
     add_channel_extras(channel)
     items = channel.findall("item")
 
@@ -289,134 +345,166 @@ def generate_rss(all_entries):
 
     etree.indent(root, space="  ")
 
-    # salva il file finale
+    # Save the final file
     tree = etree.ElementTree(root)
     tree.write(FEED_FILE, pretty_print=True, xml_declaration=True, encoding="utf-8")
 
 
-# ── Excel ─────────────────────────────────────────────────────────────────────
-EXCEL_HEADERS = [
-    "Titolo",
-    "Data inizio",
-    "Data fine",
-    "Anno",
-    "Numero",
-    "Tipo",
-    "Sotto-tipo",
-    "N. Allegati",
-    "URL voce",
-    "URL allegato",
-]
+# ── TELEGRAM ──────────────────────────────────────────────────────────────────
+TELEGRAM_DELAY = 4  # seconds between each message
 
 
-def append_to_excel(entries):
-    if os.path.exists(EXCEL_FILE):
-        wb = openpyxl.load_workbook(EXCEL_FILE)
-        ws = wb.active
-    else:
-        wb = openpyxl.Workbook()
-        ws = wb.active
-        ws.append(EXCEL_HEADERS)
-
-    for e in entries:
-        ws.append(
-            [
-                e["title"],
-                e["pub_start_alt"],
-                e["pub_end_alt"],
-                e["year"],
-                e["number"],
-                e["type"],
-                e["sub_type"],
-                e["att_count"],
-                e["entry_url"],
-                e.get("attachment_url", ""),
-            ]
-        )
-
-    wb.save(EXCEL_FILE)
+def telegram_rate_wait():
+    time.sleep(TELEGRAM_DELAY)
 
 
-# ── Telegram ──────────────────────────────────────────────────────────────────
-def send_telegram_text(message):
-    requests.post(
+def send_with_rate_limit(send_func, *args, **kwargs):
+    while True:
+        resp = send_func(*args, **kwargs)
+
+        if resp is None:
+            return False
+
+        if resp.status_code == 200:
+            telegram_rate_wait()
+            return True
+
+        if resp.status_code == 429:
+            retry_after = resp.json().get("parameters", {}).get("retry_after", 5)
+            print(f"Rate limit Telegram. Attendo {retry_after} secondi...")
+            time.sleep(retry_after + 1)
+            continue
+
+        print("Telegram error:", resp.status_code, resp.text)
+        return False
+
+
+def send_telegram_text(meta: dict):
+    message = (
+        f"ℹ️ Allegato atto non presente\n\n"
+        f"{meta['title']}\n\n"
+        f"📒 <b>Registro:</b> <code>{meta['register']}</code>\n"
+        f"🏷 <b>Categoria:</b> #{meta['category']}\n"
+        f"🗓 <b>Pubblicazione:</b> <code>{meta['date_start']}</code>\n"
+        f"⏳ <b>Scadenza:</b> <code>{meta['date_end']}</code>\n"
+        f"🔗 <a href={meta['url']}>Pagina sull'albo ufficiale</a>\n\u200b"
+    )
+
+    return requests.post(
         f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage",
-        json={"chat_id": TELEGRAM_CHAT_ID, "text": message, "parse_mode": "HTML"},
+        json={
+            "chat_id": TELEGRAM_CHAT_ID,
+            "text": message,
+            "parse_mode": "HTML",
+            "disable_web_page_preview": True,
+        },
     )
 
 
-def send_telegram_document(title, registry, file_bytes, filename):
-    caption = f"🆕 <b>{title}</b>\n" f"📋 Registro: {registry}"
-    requests.post(
+def send_telegram_document(file_bytes, filename, meta: dict):
+    caption = (
+        f"{meta['title']}\n\n"
+        f"📒 <b>Registro:</b> <code>{meta['register']}</code>\n"
+        f"🏷 <b>Categoria:</b> #{meta['category']}\n"
+        f"🗓 <b>Pubblicazione:</b> <code>{meta['date_start']}</code>\n"
+        f"⏳ <b>Scadenza:</b> <code>{meta['date_end']}</code>\n"
+        f"🔗 <a href={meta['url']}>Pagina sull'albo ufficiale</a>\n\u200b"
+    )
+
+    return requests.post(
         f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendDocument",
-        data={"chat_id": TELEGRAM_CHAT_ID, "caption": caption, "parse_mode": "HTML"},
-        files={"document": (filename, file_bytes)},
+        data={
+            "chat_id": TELEGRAM_CHAT_ID,
+            "caption": caption,
+            "parse_mode": "HTML",
+        },
+        files={"document": (filename, file_bytes, "application/pdf")},
     )
 
 
-# ── Box ───────────────────────────────────────────────────────────────────────
-# def upload_to_box(file_bytes, filename, folder_id="0"):
-#     try:
-#         auth = JWTAuth.from_settings_file(BOX_CONFIG_PATH)
-#         client = Client(auth)
-#         import io
+# ── GOOGLE Sheet ──────────────────────────────────────────────────────────────
+def init_sheet():
+    scope = [
+        "https://spreadsheets.google.com/feeds",
+        "https://www.googleapis.com/auth/drive",
+    ]
+
+    creds = ServiceAccountCredentials.from_json_keyfile_name(GOOGLE_CONFIG_PATH, scope)
+
+    client = gspread.authorize(creds)
+    sheet = client.open("AlboPOP-Ladispoli").sheet1
+
+    return sheet
 
 
-#         client.folder(folder_id).upload_stream(io.BytesIO(file_bytes), filename)
-#         print(f"Uploaded to Box: {filename}")
-#     except Exception as e:
-#         print(f"Box upload error: {e}")
-# auth: BoxDeveloperTokenAuth = BoxDeveloperTokenAuth(token=token)
-# client: BoxClient = BoxClient(auth=auth)
-BOX_CONFIG_PATH = ".secrets/box_config.json"
-# auth = JWTAuth.from_settings_file(BOX_CONFIG_PATH)
-# box_client = BoxClient(auth)
-
-auth = BoxJWTAuth.from_config_file("config.json")
-client = BoxClient(auth)
+def append_row(sheet, filename, box_id):
+    sheet.append_row([filename, box_id])
 
 
-def upload_to_box(file_bytes, filename, folder_id="0"):
+def load_existing_files(sheet):
+    return set(sheet.col_values(1))  # colonna filename
+
+
+def safe_int(value):
+    if value in (None, ""):
+        return ""
+    return int(value)
+
+
+def save_to_sheet(sheet, entry):
     try:
-        folder = client.folder(folder_id)
+        # Check duplicates (column "id" = index 4 → column 4)
+        existing_ids = set(sheet.col_values(4))
 
-        # 🔍 check duplicati
-        for item in folder.get_items(limit=1000):
-            if item.name == filename:
-                print("Già presente su Box:", filename)
-                return item
+        entry_id = str(entry["id"])
 
-        file = folder.upload_stream(io.BytesIO(file_bytes), filename)
+        if entry_id in existing_ids:
+            print("Gia presente su Google Sheets:", entry_id)
+            return False
 
-        print("Upload OK:", filename)
-        return file
+        row = [
+            entry["title"],
+            entry["date_pub_start"],
+            entry["date_pub_end"],
+            safe_int(entry["id"]),
+            entry["url_id"],
+            safe_int(entry["register_year"]),
+            safe_int(entry["register_number"]),
+            entry["main_type"],
+            entry["sub_type"],
+            safe_int(entry["attachments"]),
+            entry["box_file_link"],
+            safe_int(entry["box_file_id"]),
+            safe_int(entry["telegram_message_id"]),
+        ]
+
+        sheet.append_row(row, value_input_option="USER_ENTERED")
+
+        print("Saved on Google Sheets:", entry["id"])
+        return True
 
     except Exception as e:
-        print("Errore Box:", e)
-        return None
-
-
-def get_box_link(file):
-    try:
-        return file.get_shared_link()
-    except:
-        return None
+        print("Error Google Sheets:", e)
+        return False
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
+
+
 def main():
+
     seen = load_seen()
     entries = scrape_entries(seen)
     # print(f"seen list: {seen}")
     # print(f"entries list: {entries}")
+
+    sheet = init_sheet()
 
     if not entries:
         print("No new entries.")
         return
 
     valid_entries = []
-
-    # print(f"valid_entries list start: {valid_entries}")
 
     # Process in reverse to safely skip entries
     for entry in reversed(entries):
@@ -425,59 +513,91 @@ def main():
         if att_url is None:
             # Attachment not ready yet — skip, will retry next run
             print(f"Skipping (attachment not ready): {entry['registry']}")
-            # continue
+            continue
 
         entry["attachment_url"] = att_url
+
+        # Update files on Box
+        try:
+            file_resp = requests.get(att_url, headers=HEADERS)
+            file_resp.raise_for_status()
+
+            filename = f"[{entry['year']}-{entry['registry']}]_allegato_atto.pdf"
+
+            box_file = upload_to_box(file_resp.content, filename)
+
+            if not box_file:
+                print(f"Errore upload Box: {entry['registry']}")
+                continue
+
+            box_link = get_or_create_box_link(box_file.id)
+
+            entry["box_file_id"] = box_file.id
+            entry["box_shared_link"] = box_link
+            # print("Box link:", box_link)
+
+        except Exception as e:
+            print(
+                f"Errore download/upload allegato {entry['year']}-{entry['registry']}: {e}"
+            )
+            continue
+
         valid_entries.insert(0, entry)
-        # print(f"valid_entries list end: {valid_entries}")
+        # print(f"valid_entries: {valid_entries}")
 
     if not valid_entries:
         print("No valid new entries after attachment check.")
         return
 
-    # Update Excel
-    append_to_excel(valid_entries)
-
     # Update RSS (pass all entries for full feed rebuild if needed)
     generate_rss(valid_entries)
 
-    # Per-entry: Telegram + Box
+    # Send Telegram messages
     for entry in valid_entries:
         att_url = entry.get("attachment_url", "non presente")
 
+        meta = {
+            "title": f"{entry['title']}",
+            "register": f"{entry['year']}-{entry['number']}",
+            "category": f"{entry['sub_type']}",
+            "date_start": f"{entry['pub_start_alt']}",
+            "date_end": f"{entry['pub_end_alt']}",
+            "url": f"{entry['box_shared_link']}",
+        }
+
+        sent_ok = False
+
         if att_url and att_url != "non presente":
             try:
-                file_resp = requests.get(att_url, headers=HEADERS)
-                filename = f"{entry['year']}_{entry['number']}.pdf"
-                file_bytes = file_resp.content
+                file_resp = requests.get(att_url, headers=HEADERS, timeout=20)
+                file_resp.raise_for_status()
 
-                # Telegram with file attached
-                send_telegram_document(
-                    entry["title"], entry["registry"], file_bytes, filename
+                file_bytes = file_resp.content
+                filename = f"[{entry['year']}-{entry['number']}]_allegato_atto.pdf"
+
+                sent_ok = send_with_rate_limit(
+                    send_telegram_document,
+                    file_bytes,
+                    filename,
+                    meta,
                 )
 
-                # Box upload
-                # upload_to_box(file_bytes, filename)
+                # Telegram with file attached
+                send_telegram_document(file_bytes, filename, meta)
 
             except Exception as e:
                 print(f"File handling error for {entry['registry']}: {e}")
                 # Fallback: send text only
-                send_telegram_text(
-                    f"🆕 <b>{entry['title']}</b>\n"
-                    f"📋 {entry['registry']}\n"
-                    f'🔗 <a href="{entry["entry_url"]}">Apri voce</a>'
-                )
+                sent_ok = send_with_rate_limit(send_telegram_text, meta)
         else:
             # No attachment — send text with hyperlink
-            send_telegram_text(
-                f"🆕 <b>{entry['title']}</b>\n"
-                f"📋 {entry['registry']}\n"
-                f"📎 Nessun allegato\n"
-                f'🔗 <a href="{entry["entry_url"]}">Apri voce</a>'
-            )
+            sent_ok = send_with_rate_limit(send_telegram_text, meta)
 
         # Mark as seen only after successful processing
-        seen.add(entry["registry"])
+        if sent_ok:
+            seen.add(entry["registry"])
+
+    save_to_sheet(sheet, entry)
 
     save_seen(seen)
     print(f"Processed {len(valid_entries)} new entries.")
