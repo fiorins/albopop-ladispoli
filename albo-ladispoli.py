@@ -17,6 +17,9 @@ from box_sdk_gen import (
     AddShareLinkToFileSharedLinkAccessField,
 )
 
+import gspread
+from oauth2client.service_account import ServiceAccountCredentials
+
 load_dotenv()
 
 
@@ -61,12 +64,13 @@ def clean_jsessionid(url):
 
 
 # ── BOX cloud ─────────────────────────────────────────────────────────────────
-jwt_config = JWTConfig.from_config_file(config_file_path=BOX_CONFIG_PATH)
-auth = BoxJWTAuth(config=jwt_config)
-client = BoxClient(auth=auth)
+def get_box_client():
+    jwt_config = JWTConfig.from_config_file(config_file_path=BOX_CONFIG_PATH)
+    auth = BoxJWTAuth(config=jwt_config)
+    return BoxClient(auth=auth)
 
 
-def upload_to_box(file_bytes, filename, folder_id="0"):
+def upload_to_box(client, file_bytes, filename, folder_id="0"):
     try:
         uploaded = client.uploads.upload_file(
             attributes=UploadFileAttributes(
@@ -86,7 +90,7 @@ def upload_to_box(file_bytes, filename, folder_id="0"):
         return None
 
 
-def get_or_create_box_link(file_id):
+def get_or_create_box_link(client, file_id):
     # Try to create the shared url
     try:
         file = client.shared_links_files.get_shared_link_for_file(
@@ -110,14 +114,11 @@ def get_or_create_box_link(file_id):
         return None
 
 
-# salvare il file_id del file nell'excel
-
-
 # ── Scraper ───────────────────────────────────────────────────────────────────
 # Analyze the website scraping the list of entries that are not in seen list
 def scrape_entries(seen):
     """Scrape the main table and return only new entries."""
-    response = requests.get(ROOT_URL, headers=HEADERS)
+    response = requests.get(ROOT_URL, headers=HEADERS, timeout=20)
     soup = BeautifulSoup(response.text, "html.parser")
 
     entries = []
@@ -184,7 +185,7 @@ def scrape_entries(seen):
 
 def fetch_attachment_url(entry_url):
     try:
-        resp = requests.get(entry_url, headers=HEADERS)
+        resp = requests.get(entry_url, headers=HEADERS, timeout=20)
         soup = BeautifulSoup(resp.text, "html.parser")
 
         detail_div = soup.select_one(".dettaglio-pratica-rght.span6")
@@ -255,7 +256,6 @@ def add_channel_extras(channel):
 
 def add_item_categories(item, entry):
     categories = [
-        ("item-category-entry", str(entry.get("entry_id", ""))),
         (
             "http://albopop.it/specs#item-category-pubStart",
             str(entry.get("pub_start_alt", "")),
@@ -267,11 +267,12 @@ def add_item_categories(item, entry):
         ("http://albopop.it/specs#item-category-uid", str(entry.get("registry", ""))),
         ("http://albopop.it/specs#item-category-type", str(entry.get("type", ""))),
         ("item-category-subType", str(entry.get("sub_type", ""))),
+        ("item-category-entry", str(entry.get("entry_id", ""))),
         (
-            "http://albopop.it/specs#item-category-annotation",
+            "item-category-attachments",
             str(entry.get("att_count", "")),
         ),
-        ("item-category-shortIdUrl", str(entry.get("entry_url_short", ""))),
+        ("item-category-attachBoxUrl", str(entry.get("box_shared_link", ""))),
     ]
 
     guid = item.find("guid")
@@ -319,7 +320,7 @@ def generate_rss(all_entries):
 
     for e in all_entries:
         fe = fg.add_entry()
-        fe.id(e["entry_url"])
+        fe.id(e["entry_id"])
         fe.title(e["title"])
         fe.link(href=e["entry_url"])
         fe.published(e["pub_start"])
@@ -367,7 +368,7 @@ def send_with_rate_limit(send_func, *args, **kwargs):
 
         if resp.status_code == 200:
             telegram_rate_wait()
-            return True
+            return resp
 
         if resp.status_code == 429:
             retry_after = resp.json().get("parameters", {}).get("retry_after", 5)
@@ -456,7 +457,7 @@ def save_to_sheet(sheet, entry):
         # Check duplicates (column "id" = index 4 → column 4)
         existing_ids = set(sheet.col_values(4))
 
-        entry_id = str(entry["id"])
+        entry_id = str(entry["entry_id"])
 
         if entry_id in existing_ids:
             print("Gia presente su Google Sheets:", entry_id)
@@ -464,23 +465,23 @@ def save_to_sheet(sheet, entry):
 
         row = [
             entry["title"],
-            entry["date_pub_start"],
-            entry["date_pub_end"],
-            safe_int(entry["id"]),
-            entry["url_id"],
-            safe_int(entry["register_year"]),
-            safe_int(entry["register_number"]),
-            entry["main_type"],
+            entry["pub_start_alt"],
+            entry["pub_end_alt"],
+            safe_int(entry["entry_id"]),
+            entry["entry_url"],
+            safe_int(entry["year"]),
+            safe_int(entry["number"]),
+            entry["type"],
             entry["sub_type"],
-            safe_int(entry["attachments"]),
-            entry["box_file_link"],
-            safe_int(entry["box_file_id"]),
-            safe_int(entry["telegram_message_id"]),
+            safe_int(entry["att_count"]),
+            safe_int(entry.get("box_file_id", "")),
+            entry.get("box_shared_link", ""),
+            safe_int(entry.get("tg_message_id", "")),
         ]
 
         sheet.append_row(row, value_input_option="USER_ENTERED")
 
-        print("Saved on Google Sheets:", entry["id"])
+        print("Saved on Google Sheets:", entry["entry_id"])
         return True
 
     except Exception as e:
@@ -489,8 +490,6 @@ def save_to_sheet(sheet, entry):
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
-
-
 def main():
 
     seen = load_seen()
@@ -498,6 +497,7 @@ def main():
     # print(f"seen list: {seen}")
     # print(f"entries list: {entries}")
 
+    box_client = get_box_client()
     sheet = init_sheet()
 
     if not entries:
@@ -515,6 +515,13 @@ def main():
             print(f"Skipping (attachment not ready): {entry['registry']}")
             continue
 
+        if att_url == "non presente":
+            entry["attachment_url"] = None
+            entry["box_file_id"] = ""
+            entry["box_shared_link"] = entry["entry_url"]
+            valid_entries.insert(0, entry)
+            continue
+
         entry["attachment_url"] = att_url
 
         # Update files on Box
@@ -524,16 +531,24 @@ def main():
 
             filename = f"[{entry['year']}-{entry['registry']}]_allegato_atto.pdf"
 
-            box_file = upload_to_box(file_resp.content, filename)
+            box_file = upload_to_box(box_client, file_resp.content, filename)
 
             if not box_file:
                 print(f"Errore upload Box: {entry['registry']}")
                 continue
 
-            box_link = get_or_create_box_link(box_file.id)
+            # box_link = get_or_create_box_link(box_client, box_file.id)
+            box_link = (
+                get_or_create_box_link(box_client, box_file.id)
+                if box_file
+                else None
+                )
 
             entry["box_file_id"] = box_file.id
             entry["box_shared_link"] = box_link
+
+            entry["file_bytes"] = file_resp.content
+            entry["filename"] = filename
             # print("Box link:", box_link)
 
         except Exception as e:
@@ -567,13 +582,14 @@ def main():
 
         sent_ok = False
 
+        # Send Telegram message with file attached
         if att_url and att_url != "non presente":
             try:
-                file_resp = requests.get(att_url, headers=HEADERS, timeout=20)
-                file_resp.raise_for_status()
+                # file_resp = requests.get(att_url, headers=HEADERS, timeout=20)
+                # file_resp.raise_for_status()
 
-                file_bytes = file_resp.content
-                filename = f"[{entry['year']}-{entry['number']}]_allegato_atto.pdf"
+                file_bytes = entry["file_bytes"]
+                filename = entry["filename"]
 
                 sent_ok = send_with_rate_limit(
                     send_telegram_document,
@@ -581,9 +597,6 @@ def main():
                     filename,
                     meta,
                 )
-
-                # Telegram with file attached
-                send_telegram_document(file_bytes, filename, meta)
 
             except Exception as e:
                 print(f"File handling error for {entry['registry']}: {e}")
@@ -595,9 +608,9 @@ def main():
 
         # Mark as seen only after successful processing
         if sent_ok:
+            entry["tg_message_id"] = sent_ok.json()["result"]["message_id"]
             seen.add(entry["registry"])
-
-    save_to_sheet(sheet, entry)
+            save_to_sheet(sheet, entry)
 
     save_seen(seen)
     print(f"Processed {len(valid_entries)} new entries.")
