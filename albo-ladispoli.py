@@ -377,7 +377,7 @@ def send_with_rate_limit(send_func, *args, **kwargs):
             continue
 
         print("Telegram error:", resp.status_code, resp.text)
-        return False
+        return None
 
 
 def send_telegram_text(meta: dict):
@@ -436,14 +436,6 @@ def init_sheet():
     sheet = client.open("AlboPOP-Ladispoli").sheet1
 
     return sheet
-
-
-def append_row(sheet, filename, box_id):
-    sheet.append_row([filename, box_id])
-
-
-def load_existing_files(sheet):
-    return set(sheet.col_values(1))  # colonna filename
 
 
 def safe_int(value):
@@ -526,7 +518,7 @@ def main():
 
         # Update files on Box
         try:
-            file_resp = requests.get(att_url, headers=HEADERS)
+            file_resp = requests.get(att_url, headers=HEADERS, timeout=30)
             file_resp.raise_for_status()
 
             filename = f"[{entry['year']}-{entry['registry']}]_allegato_atto.pdf"
@@ -539,10 +531,8 @@ def main():
 
             # box_link = get_or_create_box_link(box_client, box_file.id)
             box_link = (
-                get_or_create_box_link(box_client, box_file.id)
-                if box_file
-                else None
-                )
+                get_or_create_box_link(box_client, box_file.id) if box_file else None
+            )
 
             entry["box_file_id"] = box_file.id
             entry["box_shared_link"] = box_link
@@ -569,7 +559,7 @@ def main():
 
     # Send Telegram messages
     for entry in valid_entries:
-        att_url = entry.get("attachment_url", "non presente")
+        att_url = entry.get("attachment_url")
 
         meta = {
             "title": f"{entry['title']}",
@@ -583,7 +573,7 @@ def main():
         sent_ok = False
 
         # Send Telegram message with file attached
-        if att_url and att_url != "non presente":
+        if att_url:
             try:
                 # file_resp = requests.get(att_url, headers=HEADERS, timeout=20)
                 # file_resp.raise_for_status()
