@@ -24,8 +24,8 @@ load_dotenv()
 
 
 # ── Configs ────────────────────────────────────────────────────────────────────
-TELEGRAM_TOKEN = os.getenv("tg_token")
-TELEGRAM_CHAT_ID = "@AlbinoLadispoliTest"
+TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
+TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
 BOX_CONFIG_PATH = ".secrets/config_box.json"
 GOOGLE_CONFIG_PATH = ".secrets/config_google.json"
