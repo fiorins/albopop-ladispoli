@@ -43,6 +43,8 @@ SEEN_FILE = "seen.json"
 FEED_FILE = "feed.xml"
 FEED_URL = "https://fiorins.github.io/albopop-ladispoli/feed.xml"
 
+TELEGRAM_DELAY = 4  # seconds between each message
+SCRAPING_DELAY = 2  # seconds between each entry page request
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 # Loads the list of already processed entries from seen.json
@@ -352,7 +354,6 @@ def generate_rss(all_entries):
 
 
 # ── TELEGRAM ──────────────────────────────────────────────────────────────────
-TELEGRAM_DELAY = 4  # seconds between each message
 
 
 def telegram_rate_wait():
@@ -501,6 +502,7 @@ def main():
     # Process in reverse to safely skip entries
     for entry in reversed(entries):
         att_url = fetch_attachment_url(entry["entry_url"])
+        time.sleep(SCRAPING_DELAY)
 
         if att_url is None:
             # Attachment not ready yet — skip, will retry next run
