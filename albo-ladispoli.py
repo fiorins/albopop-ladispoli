@@ -85,7 +85,7 @@ def upload_to_box(client, file_bytes, filename, folder_id="0"):
         return file
 
     except Exception as e:
-        print("Errore BOX: ", e.message)
+        print("Errore BOX: ", str(e))
         return None
 
 
@@ -109,7 +109,7 @@ def get_or_create_box_link(client, file_id):
 
     # Fallback: recover
     except Exception as e:
-        print("Errore BOX: ", e.message)
+        print("Errore BOX: ", str(e))
         return None
 
 
@@ -520,7 +520,7 @@ def main():
             file_resp = requests.get(att_url, headers=HEADERS, timeout=30)
             file_resp.raise_for_status()
 
-            filename = f"[{entry['year']}-{entry['registry']}]_allegato_atto.pdf"
+            filename = f"[{entry['year']}-{entry['number']}]_allegato_atto.pdf"
 
             box_file = upload_to_box(box_client, file_resp.content, filename)
 

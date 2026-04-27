@@ -6,3 +6,4 @@ box_sdk_gen
 gspread
 oauth2client
 lxml
+PyJWT
