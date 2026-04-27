@@ -522,8 +522,9 @@ def save_to_sheet(sheet, entry):
 def main():
 
     seen = load_seen()
+    print("Previous run items: ", seen)
+
     entries = scrape_entries(seen)
-    # print(f"seen list: {seen}")
     # print(f"entries list: {entries}")
 
     box_client = get_box_client()
