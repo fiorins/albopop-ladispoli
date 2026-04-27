@@ -2,11 +2,11 @@ name: Albo Pretorio Scraper
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # every 30 minutes
-  workflow_dispatch:          # allows manual trigger from GitHub UI
+    - cron: "*/30 * * * *" # every 30 minutes
+  workflow_dispatch: # allows manual trigger from GitHub UI
 
 permissions:
-  contents: write             # needed to commit seen.json, feed.xml back
+  contents: write # needed to commit seen.json, feed.xml back
 
 jobs:
   scrape:
@@ -17,7 +17,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Restore data files from data branch  # ← must be first
+      - name: Restore data files from data branch # ← must be first
         run: |
           git fetch origin data
           git checkout origin/data -- seen.json feed.xml || true
@@ -41,8 +41,11 @@ jobs:
 
       - name: Run scraper
         env:
+          ROOT_URL: ${{ vars.ROOT_URL }}
+          ELEMENT_BASE_URL: ${{ vars.ELEMENT_BASE_URL }}
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_CHAT_ID_UPDATES: ${{ secrets.TELEGRAM_CHAT_ID_UPDATES }}
         run: python albo-ladispoli.py
 
       - name: Commit updated files

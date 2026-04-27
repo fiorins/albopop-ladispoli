@@ -23,7 +23,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 load_dotenv()
 
 
-# ── Configs ────────────────────────────────────────────────────────────────────
+# ── Variables ──────────────────────────────────────────────────────────────────
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
@@ -33,6 +33,10 @@ GOOGLE_CONFIG_JSON = ".secrets/config_google.json"
 ROOT_URL = os.getenv("ROOT_URL")
 ELEMENT_BASE_URL = os.getenv("ELEMENT_BASE_URL")
 
+if not TELEGRAM_TOKEN or TELEGRAM_CHAT_ID or ROOT_URL or ELEMENT_BASE_URL:
+    raise RuntimeError("Variable not found")
+
+# ── Configs ────────────────────────────────────────────────────────────────────
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 
 SEEN_FILE = "seen.json"
@@ -85,7 +89,7 @@ def upload_to_box(client, file_bytes, filename, folder_id="0"):
         return file
 
     except Exception as e:
-        print("Errore BOX: ", str(e))
+        print("Error BOX: ", str(e))
         return None
 
 
@@ -109,7 +113,7 @@ def get_or_create_box_link(client, file_id):
 
     # Fallback: recover
     except Exception as e:
-        print("Errore BOX: ", str(e))
+        print("Error BOX: ", str(e))
         return None
 
 
@@ -525,7 +529,7 @@ def main():
             box_file = upload_to_box(box_client, file_resp.content, filename)
 
             if not box_file:
-                print(f"Errore upload Box: {entry['registry']}")
+                print(f"Error Box upload: {entry['registry']}")
                 continue
 
             # box_link = get_or_create_box_link(box_client, box_file.id)
@@ -542,7 +546,7 @@ def main():
 
         except Exception as e:
             print(
-                f"Errore download/upload allegato {entry['year']}-{entry['registry']}: {e}"
+                f"Error download/upload attachment {entry['year']}-{entry['registry']}: {e}"
             )
             continue
 
