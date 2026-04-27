@@ -30,12 +30,8 @@ TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 BOX_CONFIG_PATH = ".secrets/config_box.json"
 GOOGLE_CONFIG_PATH = ".secrets/config_google.json"
 
-
-ROOT_URL = (
-    "https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
-)
-
-ELEMENT_BASE_URL = "https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/"
+ROOT_URL = os.getenv("ROOT_URL")
+ELEMENT_BASE_URL = os.getenv("ELEMENT_BASE_URL")
 
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 
