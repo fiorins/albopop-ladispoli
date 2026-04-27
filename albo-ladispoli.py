@@ -27,8 +27,8 @@ load_dotenv()
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
-BOX_CONFIG_PATH = ".secrets/config_box.json"
-GOOGLE_CONFIG_PATH = ".secrets/config_google.json"
+BOX_CONFIG_JSON = ".secrets/config_box.json"
+GOOGLE_CONFIG_JSON = ".secrets/config_google.json"
 
 ROOT_URL = os.getenv("ROOT_URL")
 ELEMENT_BASE_URL = os.getenv("ELEMENT_BASE_URL")
@@ -64,7 +64,7 @@ def clean_jsessionid(url):
 
 # ── BOX cloud ─────────────────────────────────────────────────────────────────
 def get_box_client():
-    jwt_config = JWTConfig.from_config_file(config_file_path=BOX_CONFIG_PATH)
+    jwt_config = JWTConfig.from_config_file(config_file_path=BOX_CONFIG_JSON)
     auth = BoxJWTAuth(config=jwt_config)
     return BoxClient(auth=auth)
 
@@ -428,7 +428,7 @@ def init_sheet():
         "https://www.googleapis.com/auth/drive",
     ]
 
-    creds = ServiceAccountCredentials.from_json_keyfile_name(GOOGLE_CONFIG_PATH, scope)
+    creds = ServiceAccountCredentials.from_json_keyfile_name(GOOGLE_CONFIG_JSON, scope)
 
     client = gspread.authorize(creds)
     sheet = client.open("AlboPOP-Ladispoli").sheet1
