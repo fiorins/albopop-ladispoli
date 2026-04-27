@@ -73,6 +73,11 @@ def get_box_client():
     return BoxClient(auth=auth)
 
 
+def get_box_items(client, folder_id="0"):
+    result = client.folders.get_folder_items(folder_id)
+    return [entry.name for entry in result.entries]
+
+
 def upload_to_box(client, file_bytes, filename, folder_id="0"):
     try:
         uploaded = client.uploads.upload_file(
@@ -355,8 +360,6 @@ def generate_rss(all_entries):
 
 
 # ── TELEGRAM ──────────────────────────────────────────────────────────────────
-
-
 def telegram_rate_wait():
     time.sleep(TELEGRAM_DELAY)
 
@@ -500,8 +503,15 @@ def main():
 
     valid_entries = []
 
+    box_items = get_box_items(box_client)
+
     # Process in reverse to safely skip entries
     for entry in reversed(entries):
+        filename = f"[{entry['year']}-{entry['number']}]_allegato_atto.pdf"
+
+        if filename in box_items:
+            continue
+
         att_url = fetch_attachment_url(entry["entry_url"])
         time.sleep(SCRAPING_DELAY)
 
@@ -523,8 +533,6 @@ def main():
         try:
             file_resp = requests.get(att_url, headers=HEADERS, timeout=30)
             file_resp.raise_for_status()
-
-            filename = f"[{entry['year']}-{entry['number']}]_allegato_atto.pdf"
 
             box_file = upload_to_box(box_client, file_resp.content, filename)
 
