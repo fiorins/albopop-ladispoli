@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 23 Apr 2026 22:32:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 11:13:29 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -20,324 +20,292 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
     <item>
-      <title>LIQUIDAZIONE CANONE LUNGO NOLEGGIO VETTURE IN DOTAZIONE ALLA POLIZIA LOCALE MESE DI MAGGIO 2026 - UNIPOLRENTAL SPA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1656986</link>
+      <title>DIVIETO DI SOSTA E TRANSITO PER PRESENTAZIONE NUOVI SCUOLABUS.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1659881</link>
       <description>📚 Allegati totali: 1</description>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1656986</guid>
-      <category domain="item-category-entry">1659405</category>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/04/2026</category>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1659881</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
       <category domain="http://albopop.it/specs#item-category-pubEnd">28/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1061</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026/1080</category>
       <category domain="http://albopop.it/specs#item-category-type">GENERICO/AVVISI</category>
       <category domain="item-category-subType"></category>
-      <category domain="http://albopop.it/specs#item-category-annotation">1</category>
-      <category domain="item-category-shortIdUrl"></category>
-      <enclosure url="https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_resource_id=downloadAllegato&amp;p_p_cacheability=cacheLevelPage&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_downloadSigned=true&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=4511440&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio" length="0" type="application/pdf"/>
+      <category domain="item-category-entry">1660634</category>
+      <category domain="item-category-attachments">1</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/rvpac09hk0wjq7vfw6lufvoet38d6xrh.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/kqlggy6xet6lpn67rw3bmmomb23mnd89.pdf" length="0" type="application/pdf"/>
     </item>
     <item>
-      <title>CONVOCAZIONE COMMISSIONE URBANISTICA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1657012</link>
-      <description>📚 Allegati totali: 4</description>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1657012</guid>
-      <category domain="item-category-entry">1659288</category>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1060</category>
+      <title>MANIFESTAZIONE DEL 1 MAGGIO 2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660222</link>
+      <description>📚 Allegati totali: 3</description>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1660222</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026/1079</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
+      <category domain="item-category-subType"></category>
+      <category domain="item-category-entry">1660632</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/m50g6byeel5zqiic34zc6e8gafevhifr.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/wyxhqmh0luurvie12peueb2j4njm8w53.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>RIU 50/2026 - SERVIZIO DI PULIZIA DEL SOTTOPASSAGGIO STAZIONE FERROVIARIA –ORDINANZA DI LIQUIDAZIONE MARZO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660352</link>
+      <description>📚 Allegati totali: 2</description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1660352</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026/1078</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
+      <category domain="item-category-subType"></category>
+      <category domain="item-category-entry">1660629</category>
+      <category domain="item-category-attachments">2</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/tc4yhyxv6xmpfzwm5zqxygku7mb0mpz7.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/v8ggcqbl3lt7l743j83tjm9tyn7h2f8y.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>(RPS280/26) AFFIDAMENTO DIRETTO E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DELL'OPERATORE ECONOMICO AZ SYSTEM DI FRESILLI LUCIANO PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) PER LA MANUTENZIONE DI VARI IMMOBILI COMUNALI (G00253 - G00266 - G00267 - G00270)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660355</link>
+      <description>📚 Allegati totali: 3</description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1660355</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026/1077</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
+      <category domain="item-category-subType"></category>
+      <category domain="item-category-entry">1660626</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/wtt18mwzwtskzeuuxnrpsy128pyh0suz.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/r402z8xx9hb1an58wyj7jbar8blkh8pd.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DI PAGOPA PIATTAFORMA SEND FATTURA N. 5226012075 DEL 15/04/2026 E FATTURA N. 5226013550 DEL 20/04/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660367</link>
+      <description>📚 Allegati totali: 2</description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1660367</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026/1076</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
+      <category domain="item-category-subType"></category>
+      <category domain="item-category-entry">1660623</category>
+      <category domain="item-category-attachments">2</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/mwv5ziyvgzg3gc6rvy6h9ro2p7c66jsh.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/kgywgh57jyahv3fa3ognii2bmk6e4wrj.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>RIU 49/2026 - SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI EER 20.02.01 – ORDINANZA DI LIQUIDAZIONE MARZO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660370</link>
+      <description>📚 Allegati totali: 3</description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1660370</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026/1075</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
+      <category domain="item-category-subType"></category>
+      <category domain="item-category-entry">1660571</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/m0awaeib7dd8qwbfsbtd6anpvrcb62j4.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/e3m9ke581apiaulr9ieadad19sgo67pw.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>ORDINE DIRETTO DI ACQUISTO (ODA) SU MEPA IN FAVORE DELLA SOCIETÀ MAGGIOLI S.P.A CIG BB446C752C - VARIAZIONE COMPENSATIVA TRA I CAPITOLI DI SPESA APPARTENENTI ALLA STESSA MISSIONE, PROGRAMMA E MACROAGGREGATO - ANNO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660512</link>
+      <description>📚 Allegati totali: 3</description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1660512</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026/1074</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
+      <category domain="item-category-subType"></category>
+      <category domain="item-category-entry">1660568</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/ex6nzzodri5h2j3gvh8ly8rtej2pmcmk.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/ekqbft1bhhroc4267rqsykpji6vnl4mz.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE POLIZZA ASSICURATIVA RESPONSABILITA' CIVILE - DECORRENZA 31/03/2026 - 31/12/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660515</link>
+      <description>📚 Allegati totali: 3</description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1660515</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026/1073</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
+      <category domain="item-category-subType"></category>
+      <category domain="item-category-entry">1660565</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/dv3mc8k4k4q4or9lvqbqu5dgccec4zaz.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/l29a2x2pf1zwjauuf8pu7lqnt2e4j9jd.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>RIU 45/2026 - SERVIZIO PER LA GESTIONE DELLA FRAZIONE DI RIFIUTO URBANO EER 20.01.38 – ORDINANZA DI LIQUIDAZIONE MESE DI MARZO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660559</link>
+      <description>📚 Allegati totali: 3</description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1660559</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026/1072</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
+      <category domain="item-category-subType"></category>
+      <category domain="item-category-entry">1660562</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/a1twtk2hbwm3memdphnywmjrpgu28pfq.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/1bxatfuz33d7w90h6c2br09adf3spp8h.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>RIU 47/2026 - SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI EER 20.03.03 – ORDINANZA DI LIQUIDAZIONE MARZO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660562</link>
+      <description>📚 Allegati totali: 3</description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1660562</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026/1071</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
+      <category domain="item-category-subType"></category>
+      <category domain="item-category-entry">1660559</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/1bxatfuz33d7w90h6c2br09adf3spp8h.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/a1twtk2hbwm3memdphnywmjrpgu28pfq.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>RIU 46/2026 - SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI EER 20.03.07 – ORDINANZA DI LIQUIDAZIONE DI MARZO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660565</link>
+      <description>📚 Allegati totali: 2</description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1660565</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026/1070</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
+      <category domain="item-category-subType"></category>
+      <category domain="item-category-entry">1660515</category>
+      <category domain="item-category-attachments">2</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/l29a2x2pf1zwjauuf8pu7lqnt2e4j9jd.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/dv3mc8k4k4q4or9lvqbqu5dgccec4zaz.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>RIU 44/2026 - SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI EER 20.03.01 – ORDINANZA DI LIQUIDAZIONE MARZO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660568</link>
+      <description>📚 Allegati totali: 3</description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1660568</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026/1069</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
+      <category domain="item-category-subType"></category>
+      <category domain="item-category-entry">1660512</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/ekqbft1bhhroc4267rqsykpji6vnl4mz.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/ex6nzzodri5h2j3gvh8ly8rtej2pmcmk.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>RIU 48/2026 - SERVIZIO DI “PIATTAFORMA COREVE” DEI RIFIUTI URBANI EER 15.01.07 – ORDINANZA DI LIQUIDAZIONE MESE DI MARZO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660571</link>
+      <description>📚 Allegati totali: 3</description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1660571</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026/1068</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
+      <category domain="item-category-subType"></category>
+      <category domain="item-category-entry">1660370</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/e3m9ke581apiaulr9ieadad19sgo67pw.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/m0awaeib7dd8qwbfsbtd6anpvrcb62j4.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE IN FAVORE DELLA COOPERATIVA SOCIALE "STILE LIBERO” PER IL SERVIZIO DI “SOSTEGNO ALLE AUTONOMIE IN FAVORE DI UNO STUDENTE DISABILE RESIDENTI NEL COMUNE DI LADISPOLI CHE FREQUENTA UN ISTITUTO SCOLASTICO IN ALTRO COMUNE” – PERIODO PRIMO TRIMESTRE 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660623</link>
+      <description>📚 Allegati totali: 3</description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1660623</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026/1067</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
+      <category domain="item-category-subType"></category>
+      <category domain="item-category-entry">1660367</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/kgywgh57jyahv3fa3ognii2bmk6e4wrj.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/mwv5ziyvgzg3gc6rvy6h9ro2p7c66jsh.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>CONFERIMENTO DI INCARICO PROFESSIONALE AD ALTO CONTENUTO SPECIALISTICO QUALE ATTIVITÀ DI SUPPORTO AL RUP, AI SENSI DEGLI ARTT. 15 E 62, COMMA 11 DEL D.LGS. N. 36/2023, PER GLI ADEMPIMENTI DI CUI AL CODICE DEI CONTRATTI PUBBLICI IN MERITO AL SERVIZIO DI DIREZIONE DEI LAVORI INERENTI L’INTERVENTO DI DIFESA COSTIERA NEL TRATTO COMPRESO TRA TORRE FLAVIA E MARINA DI PALO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660626</link>
+      <description>📚 Allegati totali: 3</description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1660626</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026/1066</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
+      <category domain="item-category-subType"></category>
+      <category domain="item-category-entry">1660355</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/r402z8xx9hb1an58wyj7jbar8blkh8pd.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/wtt18mwzwtskzeuuxnrpsy128pyh0suz.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA TIM SPA N. 7X01850776 DEL 13/04/2026 RIFERIMENTO FEBBRAIO-MARZO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660629</link>
+      <description>📚 Allegati totali: 3</description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1660629</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026/1065</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
+      <category domain="item-category-subType"></category>
+      <category domain="item-category-entry">1660352</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/v8ggcqbl3lt7l743j83tjm9tyn7h2f8y.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/tc4yhyxv6xmpfzwm5zqxygku7mb0mpz7.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELL’ING. ALESSANDRO VERRECCHIA PER L’INCARICO PROFESSIONALE - ACCONTO PROGETTAZIONE INTERVENTI DI EFFICIENZA ENERGETICA E REALIZZAZIONE DI SISTEMI DI PRODUZIONE DI ENERGIA DA FONTI RINNOVABILI - PLESSO CANDIDA ZARRELLI;</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660632</link>
+      <description>📚 Allegati totali: 2</description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1660632</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">25/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">10/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026/1064</category>
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/ORDINANZE</category>
       <category domain="item-category-subType"></category>
-      <category domain="http://albopop.it/specs#item-category-annotation">4</category>
-      <category domain="item-category-shortIdUrl"></category>
-      <enclosure url="https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_resource_id=downloadAllegato&amp;p_p_cacheability=cacheLevelPage&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_downloadSigned=true&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=4511487&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio" length="0" type="application/pdf"/>
+      <category domain="item-category-entry">1660222</category>
+      <category domain="item-category-attachments">2</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/wyxhqmh0luurvie12peueb2j4njm8w53.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/m50g6byeel5zqiic34zc6e8gafevhifr.pdf" length="0" type="application/pdf"/>
     </item>
     <item>
-      <title>AFFIDAMENTO DIRETTO E CONTESTUALE ASSUNZIONE IMPEGNO DI SPESA IN FAVORE DELLA SOCIETÀ MARIO DI COLA S.R.L. PER IL RIPRISTINO E CONSOLIDAMENTO DELLA SCOGLIERA DISPOSTA A PROTEZIONE DEL MONUMENTO STORICO DI TORRE FLAVIA CUP: E68H26000050002 E CIG: BB587F1D9A.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1657586</link>
-      <description>📚 Allegati totali: 6</description>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1657586</guid>
-      <category domain="item-category-entry">1659136</category>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1059</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="http://albopop.it/specs#item-category-annotation">6</category>
-      <category domain="item-category-shortIdUrl"></category>
-      <enclosure url="https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_resource_id=downloadAllegato&amp;p_p_cacheability=cacheLevelPage&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_downloadSigned=true&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=4513078&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>ART.45 BIS DEL CODICE DELLA NAVIGAZIONE – AFFIDAMENTO AD ALTRI SOGGETTI DELLE ATTIVITÀ OGGETTO DELLA CONCESSIONE DEMANIALE MARITTIMA N. 10/2008 PROROGATA FINO ALLA DATA DEL 31.12.2020 CON ATTO N. 22/2014 ED ESTESA EX LEGE RILASCIATA DAL COMUNE DI LADISPOLI A FAVORE DELLO STABILIMENTO BALNEARE DENOMINATO “BAGNI 33”.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1657882</link>
-      <description>📚 Allegati totali: 4</description>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1657882</guid>
-      <category domain="item-category-entry">1659125</category>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1058</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="http://albopop.it/specs#item-category-annotation">4</category>
-      <category domain="item-category-shortIdUrl"></category>
-      <enclosure url="https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_resource_id=downloadAllegato&amp;p_p_cacheability=cacheLevelPage&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_downloadSigned=true&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=4513723&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>NOMINA SEGRETARIO GENERALE TITOLARE DELLA CONVENZIONE DI SEGRETERIA TRA I COMUNI DI LADISPOLI E MANZIANA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1658122</link>
-      <description>📚 Allegati totali: 6</description>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1658122</guid>
-      <category domain="item-category-entry">1659122</category>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1057</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="http://albopop.it/specs#item-category-annotation">6</category>
-      <category domain="item-category-shortIdUrl"></category>
-      <enclosure url="https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_resource_id=downloadAllegato&amp;p_p_cacheability=cacheLevelPage&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_downloadSigned=true&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=4514209&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A OPREA ALEXANDRA BIANCA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1658445</link>
+      <title>AVVISO DI DEPOSITO ATTI N.5 NELLA CASA DEL COMUNE LADISPOLI - MUNTEANU MARICEL ED ALTRI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660634</link>
       <description>📚 Allegati totali: 3</description>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1658445</guid>
-      <category domain="item-category-entry">1659119</category>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1056</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1660634</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">24/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">09/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026/1063</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/ORDINANZE</category>
       <category domain="item-category-subType"></category>
-      <category domain="http://albopop.it/specs#item-category-annotation">3</category>
-      <category domain="item-category-shortIdUrl"></category>
-      <enclosure url="https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_resource_id=downloadAllegato&amp;p_p_cacheability=cacheLevelPage&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_downloadSigned=true&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=4515106&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI N.5 NELLA CASA DEL COMUNE LADISPOLI - MARIANI MANLIO ED ALTRI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1658645</link>
-      <description>📚 Allegati totali: 8</description>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1658645</guid>
-      <category domain="item-category-entry">1659116</category>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1055</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="http://albopop.it/specs#item-category-annotation">8</category>
-      <category domain="item-category-shortIdUrl"></category>
-      <enclosure url="https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_resource_id=downloadAllegato&amp;p_p_cacheability=cacheLevelPage&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_downloadSigned=true&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=4515833&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>DECISIONE A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO EX ART. 50, COMMA 1, LETT. B) D.LGS. 36/2023 E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DELL’ASSOCIAZIONE CULTURALE ROMAMÌ PER IL SERVIZIO DI NOLEGGIO DEL SERVICE AUDIO IN OCCASIONE DELLA CERIMONIA ISTITUZIONALE CELEBRATIVA DEL 25 APRILE 2026 – CIG BB5B0E26CE.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1658964</link>
-      <description>📚 Allegati totali: 2</description>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1658964</guid>
-      <category domain="item-category-entry">1659002</category>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1054</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="http://albopop.it/specs#item-category-annotation">2</category>
-      <category domain="item-category-shortIdUrl"></category>
-      <enclosure url="https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_resource_id=downloadAllegato&amp;p_p_cacheability=cacheLevelPage&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_downloadSigned=true&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=4516817&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>REFERENDUM 22 E 23 MARZO 2026 - LIQUIDAZIONE FATTURA N. 22 DEL 17/03/2026 GIORNO E NOTTE SNC DI AMBROSIO GIUSEPPE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1658973</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1658973</guid>
-      <category domain="item-category-entry">1658999</category>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1053</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="http://albopop.it/specs#item-category-annotation">3</category>
-      <category domain="item-category-shortIdUrl"></category>
-      <enclosure url="https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_resource_id=downloadAllegato&amp;p_p_cacheability=cacheLevelPage&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_downloadSigned=true&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=4516865&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>REFERENDUM 22 E 23 MARZO 2026 - LIQUIDAZIONE FATTURA N.2040/260009583 DEL 10/04/2026 MYO SPA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1658976</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1658976</guid>
-      <category domain="item-category-entry">1658996</category>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1052</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="http://albopop.it/specs#item-category-annotation">3</category>
-      <category domain="item-category-shortIdUrl"></category>
-      <enclosure url="https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_resource_id=downloadAllegato&amp;p_p_cacheability=cacheLevelPage&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_downloadSigned=true&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=4516872&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA A FAVORE DELLA TIM SPA PER L'ANNO 2026 - TELEFONIA MOBILE 8 - CIG ZBE336063C</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1658996</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1658996</guid>
-      <category domain="item-category-entry">1658976</category>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1051</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="http://albopop.it/specs#item-category-annotation">3</category>
-      <category domain="item-category-shortIdUrl"></category>
-      <enclosure url="https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_resource_id=downloadAllegato&amp;p_p_cacheability=cacheLevelPage&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_downloadSigned=true&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=4516940&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>SERVIZIO PROFESSIONALE DI PROGETTAZIONE DEFINITIVA ED ESECUTIVA – DIREZIONE LAVORI E COORDINAMENTO DELLA SICUREZZA P.N.R.R., FINANZIATO DALL’UNIONE EUROPEA NEXTGENERATION EU. M5C2 INFRASTRUTTURE SOCIALI - LINEA 1.3.2 POVERTÀ ESTREMA “STAZIONI DI POSTA”. REALIZZAZIONE DI STAZIONE DI POSTA-CENTRO SERVIZI IN FABBRICA-TO ESISTENTE, IMMOBILE SITO IN VIA ALDO MORO C.D. STECCA SERVIZI; IMMOBILE SITO IN VIA ANCONA “EX TELECOM” (PIANO TERRA) – LADISPOLI RM” - CUP: E64H22000310001 - LIQUIDAZIONE 5° SAL INCARICO PROF.LE ARCH. TERZOLI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1658999</link>
-      <description>📚 Allegati totali: 2</description>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1658999</guid>
-      <category domain="item-category-entry">1658973</category>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1050</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="http://albopop.it/specs#item-category-annotation">2</category>
-      <category domain="item-category-shortIdUrl"></category>
-      <enclosure url="https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_resource_id=downloadAllegato&amp;p_p_cacheability=cacheLevelPage&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_downloadSigned=true&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=4516949&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>PPP PER LA GESTIONE DEI SERVIZI ENERGIA TERMICA, EFFICIENTAMENTO ENERGETICO E MANUTENZIONE IMPIANTI TECNOLOGICI PRESSO GLI EDIFICI DI PROPRIETÀ E/O IN USO AL COMUNE DI LADISPOLI - CONTRATTO REP. N.4711 DEL 04.11.2021 - LIQUIDAZIONE A FAVORE DELLA CONCESSIONARIA SIRAM S.P.A. (ORA VEOLIA ITALIA S.P.A.) DEL CANONE CONCESSORIO REVISIONATO RELATIVO AL PERIODO GEN. - MAR. 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1659002</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1659002</guid>
-      <category domain="item-category-entry">1658964</category>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1049</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="http://albopop.it/specs#item-category-annotation">3</category>
-      <category domain="item-category-shortIdUrl"></category>
-      <enclosure url="https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_resource_id=downloadAllegato&amp;p_p_cacheability=cacheLevelPage&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_downloadSigned=true&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=4516957&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>ACCERTAMENTI IN ENTRATA DEI CONTRIBUTI DELLA REGIONE LAZIO A FAVORE DELLA BIBLIOTECA COMUNALE (DETERMINAZIONE G17639 DEL 22/12/2025). AFFIDAMENTO DIRETTO, AI SENSI DELL’ART. 50, COMMA 1, LETT. B) D.LGS 36/2023 E CONTESTUALE ASSUNZIONE DI IMPEGNO DI SPESA IN FAVORE DI VARI AFFIDATARI PER LA REALIZZAZIONE DI ATTIVITA' EDUCATIVE - LINEA DI INTERVENTO A.2.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1659116</link>
-      <description>📚 Allegati totali: 1</description>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1659116</guid>
-      <category domain="item-category-entry">1658645</category>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">24/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1048</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO/AVVISI</category>
-      <category domain="item-category-subType"></category>
-      <category domain="http://albopop.it/specs#item-category-annotation">1</category>
-      <category domain="item-category-shortIdUrl"></category>
-      <enclosure url="https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_resource_id=downloadAllegato&amp;p_p_cacheability=cacheLevelPage&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_downloadSigned=true&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=4517137&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>DISIMPEGNO STESSO CAPITOLO DELLE SOMME DESTINATE A POSTE ITALIANE IN FAVORE DI PAGO PA SEND</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1659119</link>
-      <description>📚 Allegati totali: 1</description>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1659119</guid>
-      <category domain="item-category-entry">1658445</category>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">02/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1047</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO/AVVISI</category>
-      <category domain="item-category-subType"></category>
-      <category domain="http://albopop.it/specs#item-category-annotation">1</category>
-      <category domain="item-category-shortIdUrl"></category>
-      <enclosure url="https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_resource_id=downloadAllegato&amp;p_p_cacheability=cacheLevelPage&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_downloadSigned=true&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=4517156&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURE EMESSE DALLA CIR PER IL SERVIZIO DI REFEZIONE SCOLASTICA SVOLTO NEL MESE DI MARZO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1659122</link>
-      <description>📚 Allegati totali: 1</description>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1659122</guid>
-      <category domain="item-category-entry">1658122</category>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1046</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DECRETI</category>
-      <category domain="item-category-subType"></category>
-      <category domain="http://albopop.it/specs#item-category-annotation">1</category>
-      <category domain="item-category-shortIdUrl"></category>
-      <enclosure url="https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_resource_id=downloadAllegato&amp;p_p_cacheability=cacheLevelPage&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_downloadSigned=true&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=4517168&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA RELATIVA ALLA RISTRUTTURAZIONE E RIQUALIFICAZIONE DEGLI IM-MOBILI COMUNALI ESISTENTI SITI IN V. ALDO MORO C.D. STECCA SERVIZI ED IN V. ANCONA “EX TELECOM” (P. TERRA), PER LA REALIZZAZIONE DI STAZIONE DI POSTA – CENTRO SERVIZI” A FAVORE DELLA SOC. EDIL MANCINI SRL. PROGETTO P.N.R.R. FINANZIATO DALL’UNIONE EU-ROPEA – NEXT GENERATION EU – MISSIONE 5 COMPONENTE 2 SOTTOCOMPONENTE 1, IN-VESTIMENTO 1.3 SUB-INVESTIMENTO 1.3.2 – STAZIONE DI POSTA – SAL 5</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1659125</link>
-      <description>📚 Allegati totali: 1</description>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1659125</guid>
-      <category domain="item-category-entry">1657882</category>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1045</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO/AVVISI</category>
-      <category domain="item-category-subType"></category>
-      <category domain="http://albopop.it/specs#item-category-annotation">1</category>
-      <category domain="item-category-shortIdUrl"></category>
-      <enclosure url="https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_resource_id=downloadAllegato&amp;p_p_cacheability=cacheLevelPage&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_downloadSigned=true&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=4517184&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA N 5200009318/2026 EMESSA DALLA CIR PER L’EROGAZIONE DEL SERVIZIO “PASTI A DOMICILIO AGLI ANZIANI ED ADULTI IN CONDIZIONI DI DISAGIO SOCIO–SANITARIO ED ECONOMICHE” NEL MESE DI MARZO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1659136</link>
-      <description>📚 Allegati totali: 4</description>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1659136</guid>
-      <category domain="item-category-entry">1657586</category>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1044</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="http://albopop.it/specs#item-category-annotation">4</category>
-      <category domain="item-category-shortIdUrl"></category>
-      <enclosure url="https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_resource_id=downloadAllegato&amp;p_p_cacheability=cacheLevelPage&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_downloadSigned=true&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=4517212&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>INTERDIZIONE ARENILE E TRATTO SCOGLIERA OGGETTO DI INTERVENTO IN PROSSIMITA' DEL COMPLESSO MONUMENTALE DI TORRE FLAVIA PER LA PORZIONE INTERESSATA DALL'AREA DI CANTIERE E DAI LAVORI E RELATIVA FASCIA DI RISPETTO DI ULTERIORI 10 M A DESTRA E A SINISTRA DELLA STESSA A FAR DATA DAL GIORNO 27/04/2026 FINO AL TERMINE DEI LAVORI CON VALENZA H 24.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1659288</link>
-      <description>📚 Allegati totali: 1</description>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1659288</guid>
-      <category domain="item-category-entry">1657012</category>
-      <category domain="http://albopop.it/specs#item-category-pubStart">21/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">27/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1043</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO/AVVISI</category>
-      <category domain="item-category-subType"></category>
-      <category domain="http://albopop.it/specs#item-category-annotation">1</category>
-      <category domain="item-category-shortIdUrl"></category>
-      <enclosure url="https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_resource_id=downloadAllegato&amp;p_p_cacheability=cacheLevelPage&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_downloadSigned=true&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=4517537&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>CONVOCAZIONE CONSIGLIO COMUNALE_28.04.2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1659405</link>
-      <description>📚 Allegati totali: 2</description>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1659405</guid>
-      <category domain="item-category-entry">1656986</category>
-      <category domain="http://albopop.it/specs#item-category-pubStart">21/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">06/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1042</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="http://albopop.it/specs#item-category-annotation">2</category>
-      <category domain="item-category-shortIdUrl"></category>
-      <enclosure url="https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_resource_id=downloadAllegato&amp;p_p_cacheability=cacheLevelPage&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_downloadSigned=true&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=4517849&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&amp;_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio" length="0" type="application/pdf"/>
+      <category domain="item-category-entry">1659881</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/kqlggy6xet6lpn67rw3bmmomb23mnd89.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/rvpac09hk0wjq7vfw6lufvoet38d6xrh.pdf" length="0" type="application/pdf"/>
     </item>
   </channel>
 </rss>
