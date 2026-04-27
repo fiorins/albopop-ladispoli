@@ -1,4 +1,4 @@
-import os, io, re, json, base64, requests, time
+import os, io, re, json, base64, requests, time, html
 
 from datetime import datetime, timezone
 from dotenv import load_dotenv
@@ -364,6 +364,10 @@ def telegram_rate_wait():
     time.sleep(TELEGRAM_DELAY)
 
 
+def escape(text):
+    return html.escape(str(text)) if text else ""
+
+
 def send_with_rate_limit(send_func, *args, **kwargs):
     while True:
         resp = send_func(*args, **kwargs)
@@ -388,12 +392,12 @@ def send_with_rate_limit(send_func, *args, **kwargs):
 def send_telegram_text(meta: dict):
     message = (
         f"ℹ️ Allegato atto non presente\n\n"
-        f"{meta['title']}\n\n"
-        f"📒 <b>Registro:</b> <code>{meta['register']}</code>\n"
-        f"🏷 <b>Categoria:</b> #{meta['category']}\n"
-        f"🗓 <b>Pubblicazione:</b> <code>{meta['date_start']}</code>\n"
-        f"⏳ <b>Scadenza:</b> <code>{meta['date_end']}</code>\n"
-        f"🔗 <a href={meta['url']}>Pagina sull'albo ufficiale</a>\n\u200b"
+        f"{escape(meta['title'])}\n\n"
+        f"📒 <b>Registro:</b> <code>{escape(meta['register'])}</code>\n"
+        f"🏷 <b>Categoria:</b> #{escape(meta['category'])}\n"
+        f"🗓 <b>Pubblicazione:</b> <code>{escape(meta['date_start'])}</code>\n"
+        f"⏳ <b>Scadenza:</b> <code>{escape(meta['date_end'])}</code>\n"
+        f"🔗 <a href=\"{meta['url']}\">Pagina sull'albo ufficiale</a>\n\u200b"
     )
 
     try:
@@ -423,13 +427,12 @@ def send_telegram_text(meta: dict):
 
 def send_telegram_document(file_bytes, filename, meta: dict):
     caption = (
-        f"{meta['title']}\n\n"
-        f"📒 <b>Registro:</b> <code>{meta['register']}</code>\n"
-        f"🏷 <b>Categoria:</b> #{meta['category']}\n"
-        f"🗓 <b>Pubblicazione:</b> <code>{meta['date_start']}</code>\n"
-        f"⏳ <b>Scadenza:</b> <code>{meta['date_end']}</code>\n"
-        f"🔗 <a href={meta['url']}>Pagina sull'albo ufficiale</a>\n\u200b"
-        # f"🔗 <a href=\"{meta['url']}\">Pagina sull'albo ufficiale</a>\n\u200b"
+        f"{escape(meta['title'])}\n\n"
+        f"📒 <b>Registro:</b> <code>{escape(meta['register'])}</code>\n"
+        f"🏷 <b>Categoria:</b> #{escape(meta['category'])}\n"
+        f"🗓 <b>Pubblicazione:</b> <code>{escape(meta['date_start'])}</code>\n"
+        f"⏳ <b>Scadenza:</b> <code>{escape(meta['date_end'])}</code>\n"
+        f"🔗 <a href=\"{meta['url']}\">Pagina sull'albo ufficiale</a>\n\u200b"
     )
 
     try:
