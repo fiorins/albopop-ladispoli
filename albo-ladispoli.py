@@ -522,10 +522,11 @@ def save_to_sheet(sheet, entry):
 def main():
 
     seen = load_seen()
-    print("Previous run items: ", seen)
+    print("Previous run items list: ", seen)
 
     entries = scrape_entries(seen)
-    # print(f"entries list: {entries}")
+    entries_list = [f"{item['year']}-{item['number']}" for item in entries]
+    print("Actual run items list: ", entries_list)
 
     box_client = get_box_client()
     sheet = init_sheet()
