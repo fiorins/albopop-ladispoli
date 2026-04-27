@@ -396,15 +396,29 @@ def send_telegram_text(meta: dict):
         f"🔗 <a href={meta['url']}>Pagina sull'albo ufficiale</a>\n\u200b"
     )
 
-    return requests.post(
-        f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage",
-        json={
-            "chat_id": TELEGRAM_CHAT_ID,
-            "text": message,
-            "parse_mode": "HTML",
-            "disable_web_page_preview": True,
-        },
-    )
+    try:
+        response = requests.post(
+            f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage",
+            json={
+                "chat_id": TELEGRAM_CHAT_ID,
+                "text": message,
+                "parse_mode": "HTML",
+                "disable_web_page_preview": True,
+            },
+        )
+
+        if response.ok:
+            print(f"{meta['register']} sent on Telegram")
+        else:
+            print(
+                f"{meta['register']} not sent on Telegram --- ({response.status_code}): {response.text}"
+            )
+
+        return response
+
+    except Exception as e:
+        print(f"Telegram error: {e}")
+        return None
 
 
 def send_telegram_document(file_bytes, filename, meta: dict):
@@ -415,17 +429,32 @@ def send_telegram_document(file_bytes, filename, meta: dict):
         f"🗓 <b>Pubblicazione:</b> <code>{meta['date_start']}</code>\n"
         f"⏳ <b>Scadenza:</b> <code>{meta['date_end']}</code>\n"
         f"🔗 <a href={meta['url']}>Pagina sull'albo ufficiale</a>\n\u200b"
+        # f"🔗 <a href=\"{meta['url']}\">Pagina sull'albo ufficiale</a>\n\u200b"
     )
 
-    return requests.post(
-        f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendDocument",
-        data={
-            "chat_id": TELEGRAM_CHAT_ID,
-            "caption": caption,
-            "parse_mode": "HTML",
-        },
-        files={"document": (filename, file_bytes, "application/pdf")},
-    )
+    try:
+        response = requests.post(
+            f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendDocument",
+            data={
+                "chat_id": TELEGRAM_CHAT_ID,
+                "caption": caption,
+                "parse_mode": "HTML",
+            },
+            files={"document": (filename, file_bytes, "application/pdf")},
+        )
+
+        if response.ok:
+            print(f"{meta['register']} sent on Telegram")
+        else:
+            print(
+                f"{meta['register']} not sent on Telegram --- ({response.status_code}): {response.text}"
+            )
+
+        return response
+
+    except Exception as e:
+        print(f"Telegram error: {e}")
+        return None
 
 
 # ── GOOGLE Sheet ──────────────────────────────────────────────────────────────
