@@ -33,7 +33,7 @@ GOOGLE_CONFIG_JSON = ".secrets/config_google.json"
 ROOT_URL = os.getenv("ROOT_URL")
 ELEMENT_BASE_URL = os.getenv("ELEMENT_BASE_URL")
 
-if not TELEGRAM_TOKEN or TELEGRAM_CHAT_ID or ROOT_URL or ELEMENT_BASE_URL:
+if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID or not ROOT_URL or not ELEMENT_BASE_URL:
     raise RuntimeError("Variable not found")
 
 # ── Configs ────────────────────────────────────────────────────────────────────
