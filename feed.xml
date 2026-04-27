@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 27 Apr 2026 11:13:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 12:23:09 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -20,292 +20,36 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
     <item>
-      <title>DIVIETO DI SOSTA E TRANSITO PER PRESENTAZIONE NUOVI SCUOLABUS.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1659881</link>
+      <title>ART.45 BIS DEL CODICE DELLA NAVIGAZIONE – AFFIDAMENTO AD ALTRI SOGGETTI DELLE ATTIVITÀ OGGETTO DELLA CONCESSIONE DEMANIALE MARITTIMA N. 23 DEL 01/07/2008 PROROGATA FINO ALLA DATA DEL 31.12.2020 CON ATTO N. 45 DEL 12/09/2014 ED ESTESA AL 31/12/2033 EX LEGE, RILASCIATA DAL COMUNE DI LADISPOLI A FAVORE DEL CHIOSCO BAR DENOMINATO “QUADRIFOGLIO”.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1661058</link>
       <description>📚 Allegati totali: 1</description>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1659881</guid>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1661058</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">28/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1080</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026/1082</category>
       <category domain="http://albopop.it/specs#item-category-type">GENERICO/AVVISI</category>
       <category domain="item-category-subType"></category>
-      <category domain="item-category-entry">1660634</category>
+      <category domain="item-category-entry">1661060</category>
       <category domain="item-category-attachments">1</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/rvpac09hk0wjq7vfw6lufvoet38d6xrh.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/kqlggy6xet6lpn67rw3bmmomb23mnd89.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/d9lqf8c5gqaguygaf731ucgehwxptmzc.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/l683beyud0fmi1eh4a96lgyjqm462osi.pdf" length="0" type="application/pdf"/>
     </item>
     <item>
-      <title>MANIFESTAZIONE DEL 1 MAGGIO 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660222</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1660222</guid>
+      <title>ART.45 BIS DEL CODICE DELLA NAVIGAZIONE – AFFIDAMENTO AD ALTRI SOGGETTI DELLE ATTIVITÀ OGGETTO DELLA CONCESSIONE DEMANIALE MARITTIMA N. 14/2008 PROROGATA FINO ALLA DATA DEL 31.12.2020 CON ATTO N. 23/2014 ED ESTESA EX LEGE RILASCIATA DAL COMUNE DI LADISPOLI A FAVORE DELLA “S.S.D. VELICA MARINA DI SAN NICOLA A R.L.”.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1661060</link>
+      <description>📚 Allegati totali: 1</description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1661060</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
       <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1079</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026/1081</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO/AVVISI</category>
       <category domain="item-category-subType"></category>
-      <category domain="item-category-entry">1660632</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/m50g6byeel5zqiic34zc6e8gafevhifr.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/wyxhqmh0luurvie12peueb2j4njm8w53.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>RIU 50/2026 - SERVIZIO DI PULIZIA DEL SOTTOPASSAGGIO STAZIONE FERROVIARIA –ORDINANZA DI LIQUIDAZIONE MARZO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660352</link>
-      <description>📚 Allegati totali: 2</description>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1660352</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1078</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="item-category-entry">1660629</category>
-      <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/tc4yhyxv6xmpfzwm5zqxygku7mb0mpz7.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/v8ggcqbl3lt7l743j83tjm9tyn7h2f8y.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>(RPS280/26) AFFIDAMENTO DIRETTO E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DELL'OPERATORE ECONOMICO AZ SYSTEM DI FRESILLI LUCIANO PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) PER LA MANUTENZIONE DI VARI IMMOBILI COMUNALI (G00253 - G00266 - G00267 - G00270)</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660355</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1660355</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1077</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="item-category-entry">1660626</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/wtt18mwzwtskzeuuxnrpsy128pyh0suz.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/r402z8xx9hb1an58wyj7jbar8blkh8pd.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DI PAGOPA PIATTAFORMA SEND FATTURA N. 5226012075 DEL 15/04/2026 E FATTURA N. 5226013550 DEL 20/04/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660367</link>
-      <description>📚 Allegati totali: 2</description>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1660367</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1076</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="item-category-entry">1660623</category>
-      <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/mwv5ziyvgzg3gc6rvy6h9ro2p7c66jsh.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/kgywgh57jyahv3fa3ognii2bmk6e4wrj.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>RIU 49/2026 - SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI EER 20.02.01 – ORDINANZA DI LIQUIDAZIONE MARZO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660370</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1660370</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1075</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="item-category-entry">1660571</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/m0awaeib7dd8qwbfsbtd6anpvrcb62j4.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/e3m9ke581apiaulr9ieadad19sgo67pw.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>ORDINE DIRETTO DI ACQUISTO (ODA) SU MEPA IN FAVORE DELLA SOCIETÀ MAGGIOLI S.P.A CIG BB446C752C - VARIAZIONE COMPENSATIVA TRA I CAPITOLI DI SPESA APPARTENENTI ALLA STESSA MISSIONE, PROGRAMMA E MACROAGGREGATO - ANNO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660512</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1660512</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1074</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="item-category-entry">1660568</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/ex6nzzodri5h2j3gvh8ly8rtej2pmcmk.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/ekqbft1bhhroc4267rqsykpji6vnl4mz.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE POLIZZA ASSICURATIVA RESPONSABILITA' CIVILE - DECORRENZA 31/03/2026 - 31/12/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660515</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1660515</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1073</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="item-category-entry">1660565</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/dv3mc8k4k4q4or9lvqbqu5dgccec4zaz.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/l29a2x2pf1zwjauuf8pu7lqnt2e4j9jd.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>RIU 45/2026 - SERVIZIO PER LA GESTIONE DELLA FRAZIONE DI RIFIUTO URBANO EER 20.01.38 – ORDINANZA DI LIQUIDAZIONE MESE DI MARZO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660559</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1660559</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1072</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="item-category-entry">1660562</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/a1twtk2hbwm3memdphnywmjrpgu28pfq.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/1bxatfuz33d7w90h6c2br09adf3spp8h.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>RIU 47/2026 - SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI EER 20.03.03 – ORDINANZA DI LIQUIDAZIONE MARZO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660562</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1660562</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1071</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="item-category-entry">1660559</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/1bxatfuz33d7w90h6c2br09adf3spp8h.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/a1twtk2hbwm3memdphnywmjrpgu28pfq.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>RIU 46/2026 - SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI EER 20.03.07 – ORDINANZA DI LIQUIDAZIONE DI MARZO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660565</link>
-      <description>📚 Allegati totali: 2</description>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1660565</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1070</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="item-category-entry">1660515</category>
-      <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/l29a2x2pf1zwjauuf8pu7lqnt2e4j9jd.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/dv3mc8k4k4q4or9lvqbqu5dgccec4zaz.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>RIU 44/2026 - SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI EER 20.03.01 – ORDINANZA DI LIQUIDAZIONE MARZO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660568</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1660568</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1069</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="item-category-entry">1660512</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/ekqbft1bhhroc4267rqsykpji6vnl4mz.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/ex6nzzodri5h2j3gvh8ly8rtej2pmcmk.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>RIU 48/2026 - SERVIZIO DI “PIATTAFORMA COREVE” DEI RIFIUTI URBANI EER 15.01.07 – ORDINANZA DI LIQUIDAZIONE MESE DI MARZO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660571</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1660571</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1068</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="item-category-entry">1660370</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/e3m9ke581apiaulr9ieadad19sgo67pw.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/m0awaeib7dd8qwbfsbtd6anpvrcb62j4.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE IN FAVORE DELLA COOPERATIVA SOCIALE "STILE LIBERO” PER IL SERVIZIO DI “SOSTEGNO ALLE AUTONOMIE IN FAVORE DI UNO STUDENTE DISABILE RESIDENTI NEL COMUNE DI LADISPOLI CHE FREQUENTA UN ISTITUTO SCOLASTICO IN ALTRO COMUNE” – PERIODO PRIMO TRIMESTRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660623</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1660623</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1067</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="item-category-entry">1660367</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/kgywgh57jyahv3fa3ognii2bmk6e4wrj.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/mwv5ziyvgzg3gc6rvy6h9ro2p7c66jsh.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>CONFERIMENTO DI INCARICO PROFESSIONALE AD ALTO CONTENUTO SPECIALISTICO QUALE ATTIVITÀ DI SUPPORTO AL RUP, AI SENSI DEGLI ARTT. 15 E 62, COMMA 11 DEL D.LGS. N. 36/2023, PER GLI ADEMPIMENTI DI CUI AL CODICE DEI CONTRATTI PUBBLICI IN MERITO AL SERVIZIO DI DIREZIONE DEI LAVORI INERENTI L’INTERVENTO DI DIFESA COSTIERA NEL TRATTO COMPRESO TRA TORRE FLAVIA E MARINA DI PALO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660626</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1660626</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1066</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="item-category-entry">1660355</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/r402z8xx9hb1an58wyj7jbar8blkh8pd.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/wtt18mwzwtskzeuuxnrpsy128pyh0suz.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA TIM SPA N. 7X01850776 DEL 13/04/2026 RIFERIMENTO FEBBRAIO-MARZO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660629</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1660629</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">27/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1065</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/DETERMINE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="item-category-entry">1660352</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/v8ggcqbl3lt7l743j83tjm9tyn7h2f8y.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/tc4yhyxv6xmpfzwm5zqxygku7mb0mpz7.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELL’ING. ALESSANDRO VERRECCHIA PER L’INCARICO PROFESSIONALE - ACCONTO PROGETTAZIONE INTERVENTI DI EFFICIENZA ENERGETICA E REALIZZAZIONE DI SISTEMI DI PRODUZIONE DI ENERGIA DA FONTI RINNOVABILI - PLESSO CANDIDA ZARRELLI;</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660632</link>
-      <description>📚 Allegati totali: 2</description>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1660632</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">25/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">10/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1064</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/ORDINANZE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="item-category-entry">1660222</category>
-      <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/wyxhqmh0luurvie12peueb2j4njm8w53.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/m50g6byeel5zqiic34zc6e8gafevhifr.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI N.5 NELLA CASA DEL COMUNE LADISPOLI - MUNTEANU MARICEL ED ALTRI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1660634</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1660634</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">24/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">09/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026/1063</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI/ORDINANZE</category>
-      <category domain="item-category-subType"></category>
-      <category domain="item-category-entry">1659881</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/kqlggy6xet6lpn67rw3bmmomb23mnd89.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/rvpac09hk0wjq7vfw6lufvoet38d6xrh.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-entry">1661058</category>
+      <category domain="item-category-attachments">1</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/l683beyud0fmi1eh4a96lgyjqm462osi.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/d9lqf8c5gqaguygaf731ucgehwxptmzc.pdf" length="0" type="application/pdf"/>
     </item>
   </channel>
 </rss>
