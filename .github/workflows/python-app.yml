@@ -11,13 +11,15 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Restore data files from data branch # ← must be first
+      - name: Restore data files from data branch
         run: |
           git fetch origin data
           git checkout origin/data -- seen.json feed.xml || true
@@ -51,6 +53,16 @@ jobs:
       - name: Commit updated files
         if: always()
         run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add seen.json feed.xml
+          git diff --staged --quiet && exit 0
+          git stash
+          git checkout data
+          git stash pop
+          git add seen.json feed.xml
+          git commit -m "Update data $(date +'%Y-%m-%d %H:%M')"
+          git push origin data
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add seen.json feed.xml
