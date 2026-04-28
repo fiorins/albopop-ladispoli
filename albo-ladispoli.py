@@ -49,11 +49,16 @@ SCRAPING_DELAY = 3  # seconds between each entry page request
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 # Loads the list of already processed entries from seen.json
+# def load_seen():
+#     try:
+#         return set(json.load(open(SEEN_FILE)))
+#     except FileNotFoundError:
+#         return set()
 def load_seen():
     try:
-        return set(json.load(open(SEEN_FILE)))
+        return json.load(open(SEEN_FILE))
     except FileNotFoundError:
-        return set()
+        return list()
 
 
 # After processing new entries it saves the updated list back to seen.json
@@ -528,11 +533,14 @@ def save_to_sheet(sheet, entry):
 def main():
 
     seen = load_seen()
-    print("Previous run items list: ", seen)
+    seen_list = sorted(seen, key=lambda x: int(x.split('/')[-1]))
+    print(f"Previous run items list {len(seen_list)}: {seen_list}")
 
     entries = scrape_entries(seen)
+    # entries_set = set(f"{item['registry']}" for item in entries)
     entries_list = [f"{item['registry']}" for item in entries]
-    print("Actual run items list: ", entries_list)
+    entries_list.sort(key=lambda x: int(x.split("/")[-1]))
+    print(f"Actual run items list {len(entries_list)}: {entries_list}")
 
     box_client = get_box_client()
     sheet = init_sheet()
