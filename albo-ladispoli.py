@@ -49,16 +49,11 @@ SCRAPING_DELAY = 3  # seconds between each entry page request
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 # Loads the list of already processed entries from seen.json
-# def load_seen():
-#     try:
-#         return set(json.load(open(SEEN_FILE)))
-#     except FileNotFoundError:
-#         return set()
 def load_seen():
     try:
-        return json.load(open(SEEN_FILE))
+        return set(json.load(open(SEEN_FILE)))
     except FileNotFoundError:
-        return list()
+        return set()
 
 
 # After processing new entries it saves the updated list back to seen.json
@@ -533,7 +528,7 @@ def save_to_sheet(sheet, entry):
 def main():
 
     seen = load_seen()
-    seen_list = sorted(seen, key=lambda x: int(x.split("/")[-1]))
+    seen_list = sorted(list(seen), key=lambda x: int(x.split("/")[-1]) if "/" in x else 0)
     print(f"Previous run items list {len(seen_list)}: {seen_list}")
 
     entries = scrape_entries(seen)
@@ -541,16 +536,16 @@ def main():
     entries_list.sort(key=lambda x: int(x.split("-")[-1]))
     print(f"Actual run items list {len(entries_list)}: {entries_list}")
 
+    if not entries:
+        print("No new entries.")
+        return
+
     box_client = get_box_client()
     sheet = init_sheet()
 
     box_items = get_box_items(box_client)
-    print(f"Box items ({len(entries_list)} tot), first 20 items: {box_items[:20]}")
-    print(f"Box items ({len(entries_list)} tot), last 20 items: {box_items[-20:]}")
-
-    if not entries:
-        print("No new entries.")
-        return
+    print(f"Box items ({len(box_items)} tot), first 20 items: {box_items[:20]}")
+    print(f"Box items ({len(box_items)} tot), last 20 items: {box_items[-20:]}")
 
     valid_entries = []
 
@@ -561,6 +556,7 @@ def main():
 
         if filename in box_items:
             print(f"Skipping (attachment already in Box): {edit_registry}")
+            seen.add(edit_registry)
             continue
 
         att_url = fetch_attachment_url(entry["entry_url"])
@@ -622,6 +618,7 @@ def main():
     for entry in valid_entries:
         # att_url = entry.get("attachment_url")
         att_url = entry.get("box_shared_link")
+        edit_registry = f"{entry['year']}-{entry['number']}"
 
         meta = {
             "title": f"{entry['title']}",
