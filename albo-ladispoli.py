@@ -435,8 +435,10 @@ def scrape_entries(seen, session):
 
         registry_raw = cells[0].get_text(strip=True)  # e.g. "2025/143"
         registry_edit = registry_raw.replace("/", "-")  # e.g. "2025-143"
+
         if not registry_edit or registry_edit in seen:
             continue
+
         parts = registry_edit.split("-")
         if len(parts) != 2:
             continue
@@ -555,9 +557,9 @@ def process_single_entry(entry, box_client, box_items, session):
     try:
         entry["attachment_url"] = att_url
 
-        # The attachment URL after base64 decoding sometimes points to a different domain (CDN or storage server). 
-        # Sending session cookies from ladispoli.trasparenza-valutazione-merito.it to a different domain could cause issues or get rejected. 
-        # Use plain requests.get() for the attachment download
+        # The attachment URL after base64 decoding sometimes points to a different domain (CDN or storage server).
+        # Sending session cookies from ladispoli.trasparenza-valutazione-merito.it to a different domain
+        # could cause issues or get rejected. Use plain requests.get() for the attachment download
         file_resp = requests.get(att_url, headers=HEADERS, timeout=30)
         file_resp.raise_for_status()
 
@@ -618,8 +620,8 @@ def main():
 
     # 5. Fetch current Box inventory
     box_items = get_box_items(box_client)
-    print(f"Box items ({len(box_items)} tot), first 20 items:\n{box_items[:20]}")
-    print(f"Box items ({len(box_items)} tot), last 20 items:\n{box_items[-20:]}")
+    print(f"Box items ({len(box_items)} tot), first 10 items:\n{box_items[:10]}")
+    print(f"Box items ({len(box_items)} tot), last 10 items:\n{box_items[-10:]}")
 
     valid_entries = []
 
