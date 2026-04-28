@@ -50,15 +50,16 @@ SCRAPING_DELAY = 3  # seconds between each entry page request
 # ── Helpers ───────────────────────────────────────────────────────────────────
 # Loads the list of already processed entries from seen.json
 def load_seen():
-    try:
-        return set(json.load(open(SEEN_FILE)))
-    except FileNotFoundError:
+    if not os.path.exists(SEEN_FILE):
         return set()
+    with open(SEEN_FILE, "r") as f:
+        return set(json.load(f))
 
 
 # After processing new entries it saves the updated list back to seen.json
 def save_seen(seen):
-    json.dump(list(seen), open(SEEN_FILE, "w"))
+    with open(SEEN_FILE, "w") as f:
+        json.dump(list(seen), f, indent=4)  # indent makes it readable
 
 
 # Strips it out the session token embedded in the attachment url
@@ -142,10 +143,10 @@ def scrape_entries(seen):
             continue
 
         registry_raw = cells[0].get_text(strip=True)  # e.g. "2025/143"
-        if not registry_raw or registry_raw in seen:
+        registry_edit = registry_raw.replace("/", "-")  # e.g. "2025-143"
+        if not registry_edit or registry_edit in seen:
             continue
-
-        parts = registry_raw.split("/")
+        parts = registry_edit.split("-")
         if len(parts) != 2:
             continue
         year, number = parts[0].strip(), parts[1].strip()
@@ -157,7 +158,6 @@ def scrape_entries(seen):
 
         main_el = cells[1].select_one(".categoria_categoria")
         sub_el = cells[1].select_one(".categoria_sottocategoria")
-
         main_type = main_el.get_text(strip=True) if main_el else ""
         sub_type = sub_el.get_text(strip=True) if sub_el else ""
 
@@ -179,7 +179,7 @@ def scrape_entries(seen):
 
         entries.append(
             {
-                "registry": registry_raw,
+                "registry": registry_edit,
                 "year": year,
                 "number": number,
                 "title": title,
@@ -230,6 +230,68 @@ def fetch_attachment_url(entry_url):
 
     except Exception as e:
         print(f"Fetching attachment error: {e}")
+        return None
+
+
+def process_single_entry(entry, box_client, box_items):
+    """
+    Handles the attachment fetching and Box upload logic for a single entry.
+    Returns the updated entry if successful, or None if it should be skipped.
+    """
+    filename = f"[{entry['registry']}]_allegato_atto.pdf"
+
+    # 1. Check if already in Box
+    if filename in box_items:
+        print(f"Skipping (already in Box): {entry['registry']}")
+        return "SEEN"  # Special flag to mark as seen without processing
+
+    # 2. Fetch the attachment URL
+    att_url = fetch_attachment_url(entry["entry_url"])
+    time.sleep(SCRAPING_DELAY)
+
+    if att_url is None:
+        print(f"Skipping (attachment not ready): {entry['registry']}")
+        return None
+
+    # 3. Handle "Non Presente" case
+    if att_url == "non presente":
+        entry.update(
+            {
+                "attachment_url": None,
+                "box_file_id": "",
+                "box_shared_link": "",
+                "file_bytes": None,
+            }
+        )
+        return entry
+
+    # 4. Download and Upload
+    try:
+        entry["attachment_url"] = att_url
+
+        file_resp = requests.get(att_url, headers=HEADERS, timeout=30)
+        file_resp.raise_for_status()
+
+        box_file = upload_to_box(box_client, file_resp.content, filename)
+        if not box_file:
+            return None
+
+        box_link = get_or_create_box_link(box_client, box_file.id)
+
+        # Update entry with Box and File data
+        entry.update(
+            {
+                "box_file_id": box_file.id,
+                "box_shared_link": box_link,
+                "file_bytes": file_resp.content,
+                "filename": filename,
+            }
+        )
+
+        return entry
+
+    except Exception as e:
+        print(f"Error processing attachment {entry['registry']}: {e}")
         return None
 
 
@@ -466,6 +528,58 @@ def send_telegram_document(file_bytes, filename, meta: dict):
         return None
 
 
+def get_telegram_caption(meta: dict, include_header=False):
+    header = "ℹ️ Allegato atto non presente\n\n" if include_header else ""
+
+    return (
+        f"{header}"
+        f"{escape(meta['title'])}\n\n"
+        f"📒 <b>Registro:</b> <code>{escape(meta['register'])}</code>\n"
+        f"🏷 <b>Categoria:</b> #{escape(meta['category'])}\n"
+        f"🗓 <b>Pubblicazione:</b> <code>{escape(meta['date_start'])}</code>\n"
+        f"⏳ <b>Scadenza:</b> <code>{escape(meta['date_end'])}</code>\n"
+        f"🔗 <a href=\"{meta['url']}\">Pagina sull'albo ufficiale</a>\n\u200b"
+    )
+
+
+# If file_bytes is provided, sends a document, otherwise, sends a text message.
+def send_telegram_msg(meta: dict, file_bytes=None, filename=None):
+    try:
+        if file_bytes:
+            # Send as Document
+            payload = {
+                "chat_id": TELEGRAM_CHAT_ID,
+                "caption": get_telegram_caption(meta),
+                "parse_mode": "HTML",
+            }
+            files = {"document": (filename, file_bytes, "application/pdf")}
+            url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendDocument"
+            response = requests.post(url, data=payload, files=files)
+        else:
+            # Send as Text only
+            payload = {
+                "chat_id": TELEGRAM_CHAT_ID,
+                "text": get_telegram_caption(meta, include_header=True),
+                "parse_mode": "HTML",
+                "disable_web_page_preview": True,
+            }
+            url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
+            response = requests.post(url, json=payload)
+
+        if response.ok:
+            print(f"{meta['register']} sent on Telegram")
+        else:
+            print(
+                f"{meta['register']} failed ({response.status_code}): {response.text}"
+            )
+
+        return response
+
+    except Exception as e:
+        print(f"Telegram error for {meta['register']}: {e}")
+        return None
+
+
 # ── GOOGLE Sheet ──────────────────────────────────────────────────────────────
 def init_sheet():
     scope = [
@@ -487,11 +601,11 @@ def safe_int(value):
     return int(value)
 
 
-def save_to_sheet(sheet, entry):
-    try:
-        # Check duplicates (column "id" = index 4 → column 4)
-        existing_ids = set(sheet.col_values(4))
+def save_to_sheet(sheet, entry, existing_ids):
+    if str(entry["entry_id"]) in existing_ids:
+        return False
 
+    try:
         entry_id = str(entry["entry_id"])
 
         if entry_id in existing_ids:
@@ -528,7 +642,9 @@ def save_to_sheet(sheet, entry):
 def main():
 
     seen = load_seen()
-    seen_list = sorted(list(seen), key=lambda x: int(x.split("/")[-1]) if "/" in x else 0)
+    seen_list = sorted(
+        list(seen), key=lambda x: int(x.split("-")[-1]) if "-" in x else 0
+    )
     print(f"Previous run items list {len(seen_list)}: {seen_list}")
 
     entries = scrape_entries(seen)
@@ -542,6 +658,8 @@ def main():
 
     box_client = get_box_client()
     sheet = init_sheet()
+    # Check duplicates (column "id" = index 4 → column 4)
+    existing_ids = set(sheet.col_values(4))
 
     box_items = get_box_items(box_client)
     print(f"Box items ({len(box_items)} tot), first 20 items: {box_items[:20]}")
@@ -551,12 +669,11 @@ def main():
 
     # Fetch attachment from url and Box upload, process in reverse to safely skip entries
     for entry in reversed(entries):
-        edit_registry = f"{entry['year']}-{entry['number']}"
-        filename = f"[{edit_registry}]_allegato_atto.pdf"
+        filename = f"[{entry['registry']}]_allegato_atto.pdf"
 
         if filename in box_items:
-            print(f"Skipping (attachment already in Box): {edit_registry}")
-            seen.add(edit_registry)
+            print(f"Skipping (attachment already in Box): {entry['registry']}")
+            seen.add(entry["registry"])
             continue
 
         att_url = fetch_attachment_url(entry["entry_url"])
@@ -564,7 +681,7 @@ def main():
 
         if att_url is None:
             # Attachment not ready yet — skip, will retry next run
-            print(f"Skipping (attachment not ready): {edit_registry}")
+            print(f"Skipping (attachment not ready): {entry['registry']}")
             continue
 
         if att_url == "non presente":
@@ -584,7 +701,7 @@ def main():
             box_file = upload_to_box(box_client, file_resp.content, filename)
 
             if not box_file:
-                print(f"Error Box upload: {edit_registry}")
+                print(f"Error Box upload: {entry['registry']}")
                 continue
 
             # box_link = get_or_create_box_link(box_client, box_file.id)
@@ -600,7 +717,7 @@ def main():
             entry["filename"] = filename
 
         except Exception as e:
-            print(f"Error download/upload attachment {edit_registry}: {e}")
+            print(f"Error download/upload attachment {entry['registry']}: {e}")
             continue
 
         valid_entries.insert(0, entry)
@@ -618,11 +735,10 @@ def main():
     for entry in valid_entries:
         # att_url = entry.get("attachment_url")
         att_url = entry.get("box_shared_link")
-        edit_registry = f"{entry['year']}-{entry['number']}"
 
         meta = {
             "title": f"{entry['title']}",
-            "register": f"{edit_registry}",
+            "register": f"{entry['registry']}",
             "category": f"{entry['sub_type']}",
             "date_start": f"{entry['pub_start_alt']}",
             "date_end": f"{entry['pub_end_alt']}",
@@ -642,25 +758,34 @@ def main():
                 # I could remove this filename line and into sent_ok if I get the attachment from box
 
                 sent_ok = send_with_rate_limit(
-                    send_telegram_document,
+                    send_telegram_msg,
                     file_bytes,
                     filename,
                     meta,
                 )
 
             except Exception as e:
-                print(f"File handling error for {edit_registry}: {e}")
+                print(f"File handling error for {entry['registry']}: {e}")
                 # Fallback: send text only
-                sent_ok = send_with_rate_limit(send_telegram_text, meta)
+                sent_ok = send_with_rate_limit(
+                    send_telegram_msg,
+                    meta,
+                    file_bytes,
+                    filename,
+                )
         else:
             # No attachment — send text with hyperlink
-            sent_ok = send_with_rate_limit(send_telegram_text, meta)
+            sent_ok = send_with_rate_limit(
+                send_telegram_msg, meta, file_bytes, filename
+            )
 
         # Mark as seen only after successful processing
         if sent_ok:
             entry["tg_message_id"] = sent_ok.json()["result"]["message_id"]
-            seen.add(edit_registry)
-            save_to_sheet(sheet, entry)
+            seen.add(entry["registry"])
+            save_to_sheet(sheet, entry, existing_ids)
+
+        entry.pop("file_bytes", None)
 
     save_seen(seen)
     print(f"Processed {len(valid_entries)} new entries.")
