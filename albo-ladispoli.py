@@ -150,10 +150,16 @@ def scrape_entries(seen):
             continue
         year, number = parts[0].strip(), parts[1].strip()
 
-        type_raw = cells[1].get_text(strip=True)
-        type_parts = type_raw.split(" /")
-        main_type = type_parts[0].strip()
-        sub_type = type_parts[1].strip() if len(type_parts) > 1 else ""
+        # type_raw = cells[1].get_text(strip=True)
+        # type_parts = type_raw.split(" /")
+        # main_type = type_parts[0].strip()
+        # sub_type = type_parts[1].strip() if len(type_parts) > 1 else ""
+
+        main_el = cells[1].select_one(".categoria_categoria")
+        sub_el = cells[1].select_one(".categoria_sottocategoria")
+
+        main_type = main_el.get_text(strip=True) if main_el else ""
+        sub_type = sub_el.get_text(strip=True) if sub_el else ""
 
         title = cells[2].get_text(strip=True)
         dates_raw = cells[3].get_text(strip=True)  # e.g. "01/01/2025 - 31/01/2025"
@@ -525,7 +531,7 @@ def main():
     print("Previous run items list: ", seen)
 
     entries = scrape_entries(seen)
-    entries_list = [f"{item['year']}-{item['number']}" for item in entries]
+    entries_list = [f"{item['registry']}" for item in entries]
     print("Actual run items list: ", entries_list)
 
     box_client = get_box_client()
@@ -581,10 +587,10 @@ def main():
 
             entry["box_file_id"] = box_file.id
             entry["box_shared_link"] = box_link
+            # print("Box link:", box_link)
 
             entry["file_bytes"] = file_resp.content
             entry["filename"] = filename
-            # print("Box link:", box_link)
 
         except Exception as e:
             print(
@@ -604,7 +610,8 @@ def main():
 
     # Send Telegram messages
     for entry in valid_entries:
-        att_url = entry.get("attachment_url")
+        # att_url = entry.get("attachment_url")
+        att_url = entry.get("box_shared_link")
 
         meta = {
             "title": f"{entry['title']}",
@@ -612,7 +619,7 @@ def main():
             "category": f"{entry['sub_type']}",
             "date_start": f"{entry['pub_start_alt']}",
             "date_end": f"{entry['pub_end_alt']}",
-            "url": f"{entry['box_shared_link']}",
+            "url": f"{entry['entry_url']}",
         }
 
         sent_ok = False
@@ -625,6 +632,7 @@ def main():
 
                 file_bytes = entry["file_bytes"]
                 filename = entry["filename"]
+                # I could remove this filename line and into sent_ok if I get the attachment from box
 
                 sent_ok = send_with_rate_limit(
                     send_telegram_document,
