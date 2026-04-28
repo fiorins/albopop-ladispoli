@@ -533,17 +533,20 @@ def save_to_sheet(sheet, entry):
 def main():
 
     seen = load_seen()
-    seen_list = sorted(seen, key=lambda x: int(x.split('/')[-1]))
+    seen_list = sorted(seen, key=lambda x: int(x.split("/")[-1]))
     print(f"Previous run items list {len(seen_list)}: {seen_list}")
 
     entries = scrape_entries(seen)
-    # entries_set = set(f"{item['registry']}" for item in entries)
-    entries_list = [f"{item['registry']}" for item in entries]
-    entries_list.sort(key=lambda x: int(x.split("/")[-1]))
+    entries_list = [f"{item['year']}-{item['number']}" for item in entries]
+    entries_list.sort(key=lambda x: int(x.split("-")[-1]))
     print(f"Actual run items list {len(entries_list)}: {entries_list}")
 
     box_client = get_box_client()
     sheet = init_sheet()
+
+    box_items = get_box_items(box_client)
+    print(f"Box items ({len(entries_list)} tot), first 20 items: {box_items[:20]}")
+    print(f"Box items ({len(entries_list)} tot), last 20 items: {box_items[-20:]}")
 
     if not entries:
         print("No new entries.")
@@ -551,13 +554,13 @@ def main():
 
     valid_entries = []
 
-    box_items = get_box_items(box_client)
-
-    # Process in reverse to safely skip entries
+    # Fetch attachment from url and Box upload, process in reverse to safely skip entries
     for entry in reversed(entries):
-        filename = f"[{entry['year']}-{entry['number']}]_allegato_atto.pdf"
+        edit_registry = f"{entry['year']}-{entry['number']}"
+        filename = f"[{edit_registry}]_allegato_atto.pdf"
 
         if filename in box_items:
+            print(f"Skipping (attachment already in Box): {edit_registry}")
             continue
 
         att_url = fetch_attachment_url(entry["entry_url"])
@@ -565,27 +568,27 @@ def main():
 
         if att_url is None:
             # Attachment not ready yet — skip, will retry next run
-            print(f"Skipping (attachment not ready): {entry['registry']}")
+            print(f"Skipping (attachment not ready): {edit_registry}")
             continue
 
         if att_url == "non presente":
             entry["attachment_url"] = None
             entry["box_file_id"] = ""
-            entry["box_shared_link"] = entry["entry_url"]
+            entry["box_shared_link"] = ""
             valid_entries.insert(0, entry)
             continue
 
         entry["attachment_url"] = att_url
 
-        # Update files on Box
+        # Upload files on Box
         try:
             file_resp = requests.get(att_url, headers=HEADERS, timeout=30)
-            file_resp.raise_for_status()
+            file_resp.raise_for_status()  # If the request failed, stop the program and throw an exception
 
             box_file = upload_to_box(box_client, file_resp.content, filename)
 
             if not box_file:
-                print(f"Error Box upload: {entry['registry']}")
+                print(f"Error Box upload: {edit_registry}")
                 continue
 
             # box_link = get_or_create_box_link(box_client, box_file.id)
@@ -601,17 +604,16 @@ def main():
             entry["filename"] = filename
 
         except Exception as e:
-            print(
-                f"Error download/upload attachment {entry['year']}-{entry['registry']}: {e}"
-            )
+            print(f"Error download/upload attachment {edit_registry}: {e}")
             continue
 
         valid_entries.insert(0, entry)
-        # print(f"valid_entries: {valid_entries}")
 
     if not valid_entries:
         print("No valid new entries after attachment check.")
         return
+
+    # print(f"valid_entries: {valid_entries}")
 
     # Update RSS (pass all entries for full feed rebuild if needed)
     generate_rss(valid_entries)
@@ -623,7 +625,7 @@ def main():
 
         meta = {
             "title": f"{entry['title']}",
-            "register": f"{entry['year']}-{entry['number']}",
+            "register": f"{edit_registry}",
             "category": f"{entry['sub_type']}",
             "date_start": f"{entry['pub_start_alt']}",
             "date_end": f"{entry['pub_end_alt']}",
@@ -650,7 +652,7 @@ def main():
                 )
 
             except Exception as e:
-                print(f"File handling error for {entry['registry']}: {e}")
+                print(f"File handling error for {edit_registry}: {e}")
                 # Fallback: send text only
                 sent_ok = send_with_rate_limit(send_telegram_text, meta)
         else:
@@ -660,7 +662,7 @@ def main():
         # Mark as seen only after successful processing
         if sent_ok:
             entry["tg_message_id"] = sent_ok.json()["result"]["message_id"]
-            seen.add(entry["registry"])
+            seen.add(edit_registry)
             save_to_sheet(sheet, entry)
 
     save_seen(seen)
