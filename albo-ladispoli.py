@@ -47,8 +47,6 @@ FEED_URL = "https://fiorins.github.io/albopop-ladispoli/feed.xml"
 TELEGRAM_DELAY = 4  # seconds between each message
 SCRAPING_DELAY = 4  # seconds between each entry page request
 
-current_year = datetime.now(ZoneInfo("Europe/Rome")).year
-
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 # Loads the list of already processed entries from seen.json
@@ -420,8 +418,7 @@ def save_to_sheet(sheet, entry, existing_ids):
 # Analyze the website scraping the list of entries that are not in seen list
 def scrape_entries(seen, session):
     """Scrape the main table and return only new entries."""
-    response = session.get(ROOT_URL, headers=HEADERS, timeout=20)  # Use session
-    # response = requests.get(ROOT_URL, headers=HEADERS, timeout=20)
+    response = session.get(ROOT_URL, timeout=20)  # Use session
     soup = BeautifulSoup(response.text, "html.parser")
 
     entries = []
@@ -489,7 +486,6 @@ def scrape_entries(seen, session):
 def fetch_attachment_url(entry_url, session):
     try:
         resp = session.get(entry_url, timeout=20)  # Use session
-        # resp = requests.get(entry_url, headers=HEADERS, timeout=20)
         soup = BeautifulSoup(resp.text, "html.parser")
 
         detail_div = soup.select_one(".dettaglio-pratica-rght.span6")
@@ -536,7 +532,6 @@ def process_single_entry(entry, box_client, box_items, session):
         return "SEEN"  # Special flag to mark as seen without processing
 
     # 2. Fetch the attachment URL
-    # att_url = fetch_attachment_url(entry["entry_url"])
     att_url = fetch_attachment_url(entry["entry_url"], session)  # Pass session
     time.sleep(SCRAPING_DELAY)
 
@@ -560,8 +555,10 @@ def process_single_entry(entry, box_client, box_items, session):
     try:
         entry["attachment_url"] = att_url
 
-        file_resp = session.get(att_url, timeout=30)  # Use session
-        # file_resp = requests.get(att_url, headers=HEADERS, timeout=30)
+        # The attachment URL after base64 decoding sometimes points to a different domain (CDN or storage server). 
+        # Sending session cookies from ladispoli.trasparenza-valutazione-merito.it to a different domain could cause issues or get rejected. 
+        # Use plain requests.get() for the attachment download
+        file_resp = requests.get(att_url, headers=HEADERS, timeout=30)
         file_resp.raise_for_status()
 
         box_file = upload_to_box(box_client, file_resp.content, filename)
@@ -589,6 +586,8 @@ def process_single_entry(entry, box_client, box_items, session):
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 def main():
+    current_year = datetime.now(ZoneInfo("Europe/Rome")).year
+
     # 1. Initialize Session and Global Headers
     session = requests.Session()
     session.headers.update(HEADERS)  # Set headers globally for this session
