@@ -45,18 +45,13 @@ FEED_FILE = "feed.xml"
 FEED_URL = "https://fiorins.github.io/albopop-ladispoli/feed.xml"
 
 TELEGRAM_DELAY = 4  # seconds between each message
-SCRAPING_DELAY = 3  # seconds between each entry page request
+SCRAPING_DELAY = 4  # seconds between each entry page request
 
 current_year = datetime.now(ZoneInfo("Europe/Rome")).year
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 # Loads the list of already processed entries from seen.json
-# def load_seen():
-#     if not os.path.exists(SEEN_FILE):
-#         return set()
-#     with open(SEEN_FILE, "r") as f:
-#         return set(json.load(f))
 def load_seen():
     try:
         with open(SEEN_FILE, "r") as f:
@@ -90,6 +85,8 @@ def get_box_items(client, folder_id="0"):
 
 
 def upload_to_box(client, file_bytes, filename, folder_id="0"):
+    register = re.search(r"\[(.*?)\]", filename)
+
     try:
         uploaded = client.uploads.upload_file(
             attributes=UploadFileAttributes(
@@ -100,12 +97,12 @@ def upload_to_box(client, file_bytes, filename, folder_id="0"):
         )
 
         file = uploaded.entries[0]
-        print(f"Uploaded file with ID {file.id} and name {file.name}")
+        print(f"Uploaded on Box item {register} with ID {file.id} and name {file.name}")
 
         return file
 
     except Exception as e:
-        print("Error BOX: ", str(e))
+        print("Box error: ", str(e))
         return None
 
 
@@ -271,6 +268,7 @@ def telegram_rate_wait():
 
 
 def escape(text):
+    # The escape method is typically used to sanitize text so it doesn't break the format of the file or system
     return html.escape(str(text)) if text else ""
 
 
@@ -295,77 +293,6 @@ def send_with_rate_limit(send_func, *args, **kwargs):
         return None
 
 
-def send_telegram_text(meta: dict):
-    message = (
-        f"ℹ️ Allegato atto non presente\n\n"
-        f"{escape(meta['title'])}\n\n"
-        f"📒 <b>Registro:</b> <code>{escape(meta['register'])}</code>\n"
-        f"🏷 <b>Categoria:</b> #{escape(meta['category'])}\n"
-        f"🗓 <b>Pubblicazione:</b> <code>{escape(meta['date_start'])}</code>\n"
-        f"⏳ <b>Scadenza:</b> <code>{escape(meta['date_end'])}</code>\n"
-        f"🔗 <a href=\"{meta['url']}\">Pagina sull'albo ufficiale</a>\n\u200b"
-    )
-
-    try:
-        response = requests.post(
-            f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage",
-            json={
-                "chat_id": TELEGRAM_CHAT_ID,
-                "text": message,
-                "parse_mode": "HTML",
-                "disable_web_page_preview": True,
-            },
-        )
-
-        if response.ok:
-            print(f"{meta['register']} sent on Telegram")
-        else:
-            print(
-                f"{meta['register']} not sent on Telegram --- ({response.status_code}): {response.text}"
-            )
-
-        return response
-
-    except Exception as e:
-        print(f"Telegram error: {e}")
-        return None
-
-
-def send_telegram_document(file_bytes, filename, meta: dict):
-    caption = (
-        f"{escape(meta['title'])}\n\n"
-        f"📒 <b>Registro:</b> <code>{escape(meta['register'])}</code>\n"
-        f"🏷 <b>Categoria:</b> #{escape(meta['category'])}\n"
-        f"🗓 <b>Pubblicazione:</b> <code>{escape(meta['date_start'])}</code>\n"
-        f"⏳ <b>Scadenza:</b> <code>{escape(meta['date_end'])}</code>\n"
-        f"🔗 <a href=\"{meta['url']}\">Pagina sull'albo ufficiale</a>\n\u200b"
-    )
-
-    try:
-        response = requests.post(
-            f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendDocument",
-            data={
-                "chat_id": TELEGRAM_CHAT_ID,
-                "caption": caption,
-                "parse_mode": "HTML",
-            },
-            files={"document": (filename, file_bytes, "application/pdf")},
-        )
-
-        if response.ok:
-            print(f"{meta['register']} sent on Telegram")
-        else:
-            print(
-                f"{meta['register']} not sent on Telegram --- ({response.status_code}): {response.text}"
-            )
-
-        return response
-
-    except Exception as e:
-        print(f"Telegram error: {e}")
-        return None
-
-
 def get_telegram_caption(meta: dict, include_header=False):
 
     title_edit = re.sub(r"(\.|\d|\/)", lambda x: x.group(0) + "\u200c", meta["title"])
@@ -384,7 +311,6 @@ def get_telegram_caption(meta: dict, include_header=False):
 
     header = "ℹ️ Allegato atto non presente\n\n" if include_header else ""
 
-    # the escape method is typically used to sanitize text so it doesn't break the format of the file or system
     return (
         f"{header}"
         f"{escape(title_edit)}\n\n"
@@ -422,10 +348,10 @@ def send_telegram_msg(meta: dict, file_bytes=None, filename=None):
             response = requests.post(url, json=payload)
 
         if response.ok:
-            print(f"{meta['register']} sent on Telegram")
+            print(f"Sent on Telegram item: {meta['register']} ")
         else:
             print(
-                f"{meta['register']} failed ({response.status_code}): {response.text}"
+                f"Error with Telegram item: {meta['register']} failed ({response.status_code}): {response.text}"
             )
 
         return response
@@ -458,9 +384,11 @@ def safe_int(value):
 
 
 def save_to_sheet(sheet, entry, existing_ids):
+
     if str(entry["entry_id"]) in existing_ids:
-        print(f"Already in cache, skipping Sheet: {entry['entry_id']}")
+        print(f"Skipping Google Sheet step (already stored): {entry['entry_id']}")
         return False
+
     try:
         row = [
             entry["title"],
@@ -516,11 +444,6 @@ def scrape_entries(seen, session):
         if len(parts) != 2:
             continue
         year, number = parts[0].strip(), parts[1].strip()
-
-        # type_raw = cells[1].get_text(strip=True)
-        # type_parts = type_raw.split(" /")
-        # main_type = type_parts[0].strip()
-        # sub_type = type_parts[1].strip() if len(type_parts) > 1 else ""
 
         main_el = cells[1].select_one(".categoria_categoria")
         sub_el = cells[1].select_one(".categoria_sottocategoria")
@@ -609,7 +532,7 @@ def process_single_entry(entry, box_client, box_items, session):
 
     # 1. Check if already in Box
     if filename in box_items:
-        print(f"Skipping (already in Box): {entry['registry']}")
+        print(f"Skipping Box step (already stored): {entry['registry']}")
         return "SEEN"  # Special flag to mark as seen without processing
 
     # 2. Fetch the attachment URL
@@ -669,22 +592,19 @@ def main():
     # 1. Initialize Session and Global Headers
     session = requests.Session()
     session.headers.update(HEADERS)  # Set headers globally for this session
-    # with requests.Session() as session:
-    #     session.headers.update(HEADERS)
-    #     main_logic(session)
 
     # 2. Load already seen entries (as a Set for fast lookups)
     seen = load_seen()
     seen_list = sorted(
         list(seen), key=lambda x: int(x.split("-")[-1]) if "-" in x else 0
     )
-    print(f"Previous run items list {len(seen_list)}: {seen_list}")
+    print(f"Previous run items list {len(seen_list)}:\n{seen_list}")
 
     # 2. Scrape new entries (Passing the session)
     entries = scrape_entries(seen, session)
     entries_list = [f"{entry['year']}-{entry['number']}" for entry in entries]
     entries_list.sort(key=lambda x: int(x.split("-")[-1]))
-    print(f"Actual run items list {len(entries_list)}: {entries_list}")
+    print(f"Actual run items list {len(entries_list)}:\n{entries_list}")
 
     if not entries:
         print("No new entries.")
@@ -693,20 +613,19 @@ def main():
     # 3. Initialize external services
     box_client = get_box_client()
     sheet = init_sheet(current_year)
-    # Check duplicates (column "id" = index 4 → column 4)
 
     # 4. Fetch Google Sheet IDs once to avoid "Quota Exceeded" errors
     existing_ids = set(sheet.col_values(4))
 
     # 5. Fetch current Box inventory
     box_items = get_box_items(box_client)
-    print(f"Box items ({len(box_items)} tot), first 20 items: {box_items[:20]}")
-    print(f"Box items ({len(box_items)} tot), last 20 items: {box_items[-20:]}")
+    print(f"Box items ({len(box_items)} tot), first 20 items:\n{box_items[:20]}")
+    print(f"Box items ({len(box_items)} tot), last 20 items:\n{box_items[-20:]}")
 
     valid_entries = []
 
     # 6. Process each entry (Download/Upload logic)
-    # Fetch attachment from url and Box upload, process in reverse to safely skip entries
+    # Fetch attachment from url and upload it on Box, process in reverse to safely skip entries
     for entry in reversed(entries):
         result = process_single_entry(entry, box_client, box_items, session)
         if result == "SEEN":
@@ -721,8 +640,6 @@ def main():
         print("No valid new entries after attachment check.")
         return
 
-    # print(f"valid_entries: {valid_entries}")
-
     # 7. Rebuild RSS Feed
     # Update RSS (pass all entries for full feed rebuild if needed)
     generate_rss(valid_entries)
@@ -730,8 +647,6 @@ def main():
     # 8. Final Processing: Telegram and Google Sheets
     # Send Telegram messages
     for entry in valid_entries:
-        # att_url = entry.get("attachment_url")
-        # att_url = entry.get("box_shared_link")
 
         meta = {
             "title": f"{entry['title']}",
@@ -747,6 +662,7 @@ def main():
             send_telegram_msg,
             meta,
             file_bytes=entry.get("file_bytes"),
+            # file_bytes=entry.get("box_shared_link"),
             filename=entry.get("filename"),
         )
 
@@ -760,7 +676,6 @@ def main():
 
             seen.add(entry["registry"])
 
-            # save_to_sheet(sheet, entry, existing_ids)
             # Update Google Sheets AND our local cache of IDs
             if save_to_sheet(sheet, entry, existing_ids):
                 # We add it here so the NEXT entry in the loop knows this ID is now taken
