@@ -2,7 +2,7 @@ name: Albo Pretorio Scraper
 
 on:
   schedule:
-    - cron: "19,49 0,5-23 * * *"
+    - cron: '*/30 * * * *'
   workflow_dispatch: # Allow manual run
 
 permissions:
