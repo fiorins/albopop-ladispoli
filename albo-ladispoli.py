@@ -603,13 +603,13 @@ def main():
     seen_list = sorted(
         list(seen), key=lambda x: int(x.split("-")[-1]) if "-" in x else 0
     )
-    print(f"Previous run items list ({len(seen_list)} tot):\n{seen_list}\n")
+    print(f"Previous run, items list ({len(seen_list)} tot):\n{seen_list}\n")
 
     # 2. Scrape new entries (Passing the session)
     entries = scrape_entries(seen, session)
     entries_list = [f"{entry['year']}-{entry['number']}" for entry in entries]
     entries_list.sort(key=lambda x: int(x.split("-")[-1]))
-    print(f"Actual run items list ({len(entries_list)} tot):\n{entries_list}\n")
+    print(f"Actual run, new items list ({len(entries_list)} tot):\n{entries_list}\n")
 
     if not entries:
         print("No new entries.")
