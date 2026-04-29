@@ -3,10 +3,12 @@ from zoneinfo import ZoneInfo
 
 from datetime import datetime, timezone
 from dotenv import load_dotenv
-
+from pathlib import Path
 from bs4 import BeautifulSoup
 from lxml import etree
 from feedgen.feed import FeedGenerator
+import gspread
+from oauth2client.service_account import ServiceAccountCredentials
 
 from box_sdk_gen import (
     BoxClient,
@@ -17,9 +19,6 @@ from box_sdk_gen import (
     AddShareLinkToFileSharedLink,
     AddShareLinkToFileSharedLinkAccessField,
 )
-
-import gspread
-from oauth2client.service_account import ServiceAccountCredentials
 
 load_dotenv()
 
@@ -51,17 +50,21 @@ SCRAPING_DELAY = 4  # seconds between each entry page request
 # ── Helpers ───────────────────────────────────────────────────────────────────
 # Loads the list of already processed entries from seen.json
 def load_seen():
+    if not Path(SEEN_FILE).exists():
+        # Create the file with an empty list []
+        save_seen(set())
+        return set()
+
     try:
-        with open(SEEN_FILE, "r") as f:
-            data = json.load(f)
-            return set(data)
-    except (FileNotFoundError, json.JSONDecodeError):
+        with Path(SEEN_FILE).open("r") as f:
+            return set(json.load(f))
+    except json.JSONDecodeError:
         return set()
 
 
 # After processing new entries it saves the updated list back to seen.json
 def save_seen(seen):
-    with open(SEEN_FILE, "w") as f:
+    with Path(SEEN_FILE).open("w") as f:
         json.dump(list(seen), f, indent=4)  # indent makes it readable
 
 
