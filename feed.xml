@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 29 Apr 2026 11:59:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 14:05:53 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -20,68 +20,148 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
     <item>
-      <title>INCARICO DI RESPONSABILE DELLA PROTEZIONE DEI DATI. LIQUIDAZIONE DELLA SPESA PER L'ANNO 2025</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1662816</link>
-      <description>📚 Allegati totali: 2</description>
+      <title>AUTORIZZAZIONI AMMINISTRATIVE IN MATERIA DI TRASPORTO DI SALMA O DI CADAVERE, DI RESTI MORTALI OD OSSEI E DI CENERI, AUTORIZZAZIONI E NULLA OSTA IN MATERIA DI DISPERSIONE DELLE CENERI, AUTORIZZAZIONI E NULLA OSTA RELATIVAMENTE ALLE OPERAZIONI CIMITERIALI E ALTRI ATTI DI POLIZIA MORTUARIA. ATTRIBUZIONE DI COMPETENZE AL PERSONALE DIPENDENTE AREA I SETTORE III</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1663176</link>
+      <description>📚 Allegati totali: 5</description>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1662816</guid>
+      <guid isPermaLink="true">1663176</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">29/04/2026</category>
       <category domain="http://albopop.it/specs#item-category-pubEnd">14/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1106</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1115</category>
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1663062</category>
-      <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/l31hu8vk654om4vmsmb2pzzs94njujbp.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/7ik5gj5z9sp7cq7sv5scmko8m6qycrt9.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <category domain="item-category-entry">1663205</category>
+      <category domain="item-category-attachments">5</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/exqffg0z3rerov45y2rrywffo5474ct8.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/iqcj8fm9dusglvbmuco8t5y5ppygnk86.pdf" length="0" type="application/pdf"/>
     </item>
     <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELL' ARCH. L.D.S. - FATTURA N° 2_26 DEL 01/04/2026 - SUPPORTO AL RUP EFFICENTAMENTO ENERGETICO PLESSO SCOLASTICO CANDITA ZARELLI - CIG B9EB50A66E;</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1662819</link>
-      <description>📚 Allegati totali: 1</description>
+      <title>INCARICO DI ASSISTENZA E DIFESA LEGALE DELL’ENTE PER COSTITUZIONE IN GIUDIZIO AVVERSO APPELLO IN CORTE DI GIUSTIZIA TRIBUTARIA DI SECONDO GRADO DEL LAZIO DELLA SENTENZA N. 11588/2025 DEL 26/05/2025 – LIQUIDAZIONE FATTURA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1663179</link>
+      <description>📚 Allegati totali: 13</description>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1662819</guid>
+      <guid isPermaLink="true">1663179</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">29/04/2026</category>
       <category domain="http://albopop.it/specs#item-category-pubEnd">14/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1105</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <category domain="item-category-entry">1662898</category>
-      <category domain="item-category-attachments">1</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/0vf57m4mii1mftflmfaqsa9vrmf5h5wy.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/ld1pky24bjjn1lmdsnzbnp4t6yxqgv4m.pdf" length="0" type="application/pdf"/>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1114</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <category domain="item-category-entry">1663202</category>
+      <category domain="item-category-attachments">13</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/nkr41cpqsxhzl4l6pbggme45wwknsvvx.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/45ecnvnow5muu59q905xxg6jarjknypi.pdf" length="0" type="application/pdf"/>
     </item>
     <item>
-      <title>ART.45 BIS DEL CODICE DELLA NAVIGAZIONE – AFFIDAMENTO AD ALTRI SOGGETTI DELLE ATTIVITÀ OGGETTO DELLA CONCESSIONE DEMANIALE MARITTIMA N. 39/2009 PROROGATA FINO ALLA DATA DEL 31/12/2020 CON ATTO N. 24/2014 ED ESTESA EX LEGE RILASCIATA DAL COMUNE DI LADISPOLI A FAVORE DEL SIG. EVANGELISTI EVANDRO DA ADIBIRE A CHIOSCO BAR.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1662898</link>
-      <description>📚 Allegati totali: 2</description>
+      <title>APPROVAZIONE SCHEMA DI CONVENZIONE DISCIPLINANTE LO SVOLGIMENTO DEL SERVIZIO DI TESORERIA COMUNALE E DETERMINAZIONE CRITERI GENERALI DI GARA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1663187</link>
+      <description>📚 Allegati totali: 4</description>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1662898</guid>
+      <guid isPermaLink="true">1663187</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">29/04/2026</category>
       <category domain="http://albopop.it/specs#item-category-pubEnd">14/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1104</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1113</category>
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1662819</category>
-      <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/ld1pky24bjjn1lmdsnzbnp4t6yxqgv4m.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/0vf57m4mii1mftflmfaqsa9vrmf5h5wy.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <category domain="item-category-entry">1663199</category>
+      <category domain="item-category-attachments">4</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/h820k09ox6wn0y815dew0t2muaiwxxqi.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/o5ytx9wkffxsp7eqyg862gsctt1qomns.pdf" length="0" type="application/pdf"/>
     </item>
     <item>
-      <title>LIQUIDAZIONE CONTRIBUTO UNIFICATO TRIBUTARIO TRAMITE AVVISO PAGOPA – RICORSO IN CORTE DI CASSAZIONE DELLA SENTENZA N. 1244/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1663062</link>
-      <description>📚 Allegati totali: 2</description>
+      <title>RATIFICA DELLA DELIBERAZIONE DI GIUNTA COMUNALE N. 21 DEL 13/02/2026 ADOTTATA AI SENSI DELL’ART. 175, COMMA 4-5 DEL TUEL 267/2000 E DEL D. LGS. 118/2011 AVENTE AD OGGETTO " I VARIAZIONE AL BILANCIO DI PREVISIONE 2026/2028 ".</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1663190</link>
+      <description>📚 Allegati totali: 10</description>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1663062</guid>
+      <guid isPermaLink="true">1663190</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">29/04/2026</category>
       <category domain="http://albopop.it/specs#item-category-pubEnd">14/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1103</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1112</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <category domain="item-category-entry">1663196</category>
+      <category domain="item-category-attachments">10</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/cjcpa41rkvcsfafhwiqecyn6atpl8uoo.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/xrx3c1jrz55u65mhq0vkfo2bax95iyv2.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>RATIFICA DELLA DELIBERAZIONE DI GIUNTA COMUNALE N. 38 DEL 06/03/2026 ADOTTATA AI SENSI DELL’ART. 175, COMMA 4-5 DEL TUEL 267/2000 E DEL D. LGS. 118/2011 AVENTE AD OGGETTO " II VARIAZIONE AL BILANCIO DI PREVISIONE 2026/2028 ".</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1663193</link>
+      <description>📚 Allegati totali: 11</description>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1663193</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">29/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">14/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1111</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <category domain="item-category-entry">1663193</category>
+      <category domain="item-category-attachments">11</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/ac6w6gmcri9im51cyjwpr8mpj3w3hils.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/ac6w6gmcri9im51cyjwpr8mpj3w3hils.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>MODIFICHE AL REGOLAMENTO PER IL FUNZIONAMENTO DEL CONSIGLIO COMUNALE APPROVATO CON DELIBERAZIONE CONSILIARE N.72 DEL 18/12/2017 E SUCCESSIVAMENTE MODIFICATO CON DELIBERAZIONI CONSILIARI N.57 DEL 22/10/2018 E N.2 DEL 26/01/2023. APPROVAZIONE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1663196</link>
+      <description>📚 Allegati totali: 6</description>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1663196</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">29/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">14/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1110</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <category domain="item-category-entry">1663190</category>
+      <category domain="item-category-attachments">6</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/xrx3c1jrz55u65mhq0vkfo2bax95iyv2.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/cjcpa41rkvcsfafhwiqecyn6atpl8uoo.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>ELEZIONE COMPONENTE SUPPLENTE DELLA COMMISSIONE ELETTORALE COMUNALE A SEGUITO DI SURROGA DI CONSIGLIERE DIMISSIONARIO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1663199</link>
+      <description>📚 Allegati totali: 5</description>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1663199</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">29/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">14/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1109</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <category domain="item-category-entry">1663187</category>
+      <category domain="item-category-attachments">5</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/o5ytx9wkffxsp7eqyg862gsctt1qomns.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/h820k09ox6wn0y815dew0t2muaiwxxqi.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>PROGRAMMA INTEGRATO DI INTERVENTO L.R. 22/1997 PER LA RIQUALIFICAZIONE URBANISTICA DI UN'AREA INTERNA AL PERIMETRO URBANO TRA VIA LATINA ANGOLO VIA BENEVENTO, E COMPRENSORIO PIAZZALE NAZARIO SAURO – GIARDINO “PIETRO CONTE”, PRESENTATO DALLA SOC. PIEFFE IMMOBILIARE S.R.L. CONTRODEDUZIONI AI CHIARIMENTI ED INTEGRAZIONI RICHIESTE DALLA REGIONE LAZIO IN SEDE DI APPROVAZIONE.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1663202</link>
+      <description>📚 Allegati totali: 2</description>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1663202</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">29/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">14/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1108</category>
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1662816</category>
+      <category domain="item-category-entry">1663179</category>
       <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/7ik5gj5z9sp7cq7sv5scmko8m6qycrt9.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/l31hu8vk654om4vmsmb2pzzs94njujbp.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/45ecnvnow5muu59q905xxg6jarjknypi.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/nkr41cpqsxhzl4l6pbggme45wwknsvvx.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>AFFIDAMENTO DEL SERVIZIO DI PARCHEGGI ALLA SOCIETÀ IN HOUSE FLAVIA SERVIZI S.R.L. APPROVAZIONE: A) “RELAZIONE ILLUSTRATIVA DELLE RAGIONI E DELLA SUSSISTENZA DEI REQUISITI PREVISTI PER LA FORMA DI AFFIDAMENTO PRESCELTA (EX ART 14 COMMA 3 D.LGS. N. 201/2022)”; B) SCHEMA CONTRATTO DI SERVIZIO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1663205</link>
+      <description>📚 Allegati totali: 3</description>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1663205</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">29/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">14/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1107</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1663176</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/iqcj8fm9dusglvbmuco8t5y5ppygnk86.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/exqffg0z3rerov45y2rrywffo5474ct8.pdf" length="0" type="application/pdf"/>
     </item>
   </channel>
 </rss>
