@@ -628,7 +628,11 @@ def main():
     # 6. Process each entry (Download/Upload logic)
     # Fetch attachment from url and upload it on Box, process in reverse to safely skip entries
     for entry in reversed(entries):
+
         result = process_single_entry(entry, box_client, box_items, session)
+        # If the function returns "SEEN", it means this entry has been handled before.
+        # The code adds the entry's registry to a seen set and skips the rest of the loop for this item
+
         if result == "SEEN":
             seen.add(entry["registry"])
             continue
