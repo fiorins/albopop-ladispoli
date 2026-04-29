@@ -127,7 +127,7 @@ def get_or_create_box_link(client, file_id):
 
     # Fallback: recover
     except Exception as e:
-        print("Error BOX: ", str(e))
+        print("Box error: ", str(e))
         return None
 
 
@@ -286,7 +286,7 @@ def send_with_rate_limit(send_func, *args, **kwargs):
 
         if resp.status_code == 429:
             retry_after = resp.json().get("parameters", {}).get("retry_after", 5)
-            print(f"Rate limit Telegram. Attendo {retry_after} secondi...")
+            print(f"Rate limit Telegram. Wait {retry_after} seconds...")
             time.sleep(retry_after + 1)
             continue
 
@@ -349,10 +349,10 @@ def send_telegram_msg(meta: dict, file_bytes=None, filename=None):
             response = requests.post(url, json=payload)
 
         if response.ok:
-            print(f"Sent on Telegram item: {meta['register']} ")
+            print(f"Sent on Telegram item {meta['register']} ")
         else:
             print(
-                f"Error with Telegram item: {meta['register']} failed ({response.status_code}): {response.text}"
+                f"Telegram error with item {meta['register']} failed ({response.status_code}): {response.text}"
             )
 
         return response
@@ -408,12 +408,12 @@ def save_to_sheet(sheet, entry, existing_ids):
         ]
 
         sheet.append_row(row, value_input_option="USER_ENTERED")
-        print("Saved on Google Sheets:", entry["entry_id"])
+        print(f"Saved on Google Sheets item {entry["entry_id"]} ")
 
         return True
 
     except Exception as e:
-        print("Error Google Sheets:", e)
+        print("Google Sheets error: ", e)
         return False
 
 
@@ -602,13 +602,13 @@ def main():
     seen_list = sorted(
         list(seen), key=lambda x: int(x.split("-")[-1]) if "-" in x else 0
     )
-    print(f"Previous run items list {len(seen_list)}:\n{seen_list}")
+    print(f"Previous run items list {len(seen_list)}:\n{seen_list}\n")
 
     # 2. Scrape new entries (Passing the session)
     entries = scrape_entries(seen, session)
     entries_list = [f"{entry['year']}-{entry['number']}" for entry in entries]
     entries_list.sort(key=lambda x: int(x.split("-")[-1]))
-    print(f"Actual run items list {len(entries_list)}:\n{entries_list}")
+    print(f"Actual run items list {len(entries_list)}:\n{entries_list}\n")
 
     if not entries:
         print("No new entries.")
@@ -623,8 +623,8 @@ def main():
 
     # 5. Fetch current Box inventory
     box_items = get_box_items(box_client)
-    print(f"Box items ({len(box_items)} tot), first 10 items:\n{box_items[:10]}")
-    print(f"Box items ({len(box_items)} tot), last 10 items:\n{box_items[-10:]}")
+    print(f"Box items ({len(box_items)} tot), first 10 items:\n{box_items[:10]}\n")
+    print(f"Box items ({len(box_items)} tot), last 10 items:\n{box_items[-10:]}\n")
 
     valid_entries = []
 
