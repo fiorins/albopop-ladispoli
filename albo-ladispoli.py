@@ -645,7 +645,7 @@ def main():
             valid_entries.insert(0, result)
 
     if not valid_entries:
-        print("No valid new entries after attachment check.")
+        print("\nNo valid new entries after attachment check.")
         return
 
     # 7. Rebuild RSS Feed
