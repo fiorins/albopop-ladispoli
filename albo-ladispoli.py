@@ -408,7 +408,7 @@ def save_to_sheet(sheet, entry, existing_ids):
         ]
 
         sheet.append_row(row, value_input_option="USER_ENTERED")
-        print(f"Saved on Google Sheets item {entry["entry_id"]} ")
+        print(f"Saved on Google Sheets item {entry['entry_id']} ")
 
         return True
 
