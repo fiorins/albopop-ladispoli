@@ -213,4 +213,6 @@ __marimo__/
 *.pem
 
 feed.xml
-test
+tests
+
+.vscode
