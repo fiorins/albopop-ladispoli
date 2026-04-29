@@ -81,12 +81,13 @@ def get_box_client():
 
 
 def get_box_items(client, folder_id="0"):
-    result = client.folders.get_folder_items(folder_id)
+    result = client.folders.get_folder_items(folder_id, sort="DATE", direction="DESC")
     return [entry.name for entry in result.entries]
 
 
 def upload_to_box(client, file_bytes, filename, folder_id="0"):
-    register = re.search(r"\[(.*?)\]", filename)
+    match = re.search(r"\[(.*?)\]", filename)
+    register = match.group(1) if match else "Unknown"
 
     try:
         uploaded = client.uploads.upload_file(
@@ -98,7 +99,6 @@ def upload_to_box(client, file_bytes, filename, folder_id="0"):
         )
 
         file = uploaded.entries[0]
-        print(f"Uploaded on Box item {register} with ID {file.id} and name {file.name}")
 
         return file
 
@@ -408,7 +408,7 @@ def save_to_sheet(sheet, entry, existing_ids):
         ]
 
         sheet.append_row(row, value_input_option="USER_ENTERED")
-        print(f"Saved on Google Sheets item {entry['entry_id']} ")
+        print(f"Saved on Google Sheets item {entry['registry']} ")
 
         return True
 
@@ -527,13 +527,12 @@ def fetch_attachment_url(entry_url, session):
 def process_single_entry(entry, box_client, box_items, session):
     """
     Handles the attachment fetching and Box upload logic for a single entry.
-    Returns the updated entry if successful, or None if it should be skipped.
+    Returns the uploaded entry if successful, or None if it should be skipped.
     """
     filename = f"allegato_atto_[{entry['registry']}].pdf"
 
     # 1. Check if already in Box
     if filename in box_items:
-        print(f"Skipping Box step (already stored): {entry['registry']}")
         return "SEEN"  # Special flag to mark as seen without processing
 
     # 2. Fetch the attachment URL
@@ -546,6 +545,7 @@ def process_single_entry(entry, box_client, box_items, session):
 
     # 3. Handle "Non Presente" case
     if att_url == "non presente":
+        # Update entry with "Non Presente" data case
         entry.update(
             {
                 "attachment_url": None,
@@ -591,6 +591,7 @@ def process_single_entry(entry, box_client, box_items, session):
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 def main():
+    print("----- Start log -----\n")
     current_year = datetime.now(ZoneInfo("Europe/Rome")).year
 
     # 1. Initialize Session and Global Headers
@@ -602,13 +603,13 @@ def main():
     seen_list = sorted(
         list(seen), key=lambda x: int(x.split("-")[-1]) if "-" in x else 0
     )
-    print(f"Previous run items list {len(seen_list)}:\n{seen_list}\n")
+    print(f"Previous run items list ({len(seen_list)} tot):\n{seen_list}\n")
 
     # 2. Scrape new entries (Passing the session)
     entries = scrape_entries(seen, session)
     entries_list = [f"{entry['year']}-{entry['number']}" for entry in entries]
     entries_list.sort(key=lambda x: int(x.split("-")[-1]))
-    print(f"Actual run items list {len(entries_list)}:\n{entries_list}\n")
+    print(f"Actual run items list ({len(entries_list)} tot):\n{entries_list}\n")
 
     if not entries:
         print("No new entries.")
@@ -623,10 +624,11 @@ def main():
 
     # 5. Fetch current Box inventory
     box_items = get_box_items(box_client)
-    print(f"Box items ({len(box_items)} tot), first 10 items:\n{box_items[:10]}\n")
-    print(f"Box items ({len(box_items)} tot), last 10 items:\n{box_items[-10:]}\n")
+    print(f"Last 10 uploaded Box items ({len(box_items)} tot):\n{box_items[:10]}\n")
 
     valid_entries = []
+    skipped_box = []
+    uploaded_box = []
 
     # 6. Process each entry (Download/Upload logic)
     # Fetch attachment from url and upload it on Box, process in reverse to safely skip entries
@@ -638,14 +640,24 @@ def main():
 
         if result == "SEEN":
             seen.add(entry["registry"])
+            skipped_box.append(entry["registry"])
             continue
 
         if result is not None:
+            if result.get("box_file_id"):
+                uploaded_box.append(entry["registry"])
+
             # Only add to the final queue if it's a valid dictionary
             valid_entries.insert(0, result)
 
+    print(
+        f"Skipping step Box items (already stored) ({len(skipped_box)} tot):\n{skipped_box}\n"
+    )
+    print(f"Uploaded on Box items ({len(uploaded_box)} tot):\n{uploaded_box}\n")
+
     if not valid_entries:
-        print("\nNo valid new entries after attachment check.")
+        print("\nNo valid new entries after attachment check.\n")
+        print("----- End log -----")
         return
 
     # 7. Rebuild RSS Feed
@@ -693,7 +705,8 @@ def main():
         entry.pop("file_bytes", None)
 
     save_seen(seen)
-    print(f"Processed {len(valid_entries)} new entries.")
+    print(f"\nProcessed {len(valid_entries)} new entries.")
+    print("----- End log -----")
 
 
 if __name__ == "__main__":
