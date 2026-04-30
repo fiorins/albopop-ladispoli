@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 29 Apr 2026 16:11:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 06:01:08 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -20,36 +20,68 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
     <item>
-      <title>OCCUPAZIONE SUOLO PUBBLICO IN L.MARE REGINA ELENA DAL CIVICO 144 AL CIVICO 146</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1663345</link>
-      <description>📚 Allegati totali: 2</description>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1663345</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">14/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1117</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <category domain="item-category-entry">1663361</category>
-      <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/mtw32rih7ebxmma2cgb17hi9ogfyazuk.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/5ib72j215aevcb12o91g7zz3eyolc0tr.pdf" length="0" type="application/pdf"/>
+      <title>AVVISO DI DEPOSITO ATTI A C RISTRUTTURAZIONE CASA S.R.L.S</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1663418</link>
+      <description>📚 Allegati totali: 1</description>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1663418</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1121</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <category domain="item-category-entry">1663424</category>
+      <category domain="item-category-attachments">1</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/eyf49vm5rm1j9d4a6pu1fxt955dosf92.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/3c36kk34qxgkra18ncke8d4yykbacuto.pdf" length="0" type="application/pdf"/>
     </item>
     <item>
-      <title>OCCUPAZIONE SUOLO PUBBLICO COND. VIA CAGLIARI 13</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1663361</link>
-      <description>📚 Allegati totali: 2</description>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1663361</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">14/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1116</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <category domain="item-category-entry">1663345</category>
-      <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/5ib72j215aevcb12o91g7zz3eyolc0tr.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/mtw32rih7ebxmma2cgb17hi9ogfyazuk.pdf" length="0" type="application/pdf"/>
+      <title>AVVISO DI DEPOSITO ATTI A DUE F EDILIZIA 2025 S.R.L.S</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1663420</link>
+      <description>📚 Allegati totali: 1</description>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1663420</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1120</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <category domain="item-category-entry">1663422</category>
+      <category domain="item-category-attachments">1</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/4fejwzi2y7lt1oyk0k99r5ptk52mxma8.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/8p434t2mr4s5j29xe39s6u7ipio171y4.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A GOLDEN HOUSE S.R.L.S</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1663422</link>
+      <description>📚 Allegati totali: 1</description>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1663422</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1119</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <category domain="item-category-entry">1663420</category>
+      <category domain="item-category-attachments">1</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/8p434t2mr4s5j29xe39s6u7ipio171y4.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/4fejwzi2y7lt1oyk0k99r5ptk52mxma8.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A ITAL WORK CSC S.R.L.S</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1663424</link>
+      <description>📚 Allegati totali: 1</description>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1663424</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1118</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <category domain="item-category-entry">1663418</category>
+      <category domain="item-category-attachments">1</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/3c36kk34qxgkra18ncke8d4yykbacuto.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/eyf49vm5rm1j9d4a6pu1fxt955dosf92.pdf" length="0" type="application/pdf"/>
     </item>
   </channel>
 </rss>
