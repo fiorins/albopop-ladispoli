@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 30 Apr 2026 07:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 09:30:44 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -20,36 +20,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
     <item>
-      <title>PROGETTO P.N.R.R. FINANZIATO DALL’UNIONE EUROPEA NEXT GENERATION-EU MISSIONE 5 COMPONENTE 2 SOTTOCOMPONENTE 1, INVESTIMENTO 1.3, SUBINVESTIMENTO 1.3.1 - HOUSING FIRST, ADEGUAMENTO E ADATTAMENTO DEGLI SPAZI ESISTENTI DEGLI IMMOBILI SITI IN LADISPOLI: PORZIONE DELL’EDIFICIO DENOMINATO “EX TELECOM” IN VIA ANCONA - APPARTAMENTO SITO AL PRIMO PIANO DELL’EDIFICIO ED IN VIA LA SPEZIA - CUP E65I22000050001 - LIQUIDAZIONE SAL N.3 IN FAVORE DELLA SOC. IPOMAGI SRL.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1663467</link>
-      <description>📚 Allegati totali: 3</description>
+      <title>CONVOCAZIONE CONSIGLIO COMUNALE_06.05.2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1663848</link>
+      <description>📚 Allegati totali: 1</description>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1663467</guid>
+      <guid isPermaLink="true">1663848</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">30/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">15/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1123</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1663470</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/7ruvisjlt4mlpewmfi28ve8k4j2i42zu.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/83ikpd1y63a6wiprqp102d6sqwfdcrm4.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>P.N.R.R. FINANZIATO DALL'UNIONE EUROPEA – NEXT GENERATION EU - LIQUIDAZIONE FATT. 2/26 DEL 23/04/2026 A FAVORE DELL’ING. FANTAUZZI GIULIA PER DIREZIONE LAVORI E CSE LAVORI DI ADEGUAMENTO E ADATTAMENTO DEGLI SPAZI ESISTENTI IMMOBILI SITI IN LADISPOLI, APPARTAMENTO IN VIA LA SPEZIA E AP-PARTAMENTO VIA ANCONA - CIG A33B7252A CUP E65I22000050001</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1663470</link>
-      <description>📚 Allegati totali: 4</description>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1663470</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">30/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">15/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1122</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1663467</category>
-      <category domain="item-category-attachments">4</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/83ikpd1y63a6wiprqp102d6sqwfdcrm4.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/7ruvisjlt4mlpewmfi28ve8k4j2i42zu.pdf" length="0" type="application/pdf"/>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">06/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1124</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <category domain="item-category-entry">1663848</category>
+      <category domain="item-category-attachments">1</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/qzpqoww4q3w0xv3bfhkykqtnyltrmnxs.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/qzpqoww4q3w0xv3bfhkykqtnyltrmnxs.pdf" length="0" type="application/pdf"/>
     </item>
   </channel>
 </rss>
