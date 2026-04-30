@@ -1,6 +1,5 @@
 import os, io, re, json, base64, requests, time, html
 from zoneinfo import ZoneInfo
-
 from datetime import datetime, timezone
 from dotenv import load_dotenv
 from pathlib import Path
@@ -654,7 +653,7 @@ def main():
             valid_entries.append(result)
 
     print(
-        f"Skipping step Box items (already stored) ({len(skipped_box)} tot):\n{skipped_box}\n"
+        f"Skipping Box step, items already stored ({len(skipped_box)} tot):\n{skipped_box}\n"
     )
     print(f"Uploaded on Box items ({len(uploaded_box)} tot):\n{uploaded_box}\n")
 
