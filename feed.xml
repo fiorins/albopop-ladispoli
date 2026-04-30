@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 30 Apr 2026 12:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 14:00:57 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -20,36 +20,52 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
     <item>
-      <title>DIVIETO DI SOSTA PER RIPRESE CINEMATOGRAFICHE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1664135</link>
+      <title>NOMINA DELLA COMMISSIONE PER L'ESAME E LA VALUTAZIONE DELLE ISTANZE PERVENUTE A SEGUITO DI AVVISO PUBBLICO, APPROVATO CON DETERMINAZIONE DIRIGENZIALE N. 713 DEL 30/03/2026, PER LA REALIZZAZIONE DI SAGGI DI FINE ANNO SCOLASTICO DAL 19 GIUGNO AL 23 AGOSTO 2026, RIENTRANTI NELLA “RASSEGNA ESTIVA 2026”, PRESSO LO SPAZIO DEDICATO AD ATTIVITÀ CULTURALI SITO IN VIA RAPALLO N. 14 ATTIGUO AL SITO ARCHEOLOGICO DENOMINATO “LA GROTTACCIA”.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1664242</link>
       <description>📚 Allegati totali: 2</description>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1664135</guid>
+      <guid isPermaLink="true">1664242</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">30/04/2026</category>
       <category domain="http://albopop.it/specs#item-category-pubEnd">15/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1126</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1129</category>
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <category domain="item-category-entry">1664147</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1664277</category>
       <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/tmrome9nxfokj6no9re552lhjh9psecl.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/zqwrmdpk4b42chrk2ay92mpk92muubiy.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/q2fjjx3lms9q13j0fzxjh2m4qhi8r7o0.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/b12jgaqd6emcciydrissaq6zlivni4vh.pdf" length="0" type="application/pdf"/>
     </item>
     <item>
-      <title>DIVIETO DI SOSTA PER RIPRESE CINEMATOGRAFICHE-RETTIFICA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1664147</link>
-      <description>📚 Allegati totali: 2</description>
+      <title>PROGETTO P.N.R.R. FINANZIATO DALL’UNIONE EUROPEA NEXT GENERATION-EU M4C1INVESTIMENTO 1.1 “PIANO PER ASILI NIDO E SCUOLE DELL’INFANZIA E SERVIZI DI EDU-CAZIONE E CURA PER LA PRIMA INFANZIA” C.U.P. E65E22000210006 - AUTORIZZAZIONE SUB-APPALTO LAVORI ALLA ARTERI COSTRUZIONI S.R.L.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1664274</link>
+      <description>📚 Allegati totali: 4</description>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1664147</guid>
+      <guid isPermaLink="true">1664274</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">30/04/2026</category>
       <category domain="http://albopop.it/specs#item-category-pubEnd">15/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1125</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1128</category>
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <category domain="item-category-entry">1664135</category>
-      <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/zqwrmdpk4b42chrk2ay92mpk92muubiy.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/tmrome9nxfokj6no9re552lhjh9psecl.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1664274</category>
+      <category domain="item-category-attachments">4</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/0l7u0ggg6uo1sbk6o7fmentrz2aesyvt.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/0l7u0ggg6uo1sbk6o7fmentrz2aesyvt.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>STRUTTURA CASA DI RIPOSO "L'APPRODO" - LIQUIDAZIONE SOMMA PER COMPARTECIPAZIONE ALLA RETTA UTENTI RICOVERATI - PERIODO GENNAIO/MARZO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1664277</link>
+      <description>📚 Allegati totali: 3</description>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1664277</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/04/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">15/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1127</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1664242</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/b12jgaqd6emcciydrissaq6zlivni4vh.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/q2fjjx3lms9q13j0fzxjh2m4qhi8r7o0.pdf" length="0" type="application/pdf"/>
     </item>
   </channel>
 </rss>
