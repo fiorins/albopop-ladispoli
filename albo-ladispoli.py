@@ -607,9 +607,6 @@ def main():
 
     # 2. Load already seen entries (as a Set for fast lookups)
     seen = load_seen()
-    seen_list = sorted(
-        list(seen), key=lambda x: int(x.split("-")[-1]) if "-" in x else 0
-    )
     print(f"Previous run, old items list ({len(seen_list)} tot):\n{seen_list}\n")
 
     # 2. Scrape new entries (Passing the session)
