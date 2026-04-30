@@ -607,7 +607,7 @@ def main():
 
     # 2. Scrape new entries (Passing the session)
     entries = scrape_entries(seen, session)
-    entries_list = [f"{entry['year']}-{entry['number']}" for entry in entries]
+    entries_list = [f"{entry['registry']}" for entry in entries]
     entries_list.sort(key=lambda x: int(x.split("-")[-1]))
     print(f"Actual run, new items list ({len(entries_list)} tot):\n{entries_list}\n")
 
@@ -648,7 +648,7 @@ def main():
                 uploaded_box.append(entry["registry"])
 
             # Only add to the final queue if it's a valid dictionary
-            valid_entries.insert(0, result)
+            valid_entries.append(result)
 
     print(
         f"Skipping step Box items (already stored) ({len(skipped_box)} tot):\n{skipped_box}\n"
@@ -681,8 +681,7 @@ def main():
         sent_ok = send_with_rate_limit(
             send_telegram_msg,
             meta,
-            file_bytes=entry.get("file_bytes"),
-            # file_bytes=entry.get("box_shared_link"),
+            file_bytes=entry.get("file_bytes"),  # entry.get("box_shared_link"),
             filename=entry.get("filename"),
         )
 
