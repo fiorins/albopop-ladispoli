@@ -63,9 +63,14 @@ def load_seen():
 
 
 # After processing new entries it saves the updated list back to seen.json
-def save_seen(seen):
+def save_seen(seen, limit=30):
+    seen_list = sorted(seen, key=lambda x: (int(x.split("-")[0]), int(x.split("-")[1])))
+
+    seen_list = seen_list[-limit:]
+    seen_list.reverse()
+
     with Path(SEEN_FILE).open("w") as f:
-        json.dump(list(seen), f, indent=4)  # indent makes it readable
+        json.dump(seen_list, f, indent=4)
 
 
 # Strips it out the session token embedded in the attachment url
@@ -591,7 +596,9 @@ def process_single_entry(entry, box_client, box_items, session):
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 def main():
+
     print("----- Start log -----\n")
+
     current_year = datetime.now(ZoneInfo("Europe/Rome")).year
 
     # 1. Initialize Session and Global Headers
@@ -639,7 +646,6 @@ def main():
         # The code adds the entry's registry to a seen set and skips the rest of the loop for this item
 
         if result == "SEEN":
-            seen.add(entry["registry"])
             skipped_box.append(entry["registry"])
             continue
 
@@ -693,18 +699,21 @@ def main():
                 sent_ok.json().get("result", {}).get("message_id", "")
             )
 
-            seen.add(entry["registry"])
-
             # Update Google Sheets AND our local cache of IDs
-            if save_to_sheet(sheet, entry, existing_ids):
-                # We add it here so the NEXT entry in the loop knows this ID is now taken
-                existing_ids.add(str(entry["entry_id"]))
+            if not save_to_sheet(sheet, entry, existing_ids):
+                return
+
+            # We add it here so the NEXT entry in the loop knows this ID is now taken
+            existing_ids.add(str(entry["entry_id"]))
+
+            seen.add(entry["registry"])
 
         # 10. Memory Management: Clear PDF data from RAM after use
         entry.pop("file_bytes", None)
 
     save_seen(seen)
     print(f"\nProcessed {len(valid_entries)} new entries.")
+
     print("----- End log -----")
 
 
