@@ -607,7 +607,7 @@ def main():
 
     # 2. Load already seen entries (as a Set for fast lookups)
     seen = load_seen()
-    print(f"Previous run, old items list ({len(seen_list)} tot):\n{seen_list}\n")
+    print(f"Previous run, old items list ({len(seen)} tot):\n{seen}\n")
 
     # 2. Scrape new entries (Passing the session)
     entries = scrape_entries(seen, session)
