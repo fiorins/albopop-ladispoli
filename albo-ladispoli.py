@@ -391,7 +391,7 @@ def safe_int(value):
 def save_to_sheet(sheet, entry, existing_ids):
 
     if str(entry["entry_id"]) in existing_ids:
-        print(f"Skipping Google Sheet step (already stored): {entry['entry_id']}")
+        print(f"Skipping Google Sheet step, item already stored: {entry['entry_id']}")
         return False
 
     try:
