@@ -616,6 +616,7 @@ def main():
 
     if not entries:
         print("No new entries.")
+        print("----- End log -----")
         return
 
     # 3. Initialize external services
@@ -697,6 +698,8 @@ def main():
 
             # Update Google Sheets AND our local cache of IDs
             if not save_to_sheet(sheet, entry, existing_ids):
+                print("\nNo entries to save on Google Sheet.\n")
+                print("----- End log -----")
                 return
 
             # We add it here so the NEXT entry in the loop knows this ID is now taken
