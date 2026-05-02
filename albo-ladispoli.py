@@ -8,6 +8,8 @@ from lxml import etree
 from feedgen.feed import FeedGenerator
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 from box_sdk_gen import (
     BoxClient,
@@ -62,7 +64,7 @@ def load_seen():
 
 
 # After processing new entries it saves the updated list back to seen.json
-def save_seen(seen, limit=30):
+def save_seen(seen, limit=40):
     seen_list = sorted(seen, key=lambda x: (int(x.split("-")[0]), int(x.split("-")[1])))
 
     seen_list = seen_list[-limit:]
@@ -75,6 +77,26 @@ def save_seen(seen, limit=30):
 # Strips it out the session token embedded in the attachment url
 def clean_jsessionid(url):
     return re.sub(r";jsessionid=.*?(?=\?)", "", url)
+
+
+def create_session():
+    session = requests.Session()
+    session.headers.update(HEADERS)  # Set headers globally for this session
+
+    retries = Retry(
+        total=3,
+        connect=3,
+        read=3,
+        backoff_factor=2,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=["GET"],
+    )
+
+    adapter = HTTPAdapter(max_retries=retries)
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+
+    return session
 
 
 # ── BOX cloud ─────────────────────────────────────────────────────────────────
@@ -425,7 +447,7 @@ def save_to_sheet(sheet, entry, existing_ids):
 # Analyze the website scraping the list of entries that are not in seen list
 def scrape_entries(seen, session):
     """Scrape the main table and return only new entries."""
-    response = session.get(ROOT_URL, timeout=20)  # Use session
+    response = session.get(ROOT_URL, timeout=30)  # Use session
     soup = BeautifulSoup(response.text, "html.parser")
 
     entries = []
@@ -494,7 +516,7 @@ def scrape_entries(seen, session):
 
 def fetch_attachment_url(entry_url, session):
     try:
-        resp = session.get(entry_url, timeout=20)  # Use session
+        resp = session.get(entry_url, timeout=30)  # Use session
         soup = BeautifulSoup(resp.text, "html.parser")
 
         detail_div = soup.select_one(".dettaglio-pratica-rght.span6")
@@ -593,6 +615,23 @@ def process_single_entry(entry, box_client, box_items, session):
         return None
 
 
+def scrape_entries_with_retry(seen, session, max_retries=3, wait=30):
+    for attempt in range(1, max_retries + 1):
+        try:
+            return scrape_entries(seen, session)
+        except requests.exceptions.ConnectTimeout:
+            print(f"Timeout on attempt {attempt}/{max_retries}. Waiting {wait}s...")
+            if attempt < max_retries:
+                time.sleep(wait)
+        except requests.exceptions.RequestException as e:
+            print(f"Request error on attempt {attempt}/{max_retries}: {e}")
+            if attempt < max_retries:
+                time.sleep(wait)
+
+    print("Max retries reached. Skipping this run.")
+    return None
+
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 def main():
 
@@ -601,15 +640,20 @@ def main():
     current_year = datetime.now(ZoneInfo("Europe/Rome")).year
 
     # 1. Initialize Session and Global Headers
-    session = requests.Session()
-    session.headers.update(HEADERS)  # Set headers globally for this session
+    session = create_session()
 
     # 2. Load already seen entries (as a Set for fast lookups)
     seen = load_seen()
     print(f"Previous run, old items list ({len(seen)} tot):\n{list(seen)}\n")
 
     # 2. Scrape new entries (Passing the session)
-    entries = scrape_entries(seen, session)
+    # entries = scrape_entries(seen, session)
+    entries = scrape_entries_with_retry(seen, session)
+    if entries is None:
+        print("Website unreachable. Will retry next scheduled run.")
+        print("----- End log -----")
+        return
+
     entries_list = [f"{entry['registry']}" for entry in entries]
     entries_list.sort(key=lambda x: int(x.split("-")[-1]))
     print(f"Actual run, new items list ({len(entries_list)} tot):\n{entries_list}\n")
@@ -697,10 +741,7 @@ def main():
             )
 
             # Update Google Sheets AND our local cache of IDs
-            if not save_to_sheet(sheet, entry, existing_ids):
-                print("\nNo entries to save on Google Sheet.\n")
-                print("----- End log -----")
-                return
+            save_to_sheet(sheet, entry, existing_ids)
 
             # We add it here so the NEXT entry in the loop knows this ID is now taken
             existing_ids.add(str(entry["entry_id"]))
