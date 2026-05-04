@@ -261,7 +261,7 @@ def generate_rss(entries):
         fe.published(entry["pub_start"])
         fe.description(f"📚 Allegati totali: {entry['att_count']}")
         # if e.get("box_file_link") and entry["box_file_link"] != "non presente":
-        if e.get("box_file_link"):
+        if entry.get("box_file_link"):
             fe.enclosure(entry["box_file_link"], 0, "application/pdf")
         else:
             fe.enclosure("", 0, "application/pdf")
@@ -425,7 +425,7 @@ def save_to_sheet(sheet, entry, existing_ids):
             entry["type"],
             entry["sub_type"],
             safe_int(entry["att_count"]),
-            safe_int(entry.get("box_file_id", "")),
+            entry.get("box_file_id", ""),
             entry.get("box_file_link", ""),
             entry.get("box_att_folder", ""),
             safe_int(entry.get("tg_message_id", "")),
@@ -557,7 +557,7 @@ def process_single_entry(entry, box_client, box_items, session):
 
     # 1. Check if already in Box
     if filename in box_items:
-        return "SEEN"  # Special flag to mark as seen without processing
+        return "EXISTS"  # Special flag to mark as seen without processing
 
     # 2. Fetch the attachment URL
     att_url = fetch_attachment_url(entry["entry_url"], session)  # Pass session
@@ -684,7 +684,7 @@ def main():
         # If the function returns "SEEN", it means this entry has been handled before.
         # The code adds the entry's registry to a seen set and skips the rest of the loop for this item
 
-        if result == "SEEN":
+        if result == "EXISTS":
             skipped_box.append(entry["registry"])
             continue
 
@@ -739,12 +739,11 @@ def main():
             )
 
             # Update Google Sheets AND our local cache of IDs
-            save_to_sheet(sheet, entry, existing_ids)
-
-            # We add it here so the NEXT entry in the loop knows this ID is now taken
-            existing_ids.add(str(entry["entry_id"]))
-
-            seen.add(entry["registry"])
+            if save_to_sheet(sheet, entry, existing_ids):
+                existing_ids.add(
+                    str(entry["entry_id"])
+                )  # We add it here so the NEXT entry in the loop knows this ID is now taken
+                seen.add(entry["registry"])  # Add the entry to the completed items list
 
         # 10. Memory Management: Clear PDF data from RAM after use
         entry.pop("file_bytes", None)
