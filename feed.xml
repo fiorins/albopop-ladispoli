@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 30 Apr 2026 14:30:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 10:01:07 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -20,36 +20,52 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
     <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELL' OPERATORE ECONOMICO L.D. - REALIZZAZIONE DEL CANCELLO ALL' INTERNO DEL PALA SORBO - CIG BB6A640290;</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1664303</link>
+      <title>DISCIPLINA BALNEARE 2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1665325</link>
       <description>📚 Allegati totali: 1</description>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1664303</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">30/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">05/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1131</category>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1665325</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1132</category>
       <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
       <category domain="item-category-subType">AVVISI</category>
-      <category domain="item-category-entry">1664332</category>
+      <category domain="item-category-entry">1665270</category>
       <category domain="item-category-attachments">1</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/2f0cmijmejg2jbhupw7ds93nqbln6fq4.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/e20txu8dw5lojuugmkuezm0kfna3c8ce.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/clvjqd1y7nhglt245iq5jwwk8wvxzand.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/dshzapn0n21faof3uy1l4x3lleq7i9d1.pdf" length="0" type="application/pdf"/>
     </item>
     <item>
-      <title>REVISIONE DINAMICA STRAORDINARIA APRILE 2026 AVVISO AGLI ELETTORI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1664332</link>
+      <title>REVOCA ORDINANZA SINDACALE N. 53 DEL 28/04/2026, AVENTE AD OGGETTO: “DISCIPLINA BALNEARE 2026”.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1665323</link>
       <description>📚 Allegati totali: 2</description>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1664332</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">30/04/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">15/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1130</category>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1665323</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1133</category>
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1664303</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <category domain="item-category-entry">1665323</category>
       <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/e20txu8dw5lojuugmkuezm0kfna3c8ce.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/2f0cmijmejg2jbhupw7ds93nqbln6fq4.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/1rbbqpnrg6zskcyn0bdrpwapnzu5irnq.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/1rbbqpnrg6zskcyn0bdrpwapnzu5irnq.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>- "ADEGUAMENTO STAZIONI DI SOLLEVAMENTO FOGNARIE LOTTO 1 - LOCALITÀ DI MARINA DI SAN NICOLA" NEL COMUNE DI LADISPOLI (RM)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1665270</link>
+      <description>📚 Allegati totali: 2</description>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1665270</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1134</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <category domain="item-category-entry">1665325</category>
+      <category domain="item-category-attachments">2</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/dshzapn0n21faof3uy1l4x3lleq7i9d1.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/clvjqd1y7nhglt245iq5jwwk8wvxzand.pdf" length="0" type="application/pdf"/>
     </item>
   </channel>
 </rss>
