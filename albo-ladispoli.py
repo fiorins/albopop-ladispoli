@@ -112,9 +112,6 @@ def get_box_items(client, folder_id="0"):
 
 
 def upload_to_box(client, file_bytes, filename, folder_id="0"):
-    match = re.search(r"\[(.*?)\]", filename)
-    register = match.group(1) if match else "Unknown"
-
     try:
         uploaded = client.uploads.upload_file(
             attributes=UploadFileAttributes(
@@ -210,7 +207,7 @@ def add_item_categories(item, entry):
             "item-category-attachments",
             str(entry.get("att_count", "")),
         ),
-        ("item-category-attachBoxUrl", str(entry.get("box_shared_link", ""))),
+        ("item-category-attachBoxUrl", str(entry.get("box_file_link", ""))),
     ]
 
     guid = item.find("guid")
@@ -245,7 +242,7 @@ def fix_item(item, entry):
         item.insert(guid_index, pub_date)
 
 
-def generate_rss(all_entries):
+def generate_rss(entries):
     fg = FeedGenerator()
     fg.id(FEED_URL)
     fg.title("AlboPOP - Comune - Ladispoli")
@@ -256,16 +253,16 @@ def generate_rss(all_entries):
     fg.docs("http://albopop.it/comune/ladispoli/")
     fg.webMaster("davidefiorini@outlook.com (Davide Fiorini)")
 
-    for e in all_entries:
+    for entry in entries:
         fe = fg.add_entry()
-        fe.id(e["entry_id"])
-        fe.title(e["title"])
-        fe.link(href=e["entry_url"])
-        fe.published(e["pub_start"])
-        fe.description(f"📚 Allegati totali: {e['att_count']}")
-        # if e.get("box_shared_link") and e["box_shared_link"] != "non presente":
-        if e.get("box_shared_link"):
-            fe.enclosure(e["box_shared_link"], 0, "application/pdf")
+        fe.id(entry["entry_id"])
+        fe.title(entry["title"])
+        fe.link(href=entry["entry_url"])
+        fe.published(entry["pub_start"])
+        fe.description(f"📚 Allegati totali: {entry['att_count']}")
+        # if e.get("box_file_link") and entry["box_file_link"] != "non presente":
+        if e.get("box_file_link"):
+            fe.enclosure(entry["box_file_link"], 0, "application/pdf")
         else:
             fe.enclosure("", 0, "application/pdf")
 
@@ -279,7 +276,7 @@ def generate_rss(all_entries):
     add_channel_extras(channel)
     items = channel.findall("item")
 
-    for item, entry in zip(items, all_entries):
+    for item, entry in zip(items, entries):
         fix_item(item, entry)
 
     etree.indent(root, space="  ")
@@ -429,7 +426,8 @@ def save_to_sheet(sheet, entry, existing_ids):
             entry["sub_type"],
             safe_int(entry["att_count"]),
             safe_int(entry.get("box_file_id", "")),
-            entry.get("box_shared_link", ""),
+            entry.get("box_file_link", ""),
+            entry.get("box_att_folder", ""),
             safe_int(entry.get("tg_message_id", "")),
         ]
 
@@ -576,7 +574,7 @@ def process_single_entry(entry, box_client, box_items, session):
             {
                 "attachment_url": None,
                 "box_file_id": "",
-                "box_shared_link": "",
+                "box_file_link": "",
                 "file_bytes": None,
             }
         )
@@ -602,7 +600,7 @@ def process_single_entry(entry, box_client, box_items, session):
         entry.update(
             {
                 "box_file_id": box_file.id,
-                "box_shared_link": box_link,
+                "box_file_link": box_link,
                 "file_bytes": file_resp.content,
                 "filename": filename,
             }
@@ -728,7 +726,7 @@ def main():
         sent_ok = send_with_rate_limit(
             send_telegram_msg,
             meta,
-            file_bytes=entry.get("file_bytes"),  # entry.get("box_shared_link"),
+            file_bytes=entry.get("file_bytes"),  # entry.get("box_file_link"),
             filename=entry.get("filename"),
         )
 
