@@ -57,7 +57,7 @@ def send_with_rate_limit(send_func, *args, **kwargs):
 
 
 def get_telegram_caption(meta: dict, include_header=False):
-    raw_title = meta.get("title", "Titolo non disponibile")
+    raw_title = str(meta.get("title") or "Titolo non disponibile")
     title_edit = re.sub(r"(\.|\d|\/)", lambda x: x.group(0) + "\u200c", raw_title)
 
     type_mappings = {
@@ -70,27 +70,21 @@ def get_telegram_caption(meta: dict, include_header=False):
         "DETERMINE": "Determine",
         "ORDINANZE": "Ordinanze",
     }
-    sub_type_edit = type_mappings.get(meta.get("category"), "Generico")
+    category = str(meta.get("category", "")).strip().upper()
+    sub_type_edit = type_mappings.get(category, "Generico")
 
     header = "ℹ️ Allegato atto: non presente\n\n" if include_header else ""
 
     # 1. Check if box_folder actually has content
-    box_folder_url = meta.get("box_folder")
-    official_url = meta.get("url", "#")
+    safe_official_url = clean_href(meta.get("url", "#"))
+    safe_box_url = clean_href(meta.get("box_folder"))
 
-    safe_box_url = clean_href(box_folder_url)
-    safe_official_url = clean_href(official_url)
+    subfooter = f'🔗 <a href="{safe_official_url}">Pagina sull\'albo ufficiale</a>\n\n'
 
-    if safe_box_url and safe_box_url != "#":
+    if safe_box_url != "#":
         footer = f'📚 <a href="{safe_box_url}">Altri allegati atto</a>\n\u200b'
-        subfooter = (
-            f'🔗 <a href="{safe_official_url}">Pagina sull\'albo ufficiale</a>\n\n'
-        )
     else:
-        footer = ""
-        subfooter = (
-            f'🔗 <a href="{safe_official_url}">Pagina sull\'albo ufficiale</a>\n\u200b'
-        )
+        footer = f"📚 Altri allegati atto: non presenti\n\u200b"
 
     return (
         f"{header}"
