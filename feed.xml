@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 05 May 2026 11:01:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 12:02:10 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -20,36 +20,116 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
     <item>
-      <title>IMPEGNO DI SPESA PER CARTE D'ARGENTO SENZA NOME, NUMERATE E PLASTICATE OPACHE - ARTI GRAFICHE LAURIA S.N.C.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666337</link>
-      <description>📚 Allegati totali: 3</description>
+      <title>(RPS316/26) “ACCORDO QUADRO AI SENSI DELL’ART. 59 DEL D.LGS. 36/2023, CON UN SOLO OPERATORE ECONOMICO PER LA MANUTENZIONE EDILE DEGLI EDIFICI PUBBLICI COMUNALI O AD USO PUBBLICO, ED ALTRE OPERE MINORI O COMPLEMENTARI.” - SECONDO ACCORDO OPERATIVO, APPROVAZIONE SAL N. 1 E LIQUIDAZIONE CP N. 1 IMPRESA CA.MA. COSTRUZIONI SRL (CIG B987972CAA)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666456</link>
+      <description>📚 Allegati totali: 4</description>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1666337</guid>
+      <guid isPermaLink="true">1666456</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">05/05/2026</category>
       <category domain="http://albopop.it/specs#item-category-pubEnd">20/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1146</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1148</category>
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1666334</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/bxyqzo41j60oanqwd22q617j0wuyjpnf.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/eg1gik3xynp92j1ceu1izbfm65i3lhep.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-entry">1666425</category>
+      <category domain="item-category-attachments">4</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/0tvgd1vr49b8ggahmvj3qgpddx7us81s.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/jbid7pxgkdl48kxodxtnusi681m80na5.pdf" length="0" type="application/pdf"/>
     </item>
     <item>
-      <title>DETERMINA DI IMPEGNO PER RIMBORSO SPESE DI NOTIFICAZIONE ATTI DI VARIE AMMINISTRAZIONI COMUNALI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666334</link>
+      <title>LIQUIDAZIONE FORNITURA COMBUSTIBILE PLESSO SCOLASTICO "ILARIA ALPI" SITO IN VIA VARSAVIA E VIA PRAGA - PERIODO: DAL 28/02/2026 AL 31/03/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666453</link>
       <description>📚 Allegati totali: 3</description>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1666334</guid>
+      <guid isPermaLink="true">1666453</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">05/05/2026</category>
       <category domain="http://albopop.it/specs#item-category-pubEnd">20/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1147</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1149</category>
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1666337</category>
+      <category domain="item-category-entry">1666428</category>
       <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/eg1gik3xynp92j1ceu1izbfm65i3lhep.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/bxyqzo41j60oanqwd22q617j0wuyjpnf.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/wof2um0wp540x7s4z3q54r17jhczgpyu.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/vy9esr2g70a3mkj85t23d6ijmgvhib2d.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE DEI TRATTAMENTI ENDOTERAPICI SUI PINI DEL TERRITORIO COMUNALE ESEGUITI NELL'AMBITO DELL'ACCORDO QUADRO CONCLUSO CON LA AVR S.P.A.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666437</link>
+      <description>📚 Allegati totali: 3</description>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1666437</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1150</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1666431</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/ex68o9ej12o11vgque7bxnuecz32pvzz.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/62g3ii3qgt0njfxabdpmhtrm2jn8hd4o.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELLA SODI SCIENTIFICA PER CONTRATTO LUNGO NOLEGGIO MESI 36 DI 4 POSTAZIONI VELOX FISSE FATT. NR. 269/S DEL 30/04/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666434</link>
+      <description>📚 Allegati totali: 3</description>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1666434</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1151</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1666434</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/1o9ip3nveoddnhn93h6tiw3e2y81gzvu.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/1o9ip3nveoddnhn93h6tiw3e2y81gzvu.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>AFFIDAMENTO DI SERVIZI STRUMENTALI A SUPPORTO DELL'UFFICIO TRIBUTI ALLA SOCIETÀ PARTECIPATA FLAVIA SERVIZI S.R.L. - LIQUIDAZIONE PERIODO 01/01/2026 – 31/03/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666431</link>
+      <description>📚 Allegati totali: 2</description>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1666431</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1152</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1666437</category>
+      <category domain="item-category-attachments">2</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/62g3ii3qgt0njfxabdpmhtrm2jn8hd4o.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/ex68o9ej12o11vgque7bxnuecz32pvzz.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>(RPS320/26) AFFIDAMENTO DIRETTO E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DELL'OPERATORE ECONOMICO FUSCO ASCENSORI PER IL SERVIZIO DI MANUTENZIONE DEL SERVOSCALA 1 INSTALLATO ALLA SCUOLA CARAVAGGIO (G00277) PER LA DURATA DI 1 ANNO (PRESTAZIONE DI MINIMO IMPORTO - MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023).</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666428</link>
+      <description>📚 Allegati totali: 2</description>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1666428</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1153</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1666453</category>
+      <category domain="item-category-attachments">2</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/vy9esr2g70a3mkj85t23d6ijmgvhib2d.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/wof2um0wp540x7s4z3q54r17jhczgpyu.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DI VARI CITTADINI PER SOMME ERRONEAMENTE VERSATE APRILE 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666425</link>
+      <description>📚 Allegati totali: 3</description>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1666425</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1154</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1666456</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/jbid7pxgkdl48kxodxtnusi681m80na5.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/0tvgd1vr49b8ggahmvj3qgpddx7us81s.pdf" length="0" type="application/pdf"/>
     </item>
   </channel>
 </rss>
