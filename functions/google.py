@@ -42,24 +42,24 @@ def save_to_sheet(sheet, entry, existing_ids):
 
     try:
         row = [
-            entry["title"],
-            entry["pub_start_alt"],
-            entry["pub_end_alt"],
-            safe_int(entry["entry_id"]),
-            entry["entry_url"],
-            safe_int(entry["year"]),
-            safe_int(entry["number"]),
-            entry["type"],
-            entry["sub_type"],
-            safe_int(entry["att_count"]),
+            entry.get("title"),
+            entry.get("pub_start_alt"),
+            entry.get("pub_end_alt"),
+            safe_int(entry.get("entry_id")),
+            entry.get("entry_url"),
+            safe_int(entry.get("year")),
+            safe_int(entry.get("number")),
+            entry.get("type"),
+            entry.get("sub_type"),
+            safe_int(entry.get("att_count")),
             entry.get("box_file_id", ""),
             entry.get("box_file_link", ""),
             (
                 ", ".join(entry.get("box_folder_ids", []))
                 if entry.get("box_folder_ids")
-                else ""
+                else "non presenti"
             ),
-            entry.get("box_folder_link", ""),
+            entry.get("box_folder_link", "non presente"),
             safe_int(entry.get("tg_message_id", "")),
         ]
 

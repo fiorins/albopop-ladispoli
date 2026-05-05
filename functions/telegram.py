@@ -72,7 +72,7 @@ def get_telegram_caption(meta: dict, include_header=False):
     }
     sub_type_edit = type_mappings.get(meta.get("category"), "Generico")
 
-    header = "ℹ️ Allegato atto non presente\n\n" if include_header else ""
+    header = "ℹ️ Allegato atto: non presente\n\n" if include_header else ""
 
     # 1. Check if box_folder actually has content
     box_folder_url = meta.get("box_folder")
