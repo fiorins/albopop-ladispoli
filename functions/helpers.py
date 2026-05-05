@@ -4,9 +4,6 @@ from pathlib import Path
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-load_dotenv()
-
-
 # ── Configs ────────────────────────────────────────────────────────────────────
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 

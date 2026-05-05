@@ -27,6 +27,8 @@ if not ROOT_URL or not ELEMENT_BASE_URL:
 def scrape_entries(seen, session):
     """Scrape the main table and return only new entries."""
     response = session.get(ROOT_URL, timeout=30)  # Use session
+    response.raise_for_status()
+
     soup = BeautifulSoup(response.text, "html.parser")
 
     entries = []
@@ -156,18 +158,40 @@ def get_row_data(row):
 
 
 def fetch_attachments(url, session):
+    """
+    Fetch attachments from an entry page.
+
+    Always returns a dictionary with this shape:
+      {
+        "status": "ok" | "missing" | "error",
+        "main": dict | None,
+        "others": list[dict]
+      }
+    """
     try:
         resp = session.get(url, timeout=30)  # Use session
+        resp.raise_for_status()
+
         soup = BeautifulSoup(resp.text, "html.parser")
 
         detail_div = soup.select_one(".dettaglio-pratica-rght.span6")
         if not detail_div or not detail_div.get_text(strip=True):
-            return "non presente"
+            # return "non presente"
+            return {
+                "status": "missing",
+                "main": None,
+                "others": [],
+            }
 
         # 1. Find all rows with the specific data attribute
         attachment_rows = soup.find_all("tr", attrs={"data-chiave-allegato": True})
         if not attachment_rows:
-            return None
+            # return None
+            return {
+                "status": "error",
+                "main": None,
+                "others": [],
+            }
 
         # Return the main doc or the first one if documento principale is not present
         main_row = next(
@@ -184,40 +208,54 @@ def fetch_attachments(url, session):
 
         main_data = get_row_data(main_row)
         if not main_data:
-            return None
+            # return None
+            return {
+                "status": "error",
+                "main": None,
+                "others": [],
+            }
 
         others_data = []
-        if len(attachment_rows) > 1:
-            for row in attachment_rows:
-                if row == main_row:
-                    continue
+        for row in attachment_rows:
+            if row == main_row:
+                continue
 
-                data = get_row_data(row)
-                if data:
-                    others_data.append(data)
-                    # This is now a list of DICTS {"url": link, "filename": original_title}
+            data = get_row_data(row)
+            if data:
+                others_data.append(data)
+                # This is now a list of DICTS {"url": link, "filename": original_title}
 
-        return main_data, others_data
+        # return main_data, others_data
+        return {
+            "status": "ok",
+            "main": main_data,
+            "others": others_data,
+        }
 
     except Exception as e:
         print(f"Fetching attachment error: {e}")
-        return None
+        # return None
+        return {
+            "status": "error",
+            "main": None,
+            "others": [],
+        }
 
 
-def process_single_entry(entry, box_client, box_items, session):
+def process_single_entry(entry, box_client, box_items, box_item_names, session):
 
     main_file_label = f"allegato_atto_[{entry['registry']}].pdf"
-    if main_file_label in box_items:
+    if main_file_label in box_item_names:
         return "EXISTS"
 
     # Fetch ALL attachment URLs
     attachments_result = fetch_attachments(entry["entry_url"], session)
 
-    if attachments_result is None:
+    if attachments_result["status"] == "error":
         print(f"Skipping (attachment not ready): {entry['registry']}")
         return None
 
-    if attachments_result == "non presente":
+    if attachments_result["status"] == "missing":
         entry.update(
             {
                 "attachment_url": None,
@@ -230,7 +268,9 @@ def process_single_entry(entry, box_client, box_items, session):
         return entry
 
     # Unpack the result
-    main_attachment, others_attachments = attachments_result
+    # main_attachment, others_attachments = attachments_result
+    main_attachment = attachments_result["main"]
+    others_attachments = attachments_result["others"]
 
     # 1. Process Main Document (Common to both cases)
     try:
@@ -264,7 +304,7 @@ def process_single_entry(entry, box_client, box_items, session):
             # Pass the list 'others_attachments' directly.
             # upload_to_box_folder will handle the loop and filenames.
             box_folder_id, box_files_id = upload_to_box_folder(
-                box_client, others_attachments, entry["registry"]
+                box_client, others_attachments, entry["registry"], box_items
             )
             # no custom_label needed — auto-generates allegato_atto_[registry].pdf
             # each att uses its sanitized original name from fetch_attachments
@@ -274,7 +314,7 @@ def process_single_entry(entry, box_client, box_items, session):
             entry.update(
                 {
                     "box_folder_link": box_folder_link or "non presente",
-                    "box_folder_ids": box_files_id if box_files_id else "non presente",
+                    "box_folder_ids": box_files_id or [],
                 }
             )
 
@@ -283,7 +323,7 @@ def process_single_entry(entry, box_client, box_items, session):
             entry.update(
                 {
                     "box_folder_link": "non presente",
-                    "box_folder_ids": "non presente",
+                    "box_folder_ids": [],
                 }
             )
             # We don't return None here because we at least have the main doc

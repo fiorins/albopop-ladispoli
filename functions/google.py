@@ -3,9 +3,6 @@ from dotenv import load_dotenv
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
-load_dotenv()
-
-
 # ── Variables ──────────────────────────────────────────────────────────────────
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -29,9 +26,10 @@ def init_sheet(year):
 
 
 def safe_int(value):
-    if value in (None, ""):
+    try:
+        return int(value)
+    except (TypeError, ValueError):
         return ""
-    return int(value)
 
 
 def save_to_sheet(sheet, entry, existing_ids):

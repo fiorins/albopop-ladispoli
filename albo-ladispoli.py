@@ -2,15 +2,12 @@ from zoneinfo import ZoneInfo
 from datetime import datetime, timezone
 from dotenv import load_dotenv
 
-from functions.scrape import *
+from functions.scrape import scrape_entries_with_retry, process_single_entry
 from functions.box import get_box_client, get_box_items
 from functions.google import init_sheet, save_to_sheet
 from functions.helpers import create_session, load_seen, save_seen
 from functions.rss import generate_rss
 from functions.telegram import send_telegram_msg, send_with_rate_limit
-
-load_dotenv()
-
 
 def main():
 
@@ -67,7 +64,8 @@ def main():
 
     # 5. Fetch current Box inventory
     box_items = get_box_items(box_client)
-    box_items_names = [entry.name for entry in box_items]
+    # box_items_names = [entry.name for entry in box_items]
+    box_items_names = {item.name for item in box_items}
     # print(f"Last 10 uploaded Box items ({len(box_items_names)} tot):\n{box_items_names[:10]}\n")
 
     valid_entries = []

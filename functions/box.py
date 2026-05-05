@@ -20,6 +20,8 @@ load_dotenv()
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 BOX_CONFIG_JSON = os.path.join(BASE_DIR, "..", ".secrets", "config_box.json")
 
+ATTACHMENT_FOLDER_ID = os.getenv("ATTACHMENT_FOLDER_ID")
+
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 
 
@@ -120,7 +122,7 @@ def upload_to_box_folder(client, attachments, registry, all_items):
         else:
             subfolder = client.folders.create_folder(
                 name=folder_label,
-                parent=UploadFileAttributesParentField(id="0"),
+                parent=UploadFileAttributesParentField(id=f"{ATTACHMENT_FOLDER_ID}"),
             )
             folder_id = subfolder.id
 
