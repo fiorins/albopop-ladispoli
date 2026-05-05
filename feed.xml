@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 05 May 2026 14:30:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 16:01:01 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -20,20 +20,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
     <item>
-      <title>APPROVAZIONE ELENCO DEGLI UTENTI AMMESSI E DI QUELLI NON AMMESSI ALL’AGEVOLAZIONE TARIFFARIA PER L’ABBATTIMENTO DELLE SPESE SOSTENUTE PER IL PAGAMENTO DEL SERVIZIO DI MENSA SCOLASTICA ANNO 2025/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666628</link>
-      <description>📚 Allegati totali: 2</description>
+      <title>ASSEGNAZIONE TEMPORANEA DEI LOCALI MAGAZZINO E RELATIVE PERTINENZE - RIQUALIFICAZIONE APPRODO PESCATORI “SAN GIUSEPPE” DEL COMUNE DI LADISPOLI E APPROVAZIONE SCHEMA DI VERBALE DI CONSEGNA.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666727</link>
+      <description>📚 Allegati totali: 3</description>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1666628</guid>
+      <guid isPermaLink="true">1666727</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">05/05/2026</category>
       <category domain="http://albopop.it/specs#item-category-pubEnd">20/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1159</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1160</category>
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1666628</category>
-      <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/rnkx7nv3ll8f3nko6uil2t57abnznigw.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/rnkx7nv3ll8f3nko6uil2t57abnznigw.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-entry">1666727</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/5ulneqbgyijadinpvwtintusf32hsiyl.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/5ulneqbgyijadinpvwtintusf32hsiyl.pdf" length="0" type="application/pdf"/>
     </item>
   </channel>
 </rss>
