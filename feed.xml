@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 05 May 2026 10:31:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 11:01:03 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -20,68 +20,36 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
     <item>
-      <title>ART.45 BIS DEL CODICE DELLA NAVIGAZIONE – AFFIDAMENTO AD ALTRI SOGGETTI DELLE ATTIVITÀ OGGETTO DELLA CONCESSIONE DEMANIALE MARITTIMA N. 2/2012 PROROGATA FINO ALLA DATA DEL 31.12.2020 CON ATTO N. 9/2017 ED ESTESA EX LEGE RILASCIATA DAL COMUNE DI LADISPOLI A FAVORE DELLO STABILIMENTO BALNEARE DENOMINATO “MOLTO”.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666318</link>
-      <description>📚 Allegati totali: 2</description>
+      <title>IMPEGNO DI SPESA PER CARTE D'ARGENTO SENZA NOME, NUMERATE E PLASTICATE OPACHE - ARTI GRAFICHE LAURIA S.N.C.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666337</link>
+      <description>📚 Allegati totali: 3</description>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1666318</guid>
+      <guid isPermaLink="true">1666337</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">05/05/2026</category>
       <category domain="http://albopop.it/specs#item-category-pubEnd">20/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1142</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1146</category>
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <category domain="item-category-entry">1666285</category>
-      <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/1g4uhecqh46f2zxon05r498n5fkvbvxt.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/kb93glssb49fa44yb7m1bs3b1jmqsqrx.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1666334</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/bxyqzo41j60oanqwd22q617j0wuyjpnf.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/eg1gik3xynp92j1ceu1izbfm65i3lhep.pdf" length="0" type="application/pdf"/>
     </item>
     <item>
-      <title>OCCUPAZIONE SUOLO PUBBLICO CONDOMINIO VIA ETRURIA 3</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666305</link>
-      <description>📚 Allegati totali: 2</description>
+      <title>DETERMINA DI IMPEGNO PER RIMBORSO SPESE DI NOTIFICAZIONE ATTI DI VARIE AMMINISTRAZIONI COMUNALI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666334</link>
+      <description>📚 Allegati totali: 3</description>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1666305</guid>
+      <guid isPermaLink="true">1666334</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">05/05/2026</category>
       <category domain="http://albopop.it/specs#item-category-pubEnd">20/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1143</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1147</category>
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <category domain="item-category-entry">1666287</category>
-      <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/k8bs2c0y2uf2d3wk4gm5uslq4qj7y5fq.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/4tqkujmtqwokjhdd11emailxnnhnqn5t.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>OCCUPAZIONE SUOLO PUBBLICO VIA DUCA DEGLI ABRUZZI 58</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666287</link>
-      <description>📚 Allegati totali: 2</description>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1666287</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1144</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <category domain="item-category-entry">1666305</category>
-      <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/4tqkujmtqwokjhdd11emailxnnhnqn5t.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/k8bs2c0y2uf2d3wk4gm5uslq4qj7y5fq.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>OCCUPAZIONE SUOLO PUBBLICO COND. VIA GENOVA 17</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666285</link>
-      <description>📚 Allegati totali: 1</description>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1666285</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1145</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <category domain="item-category-entry">1666318</category>
-      <category domain="item-category-attachments">1</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/kb93glssb49fa44yb7m1bs3b1jmqsqrx.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/1g4uhecqh46f2zxon05r498n5fkvbvxt.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1666337</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/eg1gik3xynp92j1ceu1izbfm65i3lhep.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/bxyqzo41j60oanqwd22q617j0wuyjpnf.pdf" length="0" type="application/pdf"/>
     </item>
   </channel>
 </rss>
