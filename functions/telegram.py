@@ -19,8 +19,8 @@ def escape(text):
     return html.escape(str(text)) if text else ""
 
 
-def send_with_rate_limit(send_func, *args, **kwargs):
-    while True:
+def send_with_rate_limit(send_func, *args, max_retries=5, **kwargs):
+    for attempt in range(max_retries):
         resp = send_func(*args, **kwargs)
 
         if resp is None:
@@ -38,6 +38,9 @@ def send_with_rate_limit(send_func, *args, **kwargs):
 
         print("Telegram error: ", resp.status_code, resp.text)
         return None
+
+    print("Max retries reached for Telegram.")
+    return None
 
 
 def get_telegram_caption(meta: dict, include_header=False):

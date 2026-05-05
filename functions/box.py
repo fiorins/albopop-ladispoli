@@ -129,7 +129,7 @@ def upload_to_box_folder(client, attachments, registry, all_items):
 
             files_id.append(box_file_id)
 
-            print(f"Uploaded extra attachment {index + 1}: {registry}")
+            # print(f"Uploaded extra attachment {index + 1}: {registry}")
             time.sleep(2)
 
         except Exception as e:
@@ -137,6 +137,8 @@ def upload_to_box_folder(client, attachments, registry, all_items):
             print(f"Error uploading attachment {index + 1} for {registry}: {error_msg}")
             continue
 
+    if files_id:
+        print(f"Uploaded extra attachments ({len(files_id)} tot) for {registry}\n")
     return folder_id, files_id
 
 

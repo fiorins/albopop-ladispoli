@@ -32,18 +32,18 @@ def main():
     # TO TEST UNCOMMENT HERE:
     # entries = [
     #     {
-    #         "registry": "2026-1039",
+    #         "registry": "2026-1159",
     #         "year": "2026",
-    #         "number": "1039",
-    #         "title": "LIQUIDAZIONE SPESA PER LA FORNITURA DI BUONI PASTO ELETTRONICI FATTURA N. VO-67619 DEL 16/04/2026 DAY RISTOSERVICE S.P.A. ",
+    #         "number": "1159",
+    #         "title": "APPROVAZIONE ELENCO DEGLI UTENTI AMMESSI E DI QUELLI NON AMMESSI ALL’AGEVOLAZIONE TARIFFARIA PER L’ABBATTIMENTO DELLE SPESE SOSTENUTE PER IL PAGAMENTO DEL SERVIZIO DI MENSA SCOLASTICA ANNO 2025/2026 ",
     #         "type": "ATTI AMMINISTRATIVI",
     #         "sub_type": "DETERMINE",
-    #         "pub_start": datetime(2026, 4, 21, 0, 0, tzinfo=timezone.utc),
-    #         "pub_start_alt": "21/04/2026",
-    #         "pub_end_alt": "06/05/2026",
+    #         "pub_start": datetime(2026, 5, 5, 0, 0, tzinfo=timezone.utc),
+    #         "pub_start_alt": "05/05/2026",
+    #         "pub_end_alt": "20/05/2026",
     #         "att_count": "2",
-    #         "entry_id": "1656948",
-    #         "entry_url": "https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1656948",
+    #         "entry_id": "1666628",
+    #         "entry_url": "https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666628",
     #     }
     # ]
 

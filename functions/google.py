@@ -22,7 +22,7 @@ def safe_int(value):
     try:
         return int(value)
     except (TypeError, ValueError):
-        return ""
+        return ""  # optionally: print(f"safe_int: could not convert {value!r}")
 
 
 def save_to_sheet(sheet, entry, existing_ids):
