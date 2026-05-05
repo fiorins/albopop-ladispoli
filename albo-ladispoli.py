@@ -1,640 +1,21 @@
-import os, io, re, json, base64, requests, time, html
+import os
 from zoneinfo import ZoneInfo
-from datetime import datetime, timezone
+from datetime import datetime
 from dotenv import load_dotenv
-from pathlib import Path
-from bs4 import BeautifulSoup
-from lxml import etree
-from feedgen.feed import FeedGenerator
-import gspread
-from oauth2client.service_account import ServiceAccountCredentials
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
 
-from box_sdk_gen import (
-    BoxClient,
-    BoxJWTAuth,
-    JWTConfig,
-    UploadFileAttributes,
-    UploadFileAttributesParentField,
-    AddShareLinkToFileSharedLink,
-    AddShareLinkToFileSharedLinkAccessField,
-)
+from functions.scrape import *
+from functions.box import get_box_client, get_box_items
+from functions.google import init_sheet, save_to_sheet
+from functions.helpers import create_session, load_seen, save_seen
+from functions.rss import generate_rss
+from functions.telegram import send_telegram_msg, send_with_rate_limit
 
 load_dotenv()
 
 
-# ── Variables ──────────────────────────────────────────────────────────────────
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
-TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
-
-BOX_CONFIG_JSON = ".secrets/config_box.json"
-GOOGLE_CONFIG_JSON = ".secrets/config_google.json"
-
-ROOT_URL = os.getenv("ROOT_URL")
-ELEMENT_BASE_URL = os.getenv("ELEMENT_BASE_URL")
-
-if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID or not ROOT_URL or not ELEMENT_BASE_URL:
-    raise RuntimeError("Variable not found")
-
-# ── Configs ────────────────────────────────────────────────────────────────────
-HEADERS = {"User-Agent": "Mozilla/5.0"}
-
-SEEN_FILE = "seen.json"
-FEED_FILE = "feed.xml"
-FEED_URL = "https://fiorins.github.io/albopop-ladispoli/feed.xml"
-
-TELEGRAM_DELAY = 4  # seconds between each message
-SCRAPING_DELAY = 4  # seconds between each entry page request
-
-
-# ── Helpers ───────────────────────────────────────────────────────────────────
-# Loads the list of already processed entries from seen.json
-def load_seen():
-    if not Path(SEEN_FILE).exists():
-        # Create the file with an empty list []
-        save_seen(set())
-        return set()
-
-    try:
-        with Path(SEEN_FILE).open("r") as f:
-            return set(json.load(f))
-    except json.JSONDecodeError:
-        return set()
-
-
-# After processing new entries it saves the updated list back to seen.json
-def save_seen(seen, limit=40):
-    seen_list = sorted(seen, key=lambda x: (int(x.split("-")[0]), int(x.split("-")[1])))
-
-    seen_list = seen_list[-limit:]
-    seen_list.reverse()
-
-    with Path(SEEN_FILE).open("w") as f:
-        json.dump(seen_list, f, indent=4)
-
-
-# Strips it out the session token embedded in the attachment url
-def clean_jsessionid(url):
-    return re.sub(r";jsessionid=.*?(?=\?)", "", url)
-
-
-def create_session():
-    session = requests.Session()
-    session.headers.update(HEADERS)  # Set headers globally for this session
-
-    retries = Retry(
-        total=3,
-        connect=3,
-        read=3,
-        backoff_factor=2,
-        status_forcelist=[429, 500, 502, 503, 504],
-        allowed_methods=["GET"],
-    )
-
-    adapter = HTTPAdapter(max_retries=retries)
-    session.mount("https://", adapter)
-    session.mount("http://", adapter)
-
-    return session
-
-
-# ── BOX cloud ─────────────────────────────────────────────────────────────────
-def get_box_client():
-    jwt_config = JWTConfig.from_config_file(config_file_path=BOX_CONFIG_JSON)
-    auth = BoxJWTAuth(config=jwt_config)
-    return BoxClient(auth=auth)
-
-
-def get_box_items(client, folder_id="0"):
-    result = client.folders.get_folder_items(folder_id, sort="DATE", direction="DESC")
-    return [entry.name for entry in result.entries]
-
-
-def upload_to_box(client, file_bytes, filename, folder_id="0"):
-    try:
-        uploaded = client.uploads.upload_file(
-            attributes=UploadFileAttributes(
-                name=filename,
-                parent=UploadFileAttributesParentField(id=folder_id),
-            ),
-            file=io.BytesIO(file_bytes),
-        )
-
-        file = uploaded.entries[0]
-
-        return file
-
-    except Exception as e:
-        print("Box error: ", str(e))
-        return None
-
-
-def get_or_create_box_link(client, file_id):
-    # Try to create the shared url
-    try:
-        file = client.shared_links_files.get_shared_link_for_file(
-            file_id, "shared_link"
-        )
-
-        if not file.shared_link:
-            file = client.shared_links_files.add_share_link_to_file(
-                file_id,
-                "shared_link",
-                shared_link=AddShareLinkToFileSharedLink(
-                    access=AddShareLinkToFileSharedLinkAccessField.OPEN
-                ),
-            )
-
-        return file.shared_link.download_url
-
-    # Fallback: recover
-    except Exception as e:
-        print("Box error: ", str(e))
-        return None
-
-
-# ── RSS ───────────────────────────────────────────────────────────────────────
-def add_channel_extras(channel):
-    categories = [
-        ("http://albopop.it/specs#channel-category-type", "Comune"),
-        ("http://albopop.it/specs#channel-category-municipality", "Ladispoli"),
-        ("http://albopop.it/specs#channel-category-province", "Roma"),
-        ("http://albopop.it/specs#channel-category-region", "Lazio"),
-        ("http://albopop.it/specs#channel-category-latitude", "41.95326914"),
-        ("http://albopop.it/specs#channel-category-longitude", "12.08091316"),
-        ("http://albopop.it/specs#channel-category-country", "Italia"),
-        ("http://albopop.it/specs#channel-category-name", "Comune di Ladispoli"),
-        ("http://albopop.it/specs#channel-category-uid", "istat:058116"),
-    ]
-
-    webmaster = channel.find("webMaster")
-    insert_index = (
-        list(channel).index(webmaster) + 1 if webmaster is not None else len(channel)
-    )
-
-    # Insert categories
-    for i, (domain, value) in enumerate(categories):
-        cat = etree.Element("category")
-        cat.set("domain", domain)
-        cat.text = value
-        channel.insert(insert_index + i, cat)
-
-    # Insert xhtml meta right after categories
-    XHTML_NS = "http://www.w3.org/1999/xhtml"
-    meta = etree.Element(
-        f"{{{XHTML_NS}}}meta", attrib={"name": "robots", "content": "noindex"}
-    )
-
-    channel.insert(insert_index + len(categories), meta)
-
-
-def add_item_categories(item, entry):
-    categories = [
-        (
-            "http://albopop.it/specs#item-category-pubStart",
-            str(entry.get("pub_start_alt", "")),
-        ),
-        (
-            "http://albopop.it/specs#item-category-pubEnd",
-            str(entry.get("pub_end_alt", "")),
-        ),
-        ("http://albopop.it/specs#item-category-uid", str(entry.get("registry", ""))),
-        ("http://albopop.it/specs#item-category-type", str(entry.get("type", ""))),
-        ("item-category-subType", str(entry.get("sub_type", ""))),
-        ("item-category-entry", str(entry.get("entry_id", ""))),
-        (
-            "item-category-attachments",
-            str(entry.get("att_count", "")),
-        ),
-        ("item-category-attachBoxUrl", str(entry.get("box_file_link", ""))),
-    ]
-
-    guid = item.find("guid")
-    insert_index = list(item).index(guid) + 1 if guid is not None else len(item)
-
-    for i, (domain, value) in enumerate(categories):
-        cat = etree.Element("category")
-        cat.set("domain", domain)
-        cat.text = value
-        item.insert(insert_index + i, cat)
-
-
-def fix_item(item, entry):
-    desc = item.find("description")
-    if desc is not None:
-        # desc.text = etree.CDATA(f"📚 Allegati totali: {entry.get('att_count', '')}")
-        desc.text = f"📚 Allegati totali: {entry['att_count']}"
-
-    guid = item.find("guid")
-    if guid is not None:
-        guid.set("isPermaLink", "true")
-
-    add_item_categories(item, entry)
-
-    # Reorder pubDate before the guid
-    pub_date = item.find("pubDate")
-    guid = item.find("guid")
-
-    if pub_date is not None and guid is not None:
-        item.remove(pub_date)
-        guid_index = list(item).index(guid)
-        item.insert(guid_index, pub_date)
-
-
-def generate_rss(entries):
-    fg = FeedGenerator()
-    fg.id(FEED_URL)
-    fg.title("AlboPOP - Comune - Ladispoli")
-    fg.link(href="https://fiorins.github.io/albopop-ladispoli/feed")
-    fg.description("*non ufficiale* RSS feed dell'Albo Pretorio di Ladispoli")
-    fg.language("it")
-
-    fg.docs("http://albopop.it/comune/ladispoli/")
-    fg.webMaster("davidefiorini@outlook.com (Davide Fiorini)")
-
-    for entry in entries:
-        fe = fg.add_entry()
-        fe.id(entry["entry_id"])
-        fe.title(entry["title"])
-        fe.link(href=entry["entry_url"])
-        fe.published(entry["pub_start"])
-        fe.description(f"📚 Allegati totali: {entry['att_count']}")
-        # if e.get("box_file_link") and entry["box_file_link"] != "non presente":
-        if entry.get("box_file_link"):
-            fe.enclosure(entry["box_file_link"], 0, "application/pdf")
-        else:
-            fe.enclosure("", 0, "application/pdf")
-
-    # Create the xml before save
-    rss_xml = fg.rss_str(pretty=True)
-
-    root = etree.fromstring(rss_xml)
-    channel = root.find("channel")
-
-    # Add custom categories
-    add_channel_extras(channel)
-    items = channel.findall("item")
-
-    for item, entry in zip(items, entries):
-        fix_item(item, entry)
-
-    etree.indent(root, space="  ")
-
-    # Save the final file
-    tree = etree.ElementTree(root)
-    tree.write(FEED_FILE, pretty_print=True, xml_declaration=True, encoding="utf-8")
-
-
-# ── TELEGRAM ──────────────────────────────────────────────────────────────────
-def telegram_rate_wait():
-    time.sleep(TELEGRAM_DELAY)
-
-
-def escape(text):
-    # The escape method is typically used to sanitize text so it doesn't break the format of the file or system
-    return html.escape(str(text)) if text else ""
-
-
-def send_with_rate_limit(send_func, *args, **kwargs):
-    while True:
-        resp = send_func(*args, **kwargs)
-
-        if resp is None:
-            return False
-
-        if resp.status_code == 200:
-            telegram_rate_wait()
-            return resp
-
-        if resp.status_code == 429:
-            retry_after = resp.json().get("parameters", {}).get("retry_after", 5)
-            print(f"Rate limit Telegram. Wait {retry_after} seconds...")
-            time.sleep(retry_after + 1)
-            continue
-
-        print("Telegram error:", resp.status_code, resp.text)
-        return None
-
-
-def get_telegram_caption(meta: dict, include_header=False):
-
-    title_edit = re.sub(r"(\.|\d|\/)", lambda x: x.group(0) + "\u200c", meta["title"])
-
-    type_mappings = {
-        "AVVISI": "Avvisi",
-        "BANDI DI CONCORSO": "BandiDiConcorso",
-        "DECRETI": "Decreti",
-        "DELIBERE DI CONSIGLIO": "DelibereDiConsiglio",
-        "DELIBERE DI GIUNTA": "DelibereDiGiunta",
-        "DETERMINA": "Determine",
-        "DETERMINE": "Determine",
-        "ORDINANZE": "Ordinanze",
-    }
-    sub_type_edit = type_mappings.get(meta["category"], "Generico")
-
-    header = "ℹ️ Allegato atto non presente\n\n" if include_header else ""
-
-    return (
-        f"{header}"
-        f"{escape(title_edit)}\n\n"
-        f"📒 <b>Registro:</b> <code>{escape(meta['register'])}</code>\n"
-        f"🏷 <b>Categoria:</b> #{escape(sub_type_edit)}\n"
-        f"🗓 <b>Pubblicazione:</b> <code>{escape(meta['date_start'])}</code>\n"
-        f"⏳ <b>Scadenza:</b> <code>{escape(meta['date_end'])}</code>\n"
-        f"🔗 <a href=\"{meta['url']}\">Pagina sull'albo ufficiale</a>\n\u200b"
-    )
-
-
-# If file_bytes is provided, sends a document, otherwise, sends a text message.
-def send_telegram_msg(meta: dict, file_bytes=None, filename=None):
-
-    try:
-        if file_bytes:
-            # Send as Document
-            payload = {
-                "chat_id": TELEGRAM_CHAT_ID,
-                "caption": get_telegram_caption(meta),
-                "parse_mode": "HTML",
-            }
-            files = {"document": (filename, file_bytes, "application/pdf")}
-            url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendDocument"
-            response = requests.post(url, data=payload, files=files)
-        else:
-            # Send as Text only
-            payload = {
-                "chat_id": TELEGRAM_CHAT_ID,
-                "text": get_telegram_caption(meta, include_header=True),
-                "parse_mode": "HTML",
-                "disable_web_page_preview": True,
-            }
-            url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
-            response = requests.post(url, json=payload)
-
-        if response.ok:
-            print(f"Sent on Telegram item {meta['register']} ")
-        else:
-            print(
-                f"Telegram error with item {meta['register']} failed ({response.status_code}): {response.text}"
-            )
-
-        return response
-
-    except Exception as e:
-        print(f"Telegram error for {meta['register']}: {e}")
-        return None
-
-
-# ── GOOGLE Sheet ──────────────────────────────────────────────────────────────
-def init_sheet(year):
-    scope = [
-        "https://spreadsheets.google.com/feeds",
-        "https://www.googleapis.com/auth/drive",
-    ]
-
-    creds = ServiceAccountCredentials.from_json_keyfile_name(GOOGLE_CONFIG_JSON, scope)
-    client = gspread.authorize(creds)
-
-    spreadsheet = client.open("AlboPOP-Ladispoli")
-    sheet = spreadsheet.worksheet(f"voci {str(year)}")
-
-    return sheet
-
-
-def safe_int(value):
-    if value in (None, ""):
-        return ""
-    return int(value)
-
-
-def save_to_sheet(sheet, entry, existing_ids):
-
-    if str(entry["entry_id"]) in existing_ids:
-        print(f"Skipping Google Sheet step, item already stored: {entry['entry_id']}")
-        return False
-
-    try:
-        row = [
-            entry["title"],
-            entry["pub_start_alt"],
-            entry["pub_end_alt"],
-            safe_int(entry["entry_id"]),
-            entry["entry_url"],
-            safe_int(entry["year"]),
-            safe_int(entry["number"]),
-            entry["type"],
-            entry["sub_type"],
-            safe_int(entry["att_count"]),
-            entry.get("box_file_id", ""),
-            entry.get("box_file_link", ""),
-            entry.get("box_att_folder", ""),
-            safe_int(entry.get("tg_message_id", "")),
-        ]
-
-        sheet.append_row(row, value_input_option="USER_ENTERED")
-        print(f"Saved on Google Sheets item {entry['registry']} ")
-
-        return True
-
-    except Exception as e:
-        print("Google Sheets error: ", e)
-        return False
-
-
-# ── Scraper ───────────────────────────────────────────────────────────────────
-# Analyze the website scraping the list of entries that are not in seen list
-def scrape_entries(seen, session):
-    """Scrape the main table and return only new entries."""
-    response = session.get(ROOT_URL, timeout=30)  # Use session
-    soup = BeautifulSoup(response.text, "html.parser")
-
-    entries = []
-    for row in soup.select("table tr"):
-        cells = row.find_all("td")
-        if len(cells) < 5:
-            continue
-        if any(c.get_text(strip=True) == "" for c in cells):
-            continue
-
-        entry_id = row.get("data-id", "")
-        if not entry_id:
-            continue
-
-        registry_raw = cells[0].get_text(strip=True)  # e.g. "2025/143"
-        registry_edit = registry_raw.replace("/", "-")  # e.g. "2025-143"
-
-        if not registry_edit or registry_edit in seen:
-            continue
-
-        parts = registry_edit.split("-")
-        if len(parts) != 2:
-            continue
-        year, number = parts[0].strip(), parts[1].strip()
-
-        main_el = cells[1].select_one(".categoria_categoria")
-        sub_el = cells[1].select_one(".categoria_sottocategoria")
-        main_type = main_el.get_text(strip=True) if main_el else ""
-        sub_type = sub_el.get_text(strip=True) if sub_el else ""
-
-        title = cells[2].get_text(strip=True)
-        dates_raw = cells[3].get_text(strip=True)  # e.g. "01/01/2025 - 31/01/2025"
-        att_count = cells[4].get_text(strip=True)
-
-        pub_start_alt = dates_raw[:10]  # "01/01/2025"
-        pub_end_alt = dates_raw[-10:]  # "31/01/2025"
-        # Convert to RFC 822 for RSS pubDate
-        try:
-            pub_start = datetime.strptime(pub_start_alt, "%d/%m/%Y").replace(
-                tzinfo=timezone.utc
-            )
-        except ValueError:
-            pub_start = datetime.now(timezone.utc)
-
-        entry_url = ELEMENT_BASE_URL + entry_id
-
-        entries.append(
-            {
-                "registry": registry_edit,
-                "year": year,
-                "number": number,
-                "title": title,
-                "type": main_type,
-                "sub_type": sub_type,
-                "pub_start": pub_start,
-                "pub_start_alt": pub_start_alt,
-                "pub_end_alt": pub_end_alt,
-                "att_count": att_count,
-                "entry_id": entry_id,
-                "entry_url": entry_url,
-            }
-        )
-
-    return entries
-
-
-def fetch_attachment_url(entry_url, session):
-    try:
-        resp = session.get(entry_url, timeout=30)  # Use session
-        soup = BeautifulSoup(resp.text, "html.parser")
-
-        detail_div = soup.select_one(".dettaglio-pratica-rght.span6")
-        if not detail_div or not detail_div.get_text(strip=True):
-            return "non presente"
-
-        anchor = soup.select_one("tr[data-chiave-allegato] td a")
-        if not anchor:
-            return None
-
-        onclick = anchor.get("onclick", "")
-        # print(f"BREAKPOINT ATT 1: {onclick}", end="\n")
-
-        # Extract the base64 string from atob('...')
-        match = re.search(r"atob\('([^']+)'\)", onclick)
-        # print(f"BREAKPOINT ATT 2: {match}", end="\n")
-        if not match:
-            return None
-
-        # Decode base64 to get the real URL
-        decoded_url = base64.b64decode(match.group(1)).decode("utf-8")
-        # print(f"BREAKPOINT ATT 3: {decoded_url}", end="\n")
-
-        if not decoded_url.startswith("http"):
-            return None  # not ready yet, retry next run
-
-        return clean_jsessionid(decoded_url)
-
-    except Exception as e:
-        print(f"Fetching attachment error: {e}")
-        return None
-
-
-def process_single_entry(entry, box_client, box_items, session):
-    """
-    Handles the attachment fetching and Box upload logic for a single entry.
-    Returns the uploaded entry if successful, or None if it should be skipped.
-    """
-    filename = f"allegato_atto_[{entry['registry']}].pdf"
-
-    # 1. Check if already in Box
-    if filename in box_items:
-        return "EXISTS"  # Special flag to mark as seen without processing
-
-    # 2. Fetch the attachment URL
-    att_url = fetch_attachment_url(entry["entry_url"], session)  # Pass session
-    time.sleep(SCRAPING_DELAY)
-
-    if att_url is None:
-        print(f"Skipping (attachment not ready): {entry['registry']}")
-        return None
-
-    # 3. Handle "Non Presente" case
-    if att_url == "non presente":
-        # Update entry with "Non Presente" data case
-        entry.update(
-            {
-                "attachment_url": None,
-                "box_file_id": "",
-                "box_file_link": "",
-                "file_bytes": None,
-            }
-        )
-        return entry
-
-    # 4. Download and Upload
-    try:
-        entry["attachment_url"] = att_url
-
-        # The attachment URL after base64 decoding sometimes points to a different domain (CDN or storage server).
-        # Sending session cookies from ladispoli.trasparenza-valutazione-merito.it to a different domain
-        # could cause issues or get rejected. Use plain requests.get() for the attachment download
-        file_resp = requests.get(att_url, headers=HEADERS, timeout=30)
-        file_resp.raise_for_status()
-
-        box_file = upload_to_box(box_client, file_resp.content, filename)
-        if not box_file:
-            return None
-
-        box_link = get_or_create_box_link(box_client, box_file.id)
-
-        # Update entry with Box and File data
-        entry.update(
-            {
-                "box_file_id": box_file.id,
-                "box_file_link": box_link,
-                "file_bytes": file_resp.content,
-                "filename": filename,
-            }
-        )
-
-        return entry
-
-    except Exception as e:
-        print(f"Error processing on Box attachment {entry['registry']}: {e}")
-        return None
-
-
-def scrape_entries_with_retry(seen, session, max_retries=3, wait=30):
-    for attempt in range(1, max_retries + 1):
-        try:
-            return scrape_entries(seen, session)
-        except requests.exceptions.ConnectTimeout:
-            print(f"Timeout on attempt {attempt}/{max_retries}. Waiting {wait}s...")
-            if attempt < max_retries:
-                time.sleep(wait)
-        except requests.exceptions.RequestException as e:
-            print(f"Request error on attempt {attempt}/{max_retries}: {e}")
-            if attempt < max_retries:
-                time.sleep(wait)
-
-    print("Max retries reached. Skipping this run.")
-    return None
-
-
-# ── Main ──────────────────────────────────────────────────────────────────────
 def main():
 
     print("----- Start log -----\n")
-
     current_year = datetime.now(ZoneInfo("Europe/Rome")).year
 
     # 1. Initialize Session and Global Headers
@@ -645,12 +26,29 @@ def main():
     print(f"Previous run, old items list ({len(seen)} tot):\n{list(seen)}\n")
 
     # 2. Scrape new entries (Passing the session)
-    # entries = scrape_entries(seen, session)
-    entries = scrape_entries_with_retry(seen, session)
-    if entries is None:
-        print("Website unreachable. Will retry next scheduled run.")
-        print("----- End log -----")
-        return
+    # entries = scrape_entries_with_retry(seen, session)
+    # if entries is None:
+    #     print("Website unreachable. Will retry next scheduled run.")
+    #     print("----- End log -----")
+    #     return
+    entries = [
+        {
+            "registry": "2026-1037",
+            "year": "2026",
+            "number": "1037",
+            "title": 'APPROVAZIONE DEL PROGETTO DI FATTIBILITÀ TECNICO ECONOMICA PER IL “COMPLETAMENTO DEL RESTAURO CONSERVATIVO DEL COMPLESSO MONUMENTALE TORRE FLAVIA E MUSEALIZZAZIONE” VOLTO ALLA PARTECIPAZIONE ALL’ AVVISO PUBBLICO INDETTO DALLA REGIONE LAZIO CON DETERMINAZIONE DIRIGENZIALE N. G00823 DEL 27/01/2026, FINALIZZATO ALLA PRESENTAZIONE DI ISTANZE PER IL "PIANO DI INTERVENTI STRAORDINARI PER LA VALORIZZAZIONE DEI TEATRI, DELLE SALE CINEMATOGRAFICHE, DEI PALAZZI STORICI, DEI LUOGHI DI CULTO, DEGLI SPAZI ARCHEOLOGICI E RICREATIVI DEL LAZIO". ',
+            "type": "ATTI AMMINISTRATIVI",
+            "sub_type": "DELIBERE DI GIUNTA",
+            "pub_start": datetime.datetime(
+                2026, 21, 4, 0, 0, tzinfo=datetime.timezone.utc
+            ),
+            "pub_start_alt": "21/04/2026",
+            "pub_end_alt": "06/05/2026",
+            "att_count": "31",
+            "entry_id": "1656920",
+            "entry_url": "https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1656920",
+        }
+    ]
 
     entries_list = [f"{entry['registry']}" for entry in entries]
     entries_list.sort(key=lambda x: int(x.split("-")[-1]))
@@ -679,9 +77,25 @@ def main():
     # 6. Process each entry (Download/Upload logic)
     # Fetch attachment from url and upload it on Box, process in reverse to safely skip entries
     for entry in reversed(entries):
+        """
+        entry: {
+            'registry': '2026-1037',
+            'year': '2026',
+            'number': '1037',
+            'title': 'APPROVAZIONE DEL PROGETTO DI FATTIBILITÀ TECNICO ECONOMICA PER IL “COMPLETAMENTO DEL RESTAURO CONSERVATIVO DEL COMPLESSO MONUMENTALE TORRE FLAVIA E MUSEALIZZAZIONE” VOLTO ALLA PARTECIPAZIONE ALL’ AVVISO PUBBLICO INDETTO DALLA REGIONE LAZIO CON DETERMINAZIONE DIRIGENZIALE N. G00823 DEL 27/01/2026, FINALIZZATO ALLA PRESENTAZIONE DI ISTANZE PER IL "PIANO DI INTERVENTI STRAORDINARI PER LA VALORIZZAZIONE DEI TEATRI, DELLE SALE CINEMATOGRAFICHE, DEI PALAZZI STORICI, DEI LUOGHI DI CULTO, DEGLI SPAZI ARCHEOLOGICI E RICREATIVI DEL LAZIO". ',
+            'type': 'ATTI AMMINISTRATIVI',
+            'sub_type': 'DELIBERE DI GIUNTA',
+            'pub_start': datetime.datetime(2026, 5, 4, 0, 0, tzinfo=datetime.timezone.utc),
+            'pub_start_alt': '21/04/2026',
+            'pub_end_alt': '06/05/2026',
+            'att_count': '31',
+            'entry_id': '1656920',
+            'entry_url': 'https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1656920'
+        }
+        """
 
         result = process_single_entry(entry, box_client, box_items, session)
-        # If the function returns "SEEN", it means this entry has been handled before.
+        # If the function returns "EXISTS", it means this entry has been handled before.
         # The code adds the entry's registry to a seen set and skips the rest of the loop for this item
 
         if result == "EXISTS":
@@ -696,7 +110,7 @@ def main():
             valid_entries.append(result)
 
     print(
-        f"Skipping Box step, items already stored ({len(skipped_box)} tot):\n{skipped_box}\n"
+        f"\nSkipping Box step, items already stored ({len(skipped_box)} tot):\n{skipped_box}\n"
     )
     print(f"Uploaded on Box items ({len(uploaded_box)} tot):\n{uploaded_box}\n")
 
@@ -720,6 +134,7 @@ def main():
             "date_start": f"{entry['pub_start_alt']}",
             "date_end": f"{entry['pub_end_alt']}",
             "url": f"{entry['entry_url']}",
+            "box_folder": f"{entry['box_folder_link']}",
         }
 
         # Send to Telegram (Auto-detects if file_bytes exists)
