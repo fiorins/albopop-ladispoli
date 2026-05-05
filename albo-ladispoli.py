@@ -67,7 +67,8 @@ def main():
 
     # 5. Fetch current Box inventory
     box_items = get_box_items(box_client)
-    # print(f"Last 10 uploaded Box items ({len(box_items)} tot):\n{box_items[:10]}\n")
+    box_items_names = [entry.name for entry in box_items]
+    # print(f"Last 10 uploaded Box items ({len(box_items_names)} tot):\n{box_items_names[:10]}\n")
 
     valid_entries = []
     skipped_box = []
@@ -91,9 +92,8 @@ def main():
         #     'entry_id': '1656920',
         #     'entry_url': 'https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1656920'
         # }
-        # """
 
-        result = process_single_entry(entry, box_client, box_items, session)
+        result = process_single_entry(entry, box_client, box_items_names, session)
         # If the function returns "EXISTS", it means this entry has been handled before.
         # The code adds the entry's registry to a seen set and skips the rest of the loop for this item
 

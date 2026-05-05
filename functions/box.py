@@ -32,7 +32,7 @@ def get_box_client():
 
 def get_box_items(client, folder_id="0"):
     result = client.folders.get_folder_items(folder_id, sort="DATE", direction="DESC")
-    return [entry.name for entry in result.entries]
+    return list(result.entries)
 
 
 # grab a direct file url and upload it on Box
@@ -102,7 +102,7 @@ def upload_to_box(client, url, registry, folder_id="0", custom_label=None):
         return None, None
 
 
-def upload_to_box_folder(client, attachments, registry):
+def upload_to_box_folder(client, attachments, registry, all_items):
     """
     Downloads each attachment and uploads it to a Box subfolder
     named after the entry registry (e.g. '2026-1084').
@@ -114,10 +114,7 @@ def upload_to_box_folder(client, attachments, registry):
 
     # Create or find the subfolder for this entry
     try:
-        items = client.folders.get_folder_items("0")
-        existing = next(
-            (item for item in items.entries if item.name == folder_label), None
-        )
+        existing = next((item for item in all_items if item.name == folder_label), None)
         if existing:
             folder_id = existing.id
         else:
@@ -126,6 +123,8 @@ def upload_to_box_folder(client, attachments, registry):
                 parent=UploadFileAttributesParentField(id="0"),
             )
             folder_id = subfolder.id
+
+            all_items.append(subfolder)  # update cache
 
     except Exception as e:
         # Folder may already exist — try to find it

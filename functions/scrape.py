@@ -218,12 +218,11 @@ def process_single_entry(entry, box_client, box_items, session):
         return None
 
     if attachments_result == "non presente":
-        # Update entry with "Non Presente" data case
         entry.update(
             {
                 "attachment_url": None,
-                "box_file_id": "",
-                "box_file_link": "",
+                "box_file_id": "non presente",
+                "box_file_link": "non presente",
                 "file_bytes": None,
                 "filename": None,
             }

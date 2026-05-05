@@ -16,8 +16,6 @@ TIME_DELAY = 4  # seconds between each message
 
 
 # ── Functions ──────────────────────────────────────────────────────────────────
-
-
 def clean_href(url):
     if not url:
         return "#"

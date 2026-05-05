@@ -43,23 +43,19 @@ def save_to_sheet(sheet, entry, existing_ids):
     try:
         # columns of the rows ont the google sheet
         row = [
-            entry.get("title"),
-            entry.get("pub_start_alt"),
-            entry.get("pub_end_alt"),
-            safe_int(entry.get("entry_id")),
-            entry.get("entry_url"),
-            safe_int(entry.get("year")),
-            safe_int(entry.get("number")),
-            entry.get("type"),
-            entry.get("sub_type"),
-            safe_int(entry.get("att_count")),
+            entry.get("title", ""),
+            entry.get("pub_start_alt", ""),
+            entry.get("pub_end_alt", ""),
+            safe_int(entry.get("entry_id", "")),
+            entry.get("entry_url", ""),
+            safe_int(entry.get("year", "")),
+            safe_int(entry.get("number", "")),
+            entry.get("type", ""),
+            entry.get("sub_type", ""),
+            safe_int(entry.get("att_count", "")),
             entry.get("box_file_id", ""),
             entry.get("box_file_link", ""),
-            (
-                ", ".join(entry.get("box_folder_ids", []))
-                if entry.get("box_folder_ids")
-                else "non presente"
-            ),
+            ", ".join(entry.get("box_folder_ids", [])) or "non presente",
             entry.get("box_folder_link", "non presente"),
             safe_int(entry.get("tg_message_id", "")),
         ]
