@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 05 May 2026 08:31:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 09:30:30 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -20,68 +20,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
     <item>
-      <title>RIU 52/2026 – DIRETTORE ESECUZIONE DEL CONTRATTO (DEC) DEL SERVIZIO DI IGIENE URBANA INTEGRATA – ORDINANZA DI LIQUIDAZIONE PERIODO NOVEMBRE 2025 - APRILE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666212</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1666212</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1137</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1666180</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/l6l79gtj3cedvcoj1s0szgkp9udi46fu.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/rlyoshykbjcbmkn78p2cntbx7gp3pl16.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI N. 10 NELLA CASA DEL COMUNE LADISPOLI - MOHAMED MOHAMED WAMBA ED ALTRI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666185</link>
+      <title>LIQUIDAZIONE CANONE LUNGO NOLEGGIO VETTURE AUTOPARCO COMUNALE SOC. ALD AUTOMOTIVE ITALIA SRL MESE DI APRILE 2026 LOTTI 1-2-3 E TASSA DI PROPRIETA'</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666258</link>
       <description>📚 Allegati totali: 2</description>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1666185</guid>
+      <guid isPermaLink="true">1666258</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">05/05/2026</category>
       <category domain="http://albopop.it/specs#item-category-pubEnd">20/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1138</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1141</category>
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1666183</category>
+      <category domain="item-category-entry">1666258</category>
       <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/4926z5p8pjfl9nhehyvynjonx8mai0he.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/jp9gmyp03isqliyhjql13m3oih9yh9v2.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>AFFIDAMENTO INCARICO DI ASSISTENZA E DIFESA LEGALE DELL’ENTE PER COSTITUZIONE IN GIUDIZIO AL FINE DEL RICORSO IN CORTE DI CASSAZIONE DELLA SENTENZA N. 2241/2026 DEL 12/02/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666183</link>
-      <description>📚 Allegati totali: 1</description>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1666183</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">06/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1139</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <category domain="item-category-entry">1666185</category>
-      <category domain="item-category-attachments">1</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/jp9gmyp03isqliyhjql13m3oih9yh9v2.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/4926z5p8pjfl9nhehyvynjonx8mai0he.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>OGGETTO: PRENOTAZIONE DI IMPEGNO - SPESE PER CONTENZIOSO.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666180</link>
-      <description>📚 Allegati totali: 2</description>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1666180</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1140</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1666212</category>
-      <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/rlyoshykbjcbmkn78p2cntbx7gp3pl16.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/l6l79gtj3cedvcoj1s0szgkp9udi46fu.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/dro7z81kiqaw1dta3zg37rvvd1qtvlh0.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/dro7z81kiqaw1dta3zg37rvvd1qtvlh0.pdf" length="0" type="application/pdf"/>
     </item>
   </channel>
 </rss>
