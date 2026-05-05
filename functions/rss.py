@@ -1,3 +1,4 @@
+import os
 from dotenv import load_dotenv
 from lxml import etree
 from feedgen.feed import FeedGenerator
@@ -7,7 +8,10 @@ load_dotenv()
 
 # ── Configs ────────────────────────────────────────────────────────────────────
 
-FEED_FILE = "../feed.xml"
+# FEED_FILE = "../feed.xml"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+FEED_FILE = os.path.join(BASE_DIR, "..", "feed.xml")
+
 FEED_URL = "https://fiorins.github.io/albopop-ladispoli/feed.xml"
 
 

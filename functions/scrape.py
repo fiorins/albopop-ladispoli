@@ -142,8 +142,20 @@ def extract_url(row):
         return None
 
 
-def fetch_attachments(url, session):
+# Helper to extract both URL and the text from the first cell (the filename)
+def get_row_data(row):
+    link = extract_url(row)
+    if not link:
+        return None
 
+    # The first <td> usually contains the title/filename of the document
+    cells = row.find_all("td")
+    original_title = cells[0].get_text(strip=True) if cells else "documento"
+
+    return {"url": link, "filename": original_title}
+
+
+def fetch_attachments(url, session):
     try:
         resp = session.get(url, timeout=30)  # Use session
         soup = BeautifulSoup(resp.text, "html.parser")
@@ -170,47 +182,23 @@ def fetch_attachments(url, session):
             attachment_rows[0],  # fallback to first row
         )
 
-        main_url = extract_url(main_row)
-
-        if not main_url:
+        main_data = get_row_data(main_row)
+        if not main_data:
             return None
 
-        # others_urls = []
-        # if len(attachment_rows) > 1:
-        #     for row in attachment_rows:
-        #         if row == main_row:
-        #             continue
-        #         valid_url = extract_url(row)
-        #         if valid_url:
-        #             others_urls.append(valid_url)
-        #             time.sleep(TIME_DELAY)
+        others_data = []
+        if len(attachment_rows) > 1:
+            for row in attachment_rows:
+                if row == main_row:
+                    continue
 
-        others_attachments = []
-        for row in attachment_rows:
-            if row == main_row:
-                continue
+                data = get_row_data(row)
+                if data:
+                    others_data.append(
+                        data
+                    )  # This is now a list of DICTS {"url": link, "filename": original_title}
 
-            valid_url = extract_url(row)
-            if not valid_url:
-                continue
-
-            chiave = row.get("data-chiave-allegato", "")
-            mimetype = row.get("data-mimetype", "application/pdf")
-            ext = "pdf" if mimetype == "application/pdf" else "p7m"
-
-            title_td = row.find("td")
-            title = title_td.get_text(strip=True) if title_td else chiave
-            safe_title = re.sub(r"[^\w\s\-]", "", title).strip().replace(" ", "_")
-            filename = f"{safe_title}.{ext}"
-
-            others_attachments.append(
-                {
-                    "url": valid_url,
-                    "filename": filename,
-                }
-            )
-
-        return main_url, others_attachments
+        return main_data, others_data
 
     except Exception as e:
         print(f"Fetching attachment error: {e}")
@@ -219,7 +207,8 @@ def fetch_attachments(url, session):
 
 def process_single_entry(entry, box_client, box_items, session):
 
-    if entry["registry"] in box_items:
+    main_file_label = f"allegato_atto_[{entry['registry']}].pdf"
+    if main_file_label in box_items:
         return "EXISTS"
 
     # Fetch ALL attachment URLs
@@ -228,6 +217,7 @@ def process_single_entry(entry, box_client, box_items, session):
     if attachments_result is None:
         print(f"Skipping (attachment not ready): {entry['registry']}")
         return None
+
     if attachments_result == "non presente":
         # Update entry with "Non Presente" data case
         entry.update(
@@ -236,73 +226,62 @@ def process_single_entry(entry, box_client, box_items, session):
                 "box_file_id": "",
                 "box_file_link": "",
                 "file_bytes": None,
+                "filename": None,
             }
         )
         return entry
 
+    # Unpack the result
     main_attachment, others_attachments = attachments_result
 
-    if not others_attachments:
-        try:
-            # main document
-            entry["attachment_url"] = main_attachment
-            box_file_id, file_downloaded = upload_to_box(
-                box_client, main_attachment, entry["registry"]
-            )
-            if not box_file_id:
-                return None
+    # 1. Process Main Document (Common to both cases)
+    try:
+        # Pass main_attachment["url"] because main_attachment is a dict
+        box_file_id, file_downloaded = upload_to_box(
+            box_client, main_attachment["url"], entry["registry"]
+        )  # no custom_label needed — auto-generates allegato_atto_[registry].pdf
 
-            file_link = get_or_create_file_link(box_client, box_file_id)
-
-            # Update entry with Box and File data
-            entry.update(
-                {
-                    "box_file_id": box_file_id,
-                    "box_file_link": file_link,
-                    "file_bytes": file_downloaded,  # will be re-fetched for Telegram
-                }
-            )
-
-            return entry
-
-        except Exception as e:
-            print(f"Error processing on Box attachment {entry['registry']}: {e}")
+        if not box_file_id:
             return None
 
-    # Download and upload all to Box subfolder
-    else:
+        file_link = get_or_create_file_link(box_client, box_file_id)
+
+        entry.update(
+            {
+                "attachment_url": main_attachment["url"],
+                "box_file_id": box_file_id,
+                "box_file_link": file_link,
+                "file_bytes": file_downloaded,
+                "filename": f"allegato_atto_[{entry['registry']}].pdf",
+            }
+        )
+
+    except Exception as e:
+        print(f"Error processing on Box main attachment {entry['registry']}: {e}")
+        return None
+
+    # 2. Process Extra Attachments (If they exist)
+    if others_attachments:
         try:
-            # main document
-            entry["attachment_url"] = main_attachment
-            box_file_id, file_downloaded = upload_to_box(
-                box_client, main_attachment, entry["registry"]
-            )
-            if not box_file_id:
-                return None
-
-            file_link = get_or_create_file_link(box_client, box_file_id)
-
-            # other documents
+            # Pass the list 'others_attachments' directly.
+            # upload_to_box_folder will handle the loop and filenames.
             box_folder_id, box_files_id = upload_to_box_folder(
                 box_client, others_attachments, entry["registry"]
             )
+            # no custom_label needed — auto-generates allegato_atto_[registry].pdf
+            # each att uses its sanitized original name from fetch_attachments
 
-            folder_link = get_or_create_folder_link(box_client, box_folder_id)
+            box_folder_link = get_or_create_folder_link(box_client, box_folder_id)
 
-            # Update entry with Box and File data
             entry.update(
                 {
-                    "attachment_url": entry["attachment_url"],
-                    "box_file_id": box_file_id,
-                    "box_file_link": file_link,
-                    "file_bytes": file_downloaded,
-                    "box_folder_link": folder_link,
-                    "box_files_id": box_files_id,
+                    "box_folder_link": box_folder_link,
+                    "box_folder_ids": box_files_id,
                 }
             )
 
-            return entry
-
         except Exception as e:
-            print(f"Error processing on Box attachment {entry['registry']}: {e}")
-            return None
+            print(f"Error processing extra attachments for {entry['registry']}: {e}")
+            # We don't return None here because we at least have the main doc
+
+    return entry

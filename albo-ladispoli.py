@@ -1,6 +1,5 @@
-import os
 from zoneinfo import ZoneInfo
-from datetime import datetime
+from datetime import datetime, timezone
 from dotenv import load_dotenv
 
 from functions.scrape import *
@@ -26,31 +25,31 @@ def main():
     print(f"Previous run, old items list ({len(seen)} tot):\n{list(seen)}\n")
 
     # 2. Scrape new entries (Passing the session)
-    # entries = scrape_entries_with_retry(seen, session)
-    # if entries is None:
-    #     print("Website unreachable. Will retry next scheduled run.")
-    #     print("----- End log -----")
-    #     return
-    entries = [
-        {
-            "registry": "2026-1037",
-            "year": "2026",
-            "number": "1037",
-            "title": 'APPROVAZIONE DEL PROGETTO DI FATTIBILITÀ TECNICO ECONOMICA PER IL “COMPLETAMENTO DEL RESTAURO CONSERVATIVO DEL COMPLESSO MONUMENTALE TORRE FLAVIA E MUSEALIZZAZIONE” VOLTO ALLA PARTECIPAZIONE ALL’ AVVISO PUBBLICO INDETTO DALLA REGIONE LAZIO CON DETERMINAZIONE DIRIGENZIALE N. G00823 DEL 27/01/2026, FINALIZZATO ALLA PRESENTAZIONE DI ISTANZE PER IL "PIANO DI INTERVENTI STRAORDINARI PER LA VALORIZZAZIONE DEI TEATRI, DELLE SALE CINEMATOGRAFICHE, DEI PALAZZI STORICI, DEI LUOGHI DI CULTO, DEGLI SPAZI ARCHEOLOGICI E RICREATIVI DEL LAZIO". ',
-            "type": "ATTI AMMINISTRATIVI",
-            "sub_type": "DELIBERE DI GIUNTA",
-            "pub_start": datetime.datetime(
-                2026, 21, 4, 0, 0, tzinfo=datetime.timezone.utc
-            ),
-            "pub_start_alt": "21/04/2026",
-            "pub_end_alt": "06/05/2026",
-            "att_count": "31",
-            "entry_id": "1656920",
-            "entry_url": "https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1656920",
-        }
-    ]
+    # TO TEST COMMENT HERE:
+    entries = scrape_entries_with_retry(seen, session)
+    if entries is None:
+        print("Website unreachable. Will retry next scheduled run.")
+        print("----- End log -----")
+        return
+    # TO TEST UNCOMMENT HERE:
+    # entries = [
+    #     {
+    #         "registry": "2026-1039",
+    #         "year": "2026",
+    #         "number": "1039",
+    #         "title": "LIQUIDAZIONE SPESA PER LA FORNITURA DI BUONI PASTO ELETTRONICI FATTURA N. VO-67619 DEL 16/04/2026 DAY RISTOSERVICE S.P.A. ",
+    #         "type": "ATTI AMMINISTRATIVI",
+    #         "sub_type": "DETERMINE",
+    #         "pub_start": datetime(2026, 4, 21, 0, 0, tzinfo=timezone.utc),
+    #         "pub_start_alt": "21/04/2026",
+    #         "pub_end_alt": "06/05/2026",
+    #         "att_count": "2",
+    #         "entry_id": "1656948",
+    #         "entry_url": "https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1656948",
+    #     }
+    # ]
 
-    entries_list = [f"{entry['registry']}" for entry in entries]
+    entries_list = [entry.get("registry", "") for entry in entries]
     entries_list.sort(key=lambda x: int(x.split("-")[-1]))
     print(f"Actual run, new items list ({len(entries_list)} tot):\n{entries_list}\n")
 
@@ -68,7 +67,7 @@ def main():
 
     # 5. Fetch current Box inventory
     box_items = get_box_items(box_client)
-    print(f"Last 10 uploaded Box items ({len(box_items)} tot):\n{box_items[:10]}\n")
+    # print(f"Last 10 uploaded Box items ({len(box_items)} tot):\n{box_items[:10]}\n")
 
     valid_entries = []
     skipped_box = []
@@ -77,22 +76,22 @@ def main():
     # 6. Process each entry (Download/Upload logic)
     # Fetch attachment from url and upload it on Box, process in reverse to safely skip entries
     for entry in reversed(entries):
-        """
-        entry: {
-            'registry': '2026-1037',
-            'year': '2026',
-            'number': '1037',
-            'title': 'APPROVAZIONE DEL PROGETTO DI FATTIBILITÀ TECNICO ECONOMICA PER IL “COMPLETAMENTO DEL RESTAURO CONSERVATIVO DEL COMPLESSO MONUMENTALE TORRE FLAVIA E MUSEALIZZAZIONE” VOLTO ALLA PARTECIPAZIONE ALL’ AVVISO PUBBLICO INDETTO DALLA REGIONE LAZIO CON DETERMINAZIONE DIRIGENZIALE N. G00823 DEL 27/01/2026, FINALIZZATO ALLA PRESENTAZIONE DI ISTANZE PER IL "PIANO DI INTERVENTI STRAORDINARI PER LA VALORIZZAZIONE DEI TEATRI, DELLE SALE CINEMATOGRAFICHE, DEI PALAZZI STORICI, DEI LUOGHI DI CULTO, DEGLI SPAZI ARCHEOLOGICI E RICREATIVI DEL LAZIO". ',
-            'type': 'ATTI AMMINISTRATIVI',
-            'sub_type': 'DELIBERE DI GIUNTA',
-            'pub_start': datetime.datetime(2026, 5, 4, 0, 0, tzinfo=datetime.timezone.utc),
-            'pub_start_alt': '21/04/2026',
-            'pub_end_alt': '06/05/2026',
-            'att_count': '31',
-            'entry_id': '1656920',
-            'entry_url': 'https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1656920'
-        }
-        """
+        # Entry at this point
+        # entry: {
+        #     'registry': '2026-1037',
+        #     'year': '2026',
+        #     'number': '1037',
+        #     'title': 'APPROVAZIONE DEL PROGETTO DI FATTIBILITÀ TECNICO ECONOMICA PER IL “COMPLETAMENTO DEL RESTAURO CONSERVATIVO DEL COMPLESSO MONUMENTALE TORRE FLAVIA E MUSEALIZZAZIONE” VOLTO ALLA PARTECIPAZIONE ALL’ AVVISO PUBBLICO INDETTO DALLA REGIONE LAZIO CON DETERMINAZIONE DIRIGENZIALE N. G00823 DEL 27/01/2026, FINALIZZATO ALLA PRESENTAZIONE DI ISTANZE PER IL "PIANO DI INTERVENTI STRAORDINARI PER LA VALORIZZAZIONE DEI TEATRI, DELLE SALE CINEMATOGRAFICHE, DEI PALAZZI STORICI, DEI LUOGHI DI CULTO, DEGLI SPAZI ARCHEOLOGICI E RICREATIVI DEL LAZIO". ',
+        #     'type': 'ATTI AMMINISTRATIVI',
+        #     'sub_type': 'DELIBERE DI GIUNTA',
+        #     'pub_start': datetime.datetime(2026, 5, 4, 0, 0, tzinfo=datetime.timezone.utc),
+        #     'pub_start_alt': '21/04/2026',
+        #     'pub_end_alt': '06/05/2026',
+        #     'att_count': '31',
+        #     'entry_id': '1656920',
+        #     'entry_url': 'https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1656920'
+        # }
+        # """
 
         result = process_single_entry(entry, box_client, box_items, session)
         # If the function returns "EXISTS", it means this entry has been handled before.
@@ -128,13 +127,13 @@ def main():
     for entry in valid_entries:
 
         meta = {
-            "title": f"{entry['title']}",
-            "register": f"{entry['registry']}",
-            "category": f"{entry['sub_type']}",
-            "date_start": f"{entry['pub_start_alt']}",
-            "date_end": f"{entry['pub_end_alt']}",
-            "url": f"{entry['entry_url']}",
-            "box_folder": f"{entry['box_folder_link']}",
+            "title": entry.get("title", ""),
+            "register": entry.get("registry", ""),
+            "category": entry.get("sub_type", ""),
+            "date_start": entry.get("pub_start_alt", ""),
+            "date_end": entry.get("pub_end_alt", ""),
+            "url": entry.get("entry_url", ""),
+            "box_folder": entry.get("box_folder_link", ""),
         }
 
         # Send to Telegram (Auto-detects if file_bytes exists)
@@ -142,7 +141,8 @@ def main():
             send_telegram_msg,
             meta,
             file_bytes=entry.get("file_bytes"),  # entry.get("box_file_link"),
-            filename=entry.get("filename"),
+            filename=entry.get("filename")
+            or f"allegato_atto_[{entry['registry']}].pdf",
         )
 
         # 9. Mark as processed and save to Sheet

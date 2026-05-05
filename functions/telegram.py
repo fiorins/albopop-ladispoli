@@ -16,8 +16,18 @@ TIME_DELAY = 4  # seconds between each message
 
 
 # ── Functions ──────────────────────────────────────────────────────────────────
-def telegram_rate_wait():
-    time.sleep(TIME_DELAY)
+
+
+def clean_href(url):
+    if not url:
+        return "#"
+
+    url = str(url).strip()
+
+    if not url or url == "#":
+        return "#"
+
+    return html.escape(url, quote=True)
 
 
 def escape(text):
@@ -33,7 +43,7 @@ def send_with_rate_limit(send_func, *args, **kwargs):
             return False
 
         if resp.status_code == 200:
-            telegram_rate_wait()
+            time.sleep(TIME_DELAY)
             return resp
 
         if resp.status_code == 429:
@@ -68,13 +78,18 @@ def get_telegram_caption(meta: dict, include_header=False):
     box_folder_url = meta.get("box_folder")
     official_url = meta.get("url", "#")
 
-    if box_folder_url and str(box_folder_url).strip():
-        footer = f'📚 <a href="{box_folder_url}">Altri allegati atto</a>\n\u200b'
-        subfooter = f'🔗 <a href="{official_url}">Pagina sull\'albo ufficiale</a>\n'
+    safe_box_url = clean_href(box_folder_url)
+    safe_official_url = clean_href(official_url)
+
+    if safe_box_url and safe_box_url != "#":
+        footer = f'📚 <a href="{safe_box_url}">Altri allegati atto</a>\n\u200b'
+        subfooter = (
+            f'🔗 <a href="{safe_official_url}">Pagina sull\'albo ufficiale</a>\n\n'
+        )
     else:
         footer = ""
         subfooter = (
-            f'🔗 <a href="{official_url}">Pagina sull\'albo ufficiale</a>\n\u200b'
+            f'🔗 <a href="{safe_official_url}">Pagina sull\'albo ufficiale</a>\n\u200b'
         )
 
     return (

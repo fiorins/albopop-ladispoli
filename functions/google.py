@@ -54,7 +54,11 @@ def save_to_sheet(sheet, entry, existing_ids):
             safe_int(entry["att_count"]),
             entry.get("box_file_id", ""),
             entry.get("box_file_link", ""),
-            entry.get("box_folder_ids", ""),
+            (
+                ", ".join(entry.get("box_folder_ids", []))
+                if entry.get("box_folder_ids")
+                else ""
+            ),
             entry.get("box_folder_link", ""),
             safe_int(entry.get("tg_message_id", "")),
         ]

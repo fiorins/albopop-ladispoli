@@ -1,4 +1,4 @@
-import io, os, requests, time
+import io, re, os, requests, time
 from dotenv import load_dotenv
 
 from box_sdk_gen import (
@@ -37,82 +37,51 @@ def get_box_items(client, folder_id="0"):
 
 # grab a direct file url and upload it on Box
 # returns the id of the Box file object if the upload is successful, or None if it fails.
-def upload_to_box(client, url, registry, folder_id="0", file_label=None):
-    file_label = f"allegato_atto_[{registry}].pdf"
+def upload_to_box(client, url, registry, folder_id="0", custom_label=None):
 
-    # Retry download up to 3 times
-    for attempt in range(1, 4):
-        try:
-            file_resp = requests.get(url, headers=HEADERS, timeout=30)
-            file_resp.raise_for_status()
-
-            # Check it's actually a PDF, not an HTML error page
-            if not file_resp.content.startswith(b"%PDF"):
-                print(
-                    f"Invalid PDF received for {registry} — got HTML or empty response"
-                )
-                return None, None
-            break
-        except requests.exceptions.RequestException as e:
-            print(f"Download attempt {attempt}/3 failed for {registry}: {e}")
-            if attempt == 3:
-                return None, None
-            time.sleep(5 * attempt)  # 5s, 10s, 15s
-
-    try:
-        uploaded = client.uploads.upload_file(
-            attributes=UploadFileAttributes(
-                name=file_label,
-                parent=UploadFileAttributesParentField(id=folder_id),
-            ),
-            file=io.BytesIO(file_resp.content),
-        )
-
-        file = uploaded.entries[0]
-
-        return file.id, file_resp.content
-
-    except Exception as e:
-        error_msg = getattr(e, "message", str(e))
-        print(f"Box error uploading file {registry}: {error_msg}")
-        return None, None
-
-
-def upload_to_boxNew(client, url, registry, folder_id="0", index=None):
     # 1. Download the file
     # Retry download up to 3 times
+    file_resp = None
     for attempt in range(1, 4):
         try:
             file_resp = requests.get(url, headers=HEADERS, timeout=30)
             file_resp.raise_for_status()
-        except requests.exceptions.RequestException as e:
+
+            if (
+                not file_resp.content.startswith(b"%PDF")
+                and b"<html" in file_resp.content[:100].lower()
+            ):
+                raise ValueError("Response is HTML, not a valid file")
+
+            break
+        except (requests.exceptions.RequestException, ValueError) as e:
             print(f"Download attempt {attempt}/3 failed for {registry}: {e}")
             if attempt == 3:
                 return None, None
             time.sleep(5 * attempt)  # 5s, 10s, 15s
 
-        # 2. Determine the correct extension
-        content_type = file_resp.headers.get("Content-Type", "").split(";")[0].lower()
+    if file_resp is None:
+        return None, None
 
-        # Mapping for common types in Albo Pretorio
-        if "pdf" in content_type:
-            ext = ".pdf"
-        elif "word" in content_type or "msword" in content_type:
-            ext = ".docx"
-        elif (
-            "pkcs7" in content_type
-            or "p7m" in content_type
-            or url.lower().endswith(".p7m")
-        ):
-            ext = ".p7m"
-        else:
-            # Fallback: try to guess from the URL itself
-            guessed_ext = os.path.splitext(url.split("?")[0])[1]
-            ext = guessed_ext if guessed_ext else ".pdf"
+    # 2. Determine the correct extension
+    content_type = file_resp.headers.get("Content-Type", "").split(";")[0].lower()
 
-        # 3. Construct the unique filename
-        suffix = f"_{index}" if index is not None else ""
-        file_label = f"allegato_atto_[{registry}]{suffix}{ext}"
+    # Mapping for common types in Albo Pretorio
+    if "pdf" in content_type:
+        ext = ".pdf"
+    elif "word" in content_type or "msword" in content_type:
+        ext = ".docx"
+    elif (
+        "pkcs7" in content_type or "p7m" in content_type or url.lower().endswith(".p7m")
+    ):
+        ext = ".p7m"
+    else:
+        # Fallback: try to guess from the URL itself
+        guessed_ext = os.path.splitext(url.split("?")[0])[1]
+        ext = guessed_ext if guessed_ext else ".pdf"
+
+    # 3. Use custom label or auto-generate
+    file_label = custom_label if custom_label else f"allegato_atto_[{registry}]{ext}"
 
     # 4. Upload to Box
     try:
@@ -124,6 +93,7 @@ def upload_to_boxNew(client, url, registry, folder_id="0", index=None):
             file=io.BytesIO(file_resp.content),
         )
         file = uploaded.entries[0]
+        print(f"Uploaded to Box: {registry}")
         return file.id, file_resp.content
 
     except Exception as e:
@@ -132,7 +102,7 @@ def upload_to_boxNew(client, url, registry, folder_id="0", index=None):
         return None, None
 
 
-def upload_to_box_folder(client, urls, registry):
+def upload_to_box_folder(client, attachments, registry):
     """
     Downloads each attachment and uploads it to a Box subfolder
     named after the entry registry (e.g. '2026-1084').
@@ -144,50 +114,49 @@ def upload_to_box_folder(client, urls, registry):
 
     # Create or find the subfolder for this entry
     try:
-        subfolder = client.folders.create_folder(
-            name=folder_label,
-            parent=UploadFileAttributesParentField(id="0"),
+        items = client.folders.get_folder_items("0")
+        existing = next(
+            (item for item in items.entries if item.name == folder_label), None
         )
-        folder_id = subfolder.id
-        # print(f"Created Box folder for entry: {registry}")
+        if existing:
+            folder_id = existing.id
+        else:
+            subfolder = client.folders.create_folder(
+                name=folder_label,
+                parent=UploadFileAttributesParentField(id="0"),
+            )
+            folder_id = subfolder.id
 
     except Exception as e:
         # Folder may already exist — try to find it
         print(f"Folder creation error (may already exist): {str(e)[:80]}")
-        try:
-            items = client.folders.get_folder_items("0")
-            folder_id = next(
-                (item.id for item in items.entries if item.name == folder_label),
-                "0",  # fallback to root
-            )
-        except Exception as e2:
-            print(f"Could not find folder: {e2}")
-            folder_id = "0"
+        folder_id = "0"
 
-    for url in urls:
+    for index, attachment in enumerate(attachments):
         try:
-            box_file_id, _ = upload_to_box(client, url, registry, folder_id)
+            # Use sanitized original filename from the page, with index suffix
+            base_name = attachment["filename"].rsplit(".", 1)[0]  # strip extension
+            sanitized = re.sub(r"[^\w\s\-]", "", base_name).strip().replace(" ", "_")
+            custom_label = f"{sanitized}_{index + 1}.pdf"
+
+            box_file_id, _ = upload_to_box(
+                client,
+                attachment["url"],
+                registry,
+                folder_id,
+                custom_label=custom_label,
+            )
             if not box_file_id:
                 continue
 
-            # box_link = get_or_create_box_link(client, box_file_id)
+            files_id.append(box_file_id)
 
-            files_id.append(
-                {
-                    # "att_key": att["att_key"],
-                    # "title": att["title"],
-                    # "filename": att["filename"],
-                    "box_file_id": box_file_id,
-                    # "box_link": box_link,
-                }
-            )
-
-            print(f"Uploaded to Box extra attachment for {registry}")
-            time.sleep(2)  # small delay between uploads
+            print(f"Uploaded extra attachment {index + 1}: {registry}")
+            time.sleep(2)
 
         except Exception as e:
             error_msg = getattr(e, "message", str(e))
-            print(f"Error uploading an attachment for {registry}: {error_msg}")
+            print(f"Error uploading attachment {index + 1} for {registry}: {error_msg}")
             continue
 
     return folder_id, files_id

@@ -1,4 +1,4 @@
-import re, json, requests
+import os, re, json, requests
 from dotenv import load_dotenv
 from pathlib import Path
 from requests.adapters import HTTPAdapter
@@ -10,8 +10,9 @@ load_dotenv()
 # ── Configs ────────────────────────────────────────────────────────────────────
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 
-SEEN_FILE = "../seen.json"
-
+# SEEN_FILE = "../seen.json"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+SEEN_FILE = os.path.join(BASE_DIR, "..", "seen.json")
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
@@ -32,7 +33,15 @@ def load_seen():
 
 # After processing new entries it saves the updated list back to seen.json
 def save_seen(seen, limit=40):
-    seen_list = sorted(seen, key=lambda x: (int(x.split("-")[0]), int(x.split("-")[1])))
+
+    def safe_sort_key(x):
+        try:
+            parts = x.split("-")
+            return (int(parts[0]), int(parts[1]))
+        except (ValueError, IndexError):
+            return (0, 0)
+
+    seen_list = sorted(seen, key=safe_sort_key)
 
     seen_list = seen_list[-limit:]
     seen_list.reverse()
