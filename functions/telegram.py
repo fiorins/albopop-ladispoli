@@ -1,21 +1,7 @@
-import os, re, requests, time, html
-from dotenv import load_dotenv
-
-load_dotenv()
-
-# ── Variables ──────────────────────────────────────────────────────────────────
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
-TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
-
-if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
-    raise RuntimeError("Variable not found")
+import re, requests, time, html
+from .helpers import TELEGRAM_CHAT_ID, TELEGRAM_TOKEN, TIME_DELAY, TYPE_MAPPINGS
 
 
-# ── Configs ────────────────────────────────────────────────────────────────────
-TIME_DELAY = 4  # seconds between each message
-
-
-# ── Functions ──────────────────────────────────────────────────────────────────
 def clean_href(url):
     if not url:
         return "#"
@@ -58,18 +44,8 @@ def get_telegram_caption(meta: dict, include_header=False):
     raw_title = str(meta.get("title") or "Titolo non disponibile")
     title_edit = re.sub(r"(\.|\d|\/)", lambda x: x.group(0) + "\u200c", raw_title)
 
-    type_mappings = {
-        "AVVISI": "Avvisi",
-        "BANDI DI CONCORSO": "BandiDiConcorso",
-        "DECRETI": "Decreti",
-        "DELIBERE DI CONSIGLIO": "DelibereDiConsiglio",
-        "DELIBERE DI GIUNTA": "DelibereDiGiunta",
-        "DETERMINA": "Determine",
-        "DETERMINE": "Determine",
-        "ORDINANZE": "Ordinanze",
-    }
     category = str(meta.get("category", "")).strip().upper()
-    sub_type_edit = type_mappings.get(category, "Generico")
+    sub_type_edit = TYPE_MAPPINGS.get(category, "Generico")
 
     header = "ℹ️ Allegato atto: non presente\n\n" if include_header else ""
 

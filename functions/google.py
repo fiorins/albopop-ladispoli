@@ -1,15 +1,9 @@
-import os
-from dotenv import load_dotenv
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
-# ── Variables ──────────────────────────────────────────────────────────────────
-
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-GOOGLE_CONFIG_JSON = os.path.join(BASE_DIR, "..", ".secrets", "config_google.json")
+from .helpers import GOOGLE_CONFIG_JSON
 
 
-# ── GOOGLE Sheet ──────────────────────────────────────────────────────────────
 def init_sheet(year):
     scope = [
         "https://spreadsheets.google.com/feeds",

@@ -1,32 +1,21 @@
 import os
-from dotenv import load_dotenv
 from lxml import etree
 from feedgen.feed import FeedGenerator
-
-load_dotenv()
-
-
-# ── Configs ────────────────────────────────────────────────────────────────────
-
-# FEED_FILE = "../feed.xml"
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-FEED_FILE = os.path.join(BASE_DIR, "..", "feed.xml")
-
-FEED_URL = "https://fiorins.github.io/albopop-ladispoli/feed.xml"
+from .helpers import FEED_FILE, RSS_FEED_URL, RSS_MUNICIPALITY_GEODATA
 
 
-# ── Helpers ───────────────────────────────────────────────────────────────────
 def add_channel_extras(channel):
+    geo = RSS_MUNICIPALITY_GEODATA
     categories = [
         ("http://albopop.it/specs#channel-category-type", "Comune"),
-        ("http://albopop.it/specs#channel-category-municipality", "Ladispoli"),
-        ("http://albopop.it/specs#channel-category-province", "Roma"),
-        ("http://albopop.it/specs#channel-category-region", "Lazio"),
-        ("http://albopop.it/specs#channel-category-latitude", "41.95326914"),
-        ("http://albopop.it/specs#channel-category-longitude", "12.08091316"),
+        ("http://albopop.it/specs#channel-category-municipality", geo["city"]),
+        ("http://albopop.it/specs#channel-category-province", geo["province"]),
+        ("http://albopop.it/specs#channel-category-region", geo["region"]),
+        ("http://albopop.it/specs#channel-category-latitude", geo["lat"]),
+        ("http://albopop.it/specs#channel-category-longitude", geo["long"]),
         ("http://albopop.it/specs#channel-category-country", "Italia"),
-        ("http://albopop.it/specs#channel-category-name", "Comune di Ladispoli"),
-        ("http://albopop.it/specs#channel-category-uid", "istat:058116"),
+        ("http://albopop.it/specs#channel-category-name", f"Comune di {geo['city']}"),
+        ("http://albopop.it/specs#channel-category-uid", geo["istat"]),
     ]
 
     webmaster = channel.find("webMaster")
@@ -35,10 +24,10 @@ def add_channel_extras(channel):
     )
 
     # Insert categories
-    for i, (domain, value) in enumerate(categories):
-        cat = etree.Element("category")
-        cat.set("domain", domain)
-        cat.text = value
+    for i, (scheme, label) in enumerate(categories):
+        cat = etree.Element("category")  # Create element separately to use insert
+        cat.set("domain", scheme)
+        cat.text = label
         channel.insert(insert_index + i, cat)
 
     # Insert xhtml meta right after categories
@@ -105,7 +94,7 @@ def fix_item(item, entry):
 
 def generate_rss(entries):
     fg = FeedGenerator()
-    fg.id(FEED_URL)
+    fg.id(RSS_FEED_URL)
     fg.title("AlboPOP - Comune - Ladispoli")
     fg.link(href="https://fiorins.github.io/albopop-ladispoli/feed")
     fg.description("*non ufficiale* RSS feed dell'Albo Pretorio di Ladispoli")

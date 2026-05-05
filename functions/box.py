@@ -1,5 +1,4 @@
-import io, re, os, requests, time
-from dotenv import load_dotenv
+import io, re, requests, time, mimetypes
 
 from box_sdk_gen import (
     AddShareLinkToFolderSharedLink,
@@ -13,19 +12,9 @@ from box_sdk_gen import (
     AddShareLinkToFileSharedLinkAccessField,
 )
 
-load_dotenv()
+from .helpers import BOX_CONFIG_JSON, ATTACHMENT_FOLDER_ID, HEADERS
 
 
-# ── Configs ──────────────────────────────────────────────────────────────────
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-BOX_CONFIG_JSON = os.path.join(BASE_DIR, "..", ".secrets", "config_box.json")
-
-ATTACHMENT_FOLDER_ID = os.getenv("ATTACHMENT_FOLDER_ID")
-
-HEADERS = {"User-Agent": "Mozilla/5.0"}
-
-
-# ── BOX cloud ─────────────────────────────────────────────────────────────────
 def get_box_client():
     jwt_config = JWTConfig.from_config_file(config_file_path=BOX_CONFIG_JSON)
     auth = BoxJWTAuth(config=jwt_config)
@@ -69,18 +58,9 @@ def upload_to_box(client, url, registry, folder_id="0", custom_label=None):
     content_type = file_resp.headers.get("Content-Type", "").split(";")[0].lower()
 
     # Mapping for common types in Albo Pretorio
-    if "pdf" in content_type:
-        ext = ".pdf"
-    elif "word" in content_type or "msword" in content_type:
-        ext = ".docx"
-    elif (
-        "pkcs7" in content_type or "p7m" in content_type or url.lower().endswith(".p7m")
-    ):
+    ext = mimetypes.guess_extension(content_type) or ".pdf"
+    if "pkcs7" in content_type or url.lower().endswith(".p7m"):
         ext = ".p7m"
-    else:
-        # Fallback: try to guess from the URL itself
-        guessed_ext = os.path.splitext(url.split("?")[0])[1]
-        ext = guessed_ext if guessed_ext else ".pdf"
 
     # 3. Use custom label or auto-generate
     file_label = custom_label if custom_label else f"allegato_atto_[{registry}]{ext}"

@@ -1,6 +1,5 @@
-import re, os, base64, requests, time
+import re, base64, requests, time
 from datetime import datetime, timezone
-from dotenv import load_dotenv
 from bs4 import BeautifulSoup
 from functions.box import (
     upload_to_box,
@@ -10,23 +9,13 @@ from functions.box import (
 )
 from functions.helpers import clean_jsessionid
 
-load_dotenv()
-
-# ── Configs ────────────────────────────────────────────────────────────────────
-
-TIME_DELAY = 4  # seconds between each entry page request
-
-ROOT_URL = os.getenv("ROOT_URL")
-ELEMENT_BASE_URL = os.getenv("ELEMENT_BASE_URL")
-
-if not ROOT_URL or not ELEMENT_BASE_URL:
-    raise RuntimeError("Variable not found")
+from .helpers import ROOT_URL, ELEMENT_BASE_URL, REQUEST_TIMEOUT
 
 
 # Analyze the website scraping the list of entries that are not in seen list
 def scrape_entries(seen, session):
     """Scrape the main table and return only new entries."""
-    response = session.get(ROOT_URL, timeout=30)  # Use session
+    response = session.get(ROOT_URL, timeout=REQUEST_TIMEOUT)  # Use session
     response.raise_for_status()
 
     soup = BeautifulSoup(response.text, "html.parser")
@@ -169,14 +158,13 @@ def fetch_attachments(url, session):
       }
     """
     try:
-        resp = session.get(url, timeout=30)  # Use session
+        resp = session.get(url, timeout=REQUEST_TIMEOUT)  # Use session
         resp.raise_for_status()
 
         soup = BeautifulSoup(resp.text, "html.parser")
 
         detail_div = soup.select_one(".dettaglio-pratica-rght.span6")
         if not detail_div or not detail_div.get_text(strip=True):
-            # return "non presente"
             return {
                 "status": "missing",
                 "main": None,
@@ -186,7 +174,6 @@ def fetch_attachments(url, session):
         # 1. Find all rows with the specific data attribute
         attachment_rows = soup.find_all("tr", attrs={"data-chiave-allegato": True})
         if not attachment_rows:
-            # return None
             return {
                 "status": "error",
                 "main": None,
@@ -208,7 +195,6 @@ def fetch_attachments(url, session):
 
         main_data = get_row_data(main_row)
         if not main_data:
-            # return None
             return {
                 "status": "error",
                 "main": None,

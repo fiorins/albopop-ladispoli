@@ -5,9 +5,10 @@ from dotenv import load_dotenv
 from functions.scrape import scrape_entries_with_retry, process_single_entry
 from functions.box import get_box_client, get_box_items
 from functions.google import init_sheet, save_to_sheet
-from functions.helpers import create_session, load_seen, save_seen
 from functions.rss import generate_rss
 from functions.telegram import send_telegram_msg, send_with_rate_limit
+from functions.helpers import create_session, load_seen, save_seen
+
 
 def main():
 
@@ -91,7 +92,9 @@ def main():
         #     'entry_url': 'https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1656920'
         # }
 
-        result = process_single_entry(entry, box_client, box_items_names, session)
+        result = process_single_entry(
+            entry, box_client, box_items, box_items_names, session
+        )
         # If the function returns "EXISTS", it means this entry has been handled before.
         # The code adds the entry's registry to a seen set and skips the rest of the loop for this item
 
