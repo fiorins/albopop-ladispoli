@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 05 May 2026 06:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 08:00:48 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -20,20 +20,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
     <item>
-      <title>AVVISO DI DEPOSITO ATTO A CARICO DEI SIG.RI EDEDI DI PORTO GIACOMO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1665962</link>
-      <description>📚 Allegati totali: 1</description>
+      <title>- AVVISO D'ASTA PUBBLICA II ESPERIMENTO - COMUNE DI MONTAQUILA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666160</link>
+      <description>📚 Allegati totali: 4</description>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1665962</guid>
+      <guid isPermaLink="true">1666160</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">05/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1135</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">28/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1136</category>
       <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
       <category domain="item-category-subType">AVVISI</category>
-      <category domain="item-category-entry">1665962</category>
-      <category domain="item-category-attachments">1</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/vydv01eewvmsalje8dw0a4d881b4ssb9.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/vydv01eewvmsalje8dw0a4d881b4ssb9.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-entry">1666160</category>
+      <category domain="item-category-attachments">4</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/oa1s10ei063ngr5axclmkj3it6i7xopy.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/oa1s10ei063ngr5axclmkj3it6i7xopy.pdf" length="0" type="application/pdf"/>
     </item>
   </channel>
 </rss>
