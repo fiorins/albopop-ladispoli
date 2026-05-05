@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 05 May 2026 14:01:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 14:30:48 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -20,52 +20,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
     <item>
-      <title>LIQUIDAZIONE FATTURA N.260 DEL 04/05/2026, CANONE PRIMO SEMESTRE 2026, PER LOCAZIONE DELLA CASERMA DEI CARABINIERI NEL COMUNE DI LADISPOLI A FAVORE DELLA SOC. SARA'94 S.R.L. P.I. IT04793501000.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666516</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1666516</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1156</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1666510</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/drzoku4ig4kl0vbi62xfnsbxudtxnwpd.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/sqm9yqeof5rv85oll5wzuz0gttvyugnd.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FORNITURA CARBURANTE PER LA TRAZIONE DEGLI AUTOMEZZI COMUNALI FATTURA N. 9601147980 DEL 30/04/2026 - IP PLUS SRL</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666513</link>
+      <title>APPROVAZIONE ELENCO DEGLI UTENTI AMMESSI E DI QUELLI NON AMMESSI ALL’AGEVOLAZIONE TARIFFARIA PER L’ABBATTIMENTO DELLE SPESE SOSTENUTE PER IL PAGAMENTO DEL SERVIZIO DI MENSA SCOLASTICA ANNO 2025/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666628</link>
       <description>📚 Allegati totali: 2</description>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1666513</guid>
+      <guid isPermaLink="true">1666628</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">05/05/2026</category>
       <category domain="http://albopop.it/specs#item-category-pubEnd">20/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1157</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1159</category>
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1666513</category>
+      <category domain="item-category-entry">1666628</category>
       <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/qblm6hv01rq1hlrxnoq1kprg77gie03v.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/qblm6hv01rq1hlrxnoq1kprg77gie03v.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA N.261 DEL 04/05/2026 - DITTA SARA'94 - P.I. IT04793501000, CON SEDE A BRACCIANO - AFFITTO PLESSO SCOLASTICO DENOMINATO “ILARIA ALPI” SITO IN VIA PRAGA.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1666510</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1666510</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1158</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1666516</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/sqm9yqeof5rv85oll5wzuz0gttvyugnd.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/drzoku4ig4kl0vbi62xfnsbxudtxnwpd.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/rnkx7nv3ll8f3nko6uil2t57abnznigw.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/rnkx7nv3ll8f3nko6uil2t57abnznigw.pdf" length="0" type="application/pdf"/>
     </item>
   </channel>
 </rss>
