@@ -1,15 +1,12 @@
 import re, base64, requests, time
 from datetime import datetime, timezone
 from bs4 import BeautifulSoup
-from functions.box import (
+from .box import (
+    get_or_create_box_link,
     upload_to_box,
     upload_to_box_folder,
-    get_or_create_file_link,
-    get_or_create_folder_link,
 )
-from functions.helpers import clean_jsessionid
-
-from .helpers import ROOT_URL, ELEMENT_BASE_URL, REQUEST_TIMEOUT
+from .helpers import ROOT_URL, ELEMENT_BASE_URL, REQUEST_TIMEOUT, clean_jsessionid
 
 
 # Analyze the website scraping the list of entries that are not in seen list
@@ -146,10 +143,9 @@ def get_row_data(row):
     return {"url": link, "filename": original_title}
 
 
-def fetch_attachments(url, session):
+def fetch_attachments(url, registry, session):
     """
     Fetch attachments from an entry page.
-
     Always returns a dictionary with this shape:
       {
         "status": "ok" | "missing" | "error",
@@ -190,8 +186,11 @@ def fetch_attachments(url, session):
                     for td in row.find_all("td")
                 )
             ),
-            attachment_rows[0],  # fallback to first row
+            None,  # fallback to first row
         )
+        if main_row is None:
+            print(f"Warning: no main document found for {registry}, using first row\n")
+            main_row = attachment_rows[0]
 
         main_data = get_row_data(main_row)
         if not main_data:
@@ -228,6 +227,7 @@ def fetch_attachments(url, session):
         }
 
 
+# It handles Box uploads, link generation, and entry mutation all in one function. I need to consider splitting it
 def process_single_entry(entry, box_client, box_items, box_item_names, session):
 
     main_file_label = f"allegato_atto_[{entry['registry']}].pdf"
@@ -235,7 +235,9 @@ def process_single_entry(entry, box_client, box_items, box_item_names, session):
         return "EXISTS"
 
     # Fetch ALL attachment URLs
-    attachments_result = fetch_attachments(entry["entry_url"], session)
+    attachments_result = fetch_attachments(
+        entry["entry_url"], entry["registry"], session
+    )
 
     if attachments_result["status"] == "error":
         print(f"Skipping (attachment not ready): {entry['registry']}")
@@ -268,13 +270,13 @@ def process_single_entry(entry, box_client, box_items, box_item_names, session):
         if not box_file_id:
             return None
 
-        file_link = get_or_create_file_link(box_client, box_file_id)
+        box_file_link = get_or_create_box_link(box_client, box_file_id, kind="file")
 
         entry.update(
             {
                 "attachment_url": main_attachment["url"],
                 "box_file_id": box_file_id,
-                "box_file_link": file_link,
+                "box_file_link": box_file_link,
                 "file_bytes": file_downloaded,
                 "filename": f"allegato_atto_[{entry['registry']}].pdf",
             }
@@ -295,7 +297,9 @@ def process_single_entry(entry, box_client, box_items, box_item_names, session):
             # no custom_label needed — auto-generates allegato_atto_[registry].pdf
             # each att uses its sanitized original name from fetch_attachments
 
-            box_folder_link = get_or_create_folder_link(box_client, box_folder_id)
+            box_folder_link = get_or_create_box_link(
+                box_client, box_folder_id, kind="folder"
+            )
 
             entry.update(
                 {

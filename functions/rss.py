@@ -1,4 +1,3 @@
-import os
 from lxml import etree
 from feedgen.feed import FeedGenerator
 from .helpers import FEED_FILE, RSS_FEED_URL, RSS_MUNICIPALITY_GEODATA

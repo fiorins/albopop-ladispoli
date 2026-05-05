@@ -1,5 +1,4 @@
 import io, re, requests, time, mimetypes
-
 from box_sdk_gen import (
     AddShareLinkToFolderSharedLink,
     AddShareLinkToFolderSharedLinkAccessField,
@@ -11,7 +10,6 @@ from box_sdk_gen import (
     AddShareLinkToFileSharedLink,
     AddShareLinkToFileSharedLinkAccessField,
 )
-
 from .helpers import BOX_CONFIG_JSON, ATTACHMENT_FOLDER_ID, HEADERS
 
 
@@ -29,7 +27,6 @@ def get_box_items(client, folder_id="0"):
 # grab a direct file url and upload it on Box
 # returns the id of the Box file object if the upload is successful, or None if it fails.
 def upload_to_box(client, url, registry, folder_id="0", custom_label=None):
-
     # 1. Download the file
     # Retry download up to 3 times
     file_resp = None
@@ -143,51 +140,43 @@ def upload_to_box_folder(client, attachments, registry, all_items):
     return folder_id, files_id
 
 
-def get_or_create_file_link(client, file_id):
-    # Try to create the shared url
+def get_or_create_box_link(client, item_id, kind="file"):
     try:
-        file = client.shared_links_files.get_shared_link_for_file(
-            file_id, "shared_link"
-        )
-
-        if not file.shared_link:
-            file = client.shared_links_files.add_share_link_to_file(
-                file_id,
-                "shared_link",
-                shared_link=AddShareLinkToFileSharedLink(
-                    access=AddShareLinkToFileSharedLinkAccessField.OPEN
-                ),
+        if kind == "file":
+            item = client.shared_links_files.get_shared_link_for_file(
+                item_id, "shared_link"
             )
 
-        return file.shared_link.download_url
+            if not item.shared_link:
+                item = client.shared_links_files.add_share_link_to_file(
+                    item_id,
+                    "shared_link",
+                    shared_link=AddShareLinkToFileSharedLink(
+                        access=AddShareLinkToFileSharedLinkAccessField.OPEN
+                    ),
+                )
 
-    # Fallback: recover
-    except Exception as e:
-        error_msg = getattr(e, "message", str(e))
-        print(f"Box error getting/creating link: {error_msg}")
-        return None
+            return item.shared_link.download_url
 
-
-def get_or_create_folder_link(client, folder_id):
-    # Try to create the shared url
-    try:
-        folder = client.shared_links_folders.get_shared_link_for_folder(
-            folder_id, "shared_link"
-        )
-
-        if not folder.shared_link:
-            folder = client.shared_links_folders.add_share_link_to_folder(
-                folder_id,
-                "shared_link",
-                shared_link=AddShareLinkToFolderSharedLink(
-                    access=AddShareLinkToFolderSharedLinkAccessField.OPEN
-                ),
+        if kind == "folder":
+            item = client.shared_links_folders.get_shared_link_for_folder(
+                item_id, "shared_link"
             )
 
-        return folder.shared_link.url
+            if not item.shared_link:
+                item = client.shared_links_folders.add_share_link_to_folder(
+                    item_id,
+                    "shared_link",
+                    shared_link=AddShareLinkToFolderSharedLink(
+                        access=AddShareLinkToFolderSharedLinkAccessField.OPEN
+                    ),
+                )
 
-    # Fallback: recover
+            return item.shared_link.url
+
+        raise ValueError(f"Unsupported Box link kind: {kind}")
+
     except Exception as e:
         error_msg = getattr(e, "message", str(e))
-        print(f"Box error getting/creating folder: {error_msg}")
+        print(f"Box error getting/creating {kind} link: {error_msg}")
         return None

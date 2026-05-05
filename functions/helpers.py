@@ -1,4 +1,4 @@
-import os, re, json, requests, html
+import os, re, json, requests
 from dotenv import load_dotenv
 from pathlib import Path
 from requests.adapters import HTTPAdapter

@@ -1,6 +1,5 @@
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
-
 from .helpers import GOOGLE_CONFIG_JSON
 
 
