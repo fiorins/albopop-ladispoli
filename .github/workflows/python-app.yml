@@ -57,6 +57,7 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_CHAT_ID_UPDATES: ${{ secrets.TELEGRAM_CHAT_ID_UPDATES }}
+          ATTACHMENT_FOLDER_ID: ${{ secrets.ATTACHMENT_FOLDER_ID }}
         run: python albo-ladispoli.py
 
       # 7. Save updated data into data branch
