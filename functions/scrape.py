@@ -303,6 +303,7 @@ def process_single_entry(entry, box_client, box_items, box_item_names, session):
 
             entry.update(
                 {
+                    "box_folder_id": box_folder_id,
                     "box_folder_link": box_folder_link or "non presente",
                     "box_folder_ids": box_files_id or [],
                 }

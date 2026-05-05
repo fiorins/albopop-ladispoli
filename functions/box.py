@@ -95,20 +95,20 @@ def upload_to_box_folder(client, attachments, registry, all_items):
     try:
         existing = next((item for item in all_items if item.name == folder_label), None)
         if existing:
-            folder_id = existing.id
+            subfolder_id = existing.id
         else:
             subfolder = client.folders.create_folder(
                 name=folder_label,
                 parent=UploadFileAttributesParentField(id=f"{ATTACHMENT_FOLDER_ID}"),
             )
-            folder_id = subfolder.id
+            subfolder_id = subfolder.id
 
             all_items.append(subfolder)  # update cache
 
     except Exception as e:
         # Folder may already exist — try to find it
         print(f"Folder creation error (may already exist): {str(e)[:80]}")
-        folder_id = "0"
+        subfolder_id = "0"
 
     for index, attachment in enumerate(attachments):
         try:
@@ -121,7 +121,7 @@ def upload_to_box_folder(client, attachments, registry, all_items):
                 client,
                 attachment["url"],
                 registry,
-                folder_id,
+                subfolder_id,
                 custom_label=custom_label,
             )
             if not box_file_id:
@@ -139,7 +139,7 @@ def upload_to_box_folder(client, attachments, registry, all_items):
 
     if files_id:
         print(f"Uploaded extra attachments ({len(files_id)} tot) for {registry}\n")
-    return folder_id, files_id
+    return subfolder_id, files_id
 
 
 def get_or_create_box_link(client, item_id, kind="file"):

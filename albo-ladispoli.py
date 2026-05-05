@@ -126,7 +126,6 @@ def main():
     # 8. Final Processing: Telegram and Google Sheets
     # Send Telegram messages
     for entry in valid_entries:
-
         meta = {
             "title": entry.get("title", ""),
             "register": entry.get("registry", ""),
