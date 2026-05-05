@@ -41,6 +41,7 @@ def save_to_sheet(sheet, entry, existing_ids):
         return False
 
     try:
+        # columns of the rows ont the google sheet
         row = [
             entry.get("title"),
             entry.get("pub_start_alt"),
@@ -57,7 +58,7 @@ def save_to_sheet(sheet, entry, existing_ids):
             (
                 ", ".join(entry.get("box_folder_ids", []))
                 if entry.get("box_folder_ids")
-                else "non presenti"
+                else "non presente"
             ),
             entry.get("box_folder_link", "non presente"),
             safe_int(entry.get("tg_message_id", "")),

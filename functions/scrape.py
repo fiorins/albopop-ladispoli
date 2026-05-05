@@ -194,9 +194,8 @@ def fetch_attachments(url, session):
 
                 data = get_row_data(row)
                 if data:
-                    others_data.append(
-                        data
-                    )  # This is now a list of DICTS {"url": link, "filename": original_title}
+                    others_data.append(data)
+                    # This is now a list of DICTS {"url": link, "filename": original_title}
 
         return main_data, others_data
 
@@ -275,13 +274,19 @@ def process_single_entry(entry, box_client, box_items, session):
 
             entry.update(
                 {
-                    "box_folder_link": box_folder_link,
-                    "box_folder_ids": box_files_id,
+                    "box_folder_link": box_folder_link or "non presente",
+                    "box_folder_ids": box_files_id if box_files_id else "non presente",
                 }
             )
 
         except Exception as e:
             print(f"Error processing extra attachments for {entry['registry']}: {e}")
+            entry.update(
+                {
+                    "box_folder_link": "non presente",
+                    "box_folder_ids": "non presente",
+                }
+            )
             # We don't return None here because we at least have the main doc
 
     return entry
