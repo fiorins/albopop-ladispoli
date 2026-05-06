@@ -2,7 +2,7 @@ name: Albo Pretorio Scraper
 
 on:
   # schedule:
-    # - cron: '*/30 * * * *'
+  # - cron: '*/30 * * * *'
   workflow_dispatch: # Allow manual run
 
 permissions:
@@ -17,7 +17,7 @@ jobs:
       - name: Checkout main branch
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # Needed to access other branches (data)
+          fetch-depth: 0 # Needed to access other branches (data)
 
       # 2. Try to restore previous data from data branch
       - name: Restore data files from data branch
@@ -35,7 +35,7 @@ jobs:
         with:
           python-version: "3.10"
           cache: "pip"
-          
+
       # 4. Install dependencies
       - name: Install dependencies
         run: |
@@ -57,7 +57,7 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_CHAT_ID_UPDATES: ${{ secrets.TELEGRAM_CHAT_ID_UPDATES }}
-          ATTACHMENT_FOLDER_ID: ${{ secrets.ATTACHMENT_FOLDER_ID }}
+          BOX_ATTACHMENTS_FOLDER_ID: ${{ secrets.BOX_ATTACHMENTS_FOLDER_ID }}
         run: python albo-ladispoli.py
 
       # 7. Save updated data into data branch
@@ -103,7 +103,7 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
-          
+
           # Commit + push to data branch
           git commit -m "Update data $(date +'%Y-%m-%d %H:%M')"
           git push origin data

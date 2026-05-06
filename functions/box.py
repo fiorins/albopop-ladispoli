@@ -10,23 +10,27 @@ from box_sdk_gen import (
     AddShareLinkToFileSharedLink,
     AddShareLinkToFileSharedLinkAccessField,
 )
-from .helpers import BOX_CONFIG_JSON, ATTACHMENT_FOLDER_ID, HEADERS
-
+from .helpers import BOX_CONFIG_JSON, BOX_ATTACHMENTS_FOLDER_ID, HEADERS
 
 def get_box_client():
+    """Create the box client with that configs"""
     jwt_config = JWTConfig.from_config_file(config_file_path=BOX_CONFIG_JSON)
     auth = BoxJWTAuth(config=jwt_config)
     return BoxClient(auth=auth)
 
 
 def get_box_items(client, folder_id="0"):
+    """Get a list of Box objects within folder with that id"""
     result = client.folders.get_folder_items(folder_id, sort="DATE", direction="DESC")
     return list(result.entries)
 
 
-# grab a direct file url and upload it on Box
-# returns the id of the Box file object if the upload is successful, or None if it fails.
 def upload_to_box(client, url, registry, folder_id="0", custom_label=None):
+    """
+    Grab a direct file url and upload it on Box and returns the id of
+    the Box object if the upload is successful, or None if it fails.
+    """
+
     # 1. Download the file
     # Retry download up to 3 times
     file_resp = None
@@ -71,9 +75,9 @@ def upload_to_box(client, url, registry, folder_id="0", custom_label=None):
             ),
             file=io.BytesIO(file_resp.content),
         )
-        file = uploaded.entries[0]
-        print(f"Uploaded to Box: {registry}")
-        return file.id, file_resp.content
+        file_id = uploaded.entries[0]
+        print(f"Uploaded file to Box with id: {file_id}")
+        return file_id, file_resp.content
 
     except Exception as e:
         error_msg = getattr(e, "message", str(e))
@@ -83,12 +87,11 @@ def upload_to_box(client, url, registry, folder_id="0", custom_label=None):
 
 def upload_to_box_folder(client, attachments, registry, all_items):
     """
-    Downloads each attachment and uploads it to a Box subfolder
-    named after the entry registry (e.g. '2026-1084').
-    Returns list of uploaded file IDs and links.
+    Take a dict with direct url links, upload them on a Box subfolder that it creates
+    and returns list of uploaded file IDs and links.
     """
-    files_id = []
 
+    files_id = []
     folder_label = f"altri_allegati_[{registry}]"
 
     # Create or find the subfolder for this entry
@@ -99,7 +102,9 @@ def upload_to_box_folder(client, attachments, registry, all_items):
         else:
             subfolder = client.folders.create_folder(
                 name=folder_label,
-                parent=UploadFileAttributesParentField(id=f"{ATTACHMENT_FOLDER_ID}"),
+                parent=UploadFileAttributesParentField(
+                    id=f"{BOX_ATTACHMENTS_FOLDER_ID}"
+                ),
             )
             subfolder_id = subfolder.id
 
@@ -143,6 +148,8 @@ def upload_to_box_folder(client, attachments, registry, all_items):
 
 
 def get_or_create_box_link(client, item_id, kind="file"):
+    """Search for a shared link for that item id, if not found it creates it"""
+
     try:
         if kind == "file":
             item = client.shared_links_files.get_shared_link_for_file(

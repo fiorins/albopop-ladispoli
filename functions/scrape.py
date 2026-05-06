@@ -9,9 +9,12 @@ from .box import (
 from .helpers import ROOT_URL, ELEMENT_BASE_URL, REQUEST_TIMEOUT, clean_jsessionid
 
 
-# Analyze the website scraping the list of entries that are not in seen list
 def scrape_entries(seen, session):
-    """Scrape the main table and return only new entries."""
+    """
+    Scrape the main table and return only new entries, analyze the
+    website scraping the list of entries that are not in seen list
+    """
+
     response = session.get(ROOT_URL, timeout=REQUEST_TIMEOUT)  # Use session
     response.raise_for_status()
 
@@ -99,7 +102,7 @@ def scrape_entries_with_retry(seen, session, max_retries=3, wait=30):
 
 
 def extract_url(row):
-    """Extracts URL and metadata from a specific row."""
+    """Extracts URL and metadata from a specific row"""
     try:
         anchors = row.select("td a[onclick*='atob']")
 
@@ -130,8 +133,9 @@ def extract_url(row):
         return None
 
 
-# Helper to extract both URL and the text from the first cell (the filename)
 def get_row_data(row):
+    """Extract both URL and the text from the first cell (the filename) of website table"""
+
     link = extract_url(row)
     if not link:
         return None
@@ -145,8 +149,7 @@ def get_row_data(row):
 
 def fetch_attachments(url, registry, session):
     """
-    Fetch attachments from an entry page.
-    Always returns a dictionary with this shape:
+    Fetch attachments from an entry page. Always returns a dictionary with this shape:
       {
         "status": "ok" | "missing" | "error",
         "main": dict | None,
@@ -256,7 +259,6 @@ def process_single_entry(entry, box_client, box_items, box_item_names, session):
         return entry
 
     # Unpack the result
-    # main_attachment, others_attachments = attachments_result
     main_attachment = attachments_result["main"]
     others_attachments = attachments_result["others"]
 
@@ -317,6 +319,6 @@ def process_single_entry(entry, box_client, box_items, box_item_names, session):
                     "box_folder_ids": [],
                 }
             )
-            # We don't return None here because we at least have the main doc
+            # Don't return None here because we at least have the main doc
 
     return entry
