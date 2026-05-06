@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 06 May 2026 09:30:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 10:00:39 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -20,20 +20,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
     <item>
-      <title>ISCRIZIONE DELL’ASD PROFESSION DANCE ALL’ALBO COMUNALE DELLE ASSOCIAZIONI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1667066</link>
+      <title>APPROVAZIONE AVVISO PUBBLICO “RICHIESTA ATTIVAZIONE DEL SERVIZIO AUTONOMIA ED INCLUSIONE DI ALUNNI CON DISABILITÀ (OEPAC) FREQUENTANTI LE SCUOLE DELL’INFANZIA, PRIMARIE E SECONDARIE DI PRIMO GRADO PER L’ANNO SCOLASTICO 2025/2026” E MODULO "RICHIESTA ASSISTENZA O.E.P.A.C. (EX-A.E.C.)" (ALLEGATO A) ANNO SCOLASTICO 2026 - 2027</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1667120</link>
       <description>📚 Allegati totali: 2</description>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1667066</guid>
+      <guid isPermaLink="true">1667120</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">06/05/2026</category>
       <category domain="http://albopop.it/specs#item-category-pubEnd">21/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1162</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1163</category>
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1667066</category>
+      <category domain="item-category-entry">1667120</category>
       <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/dbvwrvqt4kdyto7poppj8fku1zqeuhym.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/dbvwrvqt4kdyto7poppj8fku1zqeuhym.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/03ixwta5x1z94jmma749nhb6nseo7hkl.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/03ixwta5x1z94jmma749nhb6nseo7hkl.pdf" length="0" type="application/pdf"/>
     </item>
   </channel>
 </rss>
