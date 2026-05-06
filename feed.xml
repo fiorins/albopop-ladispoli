@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 06 May 2026 11:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 11:30:39 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -20,20 +20,36 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
     <item>
-      <title>ORDINANZA CONTINGIBILE ED URGENTE A TUTELA DELLA PUBBLICA SALUTE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1667225</link>
+      <title>PRESA D’ATTO DELLE DIMISSIONI VOLONTARIE DI UN DIPENDENTE IN SERVIZIO A TEMPO PARZIALE E DETERMINATO AI SENSI DELL’ART. 90 DEL TUEL</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1667356</link>
       <description>📚 Allegati totali: 1</description>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1667225</guid>
+      <guid isPermaLink="true">1667356</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">06/05/2026</category>
       <category domain="http://albopop.it/specs#item-category-pubEnd">21/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1164</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1165</category>
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <category domain="item-category-entry">1667225</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1667312</category>
       <category domain="item-category-attachments">1</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/x4voj51y53q8qyckub6grs0ufq99rzq2.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/x4voj51y53q8qyckub6grs0ufq99rzq2.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/3n7dpvf4so94v0xwwnhu6qm2rikou0hb.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/72ulq4fgauw69utin7utelo1c09q97ka.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>PRESA D’ATTO DELLE DIMISSIONI VOLONTARIE DI UN DIPENDENTE DALLA DATA DEL 01/06/2026 (ULTIMO GIORNO DI SERVIZIO 31/05/2026).</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1667312</link>
+      <description>📚 Allegati totali: 1</description>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1667312</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1166</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1667356</category>
+      <category domain="item-category-attachments">1</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/72ulq4fgauw69utin7utelo1c09q97ka.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/3n7dpvf4so94v0xwwnhu6qm2rikou0hb.pdf" length="0" type="application/pdf"/>
     </item>
   </channel>
 </rss>
