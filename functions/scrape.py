@@ -235,7 +235,73 @@ def fetch_attachments(url, registry, session):
         }
 
 
-# It handles Box uploads, link generation, and entry mutation all in one function. I need to consider splitting it
+def process_main_attachment(entry, box_client, main_attachment):
+    try:
+        # Pass main_attachment["url"] because main_attachment is a dict
+        box_file_id, file_downloaded = upload_to_box(
+            box_client, main_attachment["url"], entry["registry"]
+        )  # no custom_label needed — auto-generates allegato_atto_[registry].pdf
+
+        if not box_file_id:
+            return None
+
+        box_file_link = get_or_create_box_link(box_client, box_file_id, kind="file")
+
+        entry.update(
+            {
+                "attachment_url": main_attachment["url"],
+                "box_file_id": box_file_id,
+                "box_file_link": box_file_link,
+                "file_bytes": file_downloaded,
+                "filename": f"allegato_atto_[{entry['registry']}].pdf",
+            }
+        )
+
+        return entry
+
+    except Exception as e:
+        print(f"Error processing main attachment {entry['registry']}: {e}")
+        return None
+
+
+def process_extra_attachments(entry, box_client, others_attachments, box_items):
+    if not others_attachments:
+        return entry
+
+    try:
+        # Pass the list 'others_attachments' directly.
+        # upload_to_box_folder will handle the loop and filenames.
+        box_folder_id, box_files_id = upload_to_box_folder(
+            box_client, others_attachments, entry["registry"], box_items
+        )
+        # no custom_label needed — auto-generates allegato_atto_[registry].pdf
+        # each att uses its sanitized original name from fetch_attachments
+
+        box_folder_link = get_or_create_box_link(
+            box_client, box_folder_id, kind="folder"
+        )
+
+        entry.update(
+            {
+                "box_folder_id": box_folder_id,
+                "box_folder_link": box_folder_link or "non presente",
+                "box_folder_ids": box_files_id or [],
+            }
+        )
+
+    except Exception as e:
+        print(f"Error processing extra attachments for {entry['registry']}: {e}")
+        entry.update(
+            {
+                "box_folder_link": "non presente",
+                "box_folder_ids": [],
+            }
+        )
+        # Don't return None here because we at least have the main doc
+
+    return entry
+
+
 def process_single_entry(entry, box_client, box_items, box_item_names, session):
 
     main_file_label = f"allegato_atto_[{entry['registry']}].pdf"
@@ -268,62 +334,11 @@ def process_single_entry(entry, box_client, box_items, box_item_names, session):
     others_attachments = attachments_result["others"]
 
     # 1. Process Main Document (Common to both cases)
-    try:
-        # Pass main_attachment["url"] because main_attachment is a dict
-        box_file_id, file_downloaded = upload_to_box(
-            box_client, main_attachment["url"], entry["registry"]
-        )  # no custom_label needed — auto-generates allegato_atto_[registry].pdf
-
-        if not box_file_id:
-            return None
-
-        box_file_link = get_or_create_box_link(box_client, box_file_id, kind="file")
-
-        entry.update(
-            {
-                "attachment_url": main_attachment["url"],
-                "box_file_id": box_file_id,
-                "box_file_link": box_file_link,
-                "file_bytes": file_downloaded,
-                "filename": f"allegato_atto_[{entry['registry']}].pdf",
-            }
-        )
-
-    except Exception as e:
-        print(f"Error processing on Box main attachment {entry['registry']}: {e}")
+    entry = process_main_attachment(entry, box_client, main_attachment)
+    if entry is None:
         return None
 
     # 2. Process Extra Attachments (If they exist)
-    if others_attachments:
-        try:
-            # Pass the list 'others_attachments' directly.
-            # upload_to_box_folder will handle the loop and filenames.
-            box_folder_id, box_files_id = upload_to_box_folder(
-                box_client, others_attachments, entry["registry"], box_items
-            )
-            # no custom_label needed — auto-generates allegato_atto_[registry].pdf
-            # each att uses its sanitized original name from fetch_attachments
-
-            box_folder_link = get_or_create_box_link(
-                box_client, box_folder_id, kind="folder"
-            )
-
-            entry.update(
-                {
-                    "box_folder_id": box_folder_id,
-                    "box_folder_link": box_folder_link or "non presente",
-                    "box_folder_ids": box_files_id or [],
-                }
-            )
-
-        except Exception as e:
-            print(f"Error processing extra attachments for {entry['registry']}: {e}")
-            entry.update(
-                {
-                    "box_folder_link": "non presente",
-                    "box_folder_ids": [],
-                }
-            )
-            # Don't return None here because we at least have the main doc
+    entry = process_extra_attachments(entry, box_client, others_attachments, box_items)
 
     return entry
