@@ -78,8 +78,11 @@ def get_telegram_caption(meta: dict, include_header=False):
     )
 
 
-# If file_bytes is provided, sends a document, otherwise, sends a text message.
 def send_telegram_msg(meta: dict, file_bytes=None, filename=None):
+    """
+    Send a Telegram message based on situation, if file_bytes is provided,
+    sends a document, otherwise, sends a text message
+    """
 
     try:
         if file_bytes:
