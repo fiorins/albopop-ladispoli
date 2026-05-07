@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 07 May 2026 07:33:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 08:17:20 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -20,18 +20,82 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
     <item>
-      <title>RIU 51/2026 – DIRITTI DI LICENZA DI ESERCIZIO IMPIANTO FOTOVOLTAICO VIA DEGLI AIRONI PERIODO 2021-2026 - ORDINANZA DI LIQUIDAZIONE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1667726</link>
-      <description>📚 Allegati totali: 3</description>
+      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELLA COOPERATIVA SOCIALE CASSIAVASS PER IL SERVIZIO ASSISTENZA EDUCATIVA A SOSTEGNO DELLE AUTONOMIE - OEPAC - EFFETTUATO NEL MESE DI MARZO 2026 E RIVALUTAZIONE ISTAT</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1667800</link>
+      <description>📚 Allegati totali: 2</description>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1667726</guid>
+      <guid isPermaLink="true">1667800</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">07/05/2026</category>
       <category domain="http://albopop.it/specs#item-category-pubEnd">22/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1172</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1173</category>
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1667726</category>
+      <category domain="item-category-entry">1667788</category>
+      <category domain="item-category-attachments">2</category>
+      <category domain="item-category-attachBoxUrl">None</category>
+      <enclosure url="" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA N 539 DEL 04/05/2026 EMESSA DA “CASA COMUNE 2000” SOCIETA’ COOPERATIVA SOCIALE A.R.L. PER LA GESTIONE DEL SERVIZIO DELL’ASILO NIDO “SENSORY” SVOLTO NEL MESE DI MAGGIO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1667797</link>
+      <description>📚 Allegati totali: 3</description>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1667797</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">07/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">22/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1174</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1667791</category>
       <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">None</category>
+      <enclosure url="" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELLA SOCIETA' E. TIRRENO SRL- MANUTENZIONE DEL MANUFATTO METALLICO CON SOSTITUZIONE ELEMENTI DETERIORATI, TRATTAMENTO ANTICORROSIVO E VERNICIATURA DELLE SUPERFICI IN LAMIERA SITO IN PIAZZA ROSSELLINI;</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1667794</link>
+      <description>📚 Allegati totali: 3</description>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1667794</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">07/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">22/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1175</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1667794</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">None</category>
+      <enclosure url="" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE ACCONTO IN FAVORE DI LAB4 S.R.L. PER L’ACQUISTO DELL’ARTICOLO “MAGA23” ATTRAVERSO L’ORDINE DIRETTO N. 7661826 SUL MERCATO ELETTRONICO DELLA PUBBLICA AMMINISTRAZIONE. FATTURA N. 42/2025 DEL 29/07/2025. CIG B057F2BCF6</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1667791</link>
+      <description>📚 Allegati totali: 5</description>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1667791</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">07/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">22/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1176</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1667797</category>
+      <category domain="item-category-attachments">5</category>
+      <category domain="item-category-attachBoxUrl">None</category>
+      <enclosure url="" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA PER AGENZIA DI ONORANZE FUNEBRI SAMPAOLESI - INUMAZIONE SALMA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1667788</link>
+      <description>📚 Allegati totali: 2</description>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1667788</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">07/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">22/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1177</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1667800</category>
+      <category domain="item-category-attachments">2</category>
       <category domain="item-category-attachBoxUrl">None</category>
       <enclosure url="" length="0" type="application/pdf"/>
     </item>
