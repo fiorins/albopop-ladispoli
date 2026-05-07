@@ -12,6 +12,7 @@ from box_sdk_gen import (
 )
 from .helpers import BOX_CONFIG_JSON, BOX_ATTACHMENTS_FOLDER_ID, HEADERS
 
+
 def get_box_client():
     """Create the box client with that configs"""
     jwt_config = JWTConfig.from_config_file(config_file_path=BOX_CONFIG_JSON)
@@ -75,7 +76,7 @@ def upload_to_box(client, url, registry, folder_id="0", custom_label=None):
             ),
             file=io.BytesIO(file_resp.content),
         )
-        file_id = uploaded.entries[0]
+        file_id = uploaded.entries[0].id
         print(f"Uploaded file to Box with id: {file_id}")
         return file_id, file_resp.content
 
