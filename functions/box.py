@@ -1,4 +1,4 @@
-import io, re, requests, time, mimetypes
+import io, re, requests, time, mimetypes, random
 from box_sdk_gen import (
     AddShareLinkToFolderSharedLink,
     AddShareLinkToFolderSharedLinkAccessField,
@@ -136,7 +136,10 @@ def upload_to_box_folder(client, attachments, registry, all_items):
             files_id.append(box_file_id)
 
             # print(f"Uploaded extra attachment {index + 1}: {registry}")
-            time.sleep(2)
+
+            delay = random.uniform(2.5, 4.5)
+            print(f"Waiting for {delay:.2f} seconds before next request...\n")
+            time.sleep(delay)  # pauses for a random float between 2.5 and 4.5 seconds
 
         except Exception as e:
             error_msg = getattr(e, "message", str(e))

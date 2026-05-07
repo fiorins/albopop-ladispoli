@@ -85,6 +85,11 @@ def scrape_entries(seen, session):
 
 
 def scrape_entries_with_retry(seen, session, max_retries=3, wait=30):
+    """
+    If the function fails because of a timeout or a connection error, the script doesn't
+    immediately try again, but will pause 30 sec before trying to scrape the website again.
+    """
+
     for attempt in range(1, max_retries + 1):
         try:
             return scrape_entries(seen, session)

@@ -24,6 +24,7 @@ def send_with_rate_limit(send_func, *args, max_retries=5, **kwargs):
         resp = send_func(*args, **kwargs)
 
         if resp is None:
+            print(f"Attempt {attempt}: Function returned None.")
             return False
 
         if resp.status_code == 200:
@@ -32,14 +33,16 @@ def send_with_rate_limit(send_func, *args, max_retries=5, **kwargs):
 
         if resp.status_code == 429:
             retry_after = resp.json().get("parameters", {}).get("retry_after", 5)
-            print(f"Rate limit Telegram. Wait {retry_after} seconds...")
+            print(
+                f"Rate limit (Attempt {attempt}/{max_retries}). Wait {retry_after}s..."
+            )
             time.sleep(retry_after + 1)
             continue
 
-        print("Telegram error: ", resp.status_code, resp.text)
+        print(f"Telegram error on attempt {attempt}: {resp.status_code} {resp.text}")
         return None
 
-    print("Max retries reached for Telegram.")
+    print(f"Max retries ({max_retries}) reached. Giving up.")
     return None
 
 

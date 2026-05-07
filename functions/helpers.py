@@ -11,7 +11,6 @@ load_dotenv()
 # ── Request Settings ─────────────────────────────────────────────────────────
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 REQUEST_TIMEOUT = 30
-TIME_DELAY = 4
 
 # ── Project Paths ─────────────────────────────────────────────────────────────
 FUNC_DIR = Path(__file__).resolve().parent
@@ -30,6 +29,7 @@ ELEMENT_BASE_URL = os.getenv("ELEMENT_BASE_URL")
 BOX_ATTACHMENTS_FOLDER_ID = os.getenv("BOX_ATTACHMENTS_FOLDER_ID")
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+TIME_DELAY = 4  # delay seconds
 
 if (
     not ROOT_URL

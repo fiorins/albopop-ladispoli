@@ -1,6 +1,5 @@
 from zoneinfo import ZoneInfo
 from datetime import datetime, timezone
-from dotenv import load_dotenv
 
 from functions.scrape import scrape_entries_with_retry, process_single_entry
 from functions.box import get_box_client, get_box_items
@@ -76,21 +75,6 @@ def main():
     # 6. Process each entry (Download/Upload logic)
     # Fetch attachment from url and upload it on Box, process in reverse to safely skip entries
     for entry in reversed(entries):
-        # Entry at this point
-        # entry: {
-        #     'registry': '2026-1037',
-        #     'year': '2026',
-        #     'number': '1037',
-        #     'title': 'APPROVAZIONE DEL PROGETTO DI FATTIBILITÀ TECNICO ECONOMICA PER IL “COMPLETAMENTO DEL RESTAURO CONSERVATIVO DEL COMPLESSO MONUMENTALE TORRE FLAVIA E MUSEALIZZAZIONE” VOLTO ALLA PARTECIPAZIONE ALL’ AVVISO PUBBLICO INDETTO DALLA REGIONE LAZIO CON DETERMINAZIONE DIRIGENZIALE N. G00823 DEL 27/01/2026, FINALIZZATO ALLA PRESENTAZIONE DI ISTANZE PER IL "PIANO DI INTERVENTI STRAORDINARI PER LA VALORIZZAZIONE DEI TEATRI, DELLE SALE CINEMATOGRAFICHE, DEI PALAZZI STORICI, DEI LUOGHI DI CULTO, DEGLI SPAZI ARCHEOLOGICI E RICREATIVI DEL LAZIO". ',
-        #     'type': 'ATTI AMMINISTRATIVI',
-        #     'sub_type': 'DELIBERE DI GIUNTA',
-        #     'pub_start': datetime.datetime(2026, 5, 4, 0, 0, tzinfo=datetime.timezone.utc),
-        #     'pub_start_alt': '21/04/2026',
-        #     'pub_end_alt': '06/05/2026',
-        #     'att_count': '31',
-        #     'entry_id': '1656920',
-        #     'entry_url': 'https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1656920'
-        # }
 
         result = process_single_entry(
             entry, box_client, box_items, box_items_names, session
