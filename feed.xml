@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 07 May 2026 10:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 10:30:31 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -20,20 +20,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
     <item>
-      <title>ORDINANZA CONTINGIBILE ED URGENTE PER LA CHIUSURA DEI PLESSI SCOLASTICI DI VIA PRAGA E VIA VARSAVIA.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1667956</link>
-      <description>📚 Allegati totali: 2</description>
+      <title>NOMINA AUSILIARIO DEL TRAFFICO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1668188</link>
+      <description>📚 Allegati totali: 1</description>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1667956</guid>
+      <guid isPermaLink="true">1668188</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">07/05/2026</category>
       <category domain="http://albopop.it/specs#item-category-pubEnd">22/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1179</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1180</category>
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <category domain="item-category-entry">1667956</category>
-      <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/hjnrbkkzgd6ns9qle0nhzvh10qz9f6pm.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/hjnrbkkzgd6ns9qle0nhzvh10qz9f6pm.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-subType">DECRETI</category>
+      <category domain="item-category-entry">1668188</category>
+      <category domain="item-category-attachments">1</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/z7hih955ln50vreufanff62svygxzpbn.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/z7hih955ln50vreufanff62svygxzpbn.pdf" length="0" type="application/pdf"/>
     </item>
   </channel>
 </rss>
