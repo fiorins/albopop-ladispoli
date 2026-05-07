@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 07 May 2026 12:30:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 16:01:24 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -20,20 +20,36 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
     <item>
-      <title>APPROVAZIONE VERBALE DELLA COMMISSIONE GIUDICATRICE PER LA VALUTAZIONE DELLE DOMANDE INERENTI L'AVVISO PUBBLICO PER LA REALIZZAZIONE DI SAGGI DI FINE ANNO SCOLASTICO DAL 19 GIUGNO AL 23 AGOSTO 2026, RIENTRANTI NELLA “RASSEGNA ESTIVA 2026”, PRESSO LO SPAZIO DEDICATO AD ATTIVITÀ CULTURALI SITO IN VIA RAPALLO N. 14, ATTIGUO AL SITO ARCHEOLOGICO DENOMINATO “LA GROTTACCIA”.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1668380</link>
-      <description>📚 Allegati totali: 3</description>
+      <title>MODIFICHE AL REGOLAMENTO PER IL FUNZIONAMENTO DEL CONSIGLIO COMUNALE APPROVATO CON DELIBERAZIONE CONSILIARE N.72 DEL 18/12/2017 E SUCCESSIVAMENTE MODIFICATO CON DELIBERAZIONI CONSILIARI N.57 DEL 22/10/2018 E N.2 DEL 26/01/2023. APPROVAZIONE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1668676</link>
+      <description>📚 Allegati totali: 5</description>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1668380</guid>
+      <guid isPermaLink="true">1668676</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">07/05/2026</category>
       <category domain="http://albopop.it/specs#item-category-pubEnd">22/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1181</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1182</category>
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1668380</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/0faioecqndq0p3ibcznq3x45bv5r9xs0.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/0faioecqndq0p3ibcznq3x45bv5r9xs0.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <category domain="item-category-entry">1668673</category>
+      <category domain="item-category-attachments">5</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/0rhezpmfhqoyrqpcd1msqykke8et85bl.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/aogwo1ixm83picu4luy24goqvaumgydq.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>SURROGA DI CONSIGLIERE COMUNALE DIMISSIONARIO E CONVALIDA SUBENTRANTE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1668673</link>
+      <description>📚 Allegati totali: 4</description>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1668673</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">07/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">22/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1183</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <category domain="item-category-entry">1668676</category>
+      <category domain="item-category-attachments">4</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/aogwo1ixm83picu4luy24goqvaumgydq.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/0rhezpmfhqoyrqpcd1msqykke8et85bl.pdf" length="0" type="application/pdf"/>
     </item>
   </channel>
 </rss>
