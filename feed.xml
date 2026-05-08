@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 07 May 2026 16:44:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 08:00:59 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -20,68 +20,36 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
     <item>
-      <title>PIANO PARTICOLAREGGIATO PER INSEDIAMENTO PRODUTTIVO-COMMERCIALE E RESIDENZIALE IN VIA AURELIA KM 37,700. ART. 4 L.R. 36/87. ADEGUAMENTO E REVISIONE DEL PIANO AI SENSI DELL’ART. 15 COMMA 2 D.LGS.152/2006.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1668702</link>
-      <description>📚 Allegati totali: 70</description>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1668702</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1184</category>
+      <title>OCCUPAZIONE SUOLO PUBBLICO CONDOMINIO VIA TIRRENIA 5</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1668953</link>
+      <description>📚 Allegati totali: 2</description>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1668953</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">08/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">23/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1188</category>
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
-      <category domain="item-category-entry">1668693</category>
-      <category domain="item-category-attachments">70</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/tgydwxrjacs2eupc50409f3jzrqfztwj.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/sc7sd2w895cnwbniuhp3onraehzpw7fx.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1668951</category>
+      <category domain="item-category-attachments">2</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/gopa9xg4sq8bny9q0hhacfvv2v88rfw8.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/fjs8fkazg9ur3c8spd8e3bhyrvcejgaj.pdf" length="0" type="application/pdf"/>
     </item>
     <item>
-      <title>DEFINIZIONE AGEVOLATA DELLE ENTRATE COMUNALI AI SENSI DEI COMMI DA 102 A 109 DELL’ART. 1 DELLA LEGGE 30 DICEMBRE 2025, N. 199. APPROVAZIONE REGOLAMENTO.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1668699</link>
-      <description>📚 Allegati totali: 41</description>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1668699</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1185</category>
+      <title>PERMESSI RETRIBUITI AI SENSI DELL'ARTICOLO 33, COMMA 3 DELLA LEGGE 5 FEBBRAIO 1992, N. 104 E SS.MM.II. CONCESSI AD UN DIPENDENTE. DETERMINAZIONI.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1668951</link>
+      <description>📚 Allegati totali: 2</description>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1668951</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">08/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">23/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1189</category>
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
-      <category domain="item-category-entry">1668696</category>
-      <category domain="item-category-attachments">41</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/58nkgk2dv80z1e44qloiyy614vgvj41l.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/cebv3mfhr6u6xpy56jtqqk3hki2u5vwe.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>VARIAZIONE AL BILANCIO DI PREVISIONE ED AL DUP (DOCUMENTO UNICO DI PROGRAMMAZIONE) 2026/2028 AI SENSI DEL TUEL 267/2000 E DEL DECRETO LEGISLATIVO 118/2011</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1668696</link>
-      <description>📚 Allegati totali: 8</description>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1668696</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1186</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
-      <category domain="item-category-entry">1668699</category>
-      <category domain="item-category-attachments">8</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/cebv3mfhr6u6xpy56jtqqk3hki2u5vwe.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/58nkgk2dv80z1e44qloiyy614vgvj41l.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>RENDICONTO DELLA GESTIONE ANNO 2025 - APPROVAZIONE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1668693</link>
-      <description>📚 Allegati totali: 19</description>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1668693</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1187</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
-      <category domain="item-category-entry">1668702</category>
-      <category domain="item-category-attachments">19</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/sc7sd2w895cnwbniuhp3onraehzpw7fx.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/tgydwxrjacs2eupc50409f3jzrqfztwj.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <category domain="item-category-entry">1668953</category>
+      <category domain="item-category-attachments">2</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/fjs8fkazg9ur3c8spd8e3bhyrvcejgaj.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/gopa9xg4sq8bny9q0hhacfvv2v88rfw8.pdf" length="0" type="application/pdf"/>
     </item>
   </channel>
 </rss>
