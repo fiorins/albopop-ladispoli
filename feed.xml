@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 08 May 2026 11:32:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 12:00:57 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -20,116 +20,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
     <item>
-      <title>LIQUIDAZIONE DELLE SPESE DI NOTIFICA ATTI DI VARIE AMMINISTRAZIONI COMUNALI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1669604</link>
-      <description>📚 Allegati totali: 2</description>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1669604</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">08/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">23/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1197</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1669586</category>
-      <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/omyhzugo868manp7e50jo5jrl4o8pian.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/l6uyhlch7fzoxo60a9gbasdc3959gllm.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DI UTENTI DISABILI PER IL SERVIZIO DI ASSISTENZA DOMICILIARE (SAISD) EFFETTUATO NEL PERIODO DI MARZO 2026 CON QUIETANZA DIRETTA ALLA COOPERATIVA "CASSIAVASS" SOGGETTO EROGATORE DEL SERVIZIO ISCRITTO AL RUA DEL DISTRETTO 4.2</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1669601</link>
+      <title>(RPS326/26) LIQUIDAZIONE DELLA SPESA IMPEGNATA IN FAVORE DELL'OPERATORE ECONOMICO AZ SYSTEM DI FRESILLI LUCIANO PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) PER LA MANUTENZIONE DI VARI IMMOBILI COMUNALI (AFFIDAMENTI NN. G00266 - G00267 - G00270)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1669661</link>
       <description>📚 Allegati totali: 3</description>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1669601</guid>
+      <guid isPermaLink="true">1669661</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">08/05/2026</category>
       <category domain="http://albopop.it/specs#item-category-pubEnd">23/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1198</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1204</category>
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1669589</category>
+      <category domain="item-category-entry">1669661</category>
       <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/jpjz52zlvmo8kevwic1enugfjwlpqq33.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/t8pc1z3ce0wgjoslc8xdl3zrucnx8m4z.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>(RPS325/26) LIQUIDAZIONE DELLA SPESA IMPEGNATA IN FAVORE DELL'OPERATORE ECONOMICO AZ SYSTEM DI FRESILLI LUCIANO PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) PER LA MANUTENZIONE DI IMMOBILI COMUNALI (SCUOLA MELONE G00246 - CIG BA87885961)</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1669598</link>
-      <description>📚 Allegati totali: 2</description>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1669598</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">08/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">23/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1199</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1669592</category>
-      <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/xgkaj04zwqit5o1ptyga0385g20rphqy.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/x7zhwy0cy5hk43zjylmh46tiqgfvv2m0.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>RIU 53/2026 - SERVIZIO DI PULIZIA DEL SOTTOPASSAGGIO STAZIONE FERROVIARIA –ORDINANZA DI LIQUIDAZIONE APRILE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1669595</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1669595</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">08/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">23/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1200</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1669595</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/axp7hr9d4ghknwyz2km36qkx97bng18i.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/axp7hr9d4ghknwyz2km36qkx97bng18i.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA A FAVORE DELLA SOCIETA’ TECNET STUDIO SRL PER LA QUOTA DEL 60% DELL’INCARICO PROFESSIONALE INERENTE LA DIREZIONE LAVORI E IL COORDINAMENTO DELLA SICUREZZA DELL'OPERA "MANUTENZIONE ORDINARIA E STRAORDINARIA DELLE VIABILITÀ COMUNALI DI LADISPOLI - CIG B32EC55D428.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1669592</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1669592</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">08/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">23/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1201</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1669598</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/x7zhwy0cy5hk43zjylmh46tiqgfvv2m0.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/xgkaj04zwqit5o1ptyga0385g20rphqy.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>RIU 54/2026 - SERVIZIO DI SELEZIONE DEGLI IMBALLAGGI E SEPARAZIONE FRAZIONE ESTRANEA DEL RIFIUTO URBANO EER 15.01.06 – ORDINANZA DI LIQUIDAZIONE FEBBRAIO E MARZO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1669589</link>
-      <description>📚 Allegati totali: 2</description>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1669589</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">08/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">23/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1202</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1669601</category>
-      <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/t8pc1z3ce0wgjoslc8xdl3zrucnx8m4z.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/jpjz52zlvmo8kevwic1enugfjwlpqq33.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA N. 1_26 DEL 09/05/2026 PER LA FORNITURA DI FIORI E DI ADDOBBI PER MANIFESTAZIONI ED EVENTI ISTITUZIONALI - DITTA LORETA FIORI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1669586</link>
-      <description>📚 Allegati totali: 5</description>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1669586</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">08/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">23/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1203</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1669604</category>
-      <category domain="item-category-attachments">5</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/l6uyhlch7fzoxo60a9gbasdc3959gllm.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/omyhzugo868manp7e50jo5jrl4o8pian.pdf" length="0" type="application/pdf"/>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/7npc97expj3jfpsjl533s6r3in26o391.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/7npc97expj3jfpsjl533s6r3in26o391.pdf" length="0" type="application/pdf"/>
     </item>
   </channel>
 </rss>
