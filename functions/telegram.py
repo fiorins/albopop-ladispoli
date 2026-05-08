@@ -1,5 +1,7 @@
 import re, requests, time, html
-from .helpers import TELEGRAM_CHAT_ID, TELEGRAM_TOKEN, TIME_DELAY, TYPE_MAPPINGS
+from .helpers import TELEGRAM_CHAT_ID, TELEGRAM_TOKEN, TYPE_MAPPINGS
+
+TIME_DELAY = 4  # delay seconds
 
 
 def clean_href(url):
