@@ -1,9 +1,16 @@
+from copy import deepcopy
+from datetime import datetime, timezone
+from pathlib import Path
+
 from lxml import etree
 from feedgen.feed import FeedGenerator
 from .helpers import FEED_FILE, RSS_FEED_URL, RSS_MUNICIPALITY_GEODATA
 
+FEED_MAX_ITEMS = 20
+
 
 def add_channel_extras(channel):
+    """Add attributes to the rss channel info"""
     geo = RSS_MUNICIPALITY_GEODATA
     categories = [
         ("http://albopop.it/specs#channel-category-type", "Comune"),
@@ -39,6 +46,8 @@ def add_channel_extras(channel):
 
 
 def add_item_categories(item, entry):
+    """Add categories to the rss item"""
+
     categories = [
         (
             "http://albopop.it/specs#item-category-pubStart",
@@ -70,6 +79,12 @@ def add_item_categories(item, entry):
 
 
 def fix_item(item, entry):
+    """
+    This function modifies an XML/RSS feed element (the item) using data from a
+    dictionary (the entry). It essentially "cleans up" and reformats individual posts
+    or entries in a feed.
+    """
+
     desc = item.find("description")
     if desc is not None:
         # desc.text = etree.CDATA(f"📚 Allegati totali: {entry.get('att_count', '')}")
@@ -89,6 +104,12 @@ def fix_item(item, entry):
         item.remove(pub_date)
         guid_index = list(item).index(guid)
         item.insert(guid_index, pub_date)
+
+
+def get_item_key(item):
+    guid = item.findtext("guid")
+    link = item.findtext("link")
+    return guid or link
 
 
 def generate_rss(entries):
@@ -127,6 +148,38 @@ def generate_rss(entries):
 
     for item, entry in zip(items, entries):
         fix_item(item, entry)
+
+    new_items = list(channel.findall("item"))
+    old_items = []
+
+    if FEED_FILE.exists():
+        try:
+            old_root = etree.parse(str(FEED_FILE)).getroot()
+            old_channel = old_root.find("channel")
+            if old_channel is not None:
+                old_items = old_channel.findall("item")
+        except Exception as e:
+            print(f"Could not read old feed.xml: {e}")
+
+    merged_items = []
+    seen_keys = set()
+
+    for item in new_items + old_items:
+        key = get_item_key(item)
+        if not key or key in seen_keys:
+            continue
+
+        seen_keys.add(key)
+        merged_items.append(deepcopy(item))
+
+        if len(merged_items) >= 20:
+            break
+
+    for item in channel.findall("item"):
+        channel.remove(item)
+
+    for item in merged_items:
+        channel.append(item)
 
     etree.indent(root, space="  ")
 
