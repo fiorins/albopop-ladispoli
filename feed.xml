@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 11 May 2026 09:36:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 10:36:04 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,54 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>(RPS342/26) LIQUIDAZIONE DELLA SPESA IMPEGNATA IN FAVORE DELL'OPERATORE ECONOMICO SOLUZIONI AMBIENTALI DI ALESSANDRO CICILLINI PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) PER DISOSTRUZIONE FOGNARIA E DISINFESTAZIONE FORMICHE EDIFICI COMUNALI VARI (AFFIDAMENTI N. G00260 - CIG BB40ACD6A6)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670534</link>
+      <description>📚 Allegati totali: 3</description>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1670534</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1214</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1670528</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/2srkhyjayrt75lgliiq6shocr4ddawa3.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/9xrpr3ut3nhto68jwh3uycm7dimgjlun.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE SPESE PER CONTENZIOSO SENTENZA N°1260/2024 DEL GDP DI CIVITAVECCHIA EMESSA IN MERITO AL PROCEDIMENTO R.G. 3666/2023</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670531</link>
+      <description>📚 Allegati totali: 2</description>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1670531</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1215</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1670531</category>
+      <category domain="item-category-attachments">2</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/p7xmaxl7r4jxuiq39rcysrjmy2s7kqbt.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/p7xmaxl7r4jxuiq39rcysrjmy2s7kqbt.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>DETERMINA DI IMPEGNO IN FAVORE DELL'ASSOCIAZIONE DI VOLONTARIATO PROTEZIONE CIVILE AVALON - QUALE CONTRIBUTO PER L'ANNO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670528</link>
+      <description>📚 Allegati totali: 3</description>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1670528</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1216</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1670534</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/9xrpr3ut3nhto68jwh3uycm7dimgjlun.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/2srkhyjayrt75lgliiq6shocr4ddawa3.pdf" length="0" type="application/pdf"/>
+    </item>
     <item>
       <title>PNRR M5C2 - INVESTIMENTO 1.2 “PERCORSI DI AUTONOMIA PER PERSONE CON DISABILITÀ” – CUP E65I22000020001 – LIQUIDAZIONE PER LA 4° RENDICONTAZIONE DELLA MANDATARIA RTI “CASSIAVASS SOCIETÀ COOPERATIVA SOCIALE”</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670427</link>
