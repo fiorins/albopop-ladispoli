@@ -1,6 +1,4 @@
 from copy import deepcopy
-from datetime import datetime, timezone
-from pathlib import Path
 
 from lxml import etree
 from feedgen.feed import FeedGenerator
@@ -60,12 +58,9 @@ def add_item_categories(item, entry):
         ("http://albopop.it/specs#item-category-uid", str(entry.get("registry", ""))),
         ("http://albopop.it/specs#item-category-type", str(entry.get("type", ""))),
         ("item-category-subType", str(entry.get("sub_type", ""))),
-        ("item-category-entry", str(entry.get("entry_id", ""))),
-        (
-            "item-category-attachments",
-            str(entry.get("att_count", "")),
-        ),
-        ("item-category-attachBoxUrl", str(entry.get("box_file_link", ""))),
+        # ("item-category-entry", str(entry.get("entry_id", ""))),
+        # ("item-category-attachments", str(entry.get("att_count", "")))
+        # ("item-category-attachBoxUrl", str(entry.get("box_file_link", ""))),
     ]
 
     guid = item.find("guid")
@@ -86,13 +81,15 @@ def fix_item(item, entry):
     """
 
     desc = item.find("description")
-    if desc is not None:
-        # desc.text = etree.CDATA(f"📚 Allegati totali: {entry.get('att_count', '')}")
-        desc.text = f"📚 Allegati totali: {entry['att_count']}"
+    if desc is None:
+        # desc.text = f"📬 Allegati totali: {entry['att_count']}"
+        desc = etree.SubElement(item, "description")
+
+    desc.text = etree.CDATA(f"📬 Allegati totali: {entry.get('att_count', 0)}")
 
     guid = item.find("guid")
     if guid is not None:
-        guid.set("isPermaLink", "true")
+        guid.set("isPermaLink", "false")
 
     add_item_categories(item, entry)
 
@@ -107,9 +104,7 @@ def fix_item(item, entry):
 
 
 def get_item_key(item):
-    guid = item.findtext("guid")
-    link = item.findtext("link")
-    return guid or link
+    return item.findtext("guid")
 
 
 def generate_rss(entries):
@@ -129,12 +124,11 @@ def generate_rss(entries):
         fe.title(entry["title"])
         fe.link(href=entry["entry_url"])
         fe.published(entry["pub_start"])
-        fe.description(f"📚 Allegati totali: {entry['att_count']}")
-        # if e.get("box_file_link") and entry["box_file_link"] != "non presente":
-        if entry.get("box_file_link"):
+        # fe.description(f"📬 Allegati totali: {entry['att_count']}")
+        if entry.get("box_file_link") and entry["box_file_link"] != "non presente":
             fe.enclosure(entry["box_file_link"], 0, "application/pdf")
-        else:
-            fe.enclosure("", 0, "application/pdf")
+        # else:
+        #     fe.enclosure("", 0, "application/pdf")
 
     # Create the xml before save
     rss_xml = fg.rss_str(pretty=True)
@@ -144,10 +138,18 @@ def generate_rss(entries):
 
     # Add custom categories
     add_channel_extras(channel)
-    items = channel.findall("item")
 
-    for item, entry in zip(items, entries):
-        fix_item(item, entry)
+    items = channel.findall("item")
+    entries_by_id = {str(entry["entry_id"]): entry for entry in entries}
+
+    for item in items:
+        guid = item.findtext("guid", "")
+        entry = entries_by_id.get(guid)
+
+        if entry:
+            fix_item(item, entry)
+        else:
+            print(f"Warning: no matching entry found for RSS item guid {guid}")
 
     new_items = list(channel.findall("item"))
     old_items = []
@@ -172,7 +174,7 @@ def generate_rss(entries):
         seen_keys.add(key)
         merged_items.append(deepcopy(item))
 
-        if len(merged_items) >= 20:
+        if len(merged_items) >= FEED_MAX_ITEMS:
             break
 
     for item in channel.findall("item"):
