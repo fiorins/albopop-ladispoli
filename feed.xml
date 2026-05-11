@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 11 May 2026 08:35:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 09:06:34 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,38 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>IV VARIAZIONE AL BILANCIO DI PREVISIONE 2026/2028 AI SENSI DELL'ARTICOLO 175 COMMA 4 DEL TUEL 267/2000 (VAR. 14/2026)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670362</link>
+      <description>📚 Allegati totali: 4</description>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1670362</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1207</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <category domain="item-category-entry">1670359</category>
+      <category domain="item-category-attachments">4</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/eurh4z0lzllvcdbmbyvap72t6lpdbpjt.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/9aabrwsm1rua2rbjj2ttnwho719mon8c.pdf" length="0" type="application/pdf"/>
+    </item>
+    <item>
+      <title>CONCESSIONE DI PATROCINIO ONEROSO E CONTRIBUTO ECONOMICO IN FAVORE DELL'ASD EXTREME SPORT PER LA REALIZZAZIONE DELLE FINALI PROVINCIALI MSP ROMA PALLAVOLO MISTO, IN PROGRAMMA IL 17 MAGGIO 2026 PRESSO IL PALAZZETTO DELLO SPORT A. SORBO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670359</link>
+      <description>📚 Allegati totali: 8</description>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1670359</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1208</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <category domain="item-category-entry">1670362</category>
+      <category domain="item-category-attachments">8</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/9aabrwsm1rua2rbjj2ttnwho719mon8c.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/eurh4z0lzllvcdbmbyvap72t6lpdbpjt.pdf" length="0" type="application/pdf"/>
+    </item>
     <item>
       <title>IMPEGNO DI SPESA SERVIZIO DI OPERAZIONI CIMITERIALI DI ESCAVAZIONE FOSSE E SEPOLTURA A TERRA DELLA SALMA DI UN CITTADINO INDIGENTE - “SOC. SARA ’94 S.R.L.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670309</link>
