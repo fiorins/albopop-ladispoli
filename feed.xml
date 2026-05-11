@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 08 May 2026 12:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 07:35:54 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,22 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DETERMINA DI SOSTITUZIONE PER FERIE DEL COMANDANTE LA POLIZIA LOCALE DAL 15/05/26 AL 18/05/26.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670124</link>
+      <description>📚 Allegati totali: 3</description>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1670124</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1205</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1670124</category>
+      <category domain="item-category-attachments">3</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/57vzb7lmvq7z0e7dvuglulbnqq30iq91.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/57vzb7lmvq7z0e7dvuglulbnqq30iq91.pdf" length="0" type="application/pdf"/>
+    </item>
     <item>
       <title>(RPS326/26) LIQUIDAZIONE DELLA SPESA IMPEGNATA IN FAVORE DELL'OPERATORE ECONOMICO AZ SYSTEM DI FRESILLI LUCIANO PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) PER LA MANUTENZIONE DI VARI IMMOBILI COMUNALI (AFFIDAMENTI NN. G00266 - G00267 - G00270)</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1669661</link>
