@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 11 May 2026 10:36:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 12:05:38 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>ART.45 BIS DEL CODICE DELLA NAVIGAZIONE – AFFIDAMENTO AD ALTRI SOGGETTI DELLE ATTIVITÀ OGGETTO DELLA CONCESSIONE DEMANIALE MARITTIMA N. 21/2008 PROROGATA FINO ALLA DATA DEL 31.12.2020 CON ATTO N. 20/2014 ED ESTESA EX LEGE RILASCIATA DAL COMUNE DI LADISPOLI A FAVORE DELLO STABILIMENTO BALNEARE DENOMINATO “A.S.D. CLUB IL CASTELLO”.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670606</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1670606</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1217</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/2bmimr80qnx6wadtnwlynimcqt7pi9z3.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>(RPS342/26) LIQUIDAZIONE DELLA SPESA IMPEGNATA IN FAVORE DELL'OPERATORE ECONOMICO SOLUZIONI AMBIENTALI DI ALESSANDRO CICILLINI PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) PER DISOSTRUZIONE FOGNARIA E DISINFESTAZIONE FORMICHE EDIFICI COMUNALI VARI (AFFIDAMENTI N. G00260 - CIG BB40ACD6A6)</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670534</link>
