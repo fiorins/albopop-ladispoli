@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 11 May 2026 07:35:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 08:35:37 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,22 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>IMPEGNO DI SPESA SERVIZIO DI OPERAZIONI CIMITERIALI DI ESCAVAZIONE FOSSE E SEPOLTURA A TERRA DELLA SALMA DI UN CITTADINO INDIGENTE - “SOC. SARA ’94 S.R.L.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670309</link>
+      <description>📚 Allegati totali: 2</description>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">1670309</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1206</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <category domain="item-category-entry">1670309</category>
+      <category domain="item-category-attachments">2</category>
+      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/esgfy8qp8f2ak561ra1g391l1dquw2ec.pdf</category>
+      <enclosure url="https://app.box.com/shared/static/esgfy8qp8f2ak561ra1g391l1dquw2ec.pdf" length="0" type="application/pdf"/>
+    </item>
     <item>
       <title>DETERMINA DI SOSTITUZIONE PER FERIE DEL COMANDANTE LA POLIZIA LOCALE DAL 15/05/26 AL 18/05/26.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670124</link>
