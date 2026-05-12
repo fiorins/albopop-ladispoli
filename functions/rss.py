@@ -86,6 +86,7 @@ def fix_item(item, entry):
         desc = etree.SubElement(item, "description")
 
     desc.text = etree.CDATA(f"📬 Allegati totali: {entry.get('att_count', 0)}")
+    # desc.text = f"📬 Allegati totali: {entry.get('att_count', 0)}"
 
     guid = item.find("guid")
     if guid is not None:
@@ -182,6 +183,12 @@ def generate_rss(entries):
 
     for item in merged_items:
         channel.append(item)
+
+    # Restore CDATA on descriptions
+    for item in channel.findall("item"):
+        desc = item.find("description")
+        if desc is not None and desc.text:
+            desc.text = etree.CDATA(desc.text)
 
     etree.indent(root, space="  ")
 
