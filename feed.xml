@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 12 May 2026 08:35:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 10:06:41 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,58 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE DI SPESA PER L'EROGAZIONE DI CONTRIBUTI PER AFFIDAMENTI FAMILIARI ED ADOZIONI DEL COMUNE DI LADISPOLI LINEE GUIDA DGR 90/2019 – DGR 351/2024 COMPETENZE ANNUALITA’ 2026 1 QUADRIMESTRE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671301</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1671301</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1229</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/a1pnwi73kds2sffonxjyvgmsyifdo9k5.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>DETERMINA DI IMPEGNO IN FAVORE DELL'ASSOCIAZIONE DI VOLONTARIATO FARE AMBIENTE LADISPOLI QUALE CONTRIBUTO PER L'ANNO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671298</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1671298</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1228</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/1a9ivktht5apvoo5qximiks88w9xaspb.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>DETERMINA DI IMPEGNO IN FAVORE DELL'ASSOCIAZIONE VERDE SPERANZA QUALE CONTRIBUTO ANNO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671295</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1671295</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1227</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/rpcb3pfh9vr3e1yteivhv4wx1kpwe8hs.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>DETERMINA DI IMPEGNO IN FAVORE DELLA DITTA SAP SRL PER AGGIO SULLA RISCOSSIONE COATTIVA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671292</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1671292</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1226</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/jmbjcsst09cyq6ajiq8kt6hlnivagkc7.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI N.10 NELLA CASA DEL COMUNE LADISPOLI - GUZDEK MARTA MARIA ED ALTRI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671143</link>
@@ -247,70 +299,6 @@
       <category domain="item-category-attachments">3</category>
       <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/f6vgs3do107nyawrpfplfpdd88edi7me.pdf</category>
       <enclosure url="https://app.box.com/shared/static/cpb27i27ncay22lq7326g0p5ic3la8qm.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>CONCESSIONE IN COMODATO D’USO GRATUITO DI LOCALE (CHIOSCO) DI PROPRIETÀ COMUNALE SITO IN PIAZZA ROSSELLINI, IN FAVORE DELLA SOCIETÀ CAA SI.N.A.L.P. S.R.L. – CENTRO ASSISTENZA AGRICOLA, PER LO SVOLGIMENTO DI ATTIVITÀ DI ASSISTENZA E CONSULENZA IN AMBITO AGRICOLO.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670398</link>
-      <description><![CDATA[📚 Allegati totali: 3]]></description>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1670398</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1213</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1670427</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/5cib0y3sjk8fnox9ktshca64b4utqdtg.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/zyn385u5eimclhvdlvhx4uhbir9m50vt.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>IV VARIAZIONE AL BILANCIO DI PREVISIONE 2026/2028 AI SENSI DELL'ARTICOLO 175 COMMA 4 DEL TUEL 267/2000 (VAR. 14/2026)</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670362</link>
-      <description><![CDATA[📚 Allegati totali: 4]]></description>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1670362</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1207</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <category domain="item-category-entry">1670359</category>
-      <category domain="item-category-attachments">4</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/eurh4z0lzllvcdbmbyvap72t6lpdbpjt.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/9aabrwsm1rua2rbjj2ttnwho719mon8c.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>CONCESSIONE DI PATROCINIO ONEROSO E CONTRIBUTO ECONOMICO IN FAVORE DELL'ASD EXTREME SPORT PER LA REALIZZAZIONE DELLE FINALI PROVINCIALI MSP ROMA PALLAVOLO MISTO, IN PROGRAMMA IL 17 MAGGIO 2026 PRESSO IL PALAZZETTO DELLO SPORT A. SORBO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670359</link>
-      <description><![CDATA[📚 Allegati totali: 8]]></description>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1670359</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1208</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <category domain="item-category-entry">1670362</category>
-      <category domain="item-category-attachments">8</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/9aabrwsm1rua2rbjj2ttnwho719mon8c.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/eurh4z0lzllvcdbmbyvap72t6lpdbpjt.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA SERVIZIO DI OPERAZIONI CIMITERIALI DI ESCAVAZIONE FOSSE E SEPOLTURA A TERRA DELLA SALMA DI UN CITTADINO INDIGENTE - “SOC. SARA ’94 S.R.L.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670309</link>
-      <description><![CDATA[📚 Allegati totali: 2]]></description>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1670309</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1206</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1670309</category>
-      <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/esgfy8qp8f2ak561ra1g391l1dquw2ec.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/esgfy8qp8f2ak561ra1g391l1dquw2ec.pdf" length="0" type="application/pdf"/>
     </item>
   </channel>
 </rss>
