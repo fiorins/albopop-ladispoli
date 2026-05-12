@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 12 May 2026 07:06:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 08:35:34 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI N.10 NELLA CASA DEL COMUNE LADISPOLI - GUZDEK MARTA MARIA ED ALTRI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671143</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1671143</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">13/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1225</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/nhp9ec58a5isj0kqurugg7ss0of9apo2.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI N.2 NELLA CASA DEL COMUNE LADISPOLI - ADRIENS PATRICK FRANS ED ALTRI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671141</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1671141</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">13/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1224</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/62sd6b7hnci1i8fg8hu32xqqfehkvci1.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE DI SPESA IN FAVORE DELLA “COOPERATIVA SOCIALE SOLIDARIETÀ” PER IL SERVIZIO DI ASSISTENZA EDUCATIVA SCOLASTICA A SOSTEGNO DELLE AUTONOMIE - OEPAC - EFFETTUATO NEL MESE DI MARZO 2026 E RIVALUTAZIONE ISTAT</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670943</link>
@@ -82,7 +108,7 @@
       <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/8h2tch8021ldso7p4sd25exvtclfxqsj.pdf" length="0" type="application/pdf"/>
-      <description>📬 Allegati totali: 1</description>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
     <item>
       <title>OCCUPAZIONE SUOLO PUBBLICO CONDOMINIO VIA REGINA ELENA 82</title>
@@ -95,7 +121,7 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">ORDINANZE</category>
       <enclosure url="https://app.box.com/shared/static/zp59wbv4te5xdr3vawgso1z3s135beuf.pdf" length="0" type="application/pdf"/>
-      <description>📬 Allegati totali: 2</description>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
     <item>
       <title>ART.45 BIS DEL CODICE DELLA NAVIGAZIONE – AFFIDAMENTO AD ALTRI SOGGETTI DELLE ATTIVITÀ OGGETTO DELLA CONCESSIONE DEMANIALE MARITTIMA N. 21/2008 PROROGATA FINO ALLA DATA DEL 31.12.2020 CON ATTO N. 20/2014 ED ESTESA EX LEGE RILASCIATA DAL COMUNE DI LADISPOLI A FAVORE DELLO STABILIMENTO BALNEARE DENOMINATO “A.S.D. CLUB IL CASTELLO”.</title>
@@ -108,12 +134,12 @@
       <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/2bmimr80qnx6wadtnwlynimcqt7pi9z3.pdf" length="0" type="application/pdf"/>
-      <description>📬 Allegati totali: 1</description>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
     <item>
       <title>(RPS342/26) LIQUIDAZIONE DELLA SPESA IMPEGNATA IN FAVORE DELL'OPERATORE ECONOMICO SOLUZIONI AMBIENTALI DI ALESSANDRO CICILLINI PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) PER DISOSTRUZIONE FOGNARIA E DISINFESTAZIONE FORMICHE EDIFICI COMUNALI VARI (AFFIDAMENTI N. G00260 - CIG BB40ACD6A6)</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670534</link>
-      <description>📚 Allegati totali: 3</description>
+      <description><![CDATA[📚 Allegati totali: 3]]></description>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">1670534</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
@@ -129,7 +155,7 @@
     <item>
       <title>LIQUIDAZIONE SPESE PER CONTENZIOSO SENTENZA N°1260/2024 DEL GDP DI CIVITAVECCHIA EMESSA IN MERITO AL PROCEDIMENTO R.G. 3666/2023</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670531</link>
-      <description>📚 Allegati totali: 2</description>
+      <description><![CDATA[📚 Allegati totali: 2]]></description>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">1670531</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
@@ -145,7 +171,7 @@
     <item>
       <title>DETERMINA DI IMPEGNO IN FAVORE DELL'ASSOCIAZIONE DI VOLONTARIATO PROTEZIONE CIVILE AVALON - QUALE CONTRIBUTO PER L'ANNO 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670528</link>
-      <description>📚 Allegati totali: 3</description>
+      <description><![CDATA[📚 Allegati totali: 3]]></description>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">1670528</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
@@ -161,7 +187,7 @@
     <item>
       <title>PNRR M5C2 - INVESTIMENTO 1.2 “PERCORSI DI AUTONOMIA PER PERSONE CON DISABILITÀ” – CUP E65I22000020001 – LIQUIDAZIONE PER LA 4° RENDICONTAZIONE DELLA MANDATARIA RTI “CASSIAVASS SOCIETÀ COOPERATIVA SOCIALE”</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670427</link>
-      <description>📚 Allegati totali: 3</description>
+      <description><![CDATA[📚 Allegati totali: 3]]></description>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">1670427</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
@@ -177,7 +203,7 @@
     <item>
       <title>(RPS331/26) LIQUIDAZIONE DELLA SPESA IMPEGNATA IN FAVORE DELL'OPERATORE ECONOMICO AZ SYSTEM DI FRESILLI LUCIANO PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) PER LA MANUTENZIONE DI IMMOBILI COMUNALI (AFFIDAMENTO N. G00241 CIG BA7C865198)</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670424</link>
-      <description>📚 Allegati totali: 3</description>
+      <description><![CDATA[📚 Allegati totali: 3]]></description>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">1670424</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
@@ -193,7 +219,7 @@
     <item>
       <title>(RPS333/26) LIQUIDAZIONE DELLA SPESA IMPEGNATA IN FAVORE DELL'OPERATORE ECONOMICO AZ SYSTEM DI FRESILLI LUCIANO PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) PER LA MANUTENZIONE DI IMMOBILI COMUNALI (AFFIDAMENTO N. G00266 - G00230 CIG BA4E29EF44)</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670404</link>
-      <description>📚 Allegati totali: 3</description>
+      <description><![CDATA[📚 Allegati totali: 3]]></description>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">1670404</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
@@ -209,7 +235,7 @@
     <item>
       <title>(RPS338/26) LIQUIDAZIONE DELLA SPESA IMPEGNATA IN FAVORE DELL'OPERATORE ECONOMICO AZ SYSTEM DI FRESILLI LUCIANO PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) PER LA FORNITURA E POSA IN OPERA DI 5 TARGHE COMMEMORATIVE E RELATIVI SUPPORTI IN FERRO ZINCATO (ZINGALE, FELLI, PIERLORENZI, PIERSANTI, DE FALCO) - AFFIDAMENTO N. G00251 - CIG BAD02DA92F</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670401</link>
-      <description>📚 Allegati totali: 3</description>
+      <description><![CDATA[📚 Allegati totali: 3]]></description>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">1670401</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
@@ -225,7 +251,7 @@
     <item>
       <title>CONCESSIONE IN COMODATO D’USO GRATUITO DI LOCALE (CHIOSCO) DI PROPRIETÀ COMUNALE SITO IN PIAZZA ROSSELLINI, IN FAVORE DELLA SOCIETÀ CAA SI.N.A.L.P. S.R.L. – CENTRO ASSISTENZA AGRICOLA, PER LO SVOLGIMENTO DI ATTIVITÀ DI ASSISTENZA E CONSULENZA IN AMBITO AGRICOLO.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670398</link>
-      <description>📚 Allegati totali: 3</description>
+      <description><![CDATA[📚 Allegati totali: 3]]></description>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">1670398</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
@@ -241,7 +267,7 @@
     <item>
       <title>IV VARIAZIONE AL BILANCIO DI PREVISIONE 2026/2028 AI SENSI DELL'ARTICOLO 175 COMMA 4 DEL TUEL 267/2000 (VAR. 14/2026)</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670362</link>
-      <description>📚 Allegati totali: 4</description>
+      <description><![CDATA[📚 Allegati totali: 4]]></description>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">1670362</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
@@ -257,7 +283,7 @@
     <item>
       <title>CONCESSIONE DI PATROCINIO ONEROSO E CONTRIBUTO ECONOMICO IN FAVORE DELL'ASD EXTREME SPORT PER LA REALIZZAZIONE DELLE FINALI PROVINCIALI MSP ROMA PALLAVOLO MISTO, IN PROGRAMMA IL 17 MAGGIO 2026 PRESSO IL PALAZZETTO DELLO SPORT A. SORBO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670359</link>
-      <description>📚 Allegati totali: 8</description>
+      <description><![CDATA[📚 Allegati totali: 8]]></description>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">1670359</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
@@ -273,7 +299,7 @@
     <item>
       <title>IMPEGNO DI SPESA SERVIZIO DI OPERAZIONI CIMITERIALI DI ESCAVAZIONE FOSSE E SEPOLTURA A TERRA DELLA SALMA DI UN CITTADINO INDIGENTE - “SOC. SARA ’94 S.R.L.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670309</link>
-      <description>📚 Allegati totali: 2</description>
+      <description><![CDATA[📚 Allegati totali: 2]]></description>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">1670309</guid>
       <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
@@ -285,38 +311,6 @@
       <category domain="item-category-attachments">2</category>
       <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/esgfy8qp8f2ak561ra1g391l1dquw2ec.pdf</category>
       <enclosure url="https://app.box.com/shared/static/esgfy8qp8f2ak561ra1g391l1dquw2ec.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>DETERMINA DI SOSTITUZIONE PER FERIE DEL COMANDANTE LA POLIZIA LOCALE DAL 15/05/26 AL 18/05/26.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670124</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1670124</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1205</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1670124</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/57vzb7lmvq7z0e7dvuglulbnqq30iq91.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/57vzb7lmvq7z0e7dvuglulbnqq30iq91.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>(RPS326/26) LIQUIDAZIONE DELLA SPESA IMPEGNATA IN FAVORE DELL'OPERATORE ECONOMICO AZ SYSTEM DI FRESILLI LUCIANO PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) PER LA MANUTENZIONE DI VARI IMMOBILI COMUNALI (AFFIDAMENTI NN. G00266 - G00267 - G00270)</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1669661</link>
-      <description>📚 Allegati totali: 3</description>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1669661</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">08/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">23/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1204</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1669661</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/7npc97expj3jfpsjl533s6r3in26o391.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/7npc97expj3jfpsjl533s6r3in26o391.pdf" length="0" type="application/pdf"/>
     </item>
   </channel>
 </rss>
