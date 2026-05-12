@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 12 May 2026 11:06:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 13:37:13 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,84 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RIMBORSO QUOTE CONSORTILI E QUOTE ACQUA (2 E 3 RATA 2026) COMPRENSIVE DI CONGUAGLIO 2025, PER LE PROPRIETÀ DI VIA DEL GRANCHIO, IN FAVORE DEL CONSORZIO MARINA DI SAN NICOLA.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671823</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1671823</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1239</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/w3wg8tlkfnj4j3ew4bkylt2sbutonuk2.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>REGOLARIZZAZIONE AMMINISTRATIVA E CONTABILE, AI FINI DELLA TRACCIABILITÀ DEI FLUSSI FINANZIARI E DELLA DIGITALIZZAZIONE DEL CICLO DI VITA DEI CONTRATTI PUBBLICI, DELL’AFFIDAMENTO ALL’AVV. GIOVANNI DE NIGRIS DELL’INCARICO PROFESSIONALE ESTERNO DI RAPPRESENTANZA E DIFESA DEL COMUNE DI LADISPOLI NELLA CAUSA N. 961/2025 R.G. INNANZI AL TRIBUNALE ORDINARIO DI CIVITAVECCHIA, SEZ. LAVORO – ACQUISIZIONE DEL CIG.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671820</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1671820</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1238</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/35d889z056cxp28j3fxi4cego3wadq4b.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELLA SOCIETÀ ANCITEL S.P.A. PER BANCA DATI VISURE AUTO RUBATE FATTURE N. 498 E N. 536 DEL 11/05/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671816</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1671816</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1237</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/t008h9idf32plarqwjyur0019w0980r9.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELLA DITTA SEGNALETICA ITALIANA FATTURA N. 44/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671813</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1671813</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1236</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/2c68ergf9cdnrrui4znshk969srhtjbe.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE DI SPESA RELATIVA ALLA RISTRUTTURAZIONE E RIQUALIFICAZIONE DEGLI IM-MOBILI COMUNALI ESISTENTI SITI IN V. ALDO MORO C.D. STECCA SERVIZI ED IN V. ANCONA “EX TELECOM” (P. TERRA), PER LA REALIZZAZIONE DI STAZIONE DI POSTA – CENTRO SERVIZI” A FAVORE DELLA SOC. EDIL MANCINI SRL. PROGETTO P.N.R.R. FINANZIATO DALL’UNIONE EU-ROPEA – NEXT GENERATION EU – MISSIONE 5 COMPONENTE 2 SOTTOCOMPONENTE 1, IN-VESTIMENTO 1.3 SUB-INVESTIMENTO 1.3.2 – STAZIONE DI POSTA – SAL 6</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671810</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1671810</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1235</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/34uso3i0jrfc1nz15cx9iyzpjppz8c9y.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>RIU 57/2026 - SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI EER 20.03.03 – ORDINANZA DI LIQUIDAZIONE APRILE 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671797</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1671797</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1234</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/hunhmekr84yfh7jpkrcuxrm9imphvvqc.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DI MCTC PER VISURE PRIMO TRIMESTRE 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671461</link>
@@ -200,93 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/un85vxhg4msb161qihg6c60yhtxjtr3l.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A TONDINELLI ROBERTO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670853</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1670853</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1219</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/8h2tch8021ldso7p4sd25exvtclfxqsj.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>OCCUPAZIONE SUOLO PUBBLICO CONDOMINIO VIA REGINA ELENA 82</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670643</link>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1670643</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1218</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/zp59wbv4te5xdr3vawgso1z3s135beuf.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>ART.45 BIS DEL CODICE DELLA NAVIGAZIONE – AFFIDAMENTO AD ALTRI SOGGETTI DELLE ATTIVITÀ OGGETTO DELLA CONCESSIONE DEMANIALE MARITTIMA N. 21/2008 PROROGATA FINO ALLA DATA DEL 31.12.2020 CON ATTO N. 20/2014 ED ESTESA EX LEGE RILASCIATA DAL COMUNE DI LADISPOLI A FAVORE DELLO STABILIMENTO BALNEARE DENOMINATO “A.S.D. CLUB IL CASTELLO”.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670606</link>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1670606</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1217</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/2bmimr80qnx6wadtnwlynimcqt7pi9z3.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>(RPS342/26) LIQUIDAZIONE DELLA SPESA IMPEGNATA IN FAVORE DELL'OPERATORE ECONOMICO SOLUZIONI AMBIENTALI DI ALESSANDRO CICILLINI PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) PER DISOSTRUZIONE FOGNARIA E DISINFESTAZIONE FORMICHE EDIFICI COMUNALI VARI (AFFIDAMENTI N. G00260 - CIG BB40ACD6A6)</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670534</link>
-      <description><![CDATA[📚 Allegati totali: 3]]></description>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1670534</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1214</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1670528</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/2srkhyjayrt75lgliiq6shocr4ddawa3.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/9xrpr3ut3nhto68jwh3uycm7dimgjlun.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE SPESE PER CONTENZIOSO SENTENZA N°1260/2024 DEL GDP DI CIVITAVECCHIA EMESSA IN MERITO AL PROCEDIMENTO R.G. 3666/2023</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670531</link>
-      <description><![CDATA[📚 Allegati totali: 2]]></description>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1670531</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1215</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1670531</category>
-      <category domain="item-category-attachments">2</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/p7xmaxl7r4jxuiq39rcysrjmy2s7kqbt.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/p7xmaxl7r4jxuiq39rcysrjmy2s7kqbt.pdf" length="0" type="application/pdf"/>
-    </item>
-    <item>
-      <title>DETERMINA DI IMPEGNO IN FAVORE DELL'ASSOCIAZIONE DI VOLONTARIATO PROTEZIONE CIVILE AVALON - QUALE CONTRIBUTO PER L'ANNO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1670528</link>
-      <description><![CDATA[📚 Allegati totali: 3]]></description>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">1670528</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1216</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <category domain="item-category-entry">1670534</category>
-      <category domain="item-category-attachments">3</category>
-      <category domain="item-category-attachBoxUrl">https://app.box.com/shared/static/9xrpr3ut3nhto68jwh3uycm7dimgjlun.pdf</category>
-      <enclosure url="https://app.box.com/shared/static/2srkhyjayrt75lgliiq6shocr4ddawa3.pdf" length="0" type="application/pdf"/>
     </item>
   </channel>
 </rss>
