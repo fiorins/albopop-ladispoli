@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 12 May 2026 14:37:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 15:35:50 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>APPROVAZIONE AVVISO PUBBLICO PER L’INDIVIDUAZIONE DELLE FAMIGLIE BENEFICIARIE DEL CONTRIBUTO PER LA FREQUENZA DI CENTRI ESTIVI, DESTINATI A BAMBINI/RAGAZZI DA 0 A 17 ANNI, RESIDENTI NEL COMUNE DI LADISPOLI, NEL PERIODO 01 GIUGNO 2026 – 15 SETTEMBRE 2026” E RELATIVA MODULISTICA DI ISTANZA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671984</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1671984</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">12/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1244</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/wqtyv04quhf202yhvabjtxi6hhpxzjzz.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>INTERVENTO DI DIFESA COSTIERA NEL TRATTO DI LITORALE COMPRESO TRA TORRE FLAVIA E MARINA DI PALO – LAVORI DI REALIZZAZIONE "PROGRAMMA GENERALE PER LA DIFESA E LA RICOSTRUZIONE DEI LITORALI"- “REALIZZAZIONE DI INTERVENTO INTEGRATO DI DIFESA COSTIERA” _D.G.R. N.74/2019 APPROVAZIONE SCHEMA ATTO DI IMPEGNO FINANZIAMENTO REGIONALE - CUP: E69H18000000002</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671895</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/nhp9ec58a5isj0kqurugg7ss0of9apo2.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI N.2 NELLA CASA DEL COMUNE LADISPOLI - ADRIENS PATRICK FRANS ED ALTRI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671141</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1671141</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1224</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/62sd6b7hnci1i8fg8hu32xqqfehkvci1.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
