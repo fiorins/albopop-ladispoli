@@ -1,6 +1,6 @@
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
-from .helpers import GOOGLE_CONFIG_JSON
+from .helpers import GOOGLE_CONFIG_JSON, GOOGLE_SHEET_ID
 
 
 def init_sheet(year):
@@ -12,7 +12,7 @@ def init_sheet(year):
     creds = ServiceAccountCredentials.from_json_keyfile_name(GOOGLE_CONFIG_JSON, scope)
     client = gspread.authorize(creds)
 
-    spreadsheet = client.open("AlboPOP-Ladispoli")
+    spreadsheet = client.open_by_key(GOOGLE_SHEET_ID)
     sheet = spreadsheet.worksheet(f"voci {str(year)}")
 
     return sheet
@@ -51,7 +51,7 @@ def save_to_sheet(sheet, entry, existing_ids):
             safe_int(entry.get("tg_message_id", "")),
         ]
 
-        sheet.append_row(row, value_input_option="USER_ENTERED")
+        sheet.append_row(row, value_input_option="USER_ENTERED", table_range="A1")
         print(f"Saved on Google Sheets item {entry['registry']} ")
 
         return True

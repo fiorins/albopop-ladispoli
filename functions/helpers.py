@@ -29,6 +29,7 @@ ELEMENT_BASE_URL = os.getenv("ELEMENT_BASE_URL")
 BOX_ATTACHMENTS_FOLDER_ID = os.getenv("BOX_ATTACHMENTS_FOLDER_ID")
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+GOOGLE_SHEET_ID = os.getenv("GOOGLE_SHEET_ID")
 
 if (
     not ROOT_URL
@@ -36,6 +37,7 @@ if (
     or not BOX_ATTACHMENTS_FOLDER_ID
     or not TELEGRAM_TOKEN
     or not TELEGRAM_CHAT_ID
+    or not GOOGLE_SHEET_ID
 ):
     raise RuntimeError("Variable not found")
 
