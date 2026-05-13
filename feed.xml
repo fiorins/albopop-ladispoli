@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 13 May 2026 07:36:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 08:05:38 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RETTA PER L'ACCOGLIENZA E L'OSPITALITÀ DI UN NUCLEO FAMILIARE MAMMA/BAMBINI IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI - LIQUIDAZIONE DI SPESA IN FAVORE DI ACQUA VIVA - E.T.S. - PERIODO APRILE 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1672367</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1672367</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">13/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">28/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1250</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/daynztyfg3e09hfr4ari79pice9jlbkq.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>STRUTTURA CONGREGAZIONE FEMMINILE SERVE DEI POVERI “CASA DI RIPOSO STELLA MARIS” - LIQUIDAZIONE SOMMA PER COMPARTECIPAZIONE ALLA RETTA UTENTI RICOVERATI - PERIODO APRILE 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1672340</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/9e7pddlysdoe2s0ece89d1n01krcmsil.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RIU 56/2026 – SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI IN IMPIANTI AUTORIZZATI - IMPEGNO DI SPESA FUNZIONI TECNICHE EX ART.45 D.LGS. 36/2023</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671452</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1671452</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1230</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/tquj5vo3qgpgdhexmr268vsbmgzzpyvq.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
