@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 12 May 2026 15:35:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 06:36:26 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELLA SOCIETA' SCHIAVI SRL- STRADE RURALI SAL 2 ED ULTIMO- CIG B8BC14470B</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1672179</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1672179</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">13/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">28/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1246</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/9uar0pfn62hnk3i9vae4o36mexzalicg.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 5]]></description>
+    </item>
+    <item>
+      <title>OGGETTO: ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELL'ASSOCIAZIONE GUARDIE DI FARE AMBIENTE - CONTRIBUTO ANNUALITA' 2026 PRIMO QUADRIMESTRE GENNAIO / APRILE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1672164</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1672164</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">13/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">28/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1245</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/7f57k89w1zhefqx6tzgskhw4rd3iixuh.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>APPROVAZIONE AVVISO PUBBLICO PER L’INDIVIDUAZIONE DELLE FAMIGLIE BENEFICIARIE DEL CONTRIBUTO PER LA FREQUENZA DI CENTRI ESTIVI, DESTINATI A BAMBINI/RAGAZZI DA 0 A 17 ANNI, RESIDENTI NEL COMUNE DI LADISPOLI, NEL PERIODO 01 GIUGNO 2026 – 15 SETTEMBRE 2026” E RELATIVA MODULISTICA DI ISTANZA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671984</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/rpcb3pfh9vr3e1yteivhv4wx1kpwe8hs.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>DETERMINA DI IMPEGNO IN FAVORE DELLA DITTA SAP SRL PER AGGIO SULLA RISCOSSIONE COATTIVA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671292</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1671292</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1226</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/jmbjcsst09cyq6ajiq8kt6hlnivagkc7.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI N.10 NELLA CASA DEL COMUNE LADISPOLI - GUZDEK MARTA MARIA ED ALTRI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671143</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1671143</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1225</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/nhp9ec58a5isj0kqurugg7ss0of9apo2.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
 </rss>
