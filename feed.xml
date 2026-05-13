@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 13 May 2026 08:35:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 09:05:49 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>(RPS346/26) VALORIZZAZIONE DEL SITO AMBIENTALE E RESTAURO DEL COMPLESSO MONUMENTALE DI TORRE FLAVIA - CONFERIMENTO INCARICO DI SUPPORTO SPECIALISTICO INTERNO ALL'ARCHEOLOGA DOTT.SSA PAMELA STRACCI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1672493</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1672493</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">13/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">28/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1252</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/b0nekoshshvlcxtdd7c5a670i3izmhzb.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>POSTA CERTIFICATA: TRASMISSIONE AVVISO DI VENDITA PROT. N. 2026/5577/DRLZ DEL GIORNO 08.05.2026 [DEMANIO|AGDLAZIO|REGISTRO UFFICIALE|5728|13-05-2026][11229660|10158101]</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1672478</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/5bxbd2l3z6qr77u3ci1xy77eah5rkygh.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>OGGETTO: ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELL'ASSOCIAZIONE DI PROTEZIONE CIVILE AVALON - CONTRIBUTO ANNUALITA' 2026 – PRIMO QUADRIMESTRE GENNAIO/APRILE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671458</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1671458</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1232</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/1t6diy60ijxcfgetzer6wvhegve9rsee.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
