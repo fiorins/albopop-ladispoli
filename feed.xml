@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 14 May 2026 11:06:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 12:06:27 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>FORNITURA FASCIA TRICOLARE - SAVENT SRL</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1673954</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1673954</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1277</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/zduf3zsori9kqxc81kurb0ej03gkp6yz.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA E COMPENSAZIONE PER LA RESTITUZIONE ALLO STATO DELLA QUOTA DELL’ANNO 2026 DELLE RISORSE COVID-19 DEL TRIENNIO 2020/2022 IN ECCESSO, IN QUANTO NON UTILIZZATE ENTRO IL 31 DICEMBRE 2022.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1673951</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1673951</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1276</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/1940ykltmn72dl0nlxmjqqhcw51hhxmu.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>ACCERTAMENTO DI IMPORTO DA DESTINARE AD ATTIVITÀ SOCIALI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1673948</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1673948</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1275</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/mvbpqadf3mo6knpx66v4wc58vpuf88z3.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>PARZIALE RETTIFICA ALL'ELENCO DEI BENEFICIARI APPROVATO CON DETERMINAZIONE N. 946/226 E CONTESTUALE IMPEGNO DI SPESA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1673812</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/2zuluzr356uqyayeg9d6won2x4f3fk3y.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>MOZIONI INTERROGAZIONI ED INTERPELLANZE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1673045</link>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1673045</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">13/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">28/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1257</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
-      <enclosure url="https://app.box.com/shared/static/wwm4c9d7m34e1kz5jcs3xxp2rhn8k32m.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 10]]></description>
-    </item>
-    <item>
-      <title>RIU 55/2026 - AFFIDAMENTO DIRETTO, AI SENSI DELL'ART. 50 COMMA 1 LETT. B) DEL D.LGS. 36/2023, DEL SERVIZIO DI GESTIONE DELLA FRAZIONE ESTRANEA ECCEDENTE LA FRANCHIGIA DI CUI ALLA CONVENZIONE COMIECO – MODALITÀ 'IN' PER I RIFIUTI EER 15.01.01 E 20.01.01</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1672922</link>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1672922</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">13/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">28/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1256</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/e4im27tkjjwz9vm2xeb9rcft4p71aosr.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>SERVIZIO DI ELABORAZIONE ATTI, PROVVEDIMENTI, AVVISI E COMUNICAZIONI OGGETTO DI NOTIFICA PER IL RELATIVO DEPOSITO SULLA PIATTAFORMA NOTIFICHE DIGITALI E PER LA GESTIONE DEGLI ESITI DELLA NOTIFICA – LIQUIDAZIONE FATTURA MAGGIOLI S.P.A.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1672919</link>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1672919</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">13/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">28/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1255</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/42iidk92y2csl6kkn38hmf2o7bentfkr.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
