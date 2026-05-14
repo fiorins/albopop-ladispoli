@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 14 May 2026 12:06:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 12:36:27 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DETERMINAZIONE PREZZO MASSIMO DI CESSIONE E RINUNCIA AL DIRITTO DI PRELAZIONE DI IMMOBILE IN PIANO DI ZONA "FASCIA AURELIA" - COOPERATIVA "S. ANTONIO" - ISTANZA PROT. 26771/2026 DEL 27/04/2026. RICHIEDENTE T.M.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1674000</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1674000</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1280</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/so58oc9jv850x1f4u2qsdhr2cvxaj7d9.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>AUTORIZZAZIONE IN FAVORE DELLA PRO LOCO APS DI LADISPOLI PER LA PRESENTAZIONE DELLA DOMANDA DI ISCRIZIONE ALL’ALBO REGIONALE DELLE RIEVOCAZIONI STORICHE DEL LAZIO, L.R. 29 DICEMBRE 2014, N. 15, ART. 11, COMMA 1.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1673997</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1673997</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1279</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/61upuic1fphgvanhv5orxs2esqw97rpm.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>CONCESSIONE PATROCINIO E CONTRIBUTO ECONOMICO IN FAVORE DELLA S.S.D. A.R.L. “GYM LADISPOLI” IN OCCASIONE DELLA MANIFESTAZIONE SPORTIVA DENOMINATA CAMPIONATO NAZIONALE SUPERGYM E CAMPIONATO REGIONALE COPPA LAZIO.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1673994</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1673994</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1278</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/uh343lu4e91qgs5a5ccd21sjtja1jzia.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>FORNITURA FASCIA TRICOLARE - SAVENT SRL</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1673954</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/4jzesoqtscj2qae4lg1fjmdficyon06t.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>VARIAZIONI NECESSARIE PER L’ADEGUAMENTO DELLE PREVISIONI, COMPRESA L’ISTITUZIONE DI TIPOLOGIE E PROGRAMMI, RIGUARDANTI LE PARTITE DI GIRO E LE OPERAZIONI PER CONTO DI TERZI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1673611</link>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1673611</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">14/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">29/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1260</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/1rgcqojaq6wmy62bfq99l9an8jqzo0md.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI N. 3 NELLA CASA DEL COMUNE LADISPOLI - NEACSU PUICA VASILE ED ALTRI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1673509</link>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1673509</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">14/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">15/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1259</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/yldska8xf6berbm7uye3a6e75uhjtgpl.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI N. 10 NELLA CASA DEL COMUNE LADISPOLI - ZRIKIL ZAKARIA ED ALTRI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1673485</link>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1673485</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">14/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">15/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1258</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/2zuluzr356uqyayeg9d6won2x4f3fk3y.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
 </rss>
