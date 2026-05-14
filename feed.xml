@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 13 May 2026 13:36:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 08:35:43 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI N. 3 NELLA CASA DEL COMUNE LADISPOLI - NEACSU PUICA VASILE ED ALTRI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1673509</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1673509</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">15/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1259</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/yldska8xf6berbm7uye3a6e75uhjtgpl.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI N. 10 NELLA CASA DEL COMUNE LADISPOLI - ZRIKIL ZAKARIA ED ALTRI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1673485</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1673485</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">15/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1258</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/2zuluzr356uqyayeg9d6won2x4f3fk3y.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>MOZIONI INTERROGAZIONI ED INTERPELLANZE</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1673045</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/shkkm3c9rsogwtm64nxoh8h3fa4uzz99.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 6]]></description>
-    </item>
-    <item>
-      <title>RIMBORSO QUOTE CONSORTILI E QUOTE ACQUA (2 E 3 RATA 2026) COMPRENSIVE DI CONGUAGLIO 2025, PER LE PROPRIETÀ DI VIA DEL GRANCHIO, IN FAVORE DEL CONSORZIO MARINA DI SAN NICOLA.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671823</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1671823</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1239</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/w3wg8tlkfnj4j3ew4bkylt2sbutonuk2.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>REGOLARIZZAZIONE AMMINISTRATIVA E CONTABILE, AI FINI DELLA TRACCIABILITÀ DEI FLUSSI FINANZIARI E DELLA DIGITALIZZAZIONE DEL CICLO DI VITA DEI CONTRATTI PUBBLICI, DELL’AFFIDAMENTO ALL’AVV. GIOVANNI DE NIGRIS DELL’INCARICO PROFESSIONALE ESTERNO DI RAPPRESENTANZA E DIFESA DEL COMUNE DI LADISPOLI NELLA CAUSA N. 961/2025 R.G. INNANZI AL TRIBUNALE ORDINARIO DI CIVITAVECCHIA, SEZ. LAVORO – ACQUISIZIONE DEL CIG.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671820</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1671820</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1238</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/35d889z056cxp28j3fxi4cego3wadq4b.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
