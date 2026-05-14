@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 14 May 2026 13:35:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 14:35:49 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>PROVVEDIMENTO DI DIVIETO DI PROSECUZIONE DELL'ESERCIZIO DI ATTIVITÀ DI ESTETISTA E DECADENZA DEGLI EFFETTI PRODOTTI DALLA SCIA ID N. JNIRGH78R62Z210M-20022025-1116 ACQUISITA AL PROTOCOLLO GENERALE DELL’ENTE IN DATA 25/02/2025 AL N. 14426.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1674151</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1674151</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1282</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/ftmfdktb5e6by821y64ij2wdf3382ian.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO 1 ATTO A CARICO DELLA SIG.RA DI VITO GIOVANNA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1674052</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/fefsa2a9ia8uhftaghii2iodpx785gsr.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>(RPS 304/26) DETERMINA DI AGGIUDICAZIONE, AFFIDAMENTO E CONTESTUALE ASSUNZIONE DI IMPEGNO DI SPESA IN FAVORE DELL'AGGIUDICATARIO CONSORZIO JEOCON E APPROVAZIONE DELLA RIMODULAZIONE DEL Q.T.E A SEGUITO DELLA PROCEDURA NEGOZIATA SENZA BANDO DI GARA (ART. 50, COMMA 1, LETTERA C, DEL D. LGS. N. 36/2023 E S.M.I) PER L’AFFIDAMENTO DEI LAVORI DELL’OPERA DENOMINATA "RIQUALIFICAZIONE DEL LUNGOMARE DI LADISPOLI” - CUP: E64J25000070006.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1673655</link>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1673655</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">14/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">29/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1262</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/7ns96n8eje77eknvi4i4ydodtb7bxutd.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
