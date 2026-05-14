@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 14 May 2026 14:35:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 15:35:42 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>PROVVEDIMENTO DI DIVIETO DI PROSECUZIONE DELL'ESERCIZIO DELL’ATTIVITÀ DI COMMERCIO ON LINE E DECADENZA DEGLI EFFETTI PRODOTTI DALLA SCIA ID N. 14397511008-21052024-1426 ACQUISITA AL PROTOCOLLO GENERALE DELL’ENTE IN DATA 23/05/2024 AL N. 29992.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1674277</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1674277</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1283</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/7q2v0oovf7rn1xd1o84cjmdtxwki4b48.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>PROVVEDIMENTO DI DIVIETO DI PROSECUZIONE DELL'ESERCIZIO DI ATTIVITÀ DI ESTETISTA E DECADENZA DEGLI EFFETTI PRODOTTI DALLA SCIA ID N. JNIRGH78R62Z210M-20022025-1116 ACQUISITA AL PROTOCOLLO GENERALE DELL’ENTE IN DATA 25/02/2025 AL N. 14426.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1674151</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/grow8tmetbzi3dfdjst15p21llxeira0.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA ANNO 2026 CAP. 79, “SPESE PER LA SICUREZZA SUI LUOGHI DI LAVORO”, PER L'ACQUISTO DI MATERIALE D.P.I. (DISPOSITIVI PROTEZIONE INDIVIDUALE); CIG.BBA2B7881F;</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1673658</link>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1673658</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">14/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">29/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1263</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/fefsa2a9ia8uhftaghii2iodpx785gsr.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
