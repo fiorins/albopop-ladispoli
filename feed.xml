@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 14 May 2026 08:35:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 09:05:48 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>VARIAZIONI NECESSARIE PER L’ADEGUAMENTO DELLE PREVISIONI, COMPRESA L’ISTITUZIONE DI TIPOLOGIE E PROGRAMMI, RIGUARDANTI LE PARTITE DI GIRO E LE OPERAZIONI PER CONTO DI TERZI.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1673611</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1673611</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1260</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/1rgcqojaq6wmy62bfq99l9an8jqzo0md.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI N. 3 NELLA CASA DEL COMUNE LADISPOLI - NEACSU PUICA VASILE ED ALTRI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1673509</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/14r39ui3h698req0rk6omq2q3p2nm86x.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>REALIZZAZIONE DELLA MANIFESTAZIONE “LADISPOLI SUMMER FEST” EDIZIONE 2026 - APPROVAZIONE PROGETTO PER L'AFFIDAMENTO MEDIANTE PROCEDURA APERTA DEL SERVIZIO DI ORGANIZZAZIONE E REALIZZAZIONE DI N.3 CONCERTI AI SENSI DELL’ART.71 DEL D.LGS. 36/2023.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1671857</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1671857</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">12/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1240</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/shkkm3c9rsogwtm64nxoh8h3fa4uzz99.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 6]]></description>
     </item>
   </channel>
 </rss>
