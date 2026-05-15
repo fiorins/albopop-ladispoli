@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 15 May 2026 07:36:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 11:05:43 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>ACCORDO QUADRO PER LA MANUTENZIONE ORDINARIA E STRAORDINARIA DELLE AREE DESTINATE A VERDE PUBBLICO DEL COMUNE DI LADISPOLI - APPROVAZIONE QUADRO ECONOMICO DELL'INTERVENTO, NOMINA RUP E COSTITUZIONE GRUPPO DI LAVORO CUI SONO CONFERITE LE ATTIVITÀ E FUNZIONI TECNICHE INCENTIVATE EX ART. 45 D.LGS. 36/2023</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1675018</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1675018</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">15/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">30/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1287</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/29fnt676v9rjzq40xfysxvra20fg7clx.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>(RPS350/26) AFFIDAMENTO DIRETTO E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DELL'OPERATORE ECONOMICO AZ SYSTEM DI FRESILLI LUCIANO PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023): REALIZZAZIONE SPAZIO RICREATIVO ESTERNO SCUOLA VIA FLORIDA E VIA VIRGINIA (CIG BBA6A2A501 - AFFIDAMENTO G00259)</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1674624</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/ozedbz82q9xno3x2dv03nnaoehpwxx5d.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>RETTE PER L'ACCOGLIENZA E L'OSPITALITÀ IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI - LIQUIDAZIONE DI SPESA IN FAVORE DI "ASSOCIAZIONE DIMENSIONE SALUTE" - PERIODO APRILE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1673696</link>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1673696</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">14/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">29/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1267</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/jeb8809n2izolg7mdrwvgruherjt3u5l.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
