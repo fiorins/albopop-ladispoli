@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 18 May 2026 11:05:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 11:35:35 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI N. 3 NELLA CASA DEL COMUNE LADISPOLI - RUSSO GIORGIA ED ALTRI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1676225</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1676225</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1299</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/k19qe6kvkup4uymreu9z28e60nyttw80.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE PARZIALE DEL CONTRIBUTO CONCESSO ALLA PRO LOCO A.P.S. DI LADISPOLI PER LA REALIZZAZIONE, IN COLLABORAZIONE CON L’AMMINISTRAZIONE COMUNALE, DELLA 73ª SAGRA DEL CARCIOFO ROMANESCO – EDIZIONE 2026.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1676099</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/so58oc9jv850x1f4u2qsdhr2cvxaj7d9.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>AUTORIZZAZIONE IN FAVORE DELLA PRO LOCO APS DI LADISPOLI PER LA PRESENTAZIONE DELLA DOMANDA DI ISCRIZIONE ALL’ALBO REGIONALE DELLE RIEVOCAZIONI STORICHE DEL LAZIO, L.R. 29 DICEMBRE 2014, N. 15, ART. 11, COMMA 1.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1673997</link>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1673997</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">14/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">29/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1279</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/61upuic1fphgvanhv5orxs2esqw97rpm.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
