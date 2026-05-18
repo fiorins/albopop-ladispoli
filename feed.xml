@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 18 May 2026 08:35:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 09:05:55 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONFERIMENTO INCARICHI DI COLLABORAZIONE, AI SENSI DELL'ART. 90 TUEL, PRESSO L'UFFICIO DI STAFF DEL SINDACO E DEGLI ASSESSORI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1675922</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1675922</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">02/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1291</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DECRETI</category>
+      <enclosure url="https://app.box.com/shared/static/n3hrvk346p1lg9r4hnu48sk61mff2j38.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>APPLICAZIONE DELLE MISURE DI PREVENZIONE RISCHIO INCENDI BOSCHIVI IN VISTA DEL PERIODO DI MASSIMA PERICOLOSITÀ PER GLI INCENDI BOSCHIVI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1675920</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1675920</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">02/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1290</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/th4rx6yssm78zpq7srsnu3jhbftn0oiv.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>ORDINANZA CONTINGIBILE ED URGENTE A TUTELA DELLA PUBBLICA SALUTE</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1675807</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/i4odqtvc5uar83e3980thwbcaxu8lds8.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELLA SAP SRL QUALE AGGIO SULLA RISCOSSIONE COATTIVA DA VIOLAZIONI AL CDS - FATTURE 312/01 E 313/01 DEL 13/05/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1673788</link>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1673788</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">14/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">29/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1271</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/qs0675r1e71wyeowf8f2nnf6tefk66xc.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DI UTENTI ANZIANI E CON DISABILITÀ PER IL SERVIZIO DI ASSISTENZA DOMICILIARE (SAISA) E (SAISD) EFFETTUATO NEL MESE DI MARZO 2026 CON QUIETANZA DIRETTA ALLA COOPERATIVA SOCIALE "SOLIDARIETÀ" SOGGETTO EROGATORE DEL SERVIZIO ISCRITTO AL RUA DEL DISTRETTO 4.2</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1673765</link>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1673765</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">14/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">29/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1270</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ogg1q5ljitqo1xgyyrdz7kir1oicqsmg.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
