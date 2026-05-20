@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 19 May 2026 18:41:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 08:35:36 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CORPUS DOMINI 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1677564</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1677564</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">20/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">04/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1346</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/rwb2fbv5ftnawo83afngs3ti2qprpmah.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>DETERMINAZIONE DIRIGENZIALE DI AGGIUDICAZIONE A SEGUITO DELL'ESPLETAMENTO DELLA GARA PER L’AFFIDAMENTO CONGIUNTO DELLA PROGETTAZIONE ESECUTIVA DEL SERVIZIO DI DIREZIONE LAVORI DEL COORDINAMENTO DELLA SICUREZZA IN FASE DI PROGETTAZIONE ED ESECUZIONE OLTRE CHE ALL’ESECUZIONE DEI LAVORI DELL’OPERA “INTERVENTO DI DIFESA COSTIERA NEL TRATTO DI LITORALE COMPRESO TRA TORRE FLAVIA E MARINA DI PALO” – CUP: E69H18000000002.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1677243</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/uisq903f7l8k24kuzqinn0w8921cdljw.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RETTE PER L'ACCOGLIENZA DI MINORI IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI - LIQUIDAZIONE DI SPESA IN FAVORE DELL'ISTITUTO SALESIANO ERNESTO MENICHINI PRESSO STRUTTURA PONTE - PERIODO APRILE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1677076</link>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1677076</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">19/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">03/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1326</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ls3kgsjawxjz1ism0zsrs2gzgzf1ct6w.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
