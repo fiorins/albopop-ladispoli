@@ -23,24 +23,31 @@ GOOGLE_CONFIG_JSON = SECRETS_DIR / "config_google.json"
 SEEN_FILE = BASE_DIR / "seen.json"
 FEED_FILE = BASE_DIR / "feed.xml"
 
+TELEGRAM_MAX_CAPTION = 1024
+
 # ── Environment Variables ────────────────────────────────────────────────────
+REQUIRED_ENV = [
+    "ROOT_URL",
+    "ELEMENT_BASE_URL",
+    "BOX_ROOT_FOLDER_ID",
+    "BOX_ATTACHMENTS_FOLDER_ID",
+    "TELEGRAM_TOKEN",
+    "TELEGRAM_CHAT_ID",
+    "GOOGLE_SHEET_ID",
+]
+
+missing = [name for name in REQUIRED_ENV if not os.getenv(name)]
+
+if missing:
+    raise RuntimeError(f"Missing environment variables: {', '.join(missing)}")
+
 ROOT_URL = os.getenv("ROOT_URL")
 ELEMENT_BASE_URL = os.getenv("ELEMENT_BASE_URL")
-BOX_ATTACHMENTS_FOLDER_ID = os.getenv("BOX_ATTACHMENTS_FOLDER_ID")
+ROOT_FOLDER_ID = os.getenv("BOX_ROOT_FOLDER_ID")
+ATTACHMENTS_FOLDER_ID = os.getenv("BOX_ATTACHMENTS_FOLDER_ID")
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 GOOGLE_SHEET_ID = os.getenv("GOOGLE_SHEET_ID")
-
-if (
-    not ROOT_URL
-    or not ELEMENT_BASE_URL
-    or not BOX_ATTACHMENTS_FOLDER_ID
-    or not TELEGRAM_TOKEN
-    or not TELEGRAM_CHAT_ID
-    or not GOOGLE_SHEET_ID
-):
-    raise RuntimeError("Variable not found")
-
 
 # ── Metadata Mappings ────────────────────────────────────────────────────────
 TYPE_MAPPINGS = {
