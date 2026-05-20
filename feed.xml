@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 20 May 2026 08:35:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 09:35:56 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>INDIZIONE DI UNA PROCEDURA APERTA TELEMATICA PER L'AFFIDAMENTO DI SERVIZI DI ORGANIZZAZIONE E REALIZZAZIONE DELLA MANIFESTAZIONE “LADISPOLI SUMMER FEST” EDIZIONE 2026. IMPORTO A BASE DI GARA EURO 210.000,00 (IVA ESCLUSA). APPROVAZIONE DISCIPLINARE RETTIFICATO. LOTTO UNICO CUI 02641830589202600001 CIG ACQUISITO TRAMITE PIATTAFORMA INFORMATICA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1677712</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1677712</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">20/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">04/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1348</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/l17lrr8vlj6larrdf1yxh3bifi3gkxu1.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>OGGETTO: DETERMINAZIONE ANNUALE MODALITA’ DI CONTROLLO SUL POSSESSO DEI REQUISITI DI CUI ALL’ART.52 DEL DLGS N.36/2023 – ANNO 2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1677695</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1677695</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">20/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">04/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1347</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/l4t5d4uy49g8ewny74h1d0c1dzqudta0.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>CORPUS DOMINI 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1677564</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/hoa5kc2to7pzru1vw7keu18zekqmsbfp.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RIMBORSO SOMME MAGGIORMENTE VERSATE PER CUP E TARI E DIRITTI DI ISTRUTTORIA DAGLI OPERATORI IN OCCASIONE DELLA 73^ SAGRA DEL CARCIOFO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1677156</link>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1677156</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">19/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">03/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1328</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/gz8c3itbnn4zu91ovgswjxbwrhsn59xn.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO LIQUIDAZIONE IN FAVORE DELLA DITTA EGAF EDIZIONI SRL FATTURA NR. 2026-V-VE2-1286 DEL 14/05/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1677153</link>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1677153</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">19/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">03/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1327</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/uisq903f7l8k24kuzqinn0w8921cdljw.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
