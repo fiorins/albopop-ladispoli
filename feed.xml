@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 20 May 2026 14:38:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 06:05:36 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A EREDI DI TAGLIAFERRO DOMENICO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1678626</link>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1678626</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">21/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1362</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/n2uq5ddhbn76f1m83jhkmb0zq5ggns6z.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI AANTINORI DAVIDE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1678624</link>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1678624</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">21/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1361</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/oglshtbwqcrkzthanqz7k33xfmq9qnf0.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE FATTURA ELETTRONICA N. 26 DEL 13.05.2026 A TITOLO DI ACCONTO DEI COMPENSI PROFESSIONALI PER L’INCARICO ESTERNO DI PATROCINIO LEGALE DEL COMUNE DI LADISPOLI NELLA CAUSA N. 961/2025 R.G. DAVANTI AL TRIBUNALE ORDINARIO DI CIVITAVECCHIA, SEZ. LAVORO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1677969</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/8ba9p6o11ztlefq6mzmbggm78rkp42e3.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE IN FAVORE DI GPI S.P.A., PER LA FORNITURA DI UN SERVICE PER ELABORAZIONE STIPENDI. I° TRIMESTRE. CIG BA52F41D61. FATTURA N. SPV26IGPI0003150 DEL 12/05/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1677231</link>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1677231</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">19/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">03/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1342</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/rp0n6c2pjp1z0i3h8aquunagq4wgtnxb.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>INSTALLAZIONE DI PICCOLE E MEDIE ATTRAZIONI DEDICATE AL DIVERTIMENTO DEI BAMBINI - GIARDINI CENTRALI PIAZZA ROSSELLINI - ANNO 2026.ACCOGLIMENTO ISTANZA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1677228</link>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1677228</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">19/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">03/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1341</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/1gjq8m0rfb9bc59pcrl6jx8jzyapiez9.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
