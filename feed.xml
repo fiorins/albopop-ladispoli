@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 21 May 2026 06:05:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 07:05:42 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>(RPS374/26) AFFIDAMENTO E IMPEGNO DI SPESA PER INCARICO PROFESSIONALE ARCH. FRUSCIONE SALVATORE DEL PROGETTO DEFINITIVO - PFTE, PROGETTO ESECUTIVO, DIREZIONE DEI LAVORI E COORDINAMENTO DELLA SICUREZZA PER PROGETTO DI "REALIZZAZIONE PIATTAFORMA IN LEGNO PER LA DISCESA ACCESSIBILE AL MARE SUL LUNGOMARE DI PALO" E NOMINA RUP DEL PROCEDIMENTO.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1678693</link>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1678693</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">21/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">05/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1363</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/78pt7r4t2wznofkp0385qkfcyb7gie7x.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI A EREDI DI TAGLIAFERRO DOMENICO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1678626</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/mv56ufak1pfp3xx57umrg4wb9t6jo4lz.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>CONCESSIONE PATROCINIO E CONTRIBUTO ECONOMICO IN FAVORE DELL' ASD BAD BOYS PER LA REALIZZAZIONE DELLA MANIFESTAZIONE SPORTIVA DENOMINATA "FACE 2 FACE 13" IN PROGRAMMA IL 23/05/2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1677234</link>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1677234</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">19/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">03/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1343</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/8ba9p6o11ztlefq6mzmbggm78rkp42e3.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
