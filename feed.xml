@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 21 May 2026 07:05:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 07:36:14 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE RIVERSAMENTO T.E.F.A. (TRIBUTO PER L'ESERCIZIO DELLE FUNZIONI DI TUTELA AMBIENTALE) IN FAVORE DI CITTÀ METROPOLITANA DI ROMA CAPITALE – ANNI 2023/2025</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1678807</link>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1678807</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">21/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">05/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1365</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/zclccy9329yn3jrltseysc8jd700raeg.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>DETERMINAZIONE AFFIDAMENTO DIRETTO, AI SENSI DELL’ART.50, CO.1, LETT. A, DEL D.LGS. N.36/2023 MEDIANTE PIATTAFORMA TELEMATICA CERTIFICATA DI QUESTO ENTE “APPALTI &amp; CONTRATTI”, PER PER LA REALIZZAZIONE DI VARIA CARTELLONISTICA DI AVVISO E DI DIVIETO, DA INSTALLARE SUGLI ARENILI LIBERI DEL COMUNE DI LADISPOLI IN VIRTU’ DEL PROGETTO SPIAGGE SICURE 2026 - CIG: BBBB74DEC0.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1678721</link>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1678721</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">21/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">05/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1364</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/bqhiiuiz60ea6h8cr9xjxq609xqmzl1x.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>(RPS374/26) AFFIDAMENTO E IMPEGNO DI SPESA PER INCARICO PROFESSIONALE ARCH. FRUSCIONE SALVATORE DEL PROGETTO DEFINITIVO - PFTE, PROGETTO ESECUTIVO, DIREZIONE DEI LAVORI E COORDINAMENTO DELLA SICUREZZA PER PROGETTO DI "REALIZZAZIONE PIATTAFORMA IN LEGNO PER LA DISCESA ACCESSIBILE AL MARE SUL LUNGOMARE DI PALO" E NOMINA RUP DEL PROCEDIMENTO.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1678693</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">ORDINANZE</category>
       <enclosure url="https://app.box.com/shared/static/rwb2fbv5ftnawo83afngs3ti2qprpmah.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>DETERMINAZIONE DIRIGENZIALE DI AGGIUDICAZIONE A SEGUITO DELL'ESPLETAMENTO DELLA GARA PER L’AFFIDAMENTO CONGIUNTO DELLA PROGETTAZIONE ESECUTIVA DEL SERVIZIO DI DIREZIONE LAVORI DEL COORDINAMENTO DELLA SICUREZZA IN FASE DI PROGETTAZIONE ED ESECUZIONE OLTRE CHE ALL’ESECUZIONE DEI LAVORI DELL’OPERA “INTERVENTO DI DIFESA COSTIERA NEL TRATTO DI LITORALE COMPRESO TRA TORRE FLAVIA E MARINA DI PALO” – CUP: E69H18000000002.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1677243</link>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1677243</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">19/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">03/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1345</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/dsx974egdg8izy9mq389qxth56iz6tpf.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 6]]></description>
-    </item>
-    <item>
-      <title>AFFIDAMENTO DIRETTO, AI SENSI DELL’ART.50, CO.1, LETT. A, DEL D.LGS. N.36/2023 MEDIANTE PIATTAFORMA TELEMATICA CERTIFICATA DI QUESTO ENTE “APPALTI &amp; CONTRATTI” PER LA POSA IN OPERA E LA MANUTENZIONE RELATIVA ALL’ATTREZZATURA E AI MATERIALI DI PROPRIETA’ COMUNALE, FINALIZZATI ALLA FRUIBILITA’, INCLUSIVITA’ E SALVAMENTO DEGLI ARENILI LIBERI DI LADISPOLI - CIG: BBB2B746D7.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1677237</link>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1677237</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">19/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">03/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1344</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/mv56ufak1pfp3xx57umrg4wb9t6jo4lz.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
