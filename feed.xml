@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 21 May 2026 16:35:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 05:05:41 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>OCCUPAZIONE SUOLO PUBBLICO CONDOMINIO VIA DUCA DEGLI ABRUZZI 171</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1679902</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1679902</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">22/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">06/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1367</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/m3o2baadskqbrnby3nhbyzquot0lhjy5.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>DECISIONE A CONTRARRE, EX ART. 17, COMMA 1 D.LGS. 36/23, PER L’AFFIDAMENTO, TRAMITE ACCORDO QUADRO EX ART. 59, COMMA 3 D.LGS. 36/23, DELLA MANUTENZIONE ORDINARIA E STRAORDINARIA DELLE AREE DESTINATE A VERDE PUBBLICO DEL COMUNE DI LADISPOLI - APPROVAZIONE ATTI DI GARA E ADEMPIMENTI CONSEGUENTI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1679884</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/l17lrr8vlj6larrdf1yxh3bifi3gkxu1.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>OGGETTO: DETERMINAZIONE ANNUALE MODALITA’ DI CONTROLLO SUL POSSESSO DEI REQUISITI DI CUI ALL’ART.52 DEL DLGS N.36/2023 – ANNO 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1677695</link>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1677695</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">20/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">04/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1347</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/l4t5d4uy49g8ewny74h1d0c1dzqudta0.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
