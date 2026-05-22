@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 22 May 2026 10:05:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 11:05:34 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>INDIZIONE DI UNA PROCEDURA APERTA TELEMATICA PER L'AFFIDAMENTO DI SERVIZI DI ORGANIZZAZIONE E REALIZZAZIONE DELLA MANIFESTAZIONE “LADISPOLI SUMMER FEST” EDIZIONE 2026. IMPORTO A BASE DI GARA EURO 210.000,00 (IVA ESCLUSA). APPROVAZIONE DISCIPLINARE RETTIFICATO. LOTTO UNICO CUI 02641830589202600001 CIG ACQUISITO TRAMITE PIATTAFORMA INFORMATICA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1680424</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1680424</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">22/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">06/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1373</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/8xiiazyeuk7qnchnpitl1zl2q8twtycq.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>INTERVENTO SOSTITUTIVO DELLA STAZIONE APPALTANTE - LIQUIDAZIONE SOSTITUTIVA INPS</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1680333</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/bsqwtpxtfvmcfogr7x05blaz1tq7ev93.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>AFFIDAMENTO DIRETTO DEI LAVORI DI RISTRUTTURAZIONE E ADEGUAMENTO FUNZIONALE DEGLI IMPIANTI TECNOLOGICI DEL CAMPO SPORTIVO “A. LOMBARDI” IN LOCALITÀ SAN NICOLA. CIG: BBB6F07A6C</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1677948</link>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1677948</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">20/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">04/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1353</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/fhy9bp7lio71dvikgixhv6kk1s971v0k.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
