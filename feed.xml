@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 25 May 2026 08:35:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 09:36:18 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,58 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RIU 60/2026 - SERVIZIO DI TRATTAMENTO E RECUPERO DELLA FRAZIONE DI RIFIUTO URBANO DIFFERENZIATO EER 20.03.07 “RIFIUTI INGOMBRANTI”, APPROVAZIONE CERTIFICATO DI REGOLARE ESECUZIONE E PRESA D’ATTO RELAZIONE DEL RUP – CIG B0C1410838</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1681172</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1681172</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">25/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">09/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1384</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/y1iarkl9vnakf6025teokara5orw4ik5.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE CANONE LUNGO NOLEGGIO VETTURE IN DOTAZIONE ALLA POLIZIA LOCALE MESE DI GIUGNO 2026 - UNIPOLRENTAL SPA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1681169</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1681169</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">25/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">09/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1383</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/vjl3b4jx8h1famlw1ewwc4k6nsuhun4e.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE DI SPESA ANTICIPAZIONE DEL 20% - FATTURA N. 3/PA DEL 13/05/2026 - LAVORI DI RESTAURO CONSERVATIVO DEL COMPLESSO MONUMENTALE DI TORRE FLAVIA" - CUP E62I18000020001 - CIG A000894504;</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1681166</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1681166</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">25/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">09/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1382</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/2ndmaew6qrq46lsh1xwo7mmxlmcfxq14.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>COSTITUZIONE GRUPPO DI LAVORO - INTERVENTO DI “COMPLETAMENTO DEL RESTAURO CONSERVATIVO DEL COMPLESSO MONUMENTALE TORRE FLAVIA E MUSEALIZZAZIONE” - COMUNE DI LADISPOLI;</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1681163</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1681163</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">25/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">09/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1381</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/dl707cz4mo61igizsffsb03ptylibkj6.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI SO.GE.T. A PETRONIO BARBARA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1681087</link>
@@ -226,58 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/zclccy9329yn3jrltseysc8jd700raeg.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>DETERMINAZIONE AFFIDAMENTO DIRETTO, AI SENSI DELL’ART.50, CO.1, LETT. A, DEL D.LGS. N.36/2023 MEDIANTE PIATTAFORMA TELEMATICA CERTIFICATA DI QUESTO ENTE “APPALTI &amp; CONTRATTI”, PER PER LA REALIZZAZIONE DI VARIA CARTELLONISTICA DI AVVISO E DI DIVIETO, DA INSTALLARE SUGLI ARENILI LIBERI DEL COMUNE DI LADISPOLI IN VIRTU’ DEL PROGETTO SPIAGGE SICURE 2026 - CIG: BBBB74DEC0.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1678721</link>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1678721</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">21/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">05/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1364</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/bqhiiuiz60ea6h8cr9xjxq609xqmzl1x.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>(RPS374/26) AFFIDAMENTO E IMPEGNO DI SPESA PER INCARICO PROFESSIONALE ARCH. FRUSCIONE SALVATORE DEL PROGETTO DEFINITIVO - PFTE, PROGETTO ESECUTIVO, DIREZIONE DEI LAVORI E COORDINAMENTO DELLA SICUREZZA PER PROGETTO DI "REALIZZAZIONE PIATTAFORMA IN LEGNO PER LA DISCESA ACCESSIBILE AL MARE SUL LUNGOMARE DI PALO" E NOMINA RUP DEL PROCEDIMENTO.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1678693</link>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1678693</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">21/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">05/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1363</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/78pt7r4t2wznofkp0385qkfcyb7gie7x.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A EREDI DI TAGLIAFERRO DOMENICO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1678626</link>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1678626</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">21/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">29/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1362</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/n2uq5ddhbn76f1m83jhkmb0zq5ggns6z.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI AANTINORI DAVIDE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1678624</link>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1678624</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">21/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">29/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1361</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/oglshtbwqcrkzthanqz7k33xfmq9qnf0.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
 </rss>
