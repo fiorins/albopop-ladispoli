@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 25 May 2026 07:06:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 08:35:33 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI SO.GE.T. A PETRONIO BARBARA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1681087</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1681087</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">25/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1380</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/lp85iy4livgggt18x43tehlqku1qe42d.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI SO.GE.T. AGLI EREDI DI MARGIOTTA SILVIA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1681085</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1681085</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">25/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1379</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/1b11zo8jqsz58wecu32wikpv1k766qy8.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>RISORSE REGIONALI D.D.R. N.G08038/2025 - EROGAZIONE 2^ QUOTA CONTRIBUTO ANNO 2026 - AGLI ISTITUTI SCOLASTICI COMPRENSIVI , FINALIZZATE ALLA REALIZZAZIONE DELL'INTEGRAZIONE SCOLASTICA IN FAVORE DEGLI ALUNNI CON DIFFICOLTA' NELLA COMPRENSIONE/PRODUZIONE DEL LINGUAGGIO CHE NECESSITANO DI METODICHE (CAA) - ANNO SCOLASTICO 2025/2026.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1680950</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/oglshtbwqcrkzthanqz7k33xfmq9qnf0.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA ELETTRONICA N. 26 DEL 13.05.2026 A TITOLO DI ACCONTO DEI COMPENSI PROFESSIONALI PER L’INCARICO ESTERNO DI PATROCINIO LEGALE DEL COMUNE DI LADISPOLI NELLA CAUSA N. 961/2025 R.G. DAVANTI AL TRIBUNALE ORDINARIO DI CIVITAVECCHIA, SEZ. LAVORO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1677969</link>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1677969</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">20/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">04/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1360</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/xoppyplquxbsegltyy8g44fhq3d4nmcd.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DEL CONTRIBUTO ECONOMICO IN FAVORE DELLA PRO LOCO A.P.S. DI LADISPOLI PER LA REALIZZAZIONE, IN COLLABORAZIONE CON L’AMMINISTRAZIONE COMUNALE, DELLA FESTA PATRONALE DI SAN GIUSEPPE IN PROGRAMMA IL 19/03/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1677966</link>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1677966</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">20/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">04/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1359</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/0obnz4icddpj8lnsq909snlp59cxihlz.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
