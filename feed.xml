@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 25 May 2026 11:35:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 16:35:39 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DISCIPLINA DELLA CIRCOLAZIONE TEMPORANEA SU VIA FIORDALISI IN OCCASIONE DELLA FESTA DEL SACRO CUORE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1681705</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1681705</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">25/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">09/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1389</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/htusevng359lfos1fpuy8nwg47bqf808.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>IMPEGNO DI SPESA 2026 - CONTRIBUTI IN FAVORE DEGLI UTENTI PER IL "SAISD" INTERVENTI DI ASSISTENZA DOMICILIARE DISABILI –</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1681422</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">PERMESSI A COSTRUIRE</category>
       <enclosure url="https://app.box.com/shared/static/qral8kphr4ro2qk9tbut8c82rl4569bx.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>DETERMINA DI IMPEGNO PER SPERIMENTAZIONE PIATTAFORMA NOTIFICHE DIGITALI SEND – AFFIDAMENTO PAGOPA SPA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1680116</link>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1680116</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">06/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1369</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/l39qung6duexptjpqny72wxx3njc3yp6.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
