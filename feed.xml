@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 26 May 2026 14:05:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 14:36:51 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AUTORIZZAZIONE E CONFERIMENTO INCARICO PER RESISTERE INNANZI AL TRIBUNALE AMMINISTRATIVO REGIONALE DEL LAZIO AVVERSO IL RICORSO NOTIFICATO AL COMUNE DI LADISPOLI IN DATA 25/05/2026 (PROT. N. 32637/2026) AVENTE AD OGGETTO L’IMPUGNAZIONE DELL’ORDINANZA DI DEMOLIZIONE N. 39 DEL 31/03/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1682672</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1682672</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">10/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1400</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/oqssqf0tjbjsmyymgs08qh6gke4r37xy.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>REALIZZAZIONE DELLA “RASSEGNA ESTIVA 2026” PRESSO LO SPAZIO DEDICATO AD ATTIVITÀ CULTURALI SITO IN VIA RAPALLO N. 14, ATTIGUO AL SITO ARCHEOLOGICO DENOMINATO “LA GROTTACCIA”. RETTIFICA DELIBERAZIONE DELLA GIUNTA COMUNALE N. 94 DEL 22/05/2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1682669</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1682669</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">10/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1399</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/yxknl6obx1x37b4k7yvbff3urrro8qqp.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 5]]></description>
+    </item>
+    <item>
+      <title>APPROVAZIONE PROGETTO POLITICHE GIOVANILI DENOMINATO "ACCADEMIA DELLE ARTI E DEI MESTIERI"</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1682666</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1682666</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">10/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1398</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/9693cb3ksilijohhjjthvaep88p90h9t.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 5]]></description>
+    </item>
     <item>
       <title>DISPOSIZIONE DI CHIUSURA DEGLI UFFICI COMUNALI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1682619</link>
@@ -238,45 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/dl707cz4mo61igizsffsb03ptylibkj6.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI SO.GE.T. A PETRONIO BARBARA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1681087</link>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1681087</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">25/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1380</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/lp85iy4livgggt18x43tehlqku1qe42d.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI SO.GE.T. AGLI EREDI DI MARGIOTTA SILVIA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1681085</link>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1681085</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">25/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1379</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/1b11zo8jqsz58wecu32wikpv1k766qy8.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>RISORSE REGIONALI D.D.R. N.G08038/2025 - EROGAZIONE 2^ QUOTA CONTRIBUTO ANNO 2026 - AGLI ISTITUTI SCOLASTICI COMPRENSIVI , FINALIZZATE ALLA REALIZZAZIONE DELL'INTEGRAZIONE SCOLASTICA IN FAVORE DEGLI ALUNNI CON DIFFICOLTA' NELLA COMPRENSIONE/PRODUZIONE DEL LINGUAGGIO CHE NECESSITANO DI METODICHE (CAA) - ANNO SCOLASTICO 2025/2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1680950</link>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1680950</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">25/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">09/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1378</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/hrrpa28j89hwzmlcyuw8smgllsozl4th.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
