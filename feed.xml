@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 26 May 2026 14:36:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 16:35:35 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>ISTANZA AI SENSI E PER GLI EFFETTI DELL'ART.7 COMMA 1 LETTERA B DEL REGOLAMENTO REGIONALE DEL 12/08/2026 N. 19</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1682860</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1682860</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">02/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1401</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/x9rxtej6guck0scazni3c5z8p5dho5ay.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>AUTORIZZAZIONE E CONFERIMENTO INCARICO PER RESISTERE INNANZI AL TRIBUNALE AMMINISTRATIVO REGIONALE DEL LAZIO AVVERSO IL RICORSO NOTIFICATO AL COMUNE DI LADISPOLI IN DATA 25/05/2026 (PROT. N. 32637/2026) AVENTE AD OGGETTO L’IMPUGNAZIONE DELL’ORDINANZA DI DEMOLIZIONE N. 39 DEL 31/03/2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1682672</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/2ndmaew6qrq46lsh1xwo7mmxlmcfxq14.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>COSTITUZIONE GRUPPO DI LAVORO - INTERVENTO DI “COMPLETAMENTO DEL RESTAURO CONSERVATIVO DEL COMPLESSO MONUMENTALE TORRE FLAVIA E MUSEALIZZAZIONE” - COMUNE DI LADISPOLI;</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1681163</link>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1681163</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">25/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">09/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1381</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/dl707cz4mo61igizsffsb03ptylibkj6.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
