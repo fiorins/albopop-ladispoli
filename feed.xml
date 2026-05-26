@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 26 May 2026 06:05:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 08:35:47 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI N.6 NELLA CASA DEL COMUNE LADISPOLI -IFRIM PETRICA ED ALTRI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1682111</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1682111</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1392</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/144va7e45ff7ghll7qxf5irwgr0daem9.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>APPROVAZIONE VERBALI DELLA COMMISSIONE DI VALUTAZIONE CANONI DI LOCA¬ZIONE 2026 ANNUALITÀ SPESE 2025 E RELATIVA GRADUATORIA APPROVAZIONE DEL DOCUMENTO “MODULO DI FABBISOGNO E RICHIESTA RISORSE REGIONE LAZIO”</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1682083</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1682083</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">10/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1391</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/qz6hnkqvn0537z5b0th1ztfouw9b8xef.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI A BIANCHETTI MIRKO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1681739</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/8xiiazyeuk7qnchnpitl1zl2q8twtycq.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>INTERVENTO SOSTITUTIVO DELLA STAZIONE APPALTANTE - LIQUIDAZIONE SOSTITUTIVA INPS</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1680333</link>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1680333</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">06/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1372</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/5b2mwmopmcak8ylomggvs60p0ldlcw8e.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>REGOLARIZZAZIONE CONTABILE MEDIANTE COMPENSAZIONE E INTROITO AL BILANCIO COMUNALE DELLA SOMMA DI € 17.922,00 PER IL SERVIZIO DI REFEZIONE SCOLASTICA - ANNO 2025/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1680330</link>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1680330</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">06/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1371</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/iw2rrmwhwzblo94omecwwt3ogbes707t.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
