@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 26 May 2026 09:35:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 13:05:40 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>(RPS361/26) RECUPERO FUNZIONALE DEL CASTELLACCIO DI MONTERONI - CONFERIMENTO INCARICO DI SUPPORTO SPECIALISTICO INTERNO ALL'ARCHEOLOGA DOTT.SSA PAMELA STRACCI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1682542</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1682542</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">10/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1395</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/uv7u8w9qzivqjn00rxwljhktj0z14bh7.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI N. 1 NELLA CASA DEL COMUNE LADISPOLI - ELCA SRL</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1682190</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/fsk71uhcgvqyuppiqlpbqfvutxe9ek0z.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE SERVIZIO DI PULIZIA DEGLI IMMOBILI COMUNALI MESE DI APRILE 2026 - FORMULA SERVIZI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1680921</link>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1680921</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">25/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">09/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1375</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/j3s7djizmdrbofm23fbie34e2o4d0hvk.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
