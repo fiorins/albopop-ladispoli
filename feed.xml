@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 26 May 2026 08:35:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 09:35:35 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI N. 1 NELLA CASA DEL COMUNE LADISPOLI - ELCA SRL</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1682190</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1682190</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1394</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/japp1urgj58cs3eydorhv3s81gggml3g.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI N. 6 NELLA CASA DEL COMUNE LADISPOLI - BOTEZATU CIPRIAN NICOLAE ED ALTRI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1682188</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1682188</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1393</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/gh7ucyv6osc7hlq4x1b4srdychiaoch0.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI N.6 NELLA CASA DEL COMUNE LADISPOLI -IFRIM PETRICA ED ALTRI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1682111</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/j3s7djizmdrbofm23fbie34e2o4d0hvk.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>CONCESSIONE CONTRIBUTO ECONOMICO IN FAVORE DELL' ASD BAD BOYS PER LA REALIZZAZIONE DELLA MANIFESTAZIONE SPORTIVA DENOMINATA "FACE 2 FACE#13" IN PROGRAMMA IL 23/05/2026 - ASSUNZIONE IMPEGNO DI SPESA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1680551</link>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1680551</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">06/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1374</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/iih52o8wtmknp9lie5hg3rdvv7c79dvf.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>INDIZIONE DI UNA PROCEDURA APERTA TELEMATICA PER L'AFFIDAMENTO DI SERVIZI DI ORGANIZZAZIONE E REALIZZAZIONE DELLA MANIFESTAZIONE “LADISPOLI SUMMER FEST” EDIZIONE 2026. IMPORTO A BASE DI GARA EURO 210.000,00 (IVA ESCLUSA). APPROVAZIONE DISCIPLINARE RETTIFICATO. LOTTO UNICO CUI 02641830589202600001 CIG ACQUISITO TRAMITE PIATTAFORMA INFORMATICA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1680424</link>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1680424</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">06/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1373</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/8xiiazyeuk7qnchnpitl1zl2q8twtycq.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
