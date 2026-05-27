@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 27 May 2026 06:37:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 11:06:21 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>(RPS 380/26) PROGETTO DI “RIQUALIFICAZIONE PARCHEGGIO COMUNALE SITO IN LADISPOLI, P.ZZA GIOVANNI FALCONE6” - ACCERTAMENTO IN ENTRATA DEL FINANZIAMENTO E IMPEGNO DELLA SPESA, APPROVAZIONE DOCUMENTI E INDIZIONE GARA D'APPALTO PER L'ESECUZIONE DELLE OPERE.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1683610</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1683610</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">11/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1411</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/l1qxgtzenw5s6xe76qt7j15pwa1df5ap.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE AGENZIA DELLE ENTRATE PER OMESSO E TARDIVO VERSAMENTO DELLE IMPOSTE - MODELLO 770/2024.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1683554</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1683554</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">11/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1410</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/anql3o0qpsatgepbcf74wpom4wi630ip.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>REGOLARIZZAZIONE POSIZIONE CONTRIBUTIVA EX DIPENDENTE COMUNALE NEI CONFRONTI DELL’INPS</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1683551</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1683551</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">11/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1409</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/ew9gaxho0m14hqd5uf2261cmcw3rzr9s.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>RIU 62/2026 – SERVIZIO DI GESTIONE INTEGRATA DEI RIFIUTI URBANI – ORDINANZA DI LIQUIDAZIONE CANONE APRILE 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1682937</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/144va7e45ff7ghll7qxf5irwgr0daem9.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>APPROVAZIONE VERBALI DELLA COMMISSIONE DI VALUTAZIONE CANONI DI LOCA¬ZIONE 2026 ANNUALITÀ SPESE 2025 E RELATIVA GRADUATORIA APPROVAZIONE DEL DOCUMENTO “MODULO DI FABBISOGNO E RICHIESTA RISORSE REGIONE LAZIO”</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1682083</link>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1682083</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">10/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1391</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/qz6hnkqvn0537z5b0th1ztfouw9b8xef.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A BIANCHETTI MIRKO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1681739</link>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1681739</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">03/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1390</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/vfqib3lr7ay1b2cemzbhqqw9kn2jzddp.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>DISCIPLINA DELLA CIRCOLAZIONE TEMPORANEA SU VIA FIORDALISI IN OCCASIONE DELLA FESTA DEL SACRO CUORE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1681705</link>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1681705</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">25/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">09/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1389</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/htusevng359lfos1fpuy8nwg47bqf808.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
