@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 28 May 2026 14:36:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 15:05:48 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONGEDO PARENTALE AI SENSI DELL'ART. 32, COMMA 1, DEL D.LGS N. 151/2001 A FAVORE DI UN DIPENDENTE. DETERMINAZIONI.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1684844</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1684844</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1416</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/b1d30j2r6z7eb2p9j2a6a53mc19hxspg.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>DETERMINAZIONI PER IL RILASCIO DI CONCESSIONE DEMANIALE MARITTIMA STRAORDINARIA TEMPORANEA AI SENSI DELL’ART. 19 DEL REGOLAMENTO REGIONALE LAZIO N. 19/2016, IN DEROGA AI CRITERI APPLICATIVI DI CUI ALLA DGC N. 73 DEL 28.04.2026 E AFFIDAMENTO IN CONVENZIONE DI TRATTO DI ARENILE PUBBLICO AI SENSI DELL’ALL. A DEL REGOLAMENTO REGIONALE FINALIZZATI ALLA REALIZZAZIONE DI PROGETTO DI “SPIAGGIA INCLUSIVA” SUL LITORALE CENTRALE</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1684801</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DECRETI</category>
       <enclosure url="https://app.box.com/shared/static/abmmx2ub5ithxcev0fhqhf5jt5okdn9s.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>CONCORSO PER L’ESAME ABILITANTE ALLA PROFESSIONE DI AGROTECNICO E DI AGROTECNICO LAUREATO. SESSIONE 2026. RETTIFICA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1682617</link>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1682617</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">15/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1396</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/00wn88s3hle49fkzwgjgbdp6b35y537f.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
