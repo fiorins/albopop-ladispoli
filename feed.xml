@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 28 May 2026 09:35:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 11:35:31 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO 1 ATTO A CARICO DEL SIG. STERLICCHIO MARCO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1684425</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1684425</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1413</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/68jl8olrwxgkq8fd90ehktfw8pjtfu3h.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>PRESA D’ATTO DELL' ASTENZIONE OBBLIGATORIA DAL LAVORO PER MATERNITA’ AI SENSI DELL’ART. 16 DEL D.LGS 151/2001 A FAVORE DI UNA DIPENDENTE. DETERMINAZIONI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1684207</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/japp1urgj58cs3eydorhv3s81gggml3g.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI N. 6 NELLA CASA DEL COMUNE LADISPOLI - BOTEZATU CIPRIAN NICOLAE ED ALTRI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1682188</link>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1682188</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1393</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/gh7ucyv6osc7hlq4x1b4srdychiaoch0.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
