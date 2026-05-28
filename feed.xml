@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 27 May 2026 11:06:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 09:35:41 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>PRESA D’ATTO DELL' ASTENZIONE OBBLIGATORIA DAL LAVORO PER MATERNITA’ AI SENSI DELL’ART. 16 DEL D.LGS 151/2001 A FAVORE DI UNA DIPENDENTE. DETERMINAZIONI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1684207</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1684207</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1412</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/723cfy0midxnxvueuzglazuwk61h3nic.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>(RPS 380/26) PROGETTO DI “RIQUALIFICAZIONE PARCHEGGIO COMUNALE SITO IN LADISPOLI, P.ZZA GIOVANNI FALCONE6” - ACCERTAMENTO IN ENTRATA DEL FINANZIAMENTO E IMPEGNO DELLA SPESA, APPROVAZIONE DOCUMENTI E INDIZIONE GARA D'APPALTO PER L'ESECUZIONE DELLE OPERE.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1683610</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/gh7ucyv6osc7hlq4x1b4srdychiaoch0.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI N.6 NELLA CASA DEL COMUNE LADISPOLI -IFRIM PETRICA ED ALTRI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1682111</link>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1682111</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1392</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/144va7e45ff7ghll7qxf5irwgr0daem9.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
