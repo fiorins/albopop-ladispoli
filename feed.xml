@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 28 May 2026 11:35:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 14:36:31 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DETERMINAZIONI PER IL RILASCIO DI CONCESSIONE DEMANIALE MARITTIMA STRAORDINARIA TEMPORANEA AI SENSI DELL’ART. 19 DEL REGOLAMENTO REGIONALE LAZIO N. 19/2016, IN DEROGA AI CRITERI APPLICATIVI DI CUI ALLA DGC N. 73 DEL 28.04.2026 E AFFIDAMENTO IN CONVENZIONE DI TRATTO DI ARENILE PUBBLICO AI SENSI DELL’ALL. A DEL REGOLAMENTO REGIONALE FINALIZZATI ALLA REALIZZAZIONE DI PROGETTO DI “SPIAGGIA INCLUSIVA” SUL LITORALE CENTRALE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1684801</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1684801</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1415</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/naq5subv35btvg3purygm1fb5xe85uew.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 5]]></description>
+    </item>
+    <item>
+      <title>RIU 61/2026 - SERVIZIO PER IL TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI INDIFFERENZIATI RESIDUI CODICE EER 20.03.01 – PRESA D’ATTO NUOVA TARIFFA DI CONFERIMENTO, APPROVAZIONE NUOVO Q.E. E ORDINANZA DI LIQUIDAZIONE APRILE 2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1684798</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1684798</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1414</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/d9v3phiy6hpiin47kymicwtmnojvlmml.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO 1 ATTO A CARICO DEL SIG. STERLICCHIO MARCO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1684425</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/00wn88s3hle49fkzwgjgbdp6b35y537f.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>(RPS361/26) RECUPERO FUNZIONALE DEL CASTELLACCIO DI MONTERONI - CONFERIMENTO INCARICO DI SUPPORTO SPECIALISTICO INTERNO ALL'ARCHEOLOGA DOTT.SSA PAMELA STRACCI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1682542</link>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1682542</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">10/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1395</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/uv7u8w9qzivqjn00rxwljhktj0z14bh7.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI N. 1 NELLA CASA DEL COMUNE LADISPOLI - ELCA SRL</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1682190</link>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1682190</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">27/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1394</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/japp1urgj58cs3eydorhv3s81gggml3g.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
 </rss>
