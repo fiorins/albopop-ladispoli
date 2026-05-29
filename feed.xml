@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 29 May 2026 12:35:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 14:05:44 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CHIUSURA TEMPORANEA STRADA PER LAVORI DI ALLACCIO RETE GAS</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1686148</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1686148</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">29/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">13/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1437</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/n900edca40raef41umj2urhxtfa9nqeo.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>APPROVAZIONE DEL PROGETTO ESECUTIVO RELATIVO ALL’INTERVENTO DI “RIQUALIFICAZIONE E RIFUNZIONALIZZAZIONE DEL PARCO PUBBLICO “SACRO CUORE” – VIA DEI FIORDALISI – LADISPOLI” – CUP E62H26000420004 – PASSAGGIO DELLE FUNZIONI DI RUP.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1686095</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/ow5xzpegcx3ku9qyr8goj170ng9mpceq.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>DETERMINAZIONE AFFIDAMENTO DIRETTO, AI SENSI DELL’ART.50, CO.1, LETT. A, DEL D.LGS. N.36/2023 MEDIANTE PIATTAFORMA TELEMATICA CERTIFICATA DI QUESTO ENTE “APPALTI &amp; CONTRATTI”, GESTIONE DEI SERVIZI DELLA SPIAGGIA INCLUSIVA PER LA STAGIONE BALNEARE 2026 DEL COMUNE DI LADISPOLI ALLA SOCIETA’ COOPERATIVA SOCIALE ONLUS CASSIAVASS -P.IVA 03593831005- CIG: BBCF71316D</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1685050</link>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1685050</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1417</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/t8krjbrviirpa554zegh4uch7az3wvbh.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
