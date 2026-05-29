@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 29 May 2026 12:06:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 12:35:42 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>APPROVAZIONE DEL PROGETTO ESECUTIVO RELATIVO ALL’INTERVENTO DI “RIQUALIFICAZIONE E RIFUNZIONALIZZAZIONE DEL PARCO PUBBLICO “SACRO CUORE” – VIA DEI FIORDALISI – LADISPOLI” – CUP E62H26000420004 – PASSAGGIO DELLE FUNZIONI DI RUP.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1686095</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1686095</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">29/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">13/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1436</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/6mtibumnxmc9wad6qlp0ounna9uv1u4g.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>CONTRIBUTO DELLA REGIONE LAZIO (DETERMINAZIONE G17639 DEL 22/12/2025) PER LA BIBLIOTECA COMUNALE. AFFIDAMENTO DIRETTO, AI SENSI DELL’ART. 50, COMMA 1, LETT. B) D.LGS 36/2023 E CONTESTUALE ASSUNZIONE DI IMPEGNO DI SPESA IN FAVORE DI VARI AFFIDATARI PER LA REALIZZAZIONE DELLE LINEE DI INTERVENTO A.2 ED A.3</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1686025</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/t8krjbrviirpa554zegh4uch7az3wvbh.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>CONGEDO PARENTALE AI SENSI DELL'ART. 32, COMMA 1, DEL D.LGS N. 151/2001 A FAVORE DI UN DIPENDENTE. DETERMINAZIONI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1684844</link>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1684844</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">28/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">12/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1416</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/b1d30j2r6z7eb2p9j2a6a53mc19hxspg.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
