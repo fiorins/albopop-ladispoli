@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 28 May 2026 15:05:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 06:36:08 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>APPROVAZIONE DEL PROGETTO FATTIBILITA’ TECNICO ECONOMICA PER GLI IN-TERVENTI DI EFFICIENZA ENERGETICA E RALIZZAZIONE DI SISTEMI DI PRODUZIONE DI ENERGIA DA FONTI RINNOVABILI PRESSO I.C. LADISPOLI I – PLESSO “CANDIDA ZARRELLI” CUP. E64D25000410008.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1685053</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1685053</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">29/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">13/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1418</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/ow5xzpegcx3ku9qyr8goj170ng9mpceq.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>DETERMINAZIONE AFFIDAMENTO DIRETTO, AI SENSI DELL’ART.50, CO.1, LETT. A, DEL D.LGS. N.36/2023 MEDIANTE PIATTAFORMA TELEMATICA CERTIFICATA DI QUESTO ENTE “APPALTI &amp; CONTRATTI”, GESTIONE DEI SERVIZI DELLA SPIAGGIA INCLUSIVA PER LA STAGIONE BALNEARE 2026 DEL COMUNE DI LADISPOLI ALLA SOCIETA’ COOPERATIVA SOCIALE ONLUS CASSIAVASS -P.IVA 03593831005- CIG: BBCF71316D</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1685050</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1685050</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">29/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">13/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1417</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/t8krjbrviirpa554zegh4uch7az3wvbh.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>CONGEDO PARENTALE AI SENSI DELL'ART. 32, COMMA 1, DEL D.LGS N. 151/2001 A FAVORE DI UN DIPENDENTE. DETERMINAZIONI.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1684844</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/yxknl6obx1x37b4k7yvbff3urrro8qqp.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 5]]></description>
-    </item>
-    <item>
-      <title>APPROVAZIONE PROGETTO POLITICHE GIOVANILI DENOMINATO "ACCADEMIA DELLE ARTI E DEI MESTIERI"</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1682666</link>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1682666</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">10/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1398</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/9693cb3ksilijohhjjthvaep88p90h9t.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
-    </item>
-    <item>
-      <title>DISPOSIZIONE DI CHIUSURA DEGLI UFFICI COMUNALI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1682619</link>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1682619</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">10/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1397</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DECRETI</category>
-      <enclosure url="https://app.box.com/shared/static/abmmx2ub5ithxcev0fhqhf5jt5okdn9s.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
