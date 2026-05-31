@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 29 May 2026 14:05:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 09:35:36 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>MOSTRA MERCATO CONSORZIO MARINA DI SAN NICOLA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1686313</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1686313</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">31/05/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">15/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1438</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/3nubjwe739921z6jgf92w9kmji8oy2je.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>CHIUSURA TEMPORANEA STRADA PER LAVORI DI ALLACCIO RETE GAS</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1686148</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/nklj7o0snw4plc3k91bd7vxc1183qgbi.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>APPROVAZIONE DEL PROGETTO FATTIBILITA’ TECNICO ECONOMICA PER GLI IN-TERVENTI DI EFFICIENZA ENERGETICA E RALIZZAZIONE DI SISTEMI DI PRODUZIONE DI ENERGIA DA FONTI RINNOVABILI PRESSO I.C. LADISPOLI I – PLESSO “CANDIDA ZARRELLI” CUP. E64D25000410008.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1685053</link>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1685053</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1418</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ow5xzpegcx3ku9qyr8goj170ng9mpceq.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
