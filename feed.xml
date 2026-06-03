@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 31 May 2026 09:35:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 08:35:33 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTO A CARICO DEL SIG. PRISECARU GEORGE MARIAN</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1687107</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1687107</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">03/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">23/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1439</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/uzn49d1otwq6tsbz8qhjbeks28tbz3gf.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>MOSTRA MERCATO CONSORZIO MARINA DI SAN NICOLA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1686313</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/2f7oc7aikd8a02csn2mimjo2zmb8d08p.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>APPROVAZIONE AVVISO PUBBLICO PER LA COPERTURA DI N. 1 POSTO DI ASSISTENTE SOCIA-LE - AREA DEI FUNZIONARI E DELLA E.Q. (EX CATEGORIA D) CON RAPPORTO DI LAVORO A TEMPO PIENO E INDETERMINATO TRAMITE PROCEDURA DI MOBILITA' TRA ENTI AI SENSI DELL'ART. 30 D.LGS. 165/2001</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1685627</link>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1685627</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/05/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1419</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/nklj7o0snw4plc3k91bd7vxc1183qgbi.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
