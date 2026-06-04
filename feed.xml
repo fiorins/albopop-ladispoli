@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 04 Jun 2026 10:37:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 12:05:56 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELLA DITTA D'ONOFRIO ROBERTO FORNITURE VESTIARIO POLIZIA LOCALE - FATTURA NR. 026/2026/E DEL 30/05/2026 - CIG B971D86F6C</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1688782</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1688782</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1487</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/o2lneje0ekmpu0pqt6mu8kmdx041k46q.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>AUTORIZZAZIONE N. 10 DEL 29.05.2026 AUTORIZZAZIONE DEMANIALE TEMPORANEA (ART. 19 COMMA 3 REGIONE LAZIO 19/2016, ART. COD NAV. E CIRCOLARE 90 DEL 27/07/1999 M.I.T.)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1688715</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1688715</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1486</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/bzljhke88jr33iu5y38zvjomx7d413th.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>RETTE PER L'ACCOGLIENZA E L'OSPITALITÀ DI UN NUCLEO FAMILIARE IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI - LIQUIDAZIONE DI SPESA IN FAVORE DI "ORIZZONTI S.R.L.” – PERIODO MAGGIO 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1688623</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/8ggzxvpf0t09wnyl8v0gxsplkvr9ow1k.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>PNRR - INVESTIMENTO 1.3 SUB INVESTIMENTO 1.3.1 HOUSING TEMPORANEO CUP E65I22000050001 - APPROVAZIONE VERBALE DI COOPROGETTAZIONE E RELATIVA PROROGA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1688067</link>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1688067</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1467</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/cbvv6npcznz5cow7zwdkf6kuhfk412ij.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>PNRR - INVESTIMENTO 1.2 PERCORSI DI AUTONOMIA PER PERSONE CON DISABILITA'- CUP E65I22000020001 - APPROVAZIONE VERBALE DI COOPROGETTAZIONE E RELATIVA POROROGA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1688064</link>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1688064</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1466</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/hj0ug2bsy7u2jhmvznenp52eyi3wn89a.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
