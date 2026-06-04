@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 04 Jun 2026 06:39:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 07:05:49 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>(RPS397/26) AFFIDAMENTO DIRETTO E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DELL'OPERATORE ECONOMICO SM EDILIZIA DI ALESSANDRO VECCHIOTTI DI LADISPOLI PER IL RIFACIMENTO INTEGRALE DELLA COPERTURA DEL BOCCIODROMO COMUNALE SITO IN VIA BORDIGHERA A LADISPOLI (CIG BBDB94D94F - AFFIDAMENTO G00307)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1688078</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1688078</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1468</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/8ggzxvpf0t09wnyl8v0gxsplkvr9ow1k.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>PNRR - INVESTIMENTO 1.3 SUB INVESTIMENTO 1.3.1 HOUSING TEMPORANEO CUP E65I22000050001 - APPROVAZIONE VERBALE DI COOPROGETTAZIONE E RELATIVA PROROGA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1688067</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/21cuyva1y28b741uukr1sin7qfmxyi65.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A BLAZSWICZ RENATA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1688012</link>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1688012</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">12/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1448</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/wn7y68i5tyup7uoy3mljo2drc4e8vx7z.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
