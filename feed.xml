@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 05 Jun 2026 09:07:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 10:06:17 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE FATTURA N 664/2026 EMESSA DA “CASA COMUNE 2000” SOCIETA’ COOPERATIVA SOCIALE A.R.L. PER LA GESTIONE DEL SERVIZIO DELL’ASILO NIDO “SENSORY” SVOLTO NEL MESE DI GIUGNO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1689904</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1689904</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1506</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/wxrg2ju346z3xdxt3rakhv8vxxr3y7yn.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>(RPS427/26) AFFIDAMENTO DIRETTO E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DELL'OPERATORE ECONOMICO SM EDILIZIA DI ALESSANDRO VECCHIOTTI PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) SU VARI IMMOBILI COMUNALI (CIG BBE77FB3E7, AFFIDAMENTO G00309 - CIG BBE7903DC0, AFFIDAMENTO G00310 - CIG BBE7A770C0, AFFIDAMENTO G00311 - CIG BBE7E7F461, AFFIDAMENTO G00312 - CIG BBE837A08C, AFFIDAMENTO G00313)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1689901</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1689901</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1505</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/tycj1js8jqfcf39nyq5j0p4uca2jldjx.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>ISTITUZIONE DI DIVIETO DI FERMATA VIA DEL SOLE.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1689857</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1689857</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1504</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/ts1uggme2ryb2g1ypkputd518tu9pp6m.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI N. 10 NELLA CASA DEL COMUNE LADISPOLI - MARAZZITI PIERLUIGI ED ALTRI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1689722</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/o2lneje0ekmpu0pqt6mu8kmdx041k46q.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>AUTORIZZAZIONE N. 10 DEL 29.05.2026 AUTORIZZAZIONE DEMANIALE TEMPORANEA (ART. 19 COMMA 3 REGIONE LAZIO 19/2016, ART. COD NAV. E CIRCOLARE 90 DEL 27/07/1999 M.I.T.)</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1688715</link>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1688715</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1486</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/bzljhke88jr33iu5y38zvjomx7d413th.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>RETTE PER L'ACCOGLIENZA E L'OSPITALITÀ DI UN NUCLEO FAMILIARE IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI - LIQUIDAZIONE DI SPESA IN FAVORE DI "ORIZZONTI S.R.L.” – PERIODO MAGGIO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1688623</link>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1688623</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1485</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ybaa8said4lb6kx87k0gmjxnbjjnx784.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>RETTE PER L'ACCOGLIENZA E L'OSPITALITÀ DI MINORI IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI - LIQUIDAZIONE DI SPESA IN FAVORE DI THULE SOCIETÀ COOPERATIVA SOCIALE A R.L. – PERIODO MAGGIO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1688564</link>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1688564</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1484</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/v7co7o23316rlrnezzva2z8203unz2y7.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
