@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 05 Jun 2026 11:37:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 09:05:34 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>OCCUPAZIONE SUOLO PUBBLICO CONDOMINIO VIA REGINA ELENA 56</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1690507</link>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1690507</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1514</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/pt43qbd1ain5jpy3qdfg2xcygzx2ak6s.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>NOMINA COMMISSIONE ESAMINATRICE DELLE ISTANZE DI CONTRIBUTI ECONOMICI PER IL SOSTEGNO A CITTADINI IN CONDIZIONI DI DISAGIO SOCIO – ECONOMICO -</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1690253</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/w3mz1uf67gczlmdso74ur51bprfzi56d.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>(RPS396/26) AFFIDAMENTO DIRETTO E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DELL'OPERATORE ECONOMICO AZ SYSTEM DI LADISPOLI PER I LAVORI DI MANUTENZIONE,MESSA IN SICUREZZA E RIQUALIFICAZIONE DELLO SPAZIO TEATRALE E AREE LIMITROFE DE "LA GROTTACCIA" IN VIA RAPALLO (CIG BBDBA12BE0- AFFIDAMENTO G00308)</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1689335</link>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1689335</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1494</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/8leitqr2jiu9evs68owutga129h0dmq1.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
