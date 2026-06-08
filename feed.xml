@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 08 Jun 2026 08:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 11:36:00 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>APPROVAZIONE SCHEMA DI AVVISO PUBBLICO E RELATIVO MODULO DI DOMANDA PER LA RIAPERTURA DEI TERMINI PER L'ACQUISIZIONI DI ULTERIORI ISCRIZIONI AL SERVIZIO DI ASILO NIDO COMUNALE "SENSORY" PER L'ANNO EDUCATIVO 2026/2027.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1691160</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1691160</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">08/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">23/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1516</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/4yy9khyt3cmzttkx7divljdiyzlvnh5r.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>MOSTRA MERCATO CONSORZIO MARINA DI SAN NICOLA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1690902</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/ede0ly0eacyis60n7wykslja13a5dvhp.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>VERSAMENTO DELL’IVA ALL’ERARIO RELATIVA ALLE FATTURE COMPENSATE SOGGETTE AL REGIME DELLO SPLIT PAYMENT AI SENSI DELL’ART. 17-TER DEL D.P.R. N. 633/1972.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1689359</link>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1689359</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1496</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/b4kgpvr60mk1003coo7oqun7i5y6mpir.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
