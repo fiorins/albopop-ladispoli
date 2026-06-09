@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 09 Jun 2026 12:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 13:35:43 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RETTIFICA DELLA DETERMINAZIONE DIRIGENZIALE N. 2020 DEL 29/09/2025 AVENTE AD OGGETTO “AFFIDAMENTO INCARICO PROFESSIONALE PER LA MANUTENZIONE ORDINARIA E STRAORDINARIA DELLA VIABILITÀ COMUNALE DI LADISPOLI – PROGETTO DI FATTIBILITÀ TECNICA ED ECONOMICA, PROGETTO ESECUTIVO, COORDINAMENTO DELLA SICUREZZA IN FASE DI PROGETTAZIONE ED ESECUZIONE, DIREZIONE LAVORI E CONTABILITÀ” – RIDETERMINAZIONE IMPORTO DELL'INTERVENTOE TRASFERIMENTO NOMINA DEL RESPONSABILE UNICO DEL PROGETTO (RUP).</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1692507</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1692507</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">09/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">24/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1522</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/k9j8ouuiwuv86jccanjnkpk797ym1ecm.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>CONVOCAZIONE COMMISSIONE BILANCIO, PATRIMONIO E TRIBUTI.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1692406</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/iz5r7pigq8as50rxs7lxclnxmrd9sjtf.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELLA DITTA ANSELMI ELETTROIMPIANTI SRL PER MANUTENZIONE ORDINARIA DEI SISTEMI DI VIDEO SORVEGLIANZA ANNO 2026 - FATTURA NR. N. 16 DEL 03/06/2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1689703</link>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1689703</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1502</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/cx14lkvfafu2tosji82r5bxiuuptfrmo.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
