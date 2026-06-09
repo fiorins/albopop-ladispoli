@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 08 Jun 2026 11:36:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 07:05:35 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A PALMIERI FRANCO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1691690</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1691690</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">09/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1519</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/heh7l757okli7a9qbtpzpsv223esq2li.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A DI VENANZIO ANDREA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1691688</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1691688</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">09/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1518</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/twey7wip5gsogdonff3msdzq14pey6m6.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A MENNONNA SILVANO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1691686</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1691686</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">09/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1517</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/33gu686btu31uw9zbegc7en7stmt4k5b.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>APPROVAZIONE SCHEMA DI AVVISO PUBBLICO E RELATIVO MODULO DI DOMANDA PER LA RIAPERTURA DEI TERMINI PER L'ACQUISIZIONI DI ULTERIORI ISCRIZIONI AL SERVIZIO DI ASILO NIDO COMUNALE "SENSORY" PER L'ANNO EDUCATIVO 2026/2027.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1691160</link>
@@ -238,45 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/y35xx1deeuojgae8apoq8sndeciywhcg.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>(RPS420/26) AFFIDAMENTO DIRETTO E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DELL'OPERATORE ECONOMICO AZ SYSTEM DI FRESILLI LUCIANO PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023)SU VARI IMMOBILI COMUNALI (CIG BBEA5D5A66, AFFIDAMENTO G00315 - CIG BBE94FF5AE, AFFIDAMENTO G00314)</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1689682</link>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1689682</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1499</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/brzdbml71xjth97xd03nnkcn3zmpudwv.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA NR. 374FE DEL 29/05/2026 SOC. SAVENT SRL - FORNITURA BANDIERE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1689679</link>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1689679</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1498</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/u2mn37bbe1fbjojvxsgb9brpeqmzispp.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>(RPS376/26) REALIZZAZIONE DELL’INTERVENTO DENOMINATO “NUOVO PALAZZETTO DELLO SPORT COMUNALE - PALA LADISLAO” - FORMALIZZAZIONE DEL GRUPPO DI LAVORO GIÀ COSTITUITO DALL’AVVIO DEL PROCEDIMENTO E CONFERIMENTO DEGLI INCARICHI PER IL RICONOSCIMENTO DEGLI INCENTIVI PER LE FUNZIONI TECNICHE DI CUI ALL’ART. 45 DEL D. LGS. 36/2023 E SS.MM.II. AL PERSONALE INTERNO DELL'ENTE.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1689676</link>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1689676</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1497</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ede0ly0eacyis60n7wykslja13a5dvhp.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
