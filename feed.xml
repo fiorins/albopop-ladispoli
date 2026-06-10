@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 09 Jun 2026 15:16:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 06:35:55 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE FORNITURA COMBUSTIBILE PLESSO SCOLASTICO "ILARIA ALPI" SITO IN VIA VARSAVIA E VIA PRAGA - PERIODO: DAL 01/04/2026 AL 30/04/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1693028</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1693028</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">10/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">25/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1527</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/uvw8sirdmj9or5kkdy7nwadv0g8x3fmb.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATT. N. 0002100892 DEL 15/05/2026 SOC. LIBRAM SRL</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1693025</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1693025</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">10/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">25/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1526</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/1viaeweb5bdv1f6418a1cftlyjebkpy9.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>OCCUPAZIONE SUOLO PUBBLICO PIAZZA MARTINI MARESCOTTI PER RACCOLTA SANGUE ADS LAZIO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1693022</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1693022</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">10/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">25/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1525</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/s4mgaie6l4slylgxp8tb1uz8zmb1azi2.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>ANNO SCOLASTICO 2026/2027 - DETERMINA APPROVAZIONE MANIFESTAZIONE D’INTERESSE PER L’ ACCREDITAMENTO DI LIBRERIE E/O CARTOLIBRERIE DISPONIBILI ALLA FORNITURA GRATUITA DEI LIBRI DI TESTO AGLI ALUNNI DELLE SCUOLE PRIMARIE RESIDENTI NEL COMUNE DI LADISPOLI MEDIANTE L'UTILIZZO DELLA PIATTAFORMA INFORMATICA “COMUNE FACILE”</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1692825</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/8gzxzcwetsx5sa6yfwpd6bkhgax8lack.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>CONCESSIONE PATROCINIO E CONTRIBUTO ECONOMICO IN FAVORE DELL' ASD HUNG SING PER LA REALIZZAZIONE DELL’EVENTO SPORTIVO DENOMINATO "TORNEO NAZIONALE MARTIAL ARTS" IN PROGRAMMA IL 14/06/2026 PRESSO IL PALAZZETTO DELLO SPORT “A. SORBO”</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1690184</link>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1690184</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1507</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/a9ogwmsc2stq5kpd307cvjg3l312wd86.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA N 664/2026 EMESSA DA “CASA COMUNE 2000” SOCIETA’ COOPERATIVA SOCIALE A.R.L. PER LA GESTIONE DEL SERVIZIO DELL’ASILO NIDO “SENSORY” SVOLTO NEL MESE DI GIUGNO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1689904</link>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1689904</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1506</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/wxrg2ju346z3xdxt3rakhv8vxxr3y7yn.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>(RPS427/26) AFFIDAMENTO DIRETTO E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DELL'OPERATORE ECONOMICO SM EDILIZIA DI ALESSANDRO VECCHIOTTI PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) SU VARI IMMOBILI COMUNALI (CIG BBE77FB3E7, AFFIDAMENTO G00309 - CIG BBE7903DC0, AFFIDAMENTO G00310 - CIG BBE7A770C0, AFFIDAMENTO G00311 - CIG BBE7E7F461, AFFIDAMENTO G00312 - CIG BBE837A08C, AFFIDAMENTO G00313)</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1689901</link>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1689901</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1505</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/tycj1js8jqfcf39nyq5j0p4uca2jldjx.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
