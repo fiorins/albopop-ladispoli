@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 10 Jun 2026 12:06:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 14:35:39 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONVOCAZIONE COMMISSIONE SANITA', ASSISTENZA SOCIALE, PUBBLICA ISTRUZIONE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1693874</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1693874</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">10/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1556</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/b2k8vkcseol4qb5e1r6x4zkiqulsmc3e.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE FATTURA 3/26 DEL 14/05/2026, IN FAVORE DELLA SOCIETA' FRATELLI GIROLAMI SRL - MANUTENZIONE STRADE BIANCHE MONTERONI E OLMETTO - CIG B9B49137F3;</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1693758</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/p5qlo8h3ltqbbxz9y3nowoz9n3gol98t.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>(RPS436/26) AFFIDAMENTO DIRETTO E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DELL'OPERATORE ECONOMICO SOLUZIONI AMBIENTALI DI ALESSANDRO CICILLINI PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023): LAVORI DI REALIZZAZIONE NUOVA CONDOTTA DELL'ACQUA PLESSO SCOLASTICO LIVATINO (CIG BBEE9DCDB5, AFFIDAMENTO G00327)</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1693107</link>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1693107</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">10/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">25/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1535</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/usssr14f41ghwsuhn6gxg50wofekrrte.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
