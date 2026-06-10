@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 10 Jun 2026 08:06:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 11:06:01 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>IMPEGNO DI SPESA PER SIM DATI RICARICABILI SOC. FASTWEB SPA - CIG B481DF077A</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1693549</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1693549</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">10/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">25/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1551</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/plptcdz9b4vd8bxlybe4tibx3djvccwx.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>APPROVAZIONE DEL PROGETTO FATTIBILITA’ TECNICO ECONOMICA PER L'INTERVENTO "CAMPAGNA DI MANUTENZIONE STRADALE DELLA VIABILITA’ COMUNALE – VIE VARIE NEL COMUNE DI LADISPOLI – CUP E67H26000250004.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1693546</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1693546</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">10/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">25/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1550</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/zjpwg1br7y1aycyy732ahj7e2ah4omlp.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>APPROVAZIONE RENDICONTAZIONE INERENTE LE SPESE SOSTENUTE PER LA REALIZZAZIONE DELL'EVENTO DENOMINATO "73ª SAGRA DEL CARCIOFO ROMANESCO" REALIZZATO NEI GIORNI 10, 11 E 12 APRILE 2026, ASSEGNATARIA DI UN CONTRIBUTO ECONOMICO CONCESSO DALLA REGIONE LAZIO IN ESECUZIONE DELLA DETERMINAZIONE NR. G03779 DEL 23/03/2026.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1693258</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/bkr1p8iu0svfnr9d1ctr32b6fa2az0e7.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA N.320 DEL 01/06/2026 - DITTA SARA'94 - P.I. IT04793501000, CON SEDE A BRACCIANO - AFFITTO PLESSO SCOLASTICO DENOMINATO “ILARIA ALPI” SITO IN VIA PRAGA.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1693055</link>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1693055</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">10/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">25/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1530</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/otg1vvsznoi935h0se3nap8f2cckx3x8.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ASSOCIAZIONE UNIONE NAZIONALE POLIZIA PENITENZIARIA U.N.P.PE PER IL SERVIZIO DI VIGILANZA PRESSO IL PALAZZETTO COMUNALE. LIQUIDAZIONE RIMBORSO SPESE PER IL MESE DI MAGGIO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1693052</link>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1693052</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">10/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">25/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1529</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/9xe3b0gwuself1bg7xmwn0cfrvbdlswa.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
