@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 11 Jun 2026 16:35:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 17:35:54 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>OCCUPAZIONE SUOLO PUBBLICO VIA DUCA DEGLI ABRUZZI 126</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1695422</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1695422</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1588</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/gac5xm5q97t7j5ioq4tna4pzmgy61eds.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>OCCUPAZIONE SUOLO PUBBLICO CONDOMINIO VIA DEL MARE 12</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1695420</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1695420</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1587</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/hcqwe1u1psmvfio36n2t4p2l662j1jdl.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>CONVOCAZIONE COMMISSIONE URBANISTICA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1695385</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/xecyi9ot77uc5z4gmtfkwpzhjaivorku.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA N.5200013567/2026 – EMESSA DALLA CIRFOOD PER IL SERVIZIO MENSA SCOLASTICA ADEGUAMENTO ISTAT IN ESECUZIONE DELLA DETERMINAZIONE N. 955/2026. (PERIODO GENNAIO/APRILE 2026)</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1694542</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1694542</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1568</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/frl7j23hzfp2indukh9wsqgk153ko4ck.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>RETTA PER L'ACCOGLIENZA E L'OSPITALITÀ DI UN NUCLEO FAMILIARE MAMMA/BAMBINI IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI - LIQUIDAZIONE DI SPESA IN FAVORE DI ACQUA VIVA - E.T.S. - PERIODO MAGGIO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1694539</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1694539</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1567</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/thj044c3h6c7ksmhqws29fmn754k01vk.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
