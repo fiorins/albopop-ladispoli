@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 11 Jun 2026 07:06:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 09:05:34 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A VIDALE CLAUDIO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1694468</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1694468</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1559</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/c7yy2crrg4t3du1xwit472320qyu9liq.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>DETERMINA IMPEGNO E AFFIDAMENTO ALLA DITTA TECNO 4 SRL DELLA MANUTENZIONE DEGLI IMPIANTI DI RADIO COMUNICAZIONE DEL COMANDO DELLA POLIZIA LOCALE NONCHÉ L'IMPIANTO DELLA PROTEZIONE CIVILE - CIG BBF9E016AB - ANNO 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1694255</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/p3zphl38yhiez37j5ch2rbwm6ko2dxah.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 5]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE IN FAVORE DEL CENTRO PER LA SALUTE DEI BAMBINI E DELLE BAMBINE E DI CARLO GALLUCCI EDITORE PER L’ACQUISTO DI LIBRI NELL’AMBITO DEL CONTRIBUTO DELLA REGIONE LAZIO A FAVORE DELLA BIBLIOTECA COMUNALE (DETERMINAZIONE G17639 DEL 22/12/2025) - LINEA DI INTERVENTO A.2</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1693160</link>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1693160</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">10/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">25/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1538</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/m3enqbi93550i55p3psn7yeyny6mx4tn.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
