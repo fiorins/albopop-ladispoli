@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 11 Jun 2026 16:08:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 16:35:34 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONVOCAZIONE COMMISSIONE URBANISTICA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1695385</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1695385</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">18/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1586</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/93gck1e7tfw70ouvyslt14af5d2hcsk0.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>CONCESSIONE PATROCINIO ONEROSO IN FAVORE DELL’ASSOCIAZIONE “CENTRO DI FORMAZIONE MUSICALE ALTRO SUONO” PER LA REALIZZAZIONE DELLA MANIFESTAZIONE DENOMINATA “ALTROSUONO LIVE EXPERIENCE – BOSCO SONORO 2026”, IN PROGRAMMA NEI GIORNI 19, 20 E 21 GIUGNO 2026 PRESSO L’AREA VERDE DI VIA CORRADO MELONE.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1695313</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/thj044c3h6c7ksmhqws29fmn754k01vk.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>RETTA PER L'ACCOGLIENZA E L'OSPITALITÀ DI UN NUCLEO FAMILIARE MAMMA/BAMBINI IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI - LIQUIDAZIONE DI SPESA IN FAVORE DI ACQUA VIVA - E.T.S. - PERIODO GIUGNO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1694536</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1694536</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1566</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/j61ydtvdfaeuoxiar1zchv7mrh5waa89.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
