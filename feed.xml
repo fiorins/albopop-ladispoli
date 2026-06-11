@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 11 Jun 2026 10:05:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 10:35:37 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>NOMINA COMMISSIONE DI CONTROLLO E VIGILANZA STRUTTURE SOCIO-ASSISTENZIALI RESIDENZIALI E SEMI RESIDENZIALI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1694708</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1694708</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1570</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/q2jgdwlo0mn5b9o7pfepcv5hftyegb15.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>DETERMINAZIONE A CONTRARRE E AFFIDAMENTO DIRETTO AI SENSI DELL’ART. 50, COMMA 1, LETT. B) DEL D.LGS. N. 36/2023, DELL’INCARICO FINALIZZATO ALL’AGGIORNAMENTO DEI REGOLAMENTI RELATIVI ALLE ENTRATE TRIBUTARIE DEL COMUNE DI LADISPOLI E IMPEGNO DI SPESA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1694588</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/plptcdz9b4vd8bxlybe4tibx3djvccwx.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>APPROVAZIONE DEL PROGETTO FATTIBILITA’ TECNICO ECONOMICA PER L'INTERVENTO "CAMPAGNA DI MANUTENZIONE STRADALE DELLA VIABILITA’ COMUNALE – VIE VARIE NEL COMUNE DI LADISPOLI – CUP E67H26000250004.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1693546</link>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1693546</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">10/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">25/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1550</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/zjpwg1br7y1aycyy732ahj7e2ah4omlp.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
