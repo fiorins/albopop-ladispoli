@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 10 Jun 2026 14:35:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 07:06:17 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DETERMINA IMPEGNO E AFFIDAMENTO ALLA DITTA TECNO 4 SRL DELLA MANUTENZIONE DEGLI IMPIANTI DI RADIO COMUNICAZIONE DEL COMANDO DELLA POLIZIA LOCALE NONCHÉ L'IMPIANTO DELLA PROTEZIONE CIVILE - CIG BBF9E016AB - ANNO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1694255</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1694255</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1558</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/dknj8frdj8bzpw3bzu9t41825iw7goy7.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>DETERMINAZIONE AFFIDAMENTO DIRETTO, AI SENSI DELL’ART.50, CO.1, LETT. B, DEL D.LGS. N.36/2023 MEDIANTE PIATTAFORMA TELEMATICA CERTIFICATA DI QUESTO ENTE “APPALTI &amp; CONTRATTI” QUALE CONTRIBUTO PER IL PATTUGLIAMENTO E COORDINAMENTO DELLA RETE TRA ASSISTENTI BAGNANTI IN SENO AL PROGETTO “SPIAGGE SICURE 2026” SUGLI ARENILI LIBERI DEL COMUNE DI LADISPOLI- CIG: BBECD63EA2</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1694252</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1694252</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1557</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/ef5j364zph8bed0am7ffj9jca4lqe4kk.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>CONVOCAZIONE COMMISSIONE SANITA', ASSISTENZA SOCIALE, PUBBLICA ISTRUZIONE</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1693874</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/m3enqbi93550i55p3psn7yeyny6mx4tn.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>COMPARTECIPAZIONE AL PAGAMENTO DELLA RETTA DI OSPITALITÀ PER IL RICOVERO DI UTENTI PRESSO LA STRUTTURA RESIDENZIALE “PROGETTO 96” - LIQUIDAZIONE SOMMA PERIODO MAGGIO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1693113</link>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1693113</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">10/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">25/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1537</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/2i3ifyimuq0jh4e57jrwxl9ez9ub7gcx.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>SERVIZIO ASSOCIATO DI TRASPORTO PUBBLICO LOCALE (TPL) DEI COMUNI DI CERVETERI E LADISPOLI – LIQUIDAZIONE A.T.I. “SEATOUR S.R.L.” - “ARRIVA ITALIA S.R.L.” SERVIZIO TPL RELATIVO AL TERZO BIMESTRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1693110</link>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1693110</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">10/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">25/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1536</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/p5qlo8h3ltqbbxz9y3nowoz9n3gol98t.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
