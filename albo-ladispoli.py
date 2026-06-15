@@ -87,7 +87,10 @@ def main():
             continue
 
         if result is not None:
-            if result.get("box_file_id"):
+            if (
+                result.get("box_file_id")
+                and result.get("box_file_id") != "non presente"
+            ):
                 uploaded_box.append(entry["registry"])
 
             # Only add to the final queue if it's a valid dictionary

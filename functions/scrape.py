@@ -25,7 +25,10 @@ def scrape_entries(seen, session):
         cells = row.find_all("td")
         if len(cells) < 5:
             continue
-        if any(c.get_text(strip=True) == "" for c in cells):
+
+        # Only the real data columns must contain text.
+        # The actions column can be empty when there are no attachments.
+        if any(c.get_text(strip=True) == "" for c in cells[:4]):
             continue
 
         entry_id = row.get("data-id", "")
@@ -50,7 +53,13 @@ def scrape_entries(seen, session):
 
         title = cells[2].get_text(strip=True)
         dates_raw = cells[3].get_text(strip=True)  # e.g. "01/01/2025 - 31/01/2025"
-        att_count = cells[4].get_text(strip=True)
+
+        attachment_link = cells[4].select_one('a[title="Visualizza Allegato"]')
+        badge = cells[4].select_one(".badge")
+        if attachment_link:
+            att_count = badge.get_text(strip=True) if badge else "1"
+        else:
+            att_count = "0"
 
         pub_start_alt = dates_raw[:10]  # "01/01/2025"
         pub_end_alt = dates_raw[-10:]  # "31/01/2025"
@@ -309,6 +318,21 @@ def process_single_entry(entry, box_client, box_items, box_item_names, session):
         return "EXISTS"
 
     # Fetch ALL attachment URLs
+    if str(entry.get("att_count", "0")).strip() in ("", "0"):
+        entry.update(
+            {
+                "attachment_url": None,
+                "box_file_id": "non presente",
+                "box_file_link": "non presente",
+                "box_folder_id": "",
+                "box_folder_link": "non presente",
+                "box_folder_ids": [],
+                "file_bytes": None,
+                "filename": None,
+            }
+        )
+        return entry
+
     attachments_result = fetch_attachments(
         entry["entry_url"], entry["registry"], session
     )
@@ -323,6 +347,9 @@ def process_single_entry(entry, box_client, box_items, box_item_names, session):
                 "attachment_url": None,
                 "box_file_id": "non presente",
                 "box_file_link": "non presente",
+                "box_folder_id": "",
+                "box_folder_link": "non presente",
+                "box_folder_ids": [],
                 "file_bytes": None,
                 "filename": None,
             }
