@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 15 Jun 2026 11:36:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 12:05:45 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>NOMINA DELLA COMMISSIONE PER L'ESAME E LA VALUTAZIONE DELLE OFFERTE TECNICHE PERVENUTE A SEGUITO DI PROCEDURA APERTA N. G00294 INDETTA E PUBBLICATA IN DATA 26/05/2026 SUL PORTALE “APPALTI E CONTRATTI” DEL COMUNE DI LADISPOLI, AI SENSI DELL’ART. 71 DEL D.LGS. 36/2023 PER LA REALIZZAZIONE DELLA MANIFESTAZIONE DENOMINATA “LADISPOLI SUMMER FEST” EDIZIONE 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1697474</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1697474</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">15/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">30/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1599</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/0lbp3a2fuk0c4p3s48q12k90qif5r4h1.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>RECUPERO FUNZIONALE DEL CASTELLACCIO DI MONTERONI – CUP E64D21000000005 – FINANZIATO DALL’UNIONE EUROPEA – NEXTGENERATION EU A VALERE SU FONDI P.N.R.R. – M5C2INV2.1 RIGENERAZIONE URBANA – IMPUTAZIONE SPESA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1697455</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/4xybfmpxmykk0pnccctk3l69c5nhcrqd.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE CONTRIBUTI ECONOMICI SOGGETTI INDIGENTI - COMMISSIONE 08.06.2026 -</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1695237</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1695237</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1579</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/8bzxw2ctmeww2qi8vwvph8bfzppr3ug8.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
