@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 15 Jun 2026 08:36:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 11:36:00 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RECUPERO FUNZIONALE DEL CASTELLACCIO DI MONTERONI – CUP E64D21000000005 – FINANZIATO DALL’UNIONE EUROPEA – NEXTGENERATION EU A VALERE SU FONDI P.N.R.R. – M5C2INV2.1 RIGENERAZIONE URBANA – IMPUTAZIONE SPESA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1697455</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1697455</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">15/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">30/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1598</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/odhltgeuph6w3flv0i0n84egoqv7c04v.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>CONGEDO PARENTALE AI SENSI DELL’ART. 32 COMMA 1 DEL D.LGS. N. 151/2001 A FAVORE DI UN DIPENDENTE. DETERMINAZIONI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1697327</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1697327</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">15/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">30/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1597</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/hmlimzefzp2hmx7uoss8rydghzrn0tqm.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI N. 5 NELLA CASA DEL COMUNE LADISPOLI - PRISECARU VIOREL ED ALTRI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1696943</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/8bzxw2ctmeww2qi8vwvph8bfzppr3ug8.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>RETTIFICA CONVOCAZIONE COMMISSIONE SANITA', ASSISTENZA SOCIALE, PUBBLICA ISTRUZIONE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1695234</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1695234</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">17/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1578</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/91i05xatfeir3ealefiv7p5lojmhk5xn.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>DETERMINAZIONE DI CONCLUSIONE POSITIVA DELLA CONFERENZA DEI SERVIZI DECISORIA EX ART. 14 COMMA 2, LEGGE N. 241/90 – FORMA SEMPLIFICATA E MODALITA’ ASINCRONA – INDETTA A SEGUITO DI ISTANZA ID N. 17582721001-16062025-1023 PROTOCOLLO SUPRO 115196/08-08-2025, PRESENTATA DALLA SOCIETÀ “LONO TIKI S.R.L.” TESA AD OTTENERE LE AUTORIZZAZIONI, NULLA OSTA, PARERI, INTESE E/O ALTRI ATTI DI ASSENSO DI CUI AI SEGUENTI PROCEDIMENTI: AUTORIZZAZIONE PAESAGGISTICA ORDINARIA, PERMESSO DI COSTRUIRE, DOMANDA PER INSTALLAZIONE MEZZI PUBBLICITARI, AUTORIZZAZIONE PAESAGGISTICA EX D.LGS. 42/2004, SEGNALAZIONE CERTIFICATA INIZIO ATTIVITÀ PER STRUTTURE RICETTIVE ALL’AREA APERTA, SCIA DI UTILIZZO DEL LOGO “NO SLOT” (ART. 3 E 4 DM 181/2019), SCIA PER APERTURA DI ESERCIZIO DI SOMMINISTRAZIONE DI ALIMENTI E BEVANDE, NOTIFICA AI FINI DELLA REGISTRAZIONE AI SENSI DELL’ART. 6 REGOLAMENTO CE N. 852/2004, COMUNICAZIONE PER LA VENDITA DI ALCOLICI (D.LGS. N. 504/1995), FINALIZZATI ALLA REALIZZAZIONE DI UNA STRUTTURA RICETTIVA ALL’ARIA APERTA, SITA IN LADISPOLI (RM), VIA PRIMO MANTOVANI (GIÀ VIA ROMA) N. 131, SU AREA DISTINTA IN CATASTO AL FG. 68, P.LLA 957, SUB. 513.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1695194</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1695194</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1577</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/7ny9gjj8fkun25ej2a0f9vb5jkulzmm0.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
