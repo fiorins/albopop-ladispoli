@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 12 Jun 2026 11:35:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 08:36:46 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,84 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI N. 5 NELLA CASA DEL COMUNE LADISPOLI - PRISECARU VIOREL ED ALTRI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1696943</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1696943</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">15/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">16/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1596</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/fsyt5a2fzhbw40ydowp56zym8b0w0ipt.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>TELEFONIA MOBILE - LIQUIDAZIONE FATT. N. AS01551662 DEL 28 MAGGIO 2026 SOC. FASTWEB S.P.A. PERIODO: 24 MARZO 2026 AL 23 MAGGIO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1696865</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1696865</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">15/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">30/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1595</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/m5y56cessbofkzxqcy1wu1s9uo6cfonm.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>ASSOCIAZIONE UNIONE NAZIONALE POLIZIA PENITENZIARIA U.N.P.PE PER IL SERVIZIO GUARDALINEE NOTTURNO PRESSO LA SPIAGGIA INCLUSIVA DI PROPRIETA’ DEL COMUNE DI LADISPOLI.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1696862</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1696862</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">15/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">30/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1594</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/6lo18dbm91ucdso9syit0vyq98ybizjo.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA PAGAMENTO QUOTE CONDOMINIALI ORDINARIE E STRAORDINARIE ANNO 2026 PER L’IMMOBILE DI PROPRIETA' COMUNALE, IN VIA LA SPEZIA 85.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1696837</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1696837</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">15/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">30/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1593</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/m2348ae2u351l5tlzhiyrjh98yfyisba.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>RICHIESTA PARERE CONI SUL PROGETTO DENOMINATO "REALIZZAZIONE NUOVO PALAZZETTO DELLO SPORT COMUNALE "PALA LADISLAO" FINANZIATO NELL'AMBITO DELL'AVVISO SPORT E SALUTE 2025-LINEA DI INTER-VENTO B"</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1696834</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1696834</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">15/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">30/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1592</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/azi2rsnhv8lkir759coeqjo612mdhi96.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>DETERMINA IMPEGNO CANONE ANNUALE MINISTERO COMUNICAZIONI PER CONCESSIONE PONTE RADIO PRATICA 350221/SAL - ANNO 2026 / 2025 / 2024 / 2023 / 2022 / 2021 / 2019</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1696831</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1696831</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">15/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">30/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1591</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/gjrlm6a1jfaktaanhx6ix6tr9g7hr87r.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>PROCEDURA APERTA PER L'AFFIDAMENTO, TRAMITE ACCORDO QUADRO EX ART. 59, COM-MA 3 D.LSG. 36/23, DELLA MANUTENZIONE ORDINARIA E STRAORDINARIA DELLE AREE DESTINATE A VERDE PUBBLICO DEL COMUNE DI LADISPOLI - CIG BBC3799E7A - NOMINA DELLA COMMISSIONE GIUDICATRICE EX ART. 93 D.LGS. 36/23 AI FINI DELL'ESPLETAMENTO DELL'AGGIUDICAZIONE DELLA GARA D'APPALTO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1696251</link>
@@ -200,84 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/7ny9gjj8fkun25ej2a0f9vb5jkulzmm0.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>PRESA D’ATTO DEL RIENTRO ANTICIPATO IN SERVIZIO DAL PERIODO DI ASPETTATIVA NON RETRIBUITA DI UN DIPENDENTE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1695091</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1695091</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1576</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/1d6ou8rkapjgvb4h94iotz8vrj7hli2b.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>CONCESSIONE DI PROROGA DEL TERMINE DI ESECUZIONE DELL'ORDINANZA DI DEMOLIZIONE N. 38 DEL 30/03/2026. RIF. PROT. N. 35383/2026: SOLLECITO RICHIESTA DI PROROGA ORDINANZA N. 38 - RICHIEDENTE: C.C.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1695021</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1695021</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1575</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/swet8ezbbsnavrzq7uwe3lggko3t3b80.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>RETTIFICA PARZIALE DELLA DETERMINAZIONE DIRIGENZIALE N. 1187 DEL 03/06/2026 AVENTE AD OGGETTO “DETERMINA A CONTRARRE DI AVVIO PROCEDURA NEGOZIATA SENZA BANDO DI GARA (ART. 50, COMMA 1, LETTERA C, DEL D.LGS. N. 36/2023 E S.M.I.) PER L’AFFIDAMENTO DEI LAVORI DELL’OPERA DI RIQUALIFICAZIONE E RIFUNZIONALIZZAZIONE DEL PARCO PUBBLICO SACRO CUORE – VIA DEI FIORDALISI – LADISPOLI – CUP E62H26000420004”.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1694898</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1694898</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1574</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/6oac4dj8x7m5368qhyl0hhjymuwesd8x.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>APPROVAZIONE VERBALE DELLA COMMISSIONE DI VALUTAZIONE DELLE MANIFESTAZIONI DI INTERESSE DA PARTE DEL TERZO SETTORE DEI PROGETTI PUC, PROGETTO : “C.A.S.A. – COMUNITÀ ATTIVA PER LO SVILUPPO E L'AUTONOMIA” PRESENTATO DALLA COOPERATIVA SOCIALE CASA COMUNE 2000</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1694844</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1694844</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1573</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/f4o77l0dqybri0w2ffacqhkmr9o875nk.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>ADEGUAMENTO ISTAT IN ESECUZIONE DELLA DETERMINAZIONE N. 955/2026. (PERIODO GENNAIO/APRILE 2026) LIQUIDAZIONE FATTURA N.5200013567/2026 – EMESSA DALLA CIRFOOD PER IL SERVIZIO DI “PASTI A DOMICILIO AGLI ANZIANI ED ADULTI IN CONDIZIONI DI DISAGIO SOCIO–SANITARIO"</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1694785</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1694785</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1572</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/v7i1jrjofahbmu5y0itkuvl69bah0vu7.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA IN FAVORE DELLA SOCIETÀ MAGGIOLI S.P.A. – CIG BA5C7233D5 – ANNO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1694782</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1694782</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1571</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/pd70sahwvz1n4utxrdxdu3ac53ltv352.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
