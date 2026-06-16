@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 15 Jun 2026 14:06:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 07:35:47 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AFFIDAMENTO DIRETTO, AI SENSI DELL’ART. 50, COMMA 1, LETT. B) DEL D.LGS. N. 36/2023 E S.M.I. , DEL SERVIZIO DI FORMAZIONE DELLA S.O.S., MEDIANTE PARTECIPAZIONE AL MASTER PER "SPECIALISTA UFFICIO CONTRATTI, STUDIO DEI CONTRATTI E GESTIONE DELLA FASE ESECUTIVA" TENUTO DALLO STUDIO ALBONET - CIG BC00ED6354</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1698074</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1698074</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">16/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">01/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1603</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/m4sax840w9w0souf7p3wmtknvg3o9lvd.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE AI DIPENDENTI DEL SALARIO ACCESSORIO RELATIVO AL MESE DI MAGGIO 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1697645</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/34hi858an8wr3avz76c6xkmzqqu9i7yd.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>AUTORIZZAZIONE E CONFERIMENTO INCARICO PER RESISTERE INNANZI AL TRI-BUNALE AMMINISTRATIVO REGIONALE DEL LAZIO AVVERSO IL RICORSO EX ART. 116 C.P.A. NOTIFICATO AL COMUNE DI LADISPOLI CON PROT. N. 32637/2026 AVENTE AD OGGETTO L’IMPUGNAZIONE DEL DINIEGO OPPOSTO ALL’ISTANZA DI ACCESSO PROT. N. 22052/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1695307</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1695307</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1583</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/vc4p0sbo2s63ur275vrozqell6a5j0lj.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
