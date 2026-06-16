@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 16 Jun 2026 14:05:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 15:05:37 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONFERIMENTO DELEGHE AI CITTADINI EX ART. 26 STATUTO COMUNALE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1699156</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1699156</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">16/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">01/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1614</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DECRETI</category>
+      <enclosure url="https://app.box.com/shared/static/thpxyszz7356s3jfoifyej6v3arkrdgx.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>RETTIFICA ORDINANZA SINDACALE N.68 DEL 18/05/2026 AVENTE AD OGGETTO "APPLICAZIONE DELLE MISURE DI PREVENZIONE RISCHIO INCENDI BOSCHIVI IN VISTA DEL PERIODO DI MASSIMA PERICOLOSITA' PER GLI INCENDI BOSCHIVI"</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1699073</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/m5y56cessbofkzxqcy1wu1s9uo6cfonm.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>ASSOCIAZIONE UNIONE NAZIONALE POLIZIA PENITENZIARIA U.N.P.PE PER IL SERVIZIO GUARDALINEE NOTTURNO PRESSO LA SPIAGGIA INCLUSIVA DI PROPRIETA’ DEL COMUNE DI LADISPOLI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1696862</link>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1696862</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1594</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/6lo18dbm91ucdso9syit0vyq98ybizjo.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
