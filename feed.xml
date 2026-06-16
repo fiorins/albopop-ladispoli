@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 16 Jun 2026 08:37:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 09:05:46 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>COMPARTECIPAZIONE AL PAGAMENTO DELLA RETTA DI OSPITALITÀ PER L’INSERIMENTO DI UN UTENTE IN VIA SPERIMENTALE PRESSO LA STRUTTURA RESIDENZIALE “PROGETTO 96” - LIQUIDAZIONE PERIODO APRILE E MAGGIO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1698284</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1698284</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">16/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">01/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1611</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/o2anec232d845va2fu7crqykxy8hcdre.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE FATTURA N. 26000554/2026 EMESSA DALLA SRL BIT41D PER IL SERVIZIO DI MANUTENZIONE ED ASSISTENZA ANNUALE DEI “SERVIZI ONLINE PER IL PORTALE WEB ISTITUZIONALE – PACCHETTO CITTADINO ATTIVO - CANONE TRIMESTRALE DAL 09/03/2026 AL 08/06/2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1698185</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/azi2rsnhv8lkir759coeqjo612mdhi96.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>DETERMINA IMPEGNO CANONE ANNUALE MINISTERO COMUNICAZIONI PER CONCESSIONE PONTE RADIO PRATICA 350221/SAL - ANNO 2026 / 2025 / 2024 / 2023 / 2022 / 2021 / 2019</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1696831</link>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1696831</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1591</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/gjrlm6a1jfaktaanhx6ix6tr9g7hr87r.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
