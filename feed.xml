@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 16 Jun 2026 11:35:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 14:05:53 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RETTIFICA ORDINANZA SINDACALE N.68 DEL 18/05/2026 AVENTE AD OGGETTO "APPLICAZIONE DELLE MISURE DI PREVENZIONE RISCHIO INCENDI BOSCHIVI IN VISTA DEL PERIODO DI MASSIMA PERICOLOSITA' PER GLI INCENDI BOSCHIVI"</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1699073</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1699073</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">16/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">01/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1613</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/ka2f2whq5ve8ilt8jb1qhmbv22uf4m4h.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>PROGETTO P.N.R.R. FINANZIATO DALL’UNIONE EUROPEA NEXT GENERATION-EU M4C1 INVE-STIMENTO 1.1 “PIANO PER ASILI NIDO E SCUOLE DELL’INFANZIA E SERVIZI DI EDUCAZIONE E CURA PER LA PRIMA INFANZIA” C.U.P. E65E22000210006 – LIQUIDAZIONE SUB-APPALTO LA-VORI ALLA SOC. ARTERI COSTRUZIONI S.R.L.- 6 SAL</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1698701</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/6lo18dbm91ucdso9syit0vyq98ybizjo.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA PAGAMENTO QUOTE CONDOMINIALI ORDINARIE E STRAORDINARIE ANNO 2026 PER L’IMMOBILE DI PROPRIETA' COMUNALE, IN VIA LA SPEZIA 85.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1696837</link>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1696837</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1593</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/m2348ae2u351l5tlzhiyrjh98yfyisba.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
