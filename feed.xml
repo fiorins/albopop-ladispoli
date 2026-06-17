@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 17 Jun 2026 07:06:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:05:53 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>IMPEGNO DI SPESA PER FORNITURA DI SEDIE OPERATIVE E SEDIE DI ATTESA - CIG BBFC3B321B</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1699479</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1699479</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">17/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">02/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1619</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/m5qufaerpavl627lfao7u0f5vz1tj12j.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>RIU 64/2026 – AFFIDAMENTO DEL SERVIZIO DI PROGETTAZIONE DEL CENTRO DEL RIUSO - “POTENZIAMENTO E INNOVAZIONE DELLA RACCOLTA DIFFERENZIATA DEI RIFIUTI URBANI” DET. DIR. REGIONE LAZIO N. G12970/2025 E N. G14466/2025</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1699377</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/jfm59ezh3e1x2sa4l3mvz29dv3f2q1cf.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 5]]></description>
-    </item>
-    <item>
-      <title>NOMINA DELLA COMMISSIONE PER L'ESAME E LA VALUTAZIONE DELLE OFFERTE TECNICHE PERVENUTE A SEGUITO DI PROCEDURA APERTA N. G00294 INDETTA E PUBBLICATA IN DATA 26/05/2026 SUL PORTALE “APPALTI E CONTRATTI” DEL COMUNE DI LADISPOLI, AI SENSI DELL’ART. 71 DEL D.LGS. 36/2023 PER LA REALIZZAZIONE DELLA MANIFESTAZIONE DENOMINATA “LADISPOLI SUMMER FEST” EDIZIONE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1697474</link>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1697474</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1599</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/0lbp3a2fuk0c4p3s48q12k90qif5r4h1.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
