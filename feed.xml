@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 17 Jun 2026 11:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 12:05:45 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DETERMINA A CONTRARRE DI AVVIO PROCEDURA NEGOZIATA SENZA BANDO DI GARA (ART. 50, COMMA 1, LETTERA C, DEL D. LGS. N. 36/2023 E S.M.I) PER L’AFFIDAMENTO DEI LAVORI PER L'IINTERVENTO "CAMPAGNA DI MANUTENZIONE STRADALE DELLA VIABILITA’ COMUNALE – VIE VARIE NEL COMUNE DI LADISPOLI – CUP E67H26000250004.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1700117</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1700117</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">17/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">02/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1633</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/q5b6x30d27qdx0v4md60nrn0vo0mon8o.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE DELLE FATTURE EMESSE DALLA SOCIETA’ FASTWEB PER LE SPESE RELATIVE A CANONI, CONSUMI DATI E FONIA DELLE SEDI COMUNALI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1699846</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DECRETI</category>
       <enclosure url="https://app.box.com/shared/static/thpxyszz7356s3jfoifyej6v3arkrdgx.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>RETTIFICA ORDINANZA SINDACALE N.68 DEL 18/05/2026 AVENTE AD OGGETTO "APPLICAZIONE DELLE MISURE DI PREVENZIONE RISCHIO INCENDI BOSCHIVI IN VISTA DEL PERIODO DI MASSIMA PERICOLOSITA' PER GLI INCENDI BOSCHIVI"</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1699073</link>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1699073</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1613</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/ka2f2whq5ve8ilt8jb1qhmbv22uf4m4h.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
