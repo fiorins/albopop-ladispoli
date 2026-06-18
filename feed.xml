@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 18 Jun 2026 10:35:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 11:05:40 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>IMPEGNO DI SPESA PER LA REALIZZAZIONE DI LAVORI DI MANUTENZIONE ORDINARIA DELLE PAVIMENTAZIONI STRADALI COMUNALI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1701024</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1701024</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1646</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/y3cwm0uk36zjvsynuft0m8tf4l8h1r9r.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>ORDINANZA DI DEMOLIZIONE DI OPERE ABUSIVE - ARTT. 31-32 D.P.R. 380/2001 - PORTICATO CON PILASTRI IN CEMENTO ARMATO E SOLAIO IN MURATURA, APERTURA DI FINESTRA LUCIFERA, AMPLIAMENTO VOLUMETRICO E TETTOIA IN LEGNO AFFERENTI A VARIE UNITÀ IMMOBILIARI DELLO STESSO FABBRICATO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1701005</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/7x4jj4a7yin41yv2pw0oilurifewnl0n.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RIU 65/2026 – “POTENZIAMENTO E INNOVAZIONE DELLA RACCOLTA DIFFERENZIATA DEI RIFIUTI URBANI” DET. DIR. REGIONE LAZIO N. G12970/2025 E N. G14466/2025 – ACCERTAMENTO IN ENTRATA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1699828</link>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1699828</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">02/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1626</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/hifdt4a3ptbyiefjk6njq0i73xhhnjaf.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
