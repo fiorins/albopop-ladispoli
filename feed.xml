@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 18 Jun 2026 12:05:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 12:36:04 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONFERIMENTO TEMPORANEO DI MANSIONI SUPERIORI AI SENSI DELL’ART. 52 DEL D.LGS. N. 165/2001 PER LA COPERTURA DELLE FUNZIONI AFFERENTI ALLA POSIZIONE VACANTE DI FUNZIONARIO DI POLIZIA LOCALE.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1701273</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1701273</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1649</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/u1dyshw70mr7n77ehcpc5pd1azmruvpz.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>ATTRIBUZIONE DI MANSIONI SUPERIORI AL DIPENDENTE MATRICOLA N. 246 - AREA POLIZIA LOCALE - PROROGA PER ULTERIORI SEI MESI.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1701270</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1701270</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1648</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/vrdp7nx9ek3x1hmd8652o5qg7fb59iov.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>CONFERIMENTO DELLE FUNZIONI DI PREVENZIONE E ACCERTAMENTO IN MATERIA DI SOSTA AI SENSI DELL'ART. 12-BIS DEL D.LGS. N. 285/1992.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1701206</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/d1fxajirzh54ydg6j48vd7hiswb6rzd3.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE QUOTE CONDOMINIALI ORDINARIE E STRAORDINARIE GESTIONE 2026, PER GLI IMMOBILI DI PROPRIETA' COMUNALE, VIA LA SPEZIA 85.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1699837</link>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1699837</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">02/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1629</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/0ju986bk6hojod926x114of2v2iva3ht.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA N 5200014661/2026 EMESSA DALLA CIRFOODPER PER IL SERVIZIO DI “PASTI A DOMICILIO AGLI ANZIANI ED ADULTI IN CONDIZIONI DI DISAGIO SOCIO–SANITARIO ED ECONOMICHE” EROGATO NEL MESE DI MAGGIO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1699834</link>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1699834</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">02/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1628</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/2c6cw3m1zk7raj3cgd89p3ofelktulp8.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
     </item>
   </channel>
 </rss>
