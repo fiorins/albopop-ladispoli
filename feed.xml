@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 18 Jun 2026 11:05:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 12:05:34 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONFERIMENTO DELLE FUNZIONI DI PREVENZIONE E ACCERTAMENTO IN MATERIA DI SOSTA AI SENSI DELL'ART. 12-BIS DEL D.LGS. N. 285/1992.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1701206</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1701206</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1647</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DECRETI</category>
+      <enclosure url="https://app.box.com/shared/static/3s2omdvtwpmwp3f25hrtr8s121pukiy5.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>IMPEGNO DI SPESA PER LA REALIZZAZIONE DI LAVORI DI MANUTENZIONE ORDINARIA DELLE PAVIMENTAZIONI STRADALI COMUNALI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1701024</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/2c6cw3m1zk7raj3cgd89p3ofelktulp8.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 5]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DEL MINISTERO COMUNICAZIONI PER CONCESSIONE PONTE RADIO PRATICA 350221/SAL - ANNO 2026 / 2025 / 2024 / 2023 / 2022 / 2021 / 2019</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1699831</link>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1699831</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">02/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1627</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/7x4jj4a7yin41yv2pw0oilurifewnl0n.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
