@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 18 Jun 2026 08:36:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 09:06:23 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,58 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI AMUHAMMAD RIZWAN</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1700825</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1700825</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1640</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/zbre818cvs3xe4lavsw03s4dwnxj9dbp.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE CANONE LUNGO NOLEGGIO VETTURE IN DOTAZIONE ALLA POLIZIA LOCALE MESE DI LUGLIO 2026 - UNIPOLRENTAL SPA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1700823</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1700823</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1639</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/po9oxlvvgp3mmq17cnu64lnjz2cre7pw.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE FATTURA 18441 A FAVORE DI A.C.I</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1700776</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1700776</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1638</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/24h1rlm9qdycsxos09yoclwgg606rp1l.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>NOMINA DEL VICESEGRETARIO GENERALE PER IL GIORNO 19 GIUGNO 2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1700773</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1700773</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1637</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DECRETI</category>
+      <enclosure url="https://app.box.com/shared/static/0r4t66maphit6hk3xottzfmia127orh0.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>RISPARMIO IDRICO E LIMITAZIONE UTILIZZO DELL'ACQUA POTABILE NELLA STAGIONE ESTIVA 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1700754</link>
@@ -226,58 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/jt0mo1dflevy7odcn8fl35pthsq29l3g.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA PER SUCCESIVO RIMBORSO IN FAVORE DEL SIG. DIOTURNI MANUEL, PER RESTITUZIONE ONERI CONCESSORI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1699533</link>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1699533</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">02/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1620</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ytfwbyw7ikirl9f7wo115o0x3sptiqrm.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA PER FORNITURA DI SEDIE OPERATIVE E SEDIE DI ATTESA - CIG BBFC3B321B</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1699479</link>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1699479</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">02/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1619</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/m5qufaerpavl627lfao7u0f5vz1tj12j.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RIU 64/2026 – AFFIDAMENTO DEL SERVIZIO DI PROGETTAZIONE DEL CENTRO DEL RIUSO - “POTENZIAMENTO E INNOVAZIONE DELLA RACCOLTA DIFFERENZIATA DEI RIFIUTI URBANI” DET. DIR. REGIONE LAZIO N. G12970/2025 E N. G14466/2025</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1699377</link>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1699377</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">02/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1618</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/90yaii7ezqk8gfr4552mwx97nk52ciz0.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA RELATIVA ALLA RISTRUTTURAZIONE E RIQUALIFICAZIONE DEGLI IMMOBILI COMUNALI ESISTENTI SITI IN V. ALDO MORO C.D. STECCA SERVIZI ED IN V. ANCONA “EX TELECOM” (P. TERRA), PER LA REALIZZAZIONE DI STAZIONE DI POSTA – CENTRO SERVIZI” A FAVORE DELLA SOC. EDIL MANCINI SRL.- PROGETTO P.N.R.R. FINANZIATO DALL’UNIONE EU-ROPEA – NEXT GENERATION EU – MISSIONE 5 COMPONENTE 2 SOTTOCOMPONENTE 1, IN-VESTIMENTO 1.3 SUB-INVESTIMENTO 1.3.2 – STAZIONE DI POSTA – SAL 7</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1699374</link>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1699374</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">02/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1617</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/uw97ou8jby6ci3w2e197rga8p3oz8ehs.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
