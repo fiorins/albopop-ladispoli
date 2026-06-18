@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 17 Jun 2026 12:05:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 08:36:18 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RISPARMIO IDRICO E LIMITAZIONE UTILIZZO DELL'ACQUA POTABILE NELLA STAGIONE ESTIVA 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1700754</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1700754</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1636</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/tpwmkz62s5d9ee6x4fqvtw15zo6bd2eo.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA IN FAVORE DELLA SOCIETA' GESTIONE AMBIENTALI LAVORI SKATE PARK VIA FIRENZE;</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1700752</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1700752</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1635</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/fb4io1f12la8w9x5oi66tp5qdpg42s8v.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>PROGETTO P.N.R.R. FINANZIATO DALL’UNIONE EUROPEA NEXT GENERATION-EU MISSIONE 5 COMPONENTE 2 SOTTOCOMPONENTE 1, INVESTIMENTO 1.3, SUBINVESTIMENTO 1.3.1 - HOUSING FIRST, ADEGUAMENTO E ADATTAMENTO DEGLI SPAZI ESISTENTI DEGLI IMMOBILI SITI IN LADISPOLI: PORZIONE DELL’EDIFICIO DENOMINATO “EX TELECOM” IN VIA ANCONA - APPARTAMENTO SITO AL PRIMO PIANO DELL’EDIFICIO ED IN VIA LA SPEZIA - CUP E65I22000050001 - LIQUIDAZIONE SAL N.4 IN FAVORE DELLA SOC. IPOMAGI SRL.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1700749</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1700749</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1634</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/bdoke61y3azhdkm5ekafc8cqkzks512i.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>DETERMINA A CONTRARRE DI AVVIO PROCEDURA NEGOZIATA SENZA BANDO DI GARA (ART. 50, COMMA 1, LETTERA C, DEL D. LGS. N. 36/2023 E S.M.I) PER L’AFFIDAMENTO DEI LAVORI PER L'IINTERVENTO "CAMPAGNA DI MANUTENZIONE STRADALE DELLA VIABILITA’ COMUNALE – VIE VARIE NEL COMUNE DI LADISPOLI – CUP E67H26000250004.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1700117</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/uw97ou8jby6ci3w2e197rga8p3oz8ehs.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>PRESA D'ATTO DEGLI ESITI DEL CORSO DI FORMAZIONE E DELL'ESAME FINALE PER IL CONFERIMENTO DELLE FUNZIONI DI AUSILIARIO DEL TRAFFICO AI SENSI DELL'ART. 12 BIS DEL CDS – APPROVAZIONE ELENCO IDONEI - VERBALE DI ESAME E ATTESTATI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1699357</link>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1699357</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">02/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1616</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/w4akvbru4pqa3p2p3cmf1yu1j0ex1zf7.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>PERMESSI RETRIBUITI AI SENSI DELL’ARTICOLO 33, COMMA 3, DELLA LEGGE 5 FEBBRAIO 1992, N. 104 E SS.MM.II. CONCESSI A UN DIPENDENTE. DETERMINAZIONI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1699231</link>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1699231</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1615</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/uoh56ng32e1rqs8vl68dzi03djr0dlnu.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>CONFERIMENTO DELEGHE AI CITTADINI EX ART. 26 STATUTO COMUNALE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1699156</link>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1699156</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1614</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DECRETI</category>
-      <enclosure url="https://app.box.com/shared/static/thpxyszz7356s3jfoifyej6v3arkrdgx.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
 </rss>
