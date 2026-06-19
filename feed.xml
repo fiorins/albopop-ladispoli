@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 19 Jun 2026 08:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:05:44 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>REVISIONE SEMESTRALE GIUGNO 2026 MANIFESTO MOD. 11 - AVVISO AI CITTADINI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1702226</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1702226</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">19/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">30/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1659</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/uhz3lhj488921c8onszfyw0d7fqioknq.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>NOMINA “COMMISSIONE COMUNALE DI VIGILANZA SUI SERVIZI EDUCATIVI PER LA PRIMA INFANZIA” AI SENSI E PER GLI EFFETTI DELL’ART. 54 DELLA LEGGE REGIONALE DEL LAZIO 5 AGOSTO 2020, N. 7.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1702175</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1702175</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">19/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">04/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1658</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/v13b3iihhkvx9hl80vc6b51c2avxnm8z.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI N. 8 NELLA CASA DEL COMUNE LADISPOLI - NDIAYE FATOU ED ALTRI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1702030</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/zbre818cvs3xe4lavsw03s4dwnxj9dbp.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE CANONE LUNGO NOLEGGIO VETTURE IN DOTAZIONE ALLA POLIZIA LOCALE MESE DI LUGLIO 2026 - UNIPOLRENTAL SPA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1700823</link>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1700823</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">18/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">03/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1639</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/po9oxlvvgp3mmq17cnu64lnjz2cre7pw.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE FATTURA 18441 A FAVORE DI A.C.I</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1700776</link>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1700776</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">18/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">03/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1638</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/24h1rlm9qdycsxos09yoclwgg606rp1l.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
