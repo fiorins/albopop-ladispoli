@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 19 Jun 2026 10:05:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 11:05:47 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>PROCEDURA APERTA N. G00294 INDETTA E PUBBLICATA IN DATA 26/05/2026 SUL PORTALE “APPALTI E CONTRATTI” DEL COMUNE DI LADISPOLI, AI SENSI DELL’ART. 71 DEL D.LGS. 36/2023 PER LA REALIZZAZIONE DELLA MANIFESTAZIONE DENOMINATA “LADISPOLI SUMMER FEST” EDIZIONE 2026 – APPROVAZIONE VERBALE DI GARA, AGGIUDICAZIONE E CONTESTUALE IMPEGNO DI SPESA. CIG: BBC6E4D2F5</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1702329</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1702329</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">19/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">04/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1660</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/ktz551uqnyna1get87dthe5gcdq0mb1g.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>REVISIONE SEMESTRALE GIUGNO 2026 MANIFESTO MOD. 11 - AVVISO AI CITTADINI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1702226</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/dt8i4qyw3la0g3ww24ekil5mfuvk80rv.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI AMUHAMMAD RIZWAN</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1700825</link>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1700825</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">18/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1640</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/zbre818cvs3xe4lavsw03s4dwnxj9dbp.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
 </rss>
