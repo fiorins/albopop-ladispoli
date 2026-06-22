@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 22 Jun 2026 10:06:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 12:05:58 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE FATTURE EMESSE DALLA CIRFOOD PER IL SERVIZIO DI REFEZIONE SCOLASTICA SVOLTO NEL MESE DI MAGGIO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1703533</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1703533</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">22/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">07/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1696</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/w0a3hq6zbpcnyu7f4dkm5adr9cxnpzpd.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 5]]></description>
+    </item>
     <item>
       <title>RIU 68/2026 – SERVIZIO DI GESTIONE INTEGRATA DEI RIFIUTI URBANI – ORDINANZA DI LIQUIDAZIONE CANONE MAGGIO 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1703413</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/1zaq096s9ffupctlgtgtfab03xu9c4jf.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>APPROVAZIONE DEL CALENDARIO DEGLI EVENTI ESTIVI DENOMINATO "LADISPOLI LIVE –EDIZIONE 2026"</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1702584</link>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1702584</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">19/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">04/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1676</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/vgarzc3tceubpl64kvcwn8ii9jl7gsfp.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
