@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 23 Jun 2026 15:35:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 16:05:41 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>APPROVAZIONE DEL PROGETTO ESECUTIVO PER GLI INTERVENTI DI EFFICIENZA ENERGETICA E RALIZZAZIONE DI SISTEMI DI PRODUZIONE DI ENERGIA DA FONTI RINNOVABILI PRESSO I.C. LADISPOLI I – PLESSO “CANDIDA ZARRELLI” CUP. E64D25000410008.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1704828</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1704828</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">23/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1711</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/oxuozi247kcn4lougfhx3eawnpp07qvs.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>APPROVAZIONE DEL PROGETTO ESECUTIVO PER GLI INTERVENTI DI EFFICIENZA ENERGETICA E RALIZZAZIONE DI SISTEMI DI PRODUZIONE DI ENERGIA DA FONTI RINNOVABILI PRESSO I.C. LADISPOLI I – PLESSO “ROSARIO LIVATINO” CUP. E64D25000400008.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1704736</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/mrdhxfrlzw129yj3h70169d5wkz41ydm.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RIU 73/2026 - SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI EER 20.03.03 – ORDINANZA DI LIQUIDAZIONE MAGGIO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1703393</link>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1703393</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1691</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/sf9ayanstuxji7f0yqzlp2bbi9jwrzum.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
