@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 23 Jun 2026 06:05:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 06:35:34 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A RO.MA.VA.GIU. S.N.C. DI ROTUNNO GIULIO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1703745</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1703745</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">23/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">01/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1708</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/jq06jrr5za74gms9wmqqtld7s59rcub4.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A ROTUNNO GIULIO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1703743</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1703743</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">23/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">01/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1707</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/tm5uq7mvj96bpkfmrx4o3md7noif6z1f.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A RO.MA.VA GIU 2020 DI ROTUNNO GIULIO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1703741</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1703741</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">23/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">01/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1706</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/av5gz19fsdzlt9diisnws5jxd8tll876.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI A ROTUNNO CECILIA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1703739</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/i6agl3tnxcjbxmqqke1dod75js39cdiv.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>RECUPERO FUNZIONALE DEL CASTELLACCIO DI MONTERONI – CUP E64D21000000005 – FINANZIATO DALL’UNIONE EUROPEA – NEXTGENERATION EU A VALERE SU FONDI P.N.R.R. – M5C2INV2.1 RIGENERAZIONE URBANA – ORDINANZA DI LIQUIDAZIONE RESTAURATORE SAL 3/ TERMINE LAVORI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1703248</link>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1703248</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1688</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/fzcyi54v89mr0zaelavak4a6b0ccnlsy.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>DETERMINAZIONE AFFIDAMENTO DIRETTO, AI SENSI DELL’ART. 50, C. 1, LETT. B DEL D.LGS. N. 36/2023, MEDIANTE PIATTAFORMA TELEMATICA CERTIFICATA DI QUESTO ENTE “APPALTI &amp; CONTRATTI” PER LO SVOLGIMENTO DEL SERVIZIO DI PULIZIA, SANIFICAZIONE E RIFORNIMENTO DEI SERVIZI IGIENICI PRESSO LE SPIAGGE LIBERE – STAGIONE ESTIVA 2026”. - CIG: BC134EC34D</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1703245</link>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1703245</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1687</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/a7z82jpfai5qmwbo4bj11li438fe4s33.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>RIU 69/2026 - SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI EER 20.02.01 – ORDINANZA DI LIQUIDAZIONE APRILE E MAGGIO 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1703242</link>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1703242</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1686</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/8pcw73nivmxsc8dt0s3gdaj8tturlrnm.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
