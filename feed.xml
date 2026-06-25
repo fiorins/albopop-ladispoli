@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 23 Jun 2026 16:05:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 07:05:41 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>(RPS 476/26) DETERMINA DI AGGIUDICAZIONE, AFFIDAMENTO E CONTESTUALE ASSUNZIONE DI IMPEGNO DI SPESA IN FAVORE DELL'AGGIUDICATARIO CME CONSORZIO IMPRENDITORI EDILI SOC. COOP. E APPROVAZIONE DELLA RIMODULAZIONE DEL Q.T.E A SEGUITO DELLA PROCEDURA NEGOZIATA SENZA BANDO DI GARA (ART. 50, COMMA 1, LETTERA C, DEL D. LGS. N. 36/2023 E S.M.I) PER L’AFFIDAMENTO DEI LAVORI DELL’OPERA DENOMINATA “RIQUALIFICAZIONE PARCHEGGIO COMUNALE SITO IN LADISPOLI, PIAZZA GIOVANNI FALCONE” - CUP: E63D25000140006 - CIG - GARA G00304.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1705724</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1705724</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">25/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">10/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1712</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/q3iro56fux7clj4cde7dlhnxe1na7a00.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>APPROVAZIONE DEL PROGETTO ESECUTIVO PER GLI INTERVENTI DI EFFICIENZA ENERGETICA E RALIZZAZIONE DI SISTEMI DI PRODUZIONE DI ENERGIA DA FONTI RINNOVABILI PRESSO I.C. LADISPOLI I – PLESSO “CANDIDA ZARRELLI” CUP. E64D25000410008.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1704828</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/18rkfg4q7luaqrsezbw1n09y9hb35l6u.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RIU 72/2026 - SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI EER 20.01.08 – ORDINANZA DI LIQUIDAZIONE MAGGIO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1703396</link>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1703396</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1692</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/mrdhxfrlzw129yj3h70169d5wkz41ydm.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
