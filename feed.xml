@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 25 Jun 2026 10:35:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 11:35:44 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONGEDO PARENTALE AI SENSI DELL’ART. 32 COMMA 1 DEL D.LGS. N. 151/2001 A FAVORE DI UN DIPENDENTE. DETERMINAZIONI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1706201</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1706201</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">25/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">10/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1716</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/wzp82wzdb90v6lgkbwhj7yxbwvjok3dn.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>ACCREDITAMENTO COOPERATIVA LA GOLETTA PER IL SERVIZIO “CENTRO ESTIVO 2026/2027” RISERVATO AGLI UTENTI FRUITORI DEL PROGETTO DISTRETTUALE “SPAZIO PER LE FAMIGLIE” E AGLI UTENTI DISABILI ADULTI FRUITORI DEL PROGETTO “STRADA PER L’AUTONOMIA”</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1706185</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1706185</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">25/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">10/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1715</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/yvaaadgh4sa8roy9mqbptc3ql8wuzejy.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>AVVISO DI NOTIFICA A "EDIL GROUP" S.R.L.S. DI MIHAILA LILIANA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1706043</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/lzeuxpqal1rgulj1g49zm09u42y0o3kg.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURE EMESSE DALLA CIRFOOD PER IL SERVIZIO DI REFEZIONE SCOLASTICA SVOLTO NEL MESE DI MAGGIO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1703533</link>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1703533</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1696</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/w0a3hq6zbpcnyu7f4dkm5adr9cxnpzpd.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
-    </item>
-    <item>
-      <title>RIU 68/2026 – SERVIZIO DI GESTIONE INTEGRATA DEI RIFIUTI URBANI – ORDINANZA DI LIQUIDAZIONE CANONE MAGGIO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1703413</link>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1703413</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1695</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/w30izstp7opcex3u7mf3ubyf6aww6j3t.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
