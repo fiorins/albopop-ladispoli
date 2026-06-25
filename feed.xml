@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 25 Jun 2026 11:35:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 12:05:32 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>COLLOCAMENTO A RIPOSO D'UFFICIO PER RAGGIUNTI LIMITI DI ETA' DAL 01/12/2026 (ULTIMO GIORNO DI SERVIZIO IL 30/11/2026) DI UN DIPENDENTE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1706251</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1706251</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">25/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">10/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1717</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/5uhrpd9hvcbxhga9hq4dm1chl7wndl6q.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>CONGEDO PARENTALE AI SENSI DELL’ART. 32 COMMA 1 DEL D.LGS. N. 151/2001 A FAVORE DI UN DIPENDENTE. DETERMINAZIONI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1706201</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/803bi3bpgj1m5rovzn6dyga3jelwbd4v.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>INCARICO A FAVORE DELL’ARCH. MAURO BRUGNONI PER IL PROGETTO P.N.R.R. COFINANZIATO DALL'UNIONE EUROPEA – NEXT GENERATION EU - MISSIONE 4: ISTRUZIONE E RICERCA COMPONENTE 1 – POTENZIAMENTO DELL’OFFERTA DEI SERVIZI DI ISTRUZIONE: DAGLI ASILI NIDO ALLE UNIVERSITÀ INVESTIMENTO - 1.1: PIANO PER ASILI NIDO E SCUOLE DELL’INFANZIA E SERVIZI DI EDUCAZIONE E CURA PER LA PRIMA INFANZIA C.U.P.: E65E22000210006 – LIQUIDAZIONE SAL 6.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1703556</link>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1703556</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1697</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/lzeuxpqal1rgulj1g49zm09u42y0o3kg.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
