@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 25 Jun 2026 12:05:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 13:35:33 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>APPROVAZIONE AVVISO PUBBLICO FINALIZZATO A SELEZIONARE OPERATORI ECONOMICI DA INVITARE AI SENSI DELL’ART. 50 C. 1 LETT. B) DEL D.LGS. 36/2023 PER L’AFFIDAMENTO DEL PROGETTO DESTINATO AD ADULTI IN CONDIZIONI DI GRAVE DISAGIO SOCIALE CHE SI TROVANO A VIVERE IN SITUAZIONI DI ISOLAMENTO DOMESTICO E IN AMBIENTI INSALUBRI- ISCRIZIONE REGISTRO COMUNALE IMPRESE SPECIALIZZATE PULIZIE AMBIENTI DOMESTICI INSALUBRI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1706395</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1706395</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">25/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">10/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1718</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/gmruyqy7hq2rzd2m0t6u0hfqfc8pc135.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>COLLOCAMENTO A RIPOSO D'UFFICIO PER RAGGIUNTI LIMITI DI ETA' DAL 01/12/2026 (ULTIMO GIORNO DI SERVIZIO IL 30/11/2026) DI UN DIPENDENTE</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1706251</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/8kidcha6hxm035crip5rh9wgfxwpsrdp.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>DETERMINAZIONE AFFIDAMENTO DIRETTO, AI SENSI DELL’ART.50, CO.1, LETT. A, DEL D.LGS. N.36/2023 MEDIANTE PIATTAFORMA TELEMATICA CERTIFICATA DI QUESTO ENTE “APPALTI &amp; CONTRATTI”, IN FAVORE DELLA SOCIETA’ NIULAB SRL P.I.:15757361009 PER IL SERVIZIO DI NOLEGGIO INSTALLAZIONE, MONTAGGIO, SMONTAGGIO PALCO, SERVICE AUDIO LUCI SUPPORTO TECNICO PER LA REALIZZAZIONE DELL’EVENTO DEL 14 E 15 AGOSTO 2026 LUNGOMARE MARCOPOLO DEL COMUNE DI LADISPOLI, CIG: BC1F89CFD0;</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1703559</link>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1703559</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1698</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/803bi3bpgj1m5rovzn6dyga3jelwbd4v.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
