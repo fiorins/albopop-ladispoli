@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 26 Jun 2026 07:05:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 07:35:36 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>IMPEGNO DI SPESA ANNO 2026 - ULTERIORE INTEGRAZIONE FONDI REGIONALI DIRITTO ALLO STUDIO PER LE METODICHE CAA - ANNO SCOLASTICO 2025/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1706884</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1706884</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">11/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1731</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/v1tx4fzx4t532e755jatsney71a9yf52.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>RECUPERO FUNZIONALE DEL CASTELLACCIO DI MONTERONI – CUP E64D21000000005 – FINANZIATO DALL’UNIONE EUROPEA – NEXTGENERATION EU A VALERE SU FONDI P.N.R.R. – M5C2INV2.1 RIGENERAZIONE URBANA – ORDINANZA DI LIQUIDAZIONE SAL 1 AFFIDAMENTO DIREZIONE DEI LAVORI STRUTTURALI; PROGETTAZIONE CONSOLIDAMENTO STRUTTURALE; MODELLAZIONE 3D E VALUTAZIONE DELLA SICUREZZA POST INTERVENTI.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1706829</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/q3iro56fux7clj4cde7dlhnxe1na7a00.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>APPROVAZIONE DEL PROGETTO ESECUTIVO PER GLI INTERVENTI DI EFFICIENZA ENERGETICA E RALIZZAZIONE DI SISTEMI DI PRODUZIONE DI ENERGIA DA FONTI RINNOVABILI PRESSO I.C. LADISPOLI I – PLESSO “CANDIDA ZARRELLI” CUP. E64D25000410008.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1704828</link>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1704828</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1711</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/oxuozi247kcn4lougfhx3eawnpp07qvs.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
