@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 26 Jun 2026 09:06:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 10:05:42 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>P.N.R.R. MISS. 5 COMP. 2 INVESTIM. 1.2 - RISTRUTTURAZIONE IMMOBILE DI VIA ALDO MORO - COMUNE DI LADISPOLI - GIÀ IN USO AI SERVIZI SOCIALI (PIANO TERRA) - CUP E65I22000020001 - APPROVAZIONE PERIZIA DI VARIANTE E SUPPLETIVA SENZA INCREMENTO DELLA SPESA COMPLESSIVA DELL’OPERA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1707211</link>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1707211</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">11/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1748</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/g5mr53ay8yt3usr8umnusgc283drr5x9.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>RECUPERO FUNZIONALE DEL CASTELLACCIO DI MONTERONI – CUP E64D21000000005 – FINANZIATO DALL’UNIONE EUROPEA – NEXTGENERATION EU A VALERE SU FONDI P.N.R.R. – M5C2INV2.1 RIGENERAZIONE URBANA – IMPEGNO DI SPESA PER LA “REDAZIONE DI UNA PERIZIA DI VARIANTE IN CORSO D’OPERA RELATIVA ALLE STRUTTURE E AGGIORNAMENTO DEGLI ELABORATI DI FINE LAVORI”</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1707120</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/yyazefodp97wlblrbwu6lfbrxsdwm74e.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>CONCESSIONE DI PATROCINIO ONEROSO IN FAVORE DELL'ASSOCIAZIONE “A.P.S. NUOVE FRONTIERE ETS” PER LA REALIZZAZIONE DELL'EVENTO DENOMINATO “SOGNO DI UNA NOTTE DI MEZZA ESTATE” IN PROGRAMMA IL GIORNO 09/07/2026 IN PIAZZA R. ROSSELLINI, INSERITO NEL CALENDARIO ESTIVO 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1706606</link>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1706606</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">25/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">10/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1728</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/4o780d2nyf7ba03khfmlgvyzjlk2x28h.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
