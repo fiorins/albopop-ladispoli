@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 26 Jun 2026 10:05:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 09:05:38 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>ISOLA PEDONALE VIA TRE PESCI ANNO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1714268</link>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1714268</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">13/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1749</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/gf5d5yod7phltt3a9msekukv7j1jylra.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>P.N.R.R. MISS. 5 COMP. 2 INVESTIM. 1.2 - RISTRUTTURAZIONE IMMOBILE DI VIA ALDO MORO - COMUNE DI LADISPOLI - GIÀ IN USO AI SERVIZI SOCIALI (PIANO TERRA) - CUP E65I22000020001 - APPROVAZIONE PERIZIA DI VARIANTE E SUPPLETIVA SENZA INCREMENTO DELLA SPESA COMPLESSIVA DELL’OPERA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1707211</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/xsft4gu6mg679e4kxi0gbbpzletz13li.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>RECUPERO FUNZIONALE DEL CASTELLACCIO DI MONTERONI – CUP E64D21000000005 – FINANZIATO DALL’UNIONE EUROPEA – NEXTGENERATION EU A VALERE SU FONDI P.N.R.R. – M5C2INV2.1 RIGENERAZIONE URBANA – LIQUIDAZIONE SAL 1 PROGETTAZIONE PER L'AFFIDAMENTO DEL PROGETTO E DIREZIONE DEI LAVORI DI MIGLIORAMENTO SISMICO, VALUTAZIONE DELLA SICUREZZA SISMICA POST OPERAM</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1706826</link>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1706826</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">11/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1729</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/yyazefodp97wlblrbwu6lfbrxsdwm74e.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
