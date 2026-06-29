@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 28 Jun 2026 09:05:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 08:05:41 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>ORDINANZA CONTINGIBILE ED URGENTE - LIMITAZIONI ALLA VENDITA DA ASPORTO DI BEVANDE IN CONTENITORI DI VETRO E DI CONSUMO DI BEVANDE ALCOLICHE NELLE AREE PUBBLICHE E DISCIPLINA DEGLI ORARI DI APERTURA DEGLI ESERCIZI DI VICINATO DEL SETTORE ALIMENTARE.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1714414</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1714414</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">29/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">14/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1750</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/tbkn8onop5dewbm67l711gam95pp9els.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>ISOLA PEDONALE VIA TRE PESCI ANNO 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1714268</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/v1tx4fzx4t532e755jatsney71a9yf52.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RECUPERO FUNZIONALE DEL CASTELLACCIO DI MONTERONI – CUP E64D21000000005 – FINANZIATO DALL’UNIONE EUROPEA – NEXTGENERATION EU A VALERE SU FONDI P.N.R.R. – M5C2INV2.1 RIGENERAZIONE URBANA – ORDINANZA DI LIQUIDAZIONE SAL 1 AFFIDAMENTO DIREZIONE DEI LAVORI STRUTTURALI; PROGETTAZIONE CONSOLIDAMENTO STRUTTURALE; MODELLAZIONE 3D E VALUTAZIONE DELLA SICUREZZA POST INTERVENTI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1706829</link>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1706829</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">11/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1730</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/xsft4gu6mg679e4kxi0gbbpzletz13li.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
