@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 30 Jun 2026 06:05:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 07:05:37 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AREA PEDONALE VIALE ITALIA, P.ZA MARESCOTTI E VIA REGINA MARGHERITA.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1715277</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1715277</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">15/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1764</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/aw2zd5jgb9i2cxkeslrurn3vvxi6g9y3.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI A ITALWORK CSC SRLS</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1715206</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/toaozzx3a5xz30zt9mwnx78u5zgzcji4.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE IN FAVORE DELLA SOCIETA' CI.SI SRL - FATTURA N. 209/2026 - LAVORI STRAORDINARI PORTO PIDOCCHIO E RIPARAZIONE VIA PIZZO DEL PRETE, CAMPO MILITARE -CIG BBD4BD20BS;</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1707074</link>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1707074</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">11/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1744</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/blq34s7c3gubuv19leafyupbpd26sw2l.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
