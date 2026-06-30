@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 30 Jun 2026 08:36:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 11:05:37 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELLA COOPERATIVA SOCIALE CASSIAVASS PER IL SERVIZIO ASSISTENZA EDUCATIVA A SOSTEGNO DELLE AUTONOMIE - OEPAC - EFFETTUATO NEL MESE DI MAGGIO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1715822</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1715822</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">15/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1767</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/j0u51whpm1izedauyk5cklfzs79bzjih.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>ISTITUZIONE DIVIETO DI FERMATA AREA CINEMA FRECCIA E NUOVO CENTRO COMMERCIALE IN VIA SETTEVENE PALO NORD SNC.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1715480</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/g5mr53ay8yt3usr8umnusgc283drr5x9.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RECUPERO FUNZIONALE DEL CASTELLACCIO DI MONTERONI – CUP E64D21000000005 – FINANZIATO DALL’UNIONE EUROPEA – NEXTGENERATION EU A VALERE SU FONDI P.N.R.R. – M5C2INV2.1 RIGENERAZIONE URBANA – IMPEGNO DI SPESA PER LA “REDAZIONE DI UNA PERIZIA DI VARIANTE IN CORSO D’OPERA RELATIVA ALLE STRUTTURE E AGGIORNAMENTO DEGLI ELABORATI DI FINE LAVORI”</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1707120</link>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1707120</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">11/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1747</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/yni4ie9lnd1ncz745zcj780rq8jqqrue.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
