@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 29 Jun 2026 12:35:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 06:05:45 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,97 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A ITALWORK CSC SRLS</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1715206</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1715206</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1763</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/kooctlc2tvt5iprt2ruzso5899owkweg.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A DUE F EDILIZIA S.R.L.S</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1715204</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1715204</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1762</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/gn5wseqxm9frt7wey3kber8f6c9ff5g2.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A RETEANU ALIN</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1715202</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1715202</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1761</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/tezggxbx3agd0wqnwpodhnrbau5ncezj.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A NADA MOHAMED ABDEL AZIZ CINZIA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1715200</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1715200</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1760</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/ije4clcfozxk7kydejlkxcdpqreqo6h0.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A POP GRIGORE VIOREL</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1715198</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1715198</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1759</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/fnygu8f4wtovnuazqem7mnm4mrzm161b.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A NICA ANTHONY</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1715196</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1715196</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1758</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/aqc5bw30zt09tc96otu0qfeoy4h5u078.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A BELLIZZI ANDREA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1715190</link>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1715190</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/06/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1757</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/wk5jl46c0i6fudrm7nrbsbieu969s48q.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>PROCEDURA DI MOBILITÀ VOLONTARIA ESTERNA AI SENSI DELL’ART. 30, COMMA 1 DEL D.LGS. N. 165/2001 E SS.MM.II. PER L'ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI N. 1 ASSISTENTE SOCIALE - AREA DEI FUNZIONARI E DELLA E.Q. (EX CATEGORIA D). APPROVAZIONE ELENCO CANDIDATI AMMESSI/NON AMMESSI E CONTESTUALE CONVOCAZIONE DEI CANDIDATI AMMESSI A SOSTENERE IL COLLOQUIO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1714967</link>
@@ -186,97 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/blq34s7c3gubuv19leafyupbpd26sw2l.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>SERVIZIO DI NOLEGGIO INSTALLAZIONE, MONTAGGIO, SMONTAGGIO PALCO, SEDIE E SERVICE AUDIO LUCI, SUPPORTO TECNICO PER LA REALIZZAZIONE DI EVENTI PER LA STAGIONE ESTIVA 2026 DENOMINATA “LADISPOLI LIVE” - AGGIUDICAZIONE E CONTESTUALE IMPEGNO DI SPESA – CIG BCI75E407</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1707071</link>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1707071</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">11/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1743</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/c8eqlna1liy3i27anoauob794p92y5qy.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>CONCESSIONE DI PATROCINIO E CONTRIBUTO ECONOMICO IN FAVORE DELL'ASSOCIAZIONE CULTURALE TAMÀ PER LA REALIZZAZIONE DELLA MANIFESTAZIONE DENOMINATA MISS E MISTER LADISPOLI IN PROGRAMMA NEI GIORNI 8 E 9 AGOSTO 2026 INSERITA NEL CALENDARIO ESTIVO 2026 - ASSUNZIONE IMPEGNO DI SPESA.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1707068</link>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1707068</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">11/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1742</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/eeaj90qkxa428vwtoiz1tqw7joadg4au.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA FORNITURA GPL PRESSO IL PALAZZETTO DELLO SPORT SITO IN LADISPOLI VIA DELLE PRIMULE - CIG BA42EB255D</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1707062</link>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1707062</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">11/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1741</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/xpgbp36oeysq3gizzjt59z49ac50h9y2.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>DECISIONE A CONTRARRE E CONTESTUALE AFFIDAMENTO TRAMITE TRATTATIVA DIRETTA MEPA AI SENSI DELL’ART. 50, COMMA 1, LETTERA B) DEL D.LGS. 36/2023, IN FAVORE DELLA SOCIETÀ SERENA SRLS PER IL SERVIZIO DI N. 2 SPETTACOLI A CARATTERE ARTISTICO IN PROGRAMMA NEL CALENDARIO DEGLI EVENTI ESTIVI DENOMINATO LADISPOLI LIVE, EDIZIONE 2026 - CIG BC1ED61B4B - ASSUNZIONE IMPEGNO DI SPESA.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1707059</link>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1707059</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">11/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1740</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/4zdh8405ynubgprm6rfknxadq7y8esta.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA DEL CONTRIBUTO ECONOMICO CONCESSO IN FAVORE S.S.D. A.R.L. “GYM LADISPOLI” IN OCCASIONE DELLA MANIFESTAZIONE SPORTIVA DENOMINATA CAMPIONATO NAZIONALE SUPERGYM E CAMPIONATO REGIONALE COPPA LAZIO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1707056</link>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1707056</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">11/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1739</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/dk4fgievkz21lw82qi3bmriljsorki4b.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE SOMMA GIA’ IMPEGNATA IN FAVORE DI VITTORIA ASSICURAZZIONI S.P.A. A TITOLO DI RIMBORSO FRANCHIGIA - SINISTRO N. 1/666/25/00109 DEL 12/01/2025</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1707053</link>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1707053</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">11/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1738</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/r3tt7s66rizw6um1p069ss8lzx8w5ouo.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>RICARICA AFFRANCATRICE POSTALE MODELLO POSTBASE 65 -ANNO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1707050</link>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1707050</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">11/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1737</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/54wq28nhk6xwxyn7wkrbkozr1n412d37.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
