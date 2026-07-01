@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 01 Jul 2026 11:06:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 12:35:56 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DECISIONE A CONTRARRE E CONTESTUALE AFFIDAMENTO TRAMITE TRATTATIVA DIRETTA MEPA AI SENSI DELL’ART. 50, COMMA 1, LETTERA B) DEL D.LGS. 36/2023, IN FAVORE DELL’ASSOCIAZIONE CULTURALE ROMAMÌ PER IL SERVIZIO DI AFFIDAMENTO DI SERVIZI ARTISTICI PER N. 16 SPETTACOLI IN P.ZZA ROSSELLINI E N. 2 SERVIZI DI INTERPRETARIATO LIS, COME PREVISTO NEL PROGRAMMA DEL CALENDARIO DEGLI EVENTI ESTIVI DENOMINATO LADISPOLI LIVE, EDIZIONE 2026 - CIG BC3A5B9D61 - ASSUNZIONE IMPEGNO DI SPESA.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1717509</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1717509</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">01/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">16/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1790</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/twpofjyjevpkt1sjfoiw00qwjxcfgji1.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>AFFIDAMENTO E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DI MAGGIOLI SPA - ATTIVITA' DI SUPPORTO FORMATIVO DA REMOTO SU SOFTWARE E-PROCUREMENT- CIG BBCB30EFBF;</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1717506</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1717506</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">01/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">16/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1789</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/9n6rlix37h1f57n90egf65mkcy34te57.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>SPERIMENTAZIONE PIATTAFORMA NOTIFICHE DIGITALI SEND – LIQUIDAZIONE FATTURA PAGOPA SPA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1717255</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/qfmvnhqrt34ysl67detd863kz4wol93b.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>COMPARTECIPAZIONE AL PAGAMENTO DELLA RETTA DI OSPITALITÀ PER IL RICOVERO DI UTENTI PRESSO LA STRUTTURA RESIDENZIALE “PROGETTO 96” - IMPEGNO SOMMA PERIODO LUGLIO/DICEMBRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1715912</link>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1715912</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">30/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">15/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1770</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/umu1u9oovwpgsxqp5rtpmqhfn3tr4yro.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>SERVIZIO DI GESTIONE E ORGANIZZAZIONE DEGLI EVENTI ALL’INTERNO DELLA MANIFESTAZIONE DENOMINATA “RASSEGNA ESTIVA 2026” PRESSO LO SPAZIO SITO IN VIA RAPALLO, ATTIGUO AL SITO ARCHEOLOGICO DENOMINATO “LA GROTTACCIA” – LIQUIDAZIONE SECONDA ANTICIPAZIONE DI SPESA IN FAVORE DELL’OPERATORE ECONOMICO “LA VALIGIA DELL’ATTORE APS”.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1715909</link>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1715909</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">30/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">15/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1769</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/3729oi2vblygqldovhqi0pdrn36q6e7i.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
