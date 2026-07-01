@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 01 Jul 2026 08:10:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 11:06:28 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,58 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>SPERIMENTAZIONE PIATTAFORMA NOTIFICHE DIGITALI SEND – LIQUIDAZIONE FATTURA PAGOPA SPA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1717255</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1717255</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">01/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">16/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1788</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/yf71z4mcutwpjcx5v8zh8j0198udmaza.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA N.2 DEL 22/06/2026 EMESSA DALLA COOPERATIVA "STELLANTIA" PER LA REALIZZAZIONE DEL PROGETTO "ACCADEMIA ARTI E MESTIERI"</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1717252</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1717252</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">01/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">16/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1787</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/o5c1cvoiya7623xhoulz1rpeqftf50kx.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 5]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE DI SPESA IN FAVORE DI UTENTI ANZIANI PER IL SERVIZIO DI ASSISTENZA DOMICILIARE (SAISA) EFFETTUATO NEL MESE DI APRILE 2026 CON QUIETANZA DIRETTA ALLA COOPERATIVA SOCIALE "LA GOLETTA" SOGGETTO EROGATORE DEL SERVIZIO ISCRITTO AL RUA DEL DISTRETTO 4.2.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1717249</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1717249</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">01/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">16/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1786</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/gdbdfjugwum4ikaenxvqln7gb6rxu9o2.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>RETTIFICA DELLA DETERMINAZIONE DIRIGENZIALE N.1118 DEL 21.05.2026 PER MERO ERRORE MATERIALE DI TRASCRIZIONE DATI E RIDISTRIBUZIONE IMPORTI ERRATI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1717246</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1717246</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">01/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">16/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1785</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/48pyhpqln2dp0t0ury16ocy9fkz025o5.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>ADOZIONE DEL PROGRAMMA INTEGRATO DI INTERVENTO (P.I.I.) PER INSEDIAMENTO PRODUTTIVO - COMMERCIALE E SPORTIVO, IN VARIANTE AL P.R.G. VIGENTE, PER L’AREA DENOMINATA “PUNTA DI PALO”, AI SENSI DELL’ARTICOLO 4 DELLA LEGGE REGIONALE N. 36/1987.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1716864</link>
@@ -225,58 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/3729oi2vblygqldovhqi0pdrn36q6e7i.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RETTE PER L'ACCOGLIENZA E L'OSPITALITÀ IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI - LIQUIDAZIONE DI SPESA IN FAVORE DI "ASSOCIAZIONE DIMENSIONE SALUTE" - PERIODO MAGGIO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1715906</link>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1715906</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">30/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">15/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1768</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/j1oqq1dbm7ryfnploi065uprcrl3oeit.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELLA COOPERATIVA SOCIALE CASSIAVASS PER IL SERVIZIO ASSISTENZA EDUCATIVA A SOSTEGNO DELLE AUTONOMIE - OEPAC - EFFETTUATO NEL MESE DI MAGGIO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1715822</link>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1715822</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">30/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">15/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1767</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/j0u51whpm1izedauyk5cklfzs79bzjih.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>ISTITUZIONE DIVIETO DI FERMATA AREA CINEMA FRECCIA E NUOVO CENTRO COMMERCIALE IN VIA SETTEVENE PALO NORD SNC.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1715480</link>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1715480</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">30/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">15/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1766</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/ylufd0wenqbgo30lmwzmqvptb07ogo4h.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE SPESE PER LA TASSA DI PROCEDIMENTO ESECUTIVO – IMPOSTA DI REGISTRO- PER VARI SENTENZE EMESSE DAL GDP DI CIVITAVECCHIA, CREDITORE: ALL’AGENZIA ENTRATE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1715392</link>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1715392</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">30/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">15/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1765</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/hps7lol0i0qi80ht17k01wc1eq8df405.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
