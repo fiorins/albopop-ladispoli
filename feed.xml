@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 01 Jul 2026 06:05:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 07:37:15 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DEBITO FUORI BILANCIO VERSO ECOSYSTEM SPA PER SPESE CORRENTI - RICONOSCIMENTO DI LEGITTIMITA’ AI SENSI DELL’ARTICOLO 194 DEL D.LGS. N. 267/2000, SENZA VARIAZIONE DI BILANCIO.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1716814</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1716814</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">01/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">16/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1778</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <enclosure url="https://app.box.com/shared/static/ofadyzmnw6ik1l9my5asmi30fxk7p5l3.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 7]]></description>
+    </item>
+    <item>
+      <title>RATIFICA DELLA DELIBERAZIONE DI GIUNTA COMUNALE N. 88 DEL 19/05/2026 AVENTE AD OGGETTO " IV VARIAZIONE AL BILANCIO DI PREVISIONE 2026/2028 AI SENSI DELL'ARTICOLO 175 COMMA 4 DEL TUEL 267/2000 (VAR. 14/2026). CONFERMA PRECEDENTE DELIBERAZIONE N. 78 DEL 08.05.2026".</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1716811</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1716811</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">01/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">16/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1777</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <enclosure url="https://app.box.com/shared/static/i1kf38jhd5zp6tzj2uih7fpzkjp2s76f.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 7]]></description>
+    </item>
+    <item>
+      <title>PRESA D'ATTO COMPOSIZIONE GRUPPO CONSILIARE E CONSEGUENTI ADEMPIMENTI RELATIVI ALLE COMMISSIONI CONSILIARI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1716808</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1716808</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">01/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">16/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1776</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <enclosure url="https://app.box.com/shared/static/8wiiyh8mvaxur5k0k5iqgkl0ivlqdmez.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 5]]></description>
+    </item>
     <item>
       <title>OCCUPAZIONE SUOLO PUBBLICO CONDOMINIO VIA ANCONA 142</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1716505</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/fnygu8f4wtovnuazqem7mnm4mrzm161b.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A NICA ANTHONY</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1715196</link>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1715196</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">30/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1758</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/aqc5bw30zt09tc96otu0qfeoy4h5u078.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A BELLIZZI ANDREA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1715190</link>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1715190</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">30/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1757</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/wk5jl46c0i6fudrm7nrbsbieu969s48q.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>PROCEDURA DI MOBILITÀ VOLONTARIA ESTERNA AI SENSI DELL’ART. 30, COMMA 1 DEL D.LGS. N. 165/2001 E SS.MM.II. PER L'ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI N. 1 ASSISTENTE SOCIALE - AREA DEI FUNZIONARI E DELLA E.Q. (EX CATEGORIA D). APPROVAZIONE ELENCO CANDIDATI AMMESSI/NON AMMESSI E CONTESTUALE CONVOCAZIONE DEI CANDIDATI AMMESSI A SOSTENERE IL COLLOQUIO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1714967</link>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1714967</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/06/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">14/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1756</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/9gvsika8oavwvt21bt08h1vns6xtvyxi.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
