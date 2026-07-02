@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 02 Jul 2026 08:35:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 10:06:25 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,58 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>(RPS494/26) LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) SU VARI IMMOBILI COMUNALI: IMPRESA SM EDILIZIA DI ALESSANDRO VECCHIOTTI - LIQUIDAZIONE AFFIDAMENTO G00312 - CIG BBE7E7F461</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1718149</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1718149</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">02/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1811</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/e3aege5q17rawpkyq5rqnzfcx88mxsze.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>(RPS508/26) LAVORI DI RIFACIMENTO INTEGRALE IMPERMEABILIZZAZIONE COPERTURA E MURATURA ESTERNA DEL LOCALE TERMICO DEL TEATRO VANNINI (CIG BBF51D06A2- AFFIDAMENTO G00319) - IMPRESA SM EDILIZIA DI ALESSANDRO VECCHIOTTI DI LADISPOLI - ORDINANZA DI LIQUIDAZIONE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1718146</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1718146</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">02/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1810</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/6472wffuxuoysdikjdwzydvp2y5jw6c9.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>OCCUPAZIONE SUOLO PUBBLICO CONDOMINIO VIA GIOVANNI XXIII 43/47 E VIA CAVOUR 15/21</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1718143</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1718143</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">02/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1809</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/u5jbfmfa41sdltw89vx8bienw5givros.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>(RPS516/26) LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023)SU VARI IMMOBILI COMUNALI (CIG BBEA5D5A66, AFFIDAMENTO G00315 - CIG BBE94FF5AE, AFFIDAMENTO G00314) - SOCIETÀ AZ SYSTEM DI FRESILLI LUCIANO - ORDINANZA DI LIQUIDAZIONE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1718141</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1718141</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">02/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1808</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/dw9cll3amqn87d62ncb48tfkao0d1mus.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE DI SPESA IN FAVORE DELLA “COOPERATIVA SOCIALE SOLIDARIETÀ” PER IL SERVIZIO DI ASSISTENZA EDUCATIVA SCOLASTICA A SOSTEGNO DELLE AUTONOMIE - OEPAC - EFFETTUATO NEL MESE DI MAGGIO 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1718057</link>
@@ -226,58 +278,6 @@
       <category domain="item-category-subType">ORDINANZE</category>
       <enclosure url="https://app.box.com/shared/static/50n70othjwma8qpckw5fjmjreemic5at.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A TURTICA VASILE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1717885</link>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1717885</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">02/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">10/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1791</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/0djhy11svqwkebux1l9cyi0mjxybsquj.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>DECISIONE A CONTRARRE E CONTESTUALE AFFIDAMENTO TRAMITE TRATTATIVA DIRETTA MEPA AI SENSI DELL’ART. 50, COMMA 1, LETTERA B) DEL D.LGS. 36/2023, IN FAVORE DELL’ASSOCIAZIONE CULTURALE ROMAMÌ PER IL SERVIZIO DI AFFIDAMENTO DI SERVIZI ARTISTICI PER N. 16 SPETTACOLI IN P.ZZA ROSSELLINI E N. 2 SERVIZI DI INTERPRETARIATO LIS, COME PREVISTO NEL PROGRAMMA DEL CALENDARIO DEGLI EVENTI ESTIVI DENOMINATO LADISPOLI LIVE, EDIZIONE 2026 - CIG BC3A5B9D61 - ASSUNZIONE IMPEGNO DI SPESA.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1717509</link>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1717509</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">01/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">16/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1790</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/twpofjyjevpkt1sjfoiw00qwjxcfgji1.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>AFFIDAMENTO E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DI MAGGIOLI SPA - ATTIVITA' DI SUPPORTO FORMATIVO DA REMOTO SU SOFTWARE E-PROCUREMENT- CIG BBCB30EFBF;</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1717506</link>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1717506</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">01/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">16/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1789</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/9n6rlix37h1f57n90egf65mkcy34te57.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>SPERIMENTAZIONE PIATTAFORMA NOTIFICHE DIGITALI SEND – LIQUIDAZIONE FATTURA PAGOPA SPA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1717255</link>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1717255</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">01/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">16/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1788</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/yf71z4mcutwpjcx5v8zh8j0198udmaza.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
