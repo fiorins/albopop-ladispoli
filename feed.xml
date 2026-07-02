@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 02 Jul 2026 08:07:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 08:35:37 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELLA “COOPERATIVA SOCIALE SOLIDARIETÀ” PER IL SERVIZIO DI ASSISTENZA EDUCATIVA SCOLASTICA A SOSTEGNO DELLE AUTONOMIE - OEPAC - EFFETTUATO NEL MESE DI MAGGIO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1718057</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1718057</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">02/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1807</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/e4e31jd2olfxzhgvwjhia59q407rk2zy.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>COMPARTECIPAZIONE AL PAGAMENTO DELLA RETTA DI OSPITALITÀ PER L’INSERIMENTO DI UN UTENTE IN VIA SPERIMENTALE PRESSO LA STRUTTURA SOCIO - ASSISTENZIALE “PROGETTO 96” - PERIODO LUGLIO 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1718044</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/yf71z4mcutwpjcx5v8zh8j0198udmaza.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA N.2 DEL 22/06/2026 EMESSA DALLA COOPERATIVA "STELLANTIA" PER LA REALIZZAZIONE DEL PROGETTO "ACCADEMIA ARTI E MESTIERI"</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1717252</link>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1717252</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">01/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">16/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1787</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/o5c1cvoiya7623xhoulz1rpeqftf50kx.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
     </item>
   </channel>
 </rss>
