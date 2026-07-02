@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 02 Jul 2026 10:06:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 10:36:34 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,58 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>FORNITURA TOGA FORENSE PER UFFICIO AVVOCATURA COMUNALE - SKEMATA SRL</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1718231</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1718231</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">02/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1815</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/bw9wh9h44es3l12x9vya9d8he7y8sipl.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>INCARICO PROF.LE PER LA REDAZIONE DEGLI ELABORATI PROGETTUALI (PRO-GETTO FATTIBILITA’ TECNICO ECONOMICO, PROGETTO ESECUTIVO, DIR. LAVORI, C.S.P E C.S.E.) PER DAR SEGUITO AL BANDO “INTERVENTI DI EFFICIENZA ENERGE-TICA E REALIZZAZIONE DI SISTEMI DI PRODUZIONE DI ENERGIA DA FONTI RINNO-VABILI” NELL’I.C. LADISPOLI I – PLESSO ROSARIO LIVATINO – CUP E64D25000400008 – LIQUIDAZIONE ARCH. EMANUELA VALENTINI.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1718228</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1718228</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">02/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1814</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/c3p1cllwe0xkbcwmqdpf4vzn70sbf02i.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE AGENZIA DELLE ENTRATE-RISCOSSIONE. CARTELLA DI PAGAMENTO N. 097 2026 00735371 04/000 - SOMME ISCRITTE AL RUOLO: N. 2026/010204 QUOTA E CONTRIBUTI ANNO 2018 - N. 2026/010206 QUOTA E CONTRIBUTI ANNO 2019 - QUOTA ASSOCIATIVA A.I.C.C.R.E.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1718185</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1718185</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">02/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1813</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/u71mkuhh3xk3lrwm1n12xs0weg2e41b1.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>OGGETTO: (RPS 518/2026) FORNITURA E MANUTENZIONE DI N. 5 BAGNI CHIMICI PRESSO L’IMMOBILE “EX SCUOLA BOIETTO” – PROROGA DI MESI 9, SOCIETÀ SEBACH SPA – LIQUIDAZIONE PERIODO 20/06/2026 – 19/07/2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1718182</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1718182</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">02/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1812</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/5ku6wo6igk1cjc5sns2l95mcoljo7y72.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>(RPS494/26) LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) SU VARI IMMOBILI COMUNALI: IMPRESA SM EDILIZIA DI ALESSANDRO VECCHIOTTI - LIQUIDAZIONE AFFIDAMENTO G00312 - CIG BBE7E7F461</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1718149</link>
@@ -226,58 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/eldddkkzpth8rylt3x14za530bn8wnkq.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>REALIZZAZIONE ASILO NIDO COMUNALE IN PIAZZA N. SAURO – LADISPOLI RM – M4C1 INVESTIMENTO 1.1 “PIANO PER ASILI NIDO E SCUOLE DELL’INFANZIA E SERVIZI DI EDUCAZIONE E CURA PER LA PRIMA INFANZIA” P.N.R.R., FINANZIATO DALL’UNIONE EUROPEA - NEXTGENERATION EU” - LIQUIDAZIONE 2° ACCONTO INCARICO ASSISTENZA RUP IN FASE DI ESECUZIONE ALL’ARCH. L.D.S.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1717943</link>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1717943</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">02/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">17/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1795</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/vyyzdio4tkydkocbri5s936wlodyemxu.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FORNITURA COMBUSTIBILE PLESSO SCOLASTICO "ILARIA ALPI" SITO IN VIA VARSAVIA E VIA PRAGA - PERIODO: DAL 01/05/2026 AL 29/05/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1717940</link>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1717940</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">02/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">17/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1794</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/2w4r89w94war6xaylnhngwto44646hkn.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>MOSTRA MERCATO CONSORZIO MARINA DI SAN NICOLA 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1717892</link>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1717892</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">02/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">17/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1793</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/3k9dydfhx83nxw2tb999bm46y6jgdb5b.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>VERDESTATE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1717887</link>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1717887</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">02/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">17/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1792</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/50n70othjwma8qpckw5fjmjreemic5at.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
