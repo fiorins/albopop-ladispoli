@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 03 Jul 2026 08:36:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 09:05:55 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>(RPS540/26) AFFIDAMENTO DIRETTO E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DELL'OPERATORE ECONOMICO DRAGSUB SRL DI FIUMICINO PER I LAVORI DI MANUTENZIONE DELLA PASSERELLA PEDONALE SITA SUL LUNGOMARE MARCO POLO A LADISPOLI (CIG BC3E6105B0 - AFFIDAMENTO G00336)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1719720</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1719720</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">03/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">18/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1844</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/iq645m10im9vnwihrumc3q3peq2kxw9j.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>PNRR M5C2 INVESTIMENTO 1.2 PROGETTO “PERCORSI DI AUTONOMIA PER PERSONE CON DISABILITÀ" - IMPEGNO DI SPESA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1719717</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1719717</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">03/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">18/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1843</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/adt8h05uf2nb7kzlk9k3uuyqqpvfs679.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>CONFERIMENTO DI INCARICO PROFESSIONALE AD ALTO CONTENUTO SPECIALISTICO ALLO STUDIO AOR AVV.TI QUALE ATTIVITÀ DI SUPPORTO AL RUP, AI SENSI DELL'ART. 2 ALL. I.2. D.LGS. N. 36/2023, PER GLI ADEMPIMENTI DI CUI AL CODICE DEI CONTRATTI PUBBLICI IN MERITO AGLI “INTERVENTI DI DIFESA COSTIERA NEL TRATTO COMPRESO TRA TORRE FLAVIA E MARINA DI PALO” – LIQUIDAZIONE 2° SAL</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1719686</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/65g9z17atnp3471avz4sisyw2oczfjts.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>APPROVAZIONE DEL PROGETTO OBIETTIVO "SICUREZZA SERALE – ESTATE SICURA 2026" PER IL POTENZIAMENTO DEI SERVIZI DELLA POLIZIA LOCALE.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1719200</link>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1719200</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">02/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">17/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1824</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/x236q8nfxqzvhx6bkcgss4lrqe9nm2t0.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>AUTORIZZAZIONE E CONFERIMENTO INCARICO PER RESISTERE INNANZI AL T.A.R. DEL LAZIO AVVERSO IL RICORSO EX ART. 120 C.P.A. NOTIFICATO IN DATA 25/06/2026 (PROT. N. 39214/2026) DALLA SOC. CELEBRATION S.R.L., AVENTE AD OGGETTO L’IMPUGNAZIONE DELLA COMUNICAZIONE PROT. N. 000037559/2026 DEL 18/06/2026 E GLI ATTI PRESUPPOSTI E CONSEGUENTI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1719197</link>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1719197</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">02/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">17/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1823</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/0iji0pak9iwjyjpziv9k32chbrihjtfk.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
