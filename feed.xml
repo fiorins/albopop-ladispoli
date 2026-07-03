@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 02 Jul 2026 16:05:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 07:35:59 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE FATTURA N. 1/10208/2026 EMESSA DALLA S.P.A. FASTRENT PER PER LA FORNITURA A NOLEGGIO DELLE FOTOCOPIATRICI DIGITALI PER GLI UFFICI DEL COMUNE DI LADISPOLI 2^ TRIMESTRE 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1719545</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1719545</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">03/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">18/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1837</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/vprtfvsbkivht00zrvmnnw6c4xw2yz2l.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE DI SPESA IN FAVORE DEL CORPO NAZIONALE DEI VIGILI DEL FUOCO - RILASCIO ATTESTAZIONE DI CONFORMITA' PER IL PLESSO SCOLASTICO DI VIALE VIRGINIA LADISPOLI;</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1719542</link>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1719542</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">03/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">18/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1836</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/g8xah3xtol469eye0828v7xy93trlfbs.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE DI SPESA IN FAVORE DELLA SOCIETA' SERAFIN SRL - FATTURA N. 11 DEL 27/06/2026 - FORNITURA E POSA IN OPERA DI PERGOTENDA PRESSO IL COMMISSARIATO DI P.S. DI LADISPOLI;</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1719382</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/bbjwso4cyoisiik95o68wquvzq2lbg3q.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 6]]></description>
-    </item>
-    <item>
-      <title>INSTALLAZIONE DI PICCOLE E MEDIE ATTRAZIONI DEDICATE AL DIVERTIMENTO DEI BAMBINI - GIARDINI CENTRALI PIAZZA ROSSELLINI - ANNO 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1719174</link>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1719174</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">02/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">17/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1817</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/3mas859uh6npzha2zguxzo37ajsoiae9.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>INTERVENTI DI DIFESA COSTIERA PREVISTI NEL TERRITORIO DEL COMUNE DI LADISPOLI (RM) RELATIVI AL TRATTO DI LITORALE COMPRESO TRA TORRE FLAVIA E MARINA DI PALO LAZIALE - COSTITUZIONE DELLA COMMISSIONE GIUDICATRICE AI FINI DELL'ESPLETAMENTO DELL'AGGIUDICAZIONE DELLA GARA D'APPALTO. LIQUIDAZIONE COMMISSARI DI GARA: ING. DOMINGO POLITO, ARCH. MAURIZIO GIODICE E ARCH. NADIR RAMACCIANI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1719100</link>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1719100</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">02/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">17/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1816</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/nbrfxdik3nwlv9vinaq9h3redqcz5gyy.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
