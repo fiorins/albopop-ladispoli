@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 03 Jul 2026 11:05:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 09:05:31 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI N. 7 NELLA CASA DEL COMUNE LADISPOLI - SARCA GHEORGHE VIOREL ED ALTRI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1720599</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1720599</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">07/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1846</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/tx11z66krn0vptvovazclkl2104f1bih.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>RECUPERO FUNZIONALE DEL CASTELLACCIO DI MONTERONI – CUP E64D21000000005 – FINANZIATO DALL’UNIONE EUROPEA – NEXTGENERATION EU A VALERE SU FONDI P.N.R.R. – M5C2INV2.1 RIGENERAZIONE URBANA – IMPEGNO DI SPESA PER LA “PRESTAZIONE PROFESSIONALE TECNICA PER IL PROGETTO PREVENZIONE INCENDI”</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1719942</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/tw9el7hocmqyicw34tpd9l50pr4ifgy2.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>APPROVAZIONE DEL PROGETTO DI FATTIBILITÀ TECNICO-ECONOMICA (PFTE) RELATIVO ALLE OPERE DI URBANIZZAZIONE PRIMARIA – I° STRALCIO FUNZIONALE LOTTI C2-C3-C4-C5-C6, NELL’AMBITO DEL PIANO DI ZONA L. 167/62 DENOMINATO “RIMESSA NUOVA”, ASSUNTE A SCOMPUTO, AI SENSI DELL’ART. 16 COMMA 2 DEL D.P.R. 380/2001, IN ESECUZIONE DELLA CONVENZIONE URBANISTICA REP. N. 75.988 DEL 27.11.2025.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1719206</link>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1719206</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">02/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">17/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1826</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/ygprioua4cl35yx0joeeucx9fq2uqwrg.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 15]]></description>
     </item>
   </channel>
 </rss>
