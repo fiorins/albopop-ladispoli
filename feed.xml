@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 06 Jul 2026 10:35:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 12:35:53 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>APPROVAZIONE GRADUATORIE PER L'AMMISSIONE ALLA FREQUENZA DEL SERVIZIO DI ASILO NIDO COMUNALE "SENSORY" PER L'ANNO EDUCATIVO 2026/2027</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1720976</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1720976</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1848</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/29hzs4nuk8m4egvj5cn46trc82tv0x93.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>CONTRIBUTO PER LA REALIZZAZIONE DI PROGETTI A SOSTEGNO DELLA TARIFFAZIONE PUNTUALE DI CUI ALLE DETERMINAZIONI DIRIGENZIALI R.U. 6039/2017 E R.U. 5401/2019 – RETTIFICA ALLA D.D. N°43 DEL 11/01/2025 – RENDICONTAZIONE DEL PROGETTO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1720721</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/o71nrrds1xm41jhu1e8u4tcsbkk7zx34.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>APPROVAZIONE CONVENZIONE TRA IL COMUNE DI LADISPOLI E L'ASSOCIAZIONE “FARE AMBIENTE – LABORATORIO VERDE AREA METROPOLITANA LADISPOLI ODV” PER ATTIVITÀ DI VOLONTARIATO PRESSO IL PALAZZETTO DELLO SPORT A. SORBO.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1719212</link>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1719212</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">02/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">17/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1828</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/w5iyu6z83l3k2k7vq8cgxqewfn9c894v.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
     </item>
   </channel>
 </rss>
