@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 07 Jul 2026 07:35:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 13:35:47 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RIF.TO ISTANZA PROT. N. 0044372/2025 DEL 08/07/2025 E SUCCESSIVE INTEGRAZIONI. DISCIPLINA TRANSITORIA DELLA PROSECUZIONE DELLO SCARICO DI ACQUE REFLUE INDUSTRIALI NELLE MORE DELLA CONCLUSIONE DEL PROCEDIMENTO DI RINNOVO DELL'AUTORIZZAZIONE ALLO SCARICO N. 13 DEL 05/07/2022.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1721844</link>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1721844</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">07/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">22/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1857</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/4zrpw5b1ft6gn6vtsazwv1n6somej54j.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>DETERMINAZIONE A CONTRARRE E AFFIDAMENTO DIRETTO AI SENSI DELL’ART. 50, COMMA 1, LETT. B) DEL D.LGS. N. 36/2023, DEL SERVIZIO DI VALIDAZIONE PEF SECONDO MTR ARERA ANNO 2026 (DEL. 397/2025/R/RIF) E IMPEGNO DI SPESA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1721395</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/hybi172re98yl47x3ik6e3kggzxwfm51.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA N. 1/10208/2026 EMESSA DALLA S.P.A. FASTRENT PER PER LA FORNITURA A NOLEGGIO DELLE FOTOCOPIATRICI DIGITALI PER GLI UFFICI DEL COMUNE DI LADISPOLI 2^ TRIMESTRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1719545</link>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1719545</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">03/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">18/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1837</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/vprtfvsbkivht00zrvmnnw6c4xw2yz2l.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
