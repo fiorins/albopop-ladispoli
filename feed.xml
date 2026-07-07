@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 07 Jul 2026 05:35:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 07:05:38 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>(RPS482/26) LAVORI DENOMINATI "RIQUALIFICAZIONE PARCHEGGIO COMUNALE SITO IN LADISPOLI, PIAZZA GIOVANNI FALCONE" - RIMODULAZIONE N. 2 DEL QUADRO ECONOMICO PER AGGIORNAMENTO SPESE TECNICHE - CONFERMA AFFIDAMENTO E IMPEGNO DI SPESA PER INCARICO PROFESSIONALE DELLA DIREZIONE DEI LAVORI IN FAVORE DELL'ING. ANTONIO NAPOLITANO.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1721366</link>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1721366</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">07/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">22/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1855</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/5l7f8j9vurejxr5nzi6ul078inj1comn.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI A CAPOBIANCO MAURIZIO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1721310</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/g8xah3xtol469eye0828v7xy93trlfbs.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELLA SOCIETA' SERAFIN SRL - FATTURA N. 11 DEL 27/06/2026 - FORNITURA E POSA IN OPERA DI PERGOTENDA PRESSO IL COMMISSARIATO DI P.S. DI LADISPOLI;</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1719382</link>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1719382</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">02/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">17/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1835</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/9qcliw6aazo25whib0w3eozfvprhhzzy.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
