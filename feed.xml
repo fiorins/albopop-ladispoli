@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 07 Jul 2026 16:09:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 17:05:39 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RETTIFICA ORDINANZA MOSTRA MERCATO CONSORZIO MARINA DI SAN NICOLA 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1722153</link>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1722153</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">07/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">22/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1883</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/hmhthoyaxrdfwsapbe1roo8n5edgutb0.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELLA SODI SCIENTIFICA PER CONTRATTO LUNGO NOLEGGIO MESI 36 DI 4 POSTAZIONI VELOX FISSE FATT. NR. 454/S DEL 30/06/2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1722114</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/gdlmn595gug5uh5pzew0pdlgacq1e3mx.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>DECISIONE A CONTRARRE E CONTESTUALE AFFIDAMENTO TRAMITE TRATTATIVA DIRETTA MEPA AI SENSI DELL’ART. 50, COMMA 1, LETTERA B) DEL D.LGS. 36/2023, IN FAVORE DELLA SOCIETÀ SEBACH S.P.A. PER IL SERVIZIO DI NOLEGGIO DI N. 9 BAGNI CHIMICI MOBILI COMPRESO DI TRASPOSTO, INSTALLAZIONE, FORNITURA DI MATERIALE NECESSARIO ALL’USO, PULIZIA, RITIRO E SMALTIMENTO RIFIUTI PRESSO IMPIANTI AUTORIZZATI, IN OCCASIONE DELL’EVENTO DENOMINATO LADISPOLI SUMMER FEST, EDIZIONE 2026 - CIG BC22CF95FB - ASSUNZIONE IMPEGNO DI SPESA.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1721954</link>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1721954</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1863</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/0hz0y3d3b093lwko0jjvmjf4rrs36rxn.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
