@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 08 Jul 2026 10:05:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 11:36:09 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,58 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE CANONE LUNGO NOLEGGIO VETTURE AUTOPARCO COMUNALE SOC. ALD AUTOMOTIVE ITALIA SRL LOTTO 1-2-3 TASSA DI PROPRIETA' DAL 01/06/2026 AL 30/09/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1722581</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1722581</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">08/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">23/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1896</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/dijmbeh0kyci42tdo42zvqqkxuvzhflw.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE CONTRIBUTO ASSISTENZA DOMICILIARE INDIRETTA IN FAVORE DEGLI GLI UTENTI GIA FRUITORI DEL PROGETTO ALZHEIMER</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1722578</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1722578</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">08/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">23/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1895</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/ncavl0jvzeec9kweaoufwi0cv76fki7e.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>PPP PER LA GESTIONE DEI SERVIZI ENERGIA TERMICA, EFFICIENTAMENTO ENERGETICO E MANUTENZIONE IMPIANTI TECNOLOGICI PRESSO GLI EDIFICI DI PROPRIETÀ E/O IN USO AL COMUNE DI LADISPOLI - CONTRATTO REP. N.4711 DEL 04.11.2021 - LIQUIDAZIONE A FAVORE DELLA CONCESSIONARIA SIRAM S.P.A. (ORA VEOLIA ITALIA S.P.A.) DEL CANONE CONCESSORIO REVISIONATO RELATIVO AL PERIODO APR. - GIU. 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1722575</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1722575</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">08/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">23/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1894</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/t8iedy4u504ejoqqbv7jzui8y111p9xx.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>PRENOTAZIONE DI IMPEGNO - SPESE PER CONTENZIOSO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1722572</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1722572</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">08/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">23/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1893</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/obdbbib9x6xphm0i7pst98vn5dhxkej6.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>DETERMINA DI IMPEGNO IN FAVORE DELL'ASSOCIAZIONE NAZIONALE MARINAI D'TALIA GRUPPO DI LADISPOLI VALIDA FINO AL 30/06/2027</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1722394</link>
@@ -226,58 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/ekpgcx64a5d0k8bhjtxza4k0odvujfoy.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELL’ APS APERTA PARENTESI E DELLA LIBRERIA SCRITTI E MANOSCRITTI PER L’ EROGAZIONE DI SERVIZI E FORNITURE NELL’AMBITO DEL CONTRIBUTO DELLA REGIONE LAZIO A FAVORE DELLA BIBLIOTECA COMUNALE (DETERMINAZIONE G17639 DEL 22/12/2025) - LINEA DI INTERVENTO A.1 ED A.3</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1722096</link>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1722096</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1876</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/bzmmrf6vmv8qep3sfq1g2k9u2vdfbxvo.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>OGGETTO: ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELL'ASSOCIAZIONE GUARDIE DI FARE AMBIENTE - CONTRIBUTO MAGGIO E GIUGNO ANNUALITA' 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1722093</link>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1722093</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1875</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/bu1a5xwqlgmcminb33umu45x461i2ozv.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>OGGETTO: ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELL'ASSOCIAZIONE DI PROTEZIONE CIVILE AVALON - CONTRIBUTO MAGGIO E GIUGNO ANNUALITA' 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1722090</link>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1722090</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1874</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/lzvh7208bec36hyjlzjciw4qatmt9h7b.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>OGGETTO: ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELL'ASSOCIAZIONE VERDE SPERANZA - CONTRIBUTO MAGGIO E GIUGNO ANNUALITA' 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1722087</link>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1722087</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1873</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/vkv1erbzp9vrh6ghbxjgbzn2809n9cls.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
