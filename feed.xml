@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 08 Jul 2026 09:35:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 10:05:47 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DETERMINA DI IMPEGNO IN FAVORE DELL'ASSOCIAZIONE NAZIONALE MARINAI D'TALIA GRUPPO DI LADISPOLI VALIDA FINO AL 30/06/2027</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1722394</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1722394</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">08/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">23/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1892</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/kvzn8k01xe21gkj8md6vg41eazgf1lnq.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>IMPEGNO DI SPESA PER SEGNALETICA ORIZZONTALE - VERTICALE E DI SICUREZZA CIG: BC45D63DDC.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1722368</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/vkv1erbzp9vrh6ghbxjgbzn2809n9cls.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>OGGETTO: ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELL'ASSOCIAZIONE NAZIONALE CARABINIERI - CONTRIBUTO MAGGIO E GIUGNO ANNO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1722084</link>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1722084</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1872</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ahjs66cjw7kvqeeddivmtw33fo7ppdei.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
