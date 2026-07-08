@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 08 Jul 2026 09:07:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 09:35:42 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>IMPEGNO DI SPESA PER SEGNALETICA ORIZZONTALE - VERTICALE E DI SICUREZZA CIG: BC45D63DDC.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1722368</link>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1722368</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">08/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">23/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1891</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/n7qp1ki2ilrwlxao0ly1pm8yc5b6uyro.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>APPROVAZIONE RENDICONTO SPESE ECONOMALI RELATIVE AL SECONDO TRIMESTRE 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1722329</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/ahjs66cjw7kvqeeddivmtw33fo7ppdei.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>OGGETTO: ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELL'ASSOCIAZIONE NAZIONALE POLIZIA DI STATO - CONTRIBUTO MAGGIO E GIUGNO ANNO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1722081</link>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1722081</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1871</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ayg68xde7z0hf33m8zvm9af0f9mqiomy.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
