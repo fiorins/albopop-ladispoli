@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 09 Jul 2026 16:05:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 17:05:42 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>OCCUPAZIONE SUOLO PUBBLICO VIA BORDIGHERA TRATTO COMPRESO TRA VIA BARI E FRONTE CIVICO 15 (LATO BOCCIODROMO COMUNALE)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1724005</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1724005</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">09/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">24/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1931</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/7vboc411bd5a76j2i73f3ho421cd09aq.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>ISTITUZIONE DI DIVIETO DI SOSTA E FERMATA LUNGOMARE MARCO POLO LATO MARE</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1723902</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/ji0yanzbkz9v1iu4x9uvgje0f4wxhlvd.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RETTE PER L'ACCOGLIENZA DI MINORI IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI - LIQUIDAZIONE DI SPESA IN FAVORE DELLA COOPERATIVA SOCIALE “LA GOLETTA” – 2° TRIMESTRE 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1723700</link>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1723700</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">09/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">24/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1911</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/p2sln04allpmn0c7s8dhz2kc09o63wpq.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
