@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 09 Jul 2026 08:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 09:05:36 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI N. 8 NELLA CASA DEL COMUNE LADISPOLI - ARSENI GHEORGHE ED ALTRI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1723268</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1723268</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">09/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">10/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1900</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/y71dzpm4ve4yzyf9lo8s9d2op3xdzvaa.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>PROVVEDIMENTO FINALE RICHIESTA RICONOSCIMENTO INFERMITÀ DIPENDENTE DA CAUSA DI SERVIZIO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1723236</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/lxufjtmvhuy5rx69bu5agzthk8yu8tbz.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE ALLEVAMENTO VALLE DI FAUL PER SPESE VETERINARIE - FATTURA NR. 40 DEL 05/07/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1722108</link>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1722108</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1880</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/rgxo4o0yg9zh34au658y1g2juwrjg1l7.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
