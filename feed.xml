@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 09 Jul 2026 11:35:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 12:05:51 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>SPOSTAMENTO DELL'IMPEGNI DI SPESA DAL CAPITOLO 2325/0 AL CAPITOLO 2326/12 PER MERO ERRORE MATERIALE.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1723631</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1723631</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">09/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">24/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1906</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/p8dz8rcmi17b7dvmchvo5q8blvtwgcxu.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>ISCRIZIONE NEL REGISTRO COMUNALE FINALIZZATO A SELEZIONARE OPERATORI ECONOMICI DA INVITARE AI SENSI DELL’ART. 50 C. 1 LETT. B) DEL D.LGS. 36/2023 PER L’AFFIDA-MENTO DEL PROGETTO DESTINATO AD ADULTI IN CONDIZIONI DI GRAVE DISAGIO SOCIALE CHE SI TROVANO A VIVERE IN SITUAZIONI DI ISOLAMENTO DOMESTICO E IN AMBIENTI INSALUBRI RISERVATO AD IMPRESE SPECIALIZZATE PULIZIE AMBIENTI DOMESTICI INSALUBRI- CODICE ACCREDITAMENTO LAD-RM-1608878 SOC. SANAGENS SRLS</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1723485</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/vu4blcagil2kn89vme6tlnu470qqri2b.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>DETERMINA A CONTRARRE DI AVVIO PROCEDURA NEGOZIATA SENZA BANDO DI GARA (ART. 50, COMMA 1, LETTERA C, DEL D. LGS. N. 36/2023 E S.M.I) PER L’AFFIDAMENTO DEI LAVORI PER GLI "INTERVENTI DI EFFICIENZA ENERGETICA E REALIZZAZIONE DI SISTEMI DI PRODUZIONE DI ENERGIA DA FONTI RINNOVABILI NELL'I.C. LADISPOLI I, PLESSO "CANDIDA ZARELLI"" – E64D25000410008.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1722316</link>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1722316</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">08/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">23/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1886</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/6v6l49hh564jutwfrww3lz3ypznf6vc3.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
