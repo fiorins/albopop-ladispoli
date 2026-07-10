@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 09 Jul 2026 17:05:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 08:35:53 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AGGIORNAMENTO AL 30 GIUGNO 2026 DEL PIANO DEI FLUSSI DI CASSA PER L'ANNO 2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1724156</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1724156</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">10/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">25/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1932</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/xro69f2plhi3kpyf06imn4bi5p24mac7.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>OCCUPAZIONE SUOLO PUBBLICO VIA BORDIGHERA TRATTO COMPRESO TRA VIA BARI E FRONTE CIVICO 15 (LATO BOCCIODROMO COMUNALE)</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1724005</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/vio6xm6ojjxok25p1z8ehqu8no45gk52.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA E LIQUIDAZIONE DEI DIRITTI DI ISTRUTTORIA A FAVORE DELL’ARPA LAZIO PER IL RILASCIO DI AUTORIZZAZIONI IN DEROGA RIGUARDANTI MANIFESTAZIONI ED EVENTI PER MANIFESTAZIONI TEMPORANEE IN LUOGO PUBBLICO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1723703</link>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1723703</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">09/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">24/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1912</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ji0yanzbkz9v1iu4x9uvgje0f4wxhlvd.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
