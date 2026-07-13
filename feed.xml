@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 13 Jul 2026 11:38:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 12:05:43 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AFFIDAMENTO IN FAVORE DEL PROFESSIONISTA V.P. COMPLETAMENTO MANUTENZIONE STRADE RURALI DELLA VIABILITÀ CITTADINA DEL COMUNE DI LADISPOLI - REDAZIONE DEL PROGETTO ESECUTIVO DELL' INTERVENTO, COORDINAMENTO DELLA SICUREZZA IN FASE DI PROGETTAZIONE ED ESECUTIVA, DIREZIONE DEI LAVORI - CIG BC5317E6D2;</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1725559</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1725559</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">13/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">28/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1957</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/9i930jtrcaplplj83hpbodijyop1nj09.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>APPROVAZIONE SCHEMA DI CONVENZIONE E CONCESSIONE DI CONTRIBUTO ECONOMICO IN FAVORE DI VARIE ASSOCIAZIONI PER ATTIVITA' DI VOLONTARIATO DA ESPLETARSI DURANTE LA MANIFESTAZIONE “LADISPOLI LIVE 2026”.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1725521</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/afevd8l06672y23fx9f5rs4t9aldpgxd.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>OGGETTO: INTEGRAZIONE DECRETO SINDACALE N. 15/2024 - CONFERIMENTO DI INCARICO DI DIREZIONE DELL'AREA II “BILANCIO E PROGRAMMAZIONE ECONOMICO FINANZIARIA”</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1724511</link>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1724511</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">10/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">25/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1937</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DECRETI</category>
-      <enclosure url="https://app.box.com/shared/static/q2u63dzeicb03nehhvcwla010hnyzi8z.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
