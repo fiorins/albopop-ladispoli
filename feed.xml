@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 13 Jul 2026 08:06:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 09:06:12 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>PRESA D’ATTO DELLE DIMISSIONI VOLONTARIE DI UN DIPENDENTE DALLA DATA DEL 03/08/2026 (ULTIMO GIORNO DI SERVIZIO 02/08/2026).</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1725272</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1725272</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">13/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">28/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1948</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/oa6vbjecntuooihqlpvuxrhoyg1nudwq.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>RIMBORSO A FAVORE DELLA SIG.RA T. PAOLA, DI SOMME VERSATE IN ECCEDENZA PER IL PAGAMENTO DI C.I.L.A. IN SANATORIA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1725269</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1725269</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">13/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">28/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1947</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/gtz9fdd17rzhtyln44lh0kbssbeow849.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE ALLA SOCIETA’ ARTI GRAFICHE LAURIA DI EMANUELE LAURIA E &amp; S.N.C. P.IVA: IT0597791004, FATTURA N. 183 DEL 07/07/2025 PER LA REALIZZAZIONE DI VARIA CARTELLONISTICA DI AVVISO E DI DIVIETO, DA INSTALLARE SUGLI ARENILI LIBERI DEL COMUNE DI LADISPOLI IN VIRTU’ DEL PROGETTO SPIAGGE SICURE 2026 CIG: BBBB74DEC0.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1725235</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1725235</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">13/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">28/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1946</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/ccqz2di04k6vkyi2ruzdzosnsku9srrn.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>RIVERSAMENTO A COMUNE DI ARDEA DELLA SOMMA DI €. 215,00 A TITOLO DI TARI ERRONEAMENTE VERSATA AL COMUNE DI LADISPOLI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1725144</link>
@@ -238,45 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">ORDINANZE</category>
       <enclosure url="https://app.box.com/shared/static/hmxopy2v18vdj1oasn9v7eq844vhxc7m.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>ISTITUZIONE DI DIVIETO DI SOSTA E FERMATA LUNGOMARE MARCO POLO LATO MARE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1723887</link>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1723887</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">09/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">24/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1928</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/96a4nij66gqq0c0ln4gfey3d9kh51ytw.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>SERVIZIO DI RADIOINFORMAZIONE, TRASCRIZIONE INTEGRALE DELLE SEDUTE CONSILIARI E DIFFUSIONE DI INIZIATIVE DI CARATTERE CULTURALE, SOCIALE E POLITICO-AMMINISTRATIVO - ASS. CULTURALE CENTRO MARE RADIO. LIQUIDAZIONE I SEMESTRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1723852</link>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1723852</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">09/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">24/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1927</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/6502wlef8bz3c7nvizyqidz1tfx25c5i.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FORNITURA CARBURANTE PER LA TRAZIONE DEGLI AUTOMEZZI COMUNALI FATTURA N. 9601276872 DEL 30/06/2026 - IP PLUS SRL</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1723849</link>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1723849</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">09/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">24/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1926</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/zlffqdm7ipjnmkbjgjspxsh18lr3ge57.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
