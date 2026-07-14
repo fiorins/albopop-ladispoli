@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 14 Jul 2026 05:35:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 06:05:38 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A HASAN SUMON</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1726017</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1726017</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">22/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1966</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/dl4uhtvdr9htci59ukh1ni1bvx4ekn6r.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A IADELUCA JESSICA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1726015</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1726015</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">22/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1965</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/b5tjiawkd0ikg9p9q8cfakeyxn6b2ehg.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A CARDILLO SALVATORE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1726013</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1726013</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">22/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1964</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/8xgjoi9qdhh5yx0sww0qcm24sxc43ufl.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI A CRISTAO SANDRO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1725984</link>
@@ -238,45 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/gtz9fdd17rzhtyln44lh0kbssbeow849.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE ALLA SOCIETA’ ARTI GRAFICHE LAURIA DI EMANUELE LAURIA E &amp; S.N.C. P.IVA: IT0597791004, FATTURA N. 183 DEL 07/07/2025 PER LA REALIZZAZIONE DI VARIA CARTELLONISTICA DI AVVISO E DI DIVIETO, DA INSTALLARE SUGLI ARENILI LIBERI DEL COMUNE DI LADISPOLI IN VIRTU’ DEL PROGETTO SPIAGGE SICURE 2026 CIG: BBBB74DEC0.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1725235</link>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1725235</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">13/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">28/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1946</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ccqz2di04k6vkyi2ruzdzosnsku9srrn.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>RIVERSAMENTO A COMUNE DI ARDEA DELLA SOMMA DI €. 215,00 A TITOLO DI TARI ERRONEAMENTE VERSATA AL COMUNE DI LADISPOLI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1725144</link>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1725144</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">13/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">28/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1945</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ft9fbiee1vmbb101m5cstxjdvlc50qsz.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>NOMINA DEL VICESEGRETARIO GENERALE PER IL GIORNO 13 LUGLIO 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1725075</link>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1725075</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">13/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">28/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1944</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DECRETI</category>
-      <enclosure url="https://app.box.com/shared/static/wx29x4t9pk3867bqd6kl7m16buwgvx4w.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
