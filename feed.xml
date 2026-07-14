@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 14 Jul 2026 10:05:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 13:06:22 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONCESSIONE CONTRIBUTO ECONOMICO IN FAVORE DELL'ASSOCIAZIONE “FARE AMBIENTE LABORATORIO VERDE AREA METROPOLITANA DI LADISPOLI” PER ATTIVITÀ DI VOLONTARIATO PRESSO IL PALAZZETTO DELLO SPORT - ASSUNZIONE IMPEGNO DI SPESA.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1726794</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1726794</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1973</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/ldo0x35c5h5lk0yvjrgxecpf6himtv2c.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURE EMESSE DALLA FASTWEB PER LE SPESE RELATIVE A CANONI, CONSUMI DATI E FONIA DELLE SEDI COMUNALI PERIODO MAGGIO/GIUGNO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1726791</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1726791</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1972</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/677c95drgih6twf4pty2ze20z1pl0p0m.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 5]]></description>
+    </item>
     <item>
       <title>OCCUPAZIONE SUOLO PUBBLICO CONDOMINIO VIA PALERMO 117 VIA VENEZIA 10</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1726469</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/v4nf1kuz7u72rngi01mqwldouczvs9x6.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>CONCESSIONE PATROCINIO ONEROSO IN FAVORE DELL’ASSOCIAZIONE “CENTRO DI FORMAZIONE MUSICALE ALTRO SUONO” PER LA REALIZZAZIONE DI 4 CONCERTI IN PROGRAMMA NEI GIORNI 15, 22, 29 LUGLIO E 5 AGOSTO 2026 PRESSO L’AREA VERDE PARCO DI PALO.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1725512</link>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1725512</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">13/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">28/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1953</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/wzm4v8yi4m9s2fbx7n3hxvt3p7sn5t91.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>SDEMANIALIZZAZIONE E SCARTO DI VOLUMI APPARTENENTI AL PATRIMONIO LIBRARIO/DOCUMENTARIO DELLA BIBLIOTECA COMUNALE “PEPPINO IMPASTATO”.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1725509</link>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1725509</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">13/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">28/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1952</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/nfszik384hl42p6tj4qsb4hk9op42oip.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 6]]></description>
     </item>
   </channel>
 </rss>
