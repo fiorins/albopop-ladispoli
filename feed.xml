@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 14 Jul 2026 08:35:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 09:06:59 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DISCIPLINA VIABILITÀ IN OCCASIONE EVENTI 24 E 25 LUGLIO 2026 NELL'AMBITO DELLA MANIFESTAZIONE LADISPOLIVE 2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1726337</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1726337</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1969</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/kucbgxg784boraa77gtxcqow8xcxovh0.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI N. 9 NELLA CASA DEL COMUNE LADISPOLI - LANDOLFO CONCETTA ED ALTRI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1726298</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/n277z1qlaq4wcvnubsecd8kh6rliqaa6.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>AUTORIZZAZIONE E CONFERIMENTO INCARICO PER RESISTERE INNANZI AL TRIBUNALE CIVILE DI CIVITAVECCHIA NEL GIUDIZIO N. 1399/2026 R.G. CON GESTIONE DIRETTA DELLA CAUSA DA PARTE DI VITTORIA ASSICURAZIONE S.P.A. A MEZZO DI LEGALE FIDUCIARIO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1725500</link>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1725500</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">13/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">28/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1949</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/27zivyi8oglwp29mallnintippoo6qbp.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
