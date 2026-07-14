@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 14 Jul 2026 06:35:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 08:35:28 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI N. 9 NELLA CASA DEL COMUNE LADISPOLI - LANDOLFO CONCETTA ED ALTRI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1726298</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1726298</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">15/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1968</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/y0bv5k1cq6je109wp9bwq30oid4wl2dt.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>ASSOCIAZIONE UNIONE NAZIONALE POLIZIA PENITENZIARIA U.N.P.PE PER IL SERVIZIO DI VIGILANZA PRESSO IL PALAZZETTO COMUNALE. LIQUIDAZIONE RIMBORSO SPESE PER IL MESE DI GIUGNO 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1726024</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/27zivyi8oglwp29mallnintippoo6qbp.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>PRESA D’ATTO DELLE DIMISSIONI VOLONTARIE DI UN DIPENDENTE DALLA DATA DEL 03/08/2026 (ULTIMO GIORNO DI SERVIZIO 02/08/2026).</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1725272</link>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1725272</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">13/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">28/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1948</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/oa6vbjecntuooihqlpvuxrhoyg1nudwq.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
 </rss>
