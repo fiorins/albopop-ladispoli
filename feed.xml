@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 15 Jul 2026 09:35:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:05:37 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A FABRIZI SANDRO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1727469</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1727469</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">15/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">16/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-1991</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/ydlqtfe0dc31a479wq5341ohlkby6w1g.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>CONGEDO DI PATERNITA’ AI SENSI DELL’ART. 27-BIS DEL D.LGS. N. 151/2001 A FAVORE DI UN DIPENDENTE. DETERMINAZIONI.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1727427</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/677c95drgih6twf4pty2ze20z1pl0p0m.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 5]]></description>
-    </item>
-    <item>
-      <title>OCCUPAZIONE SUOLO PUBBLICO CONDOMINIO VIA PALERMO 117 VIA VENEZIA 10</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1726469</link>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1726469</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">14/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">29/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1971</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/lt832muim4ctorurcfw9hdd6qdj6vx3y.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
