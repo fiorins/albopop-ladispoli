@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 16 Jul 2026 14:06:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 14:35:47 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELL'ARCH. TODINI MARIO - FATTURA 10/E DEL 15/04/2026 CONSEGNA PROGETTO ESECUTIVO - INCARICO PROFESSIONALE RELATIVO ALLA PROGETTAZIONE DI FATTIBILITÀ TECNICO-ECONOMICA (PFTE) E DELLA PROGETTAZIONE ESECUTIVA DELL’OPERA DENOMINATA: “REALIZZAZIONE DEL NUOVO PALAZZETTO DELLO SPORT PALA LADISLAO” - CIG:B974B2A95F;</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728909</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1728909</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">31/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2021</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/dtoomdmfvu1c24t82hvz93s7jshl04o1.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DUE DEPOSITI ATTI A DI VIZIO MARIA ANTONIETTA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728858</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1728858</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2020</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/kjicnvli8gorgxgsbe6awcmnjiu3qy8h.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE SPESA PER LA FORNITURA DI BUONI PASTO ELETTRONICI FATTURA N. VO-118961 DEL 14/07/2026 DAY RISTOSERVICE S.P.A.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728827</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/ohxeiu3ydjc80896gpgjceo2u5ewkxbs.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>RIU 79/2026 - SERVIZIO PER IL TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI INDIFFERENZIATI RESIDUI CODICE EER 20.03.01 – ORDINANZA DI LIQUIDAZIONE GIUGNO 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728086</link>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1728086</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">31/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2001</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/4lvb6rc147gi9a71hxjcdh4fl453es64.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA E CONTESTUALE LIQUIDAZIONE ANNO 2026, A FAVORE DI GE.FI.L. S.P.A. C.F. E P.I.01240080117, CONCESSIONARIO PER LA RISCOSSIONE DEL CONSORZIO DI BONIFICA LITORALE NORD, INGIUNZIONE DI PAGAMENTO N.2026199280000153671, PER CONTRIBUTO IRRIGAZIONE TERRENI COMUNALI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728063</link>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1728063</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">31/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2000</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/a599mw0xxrt6cascgjh2m1m84j6jptvc.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
