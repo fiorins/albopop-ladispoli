@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 16 Jul 2026 14:35:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 15:05:40 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DETERMINAZIONE A CONTRARRE PER AFFIDAMENTO DIRETTO - SERVIZIO D'USO DEL SOFTWARE "BILANCIO CONSOLIDATO 2025" - CIG: BC6C13F9FB - IMPEGNO DI SPESA A FAVORE DELLA SOC. CEL NETWORK SRL.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728921</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1728921</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">31/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2022</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/0cdaj48d8twc8qupqclcddnqymtipbk6.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE DI SPESA IN FAVORE DELL'ARCH. TODINI MARIO - FATTURA 10/E DEL 15/04/2026 CONSEGNA PROGETTO ESECUTIVO - INCARICO PROFESSIONALE RELATIVO ALLA PROGETTAZIONE DI FATTIBILITÀ TECNICO-ECONOMICA (PFTE) E DELLA PROGETTAZIONE ESECUTIVA DELL’OPERA DENOMINATA: “REALIZZAZIONE DEL NUOVO PALAZZETTO DELLO SPORT PALA LADISLAO” - CIG:B974B2A95F;</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728909</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/mabnn8ar3k3cugmw9jd9zl14sn4m3yuk.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA PER SOMME DOVUTE A TITOLO DI RIFUSIONE DEI DANNI MATERIALI A SEGUITO DI SINISTRO AVVENUTO IL 17.03.2026 – RICHIESTA DI RISARCIMENTO PROT. N. 27132 DEL 28.04.2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728089</link>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1728089</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">31/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2002</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ohxeiu3ydjc80896gpgjceo2u5ewkxbs.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
