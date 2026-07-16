@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 16 Jul 2026 13:36:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 14:06:47 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,58 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE SPESA PER LA FORNITURA DI BUONI PASTO ELETTRONICI FATTURA N. VO-118961 DEL 14/07/2026 DAY RISTOSERVICE S.P.A.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728827</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1728827</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">31/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2019</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/byq9h6e7wa6z1dcv5b8qiwvg9gd473sk.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DI VARI CITTADINI PER SOMME ERRONEAMENTE VERSATE GIUGNO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728824</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1728824</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">31/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2018</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/lckzh4a7i1eczi7jouhnn6t97z5cwjk3.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELLA SAP SRL QUALE AGGIO SULLA RISCOSSIONE COATTIVA DA VIOLAZIONI AL CDS - FATTURE 390/01 E 391/01 DEL 15/07/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728821</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1728821</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">31/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2017</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/rpef2smjzdm9mi4mkcwijip1cs1zpejx.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>(RPS564/26) AFFIDAMENTO DIRETTO E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DELL'OPERATORE ECONOMICO AZ SYSTEM DI FRESILLI LUCIANO PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) SU VARI IMMOBILI COMUNALI (AFFIDAMENTI NN. G00258 - G00341 - G00273 - G00271 - G00263 - G00268 - G00342 - G00264 - G00265 - G00272 - G00343 - G00344)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728818</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1728818</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">31/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2016</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/es0bmv1m41ec1pv6hzi9k3e6lk0zeum9.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>DECISIONE A CONTRARRE E CONTESTUALE AFFIDAMENTO AI SENSI DELL’ART. 50, COMMA 1, LETTERA B) DEL D.LGS. 36/2023, IN FAVORE DELLA SOC. “RISORGIMENTO PRODUZIONI SPETTACOLI” PER IL SERVIZIO DI REALIZZAZIONE DI UNO SPETTACOLO CON L’ ARTISTA ENRICO MONTESANO IN PROGRAMMA IL 24/07/2026 IN PIAZZA R. ROSSELLINI INSERITO NEL CALENDARIO DEGLI EVENTI ESTIVI 2026 - ASSUNZIONE IMPEGNO DI SPESA.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728752</link>
@@ -226,58 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/a599mw0xxrt6cascgjh2m1m84j6jptvc.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A LUCAFERRI VITTORIO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1727936</link>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1727936</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">24/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1999</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/vmbox38p1b8ef0o7hghpa1erykvayxtj.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A ASHRAF AHMED RASHED OLA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1727934</link>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1727934</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">24/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1998</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/vq4l5lrm0mwzgzmyxwvixqswssbr06yl.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A ANCUTA ANA RODICA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1727932</link>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1727932</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">24/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1997</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/6fsmclnxqwymoo36pcok06acbobhanam.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A DI VITO GIOVANNA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1727930</link>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1727930</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">24/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1996</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/6zq1t74fcy3yjq7kol8y9dptcq8m9w6f.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
 </rss>
