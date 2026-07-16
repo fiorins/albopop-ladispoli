@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 16 Jul 2026 07:36:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 09:35:53 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE CANONE MACCHINA AFFRANCATRICE POSTALE FRANCOTYP - POSTALIA MODELLO POSTBASE 65 MESE DI LUGLIO AGOSTO E SETTEMBRE 2026 - FRANCOTYP POSTALIA ITALIA SRL</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728283</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1728283</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">31/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2005</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/8hek1edv6rb5i8l4gdw5vuj78ex6ssvf.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>IMPEGNO DI SPESA PER IL SERVIZIO DI ASSISTENZA EDUCATIVA SCOLASTICA E SOSTEGNO ALLE AUTONOMIE (OEPAC) ANNO SCOLASTICO 2026 IN FAVORE DELLA COOPERATIVA SOCIALE “ALDIA (TO)” PER IL SERVIZIO AD UN ALUNNO RESIDENTE NEL COMUNE DI LADISPOLI COLLOCATO TEMPORANEAMENTE C/O UNA FAMIGLIA FUORI REGIONE</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728095</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">ORDINANZE</category>
       <enclosure url="https://app.box.com/shared/static/w2b5v4vtppnkuynkf9abppzs1nzwibab.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>DECISIONE A CONTRARRE E CONTESTUALE AFFIDAMENTO DIRETTO EX ART. 50, COMMA 1, LETT. B) D.LGS. 36/2023 ALLA SOCIETÀ ON AIR SRL PER IL SERVIZIO DI NOLEGGIO, TRASPORTO, INSTALLAZIONE E GESTIONE DI UN GRUPPO ELETTROGENO NECESSARIO ALLA REALIZZAZIONE DEL SUMMER FEST 2026 IN PIAZZA R.ROSSELLINI - ASSUNZIONE IMPEGNO DI SPESA.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1727145</link>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1727145</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1985</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/q954vwbae6tngxcjsblm940kq4zvfjuq.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
