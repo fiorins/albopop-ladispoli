@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 16 Jul 2026 10:35:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 11:35:46 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>PRESA D'ATTO DELL’ELABORAZIONE E DELLA SOTTOSCRIZIONE DI N. 6 PROGETTI DI VITA IN FAVORE DI PERSONE DISABILI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728581</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1728581</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">31/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2011</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/dyn5kv35zy6pfqobittmb8uii3c5ugc1.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE DI SPESA IN FAVORE DELL’OPERATORE ECONOMICO ASSOCIAZIONE CULTURALE ART LIVE MUSIC PER L’AFFIDAMENTO DEL SERVIZIO DI N. 1 SPETTACOLO A CARATTERE ARTISTICO IN PROGRAMMA IL 05/07/2026 IN PIAZZA R. ROSSELLINI, COME PREVISTO NEL CALENDARIO DEGLI EVENTI ESTIVI, EDIZIONE 2026.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728407</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/u7ccy466ftffmkfvh5megbzt9tfs29lc.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A FABRIZI SANDRO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1727469</link>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1727469</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">16/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-1991</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/ydlqtfe0dc31a479wq5341ohlkby6w1g.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
 </rss>
