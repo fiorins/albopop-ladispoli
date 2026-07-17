@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 16 Jul 2026 15:05:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 07:36:05 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DELEGA ALL’E.Q. DOTT.SSA LIA SENZAMICI ALLA SOTTOSCRIZIONE DI DETERMINAZIONI DIRI-GENZIALI E DI CONVENZIONI/CONTRATTI IN ASSENZA DEL DIRIGENTE DELL’AREA V – SETTORE SECONDO – PERIODO DAL 20 AL 24 LUGLIO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1729198</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1729198</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">17/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">01/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2024</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/ebdrb1fjc9mvmtq8zgbxbqm1qd9yujk4.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>RIU 81/2026 - SERVIZIO DI PULIZIA DEL SOTTOPASSAGGIO STAZIONE FERROVIARIA –ORDINANZA DI LIQUIDAZIONE GIUGNO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1729152</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1729152</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">17/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">01/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2023</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/zuz1biofj1jeq10kx0qpnssx58r0t1ul.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>DETERMINAZIONE A CONTRARRE PER AFFIDAMENTO DIRETTO - SERVIZIO D'USO DEL SOFTWARE "BILANCIO CONSOLIDATO 2025" - CIG: BC6C13F9FB - IMPEGNO DI SPESA A FAVORE DELLA SOC. CEL NETWORK SRL.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728921</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/8hek1edv6rb5i8l4gdw5vuj78ex6ssvf.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA PER IL SERVIZIO DI ASSISTENZA EDUCATIVA SCOLASTICA E SOSTEGNO ALLE AUTONOMIE (OEPAC) ANNO SCOLASTICO 2026 IN FAVORE DELLA COOPERATIVA SOCIALE “ALDIA (TO)” PER IL SERVIZIO AD UN ALUNNO RESIDENTE NEL COMUNE DI LADISPOLI COLLOCATO TEMPORANEAMENTE C/O UNA FAMIGLIA FUORI REGIONE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728095</link>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1728095</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">31/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2004</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/padhhuwg2kryza6aqazbtfji1f9bh3pk.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>(RPS573/26) AFFIDAMENTO DIRETTO E CONTESTUALE ASSUNZIONE IMPEGNO DI SPESA IN FAVORE DELL'ARCH. LUCIA DOMENICA SIMEONE PER LA PRESTAZIONE PROFESSIONALE DI SUPPORTO TECNICO/OPERATIVO AL RUP PER LA REALIZZAZIONE DEL NUOVO PALAZZETTO DELLO SPORT COMUNALE “PALA LADISLAO” FINANZIATO NELL’AMBITO DELL’AVVISO SPORT E SALUTE 2025 – LINEA DI INTERVENTO B.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728092</link>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1728092</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">31/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2003</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/mabnn8ar3k3cugmw9jd9zl14sn4m3yuk.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
