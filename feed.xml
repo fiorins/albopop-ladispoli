@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 20 Jul 2026 09:06:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 10:05:40 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE AI DIPENDENTI DEL SALARIO ACCESSORIO RELATIVO AL MESE DI GIUGNO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1730425</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1730425</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">20/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">04/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2035</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/jfde2av6mods5vpov04l3n3i80rtrfnf.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>RILASCIO DI CONCESSIONE DEMANIALE MARITTIMA STRAORDINARIA TEMPORANEA AI SENSI DELL'ART. 19 DEL REGOLAMENTO REGIONALE LAZIO N. 19/2016 E DELLA DELIBERAZIONE DELLA GIUNTA COMUNALE N. 73 DEL 28 APRILE 2026, IN FAVORE DELLA A.S.D. BEACH TENNIS AND SPORTS PER LA REALIZZAZIONE DELL'INIZIATIVA 'LADISPOLI SUMMER SPORT 2026"</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1730268</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/es0bmv1m41ec1pv6hzi9k3e6lk0zeum9.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>DECISIONE A CONTRARRE E CONTESTUALE AFFIDAMENTO AI SENSI DELL’ART. 50, COMMA 1, LETTERA B) DEL D.LGS. 36/2023, IN FAVORE DELLA SOC. “RISORGIMENTO PRODUZIONI SPETTACOLI” PER IL SERVIZIO DI REALIZZAZIONE DI UNO SPETTACOLO CON L’ ARTISTA ENRICO MONTESANO IN PROGRAMMA IL 24/07/2026 IN PIAZZA R. ROSSELLINI INSERITO NEL CALENDARIO DEGLI EVENTI ESTIVI 2026 - ASSUNZIONE IMPEGNO DI SPESA.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728752</link>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1728752</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">31/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2015</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/e1ce1a8fh37qbimheficav4mjq3xircy.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
