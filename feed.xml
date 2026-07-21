@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 20 Jul 2026 11:35:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 05:35:35 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A MBAYE CHEIKH IBRA FALL</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1731020</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1731020</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">21/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2038</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/x99ooygdptj1hlcgalh3sd5845158fhm.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A ROSARI ADELMO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1731018</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1731018</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">21/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2037</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/spzyaavcl3uht0soe34od366wn8n1ly7.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE DI SPESA PER L'EROGAZIONE DI CONTRIBUTI PER AFFIDAMENTI FA-MILIARI ED ADOZIONI DEL COMUNE DI LADISPOLI LINEE GUIDA DGR 90/2019 – DGR 351/2024 COMPE-TENZE 01.01.2026.- 08.04.2026 UTENTE S.N.F.- INTEGRAZIONE DETERMINAZIONE DIRIGENZIALE N.1002/2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1730576</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/byq9h6e7wa6z1dcv5b8qiwvg9gd473sk.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DI VARI CITTADINI PER SOMME ERRONEAMENTE VERSATE GIUGNO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728824</link>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1728824</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">31/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2018</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/lckzh4a7i1eczi7jouhnn6t97z5cwjk3.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELLA SAP SRL QUALE AGGIO SULLA RISCOSSIONE COATTIVA DA VIOLAZIONI AL CDS - FATTURE 390/01 E 391/01 DEL 15/07/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728821</link>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1728821</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">31/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2017</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/rpef2smjzdm9mi4mkcwijip1cs1zpejx.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
