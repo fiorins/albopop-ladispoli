@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 21 Jul 2026 07:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 08:35:33 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>ELENCO DEI PERMESSI DI COSTRUIRE RILASCIATI 2026- LUGLIO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1731164</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1731164</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">21/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2040</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">PERMESSI A COSTRUIRE</category>
+      <enclosure url="https://app.box.com/shared/static/s44yrf74xf8x3874zb7j4j5x5vtueg7r.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>PRESA D’ATTO DELLE DIMISSIONI VOLONTARIE DI UN DIPENDENTE IN SERVIZIO A TEMPO PARZIALE E DETERMINATO AI SENSI DELL’ART. 90 DEL TUEL;</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1731069</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/dtoomdmfvu1c24t82hvz93s7jshl04o1.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DUE DEPOSITI ATTI A DI VIZIO MARIA ANTONIETTA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728858</link>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1728858</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">17/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2020</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/kjicnvli8gorgxgsbe6awcmnjiu3qy8h.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
 </rss>
