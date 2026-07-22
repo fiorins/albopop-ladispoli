@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 22 Jul 2026 09:35:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 10:35:38 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>(RPS577/26) LAVORI DI "REALIZZAZIONE PIATTAFORMA IN LEGNO PER LA DISCESA ACCESSIBILE AL MARE SUL LUNGOMARE DI PALO" - AGGIUDICAZIONE GARA ESPLETATA AI SENSI DELL’ART. 50 DEL D.LGS. 36/2023 CON UN SOLO OPERATORE ECONOMICO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1732381</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1732381</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">22/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">06/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2051</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/0i1j13ws6vh047ndzovpof55v2sk94ta.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE FATTURA EMESSA DALLA COOPERATIVA "CASA COMUNE 2000" QUALE QUOTA PARTE CONTRIBUTO ANNUO A SOSTEGNO DELLE SPESE DI GESTIONE DEL SERVIZIO DI ASILO NIDO COMUNALE "SENSORY" - LUGLIO 2026 -</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1732263</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/4jwe065w3bx2a2m607fzyn9p6u5o7fge.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>INCARICO A FAVORE DELL’ARCH. MAURO BRUGNONI PER IL PROGETTO P.N.R.R. COFINANZIA-TO DALL'UNIONE EUROPEA – NEXT GENERATION EU - MISSIONE 4: ISTRUZIONE E RICERCA COMPONENTE 1 – POTENZIAMENTO DELL’OFFERTA DEI SERVIZI DI ISTRUZIONE: DAGLI ASILI NIDO ALLE UNIVERSITÀ INVESTIMENTO - 1.1: PIANO PER ASILI NIDO E SCUOLE DELL’INFANZIA E SERVIZI DI EDUCAZIONE E CURA PER LA PRIMA INFANZIA C.U.P.: E65E22000210006 – LIQUIDAZIONE SAL 7.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1730238</link>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1730238</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">20/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">04/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2031</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/3xr0cglish0p854t9x8msie4xnafdxsb.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
