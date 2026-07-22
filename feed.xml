@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 22 Jul 2026 08:06:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 09:35:50 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE FATTURA EMESSA DALLA COOPERATIVA "CASA COMUNE 2000" QUALE QUOTA PARTE CONTRIBUTO ANNUO A SOSTEGNO DELLE SPESE DI GESTIONE DEL SERVIZIO DI ASILO NIDO COMUNALE "SENSORY" - LUGLIO 2026 -</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1732263</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1732263</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">22/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">06/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2050</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/s15gz0kts5ntw965ku60lmm2wbhrwdlr.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE CANONE LUNGO NOLEGGIO VETTURE IN DOTAZIONE ALLA POLIZIA LOCALE MESE DI AGOSTO 2026 - UNIPOLRENTAL SPA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1732152</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/3xr0cglish0p854t9x8msie4xnafdxsb.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>CHIUSURA ESTIVA MESE DI AGOSTO BIBLIOTECA COMUNALE PEPPINO IMPASTATO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1729455</link>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1729455</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2030</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/ag35nb40ptj5qz5uzj0tr4blm5mtn3pt.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
