@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 21 Jul 2026 09:35:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 07:35:49 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RETTE PER L'ACCOGLIENZA E L'OSPITALITÀ IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI - LIQUIDAZIONE DI SPESA IN FAVORE DI "ASSOCIAZIONE DIMENSIONE SALUTE" - PERIODO GIUGNO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1732092</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1732092</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">22/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">06/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2043</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/sqfpxfxi96sn6qoml6cr2tnd2ai9phd4.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA PER FORNITURA DI MATERIALI DI CANCELLERIA E CARTA A4 - PROCED SRL</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1732089</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1732089</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">22/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">06/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2042</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/itvk9s4sqe2jd5cvk4g0m4j7cin1p17z.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>LAVORI DI ASFALTATURA MARINA DI SAN NICOLA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1731220</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/ebdrb1fjc9mvmtq8zgbxbqm1qd9yujk4.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>RIU 81/2026 - SERVIZIO DI PULIZIA DEL SOTTOPASSAGGIO STAZIONE FERROVIARIA –ORDINANZA DI LIQUIDAZIONE GIUGNO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1729152</link>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1729152</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2023</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/zuz1biofj1jeq10kx0qpnssx58r0t1ul.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>DETERMINAZIONE A CONTRARRE PER AFFIDAMENTO DIRETTO - SERVIZIO D'USO DEL SOFTWARE "BILANCIO CONSOLIDATO 2025" - CIG: BC6C13F9FB - IMPEGNO DI SPESA A FAVORE DELLA SOC. CEL NETWORK SRL.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1728921</link>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1728921</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">31/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2022</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/0cdaj48d8twc8qupqclcddnqymtipbk6.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
