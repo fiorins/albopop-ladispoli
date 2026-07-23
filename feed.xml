@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 23 Jul 2026 12:05:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 14:35:56 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>IMPEGNO DI SPESA PER IL LAVAGGIO E LA STIRATURA DELLA FASCIA TRICOLORE E DELLA TOVAGLIA PER LA SALA MATRIMONI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1733688</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1733688</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">23/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">07/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2074</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/vajbv125o9xnjibqexxi1v0zwomnhhyj.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>LIMITAZIONI ALLA VENDITA PER ASPORTO DI BEVANDE IN CONTENITORI DI VETRO E LATTINE E DI BEVANDE ALCOLICHE IN QUALSIASI TIPOLOGIA DI CONTENITORE, NONCHÉ ULTERIORI MISURE A TUTELA DELLA SICUREZZA URBANA E DEL REGOLARE SVOLGIMENTO DELLA MANIFESTAZIONE "LADISPOLI SUMMER FEST 2026" – 31 LUGLIO E 1 E 2 AGOSTO 2026.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1733568</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/zk8ldqduyp0q1khg9sztd2f6co1voryi.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>(RPS591/26) FORNITURA E POSA IN OPERA DI PANCHINE (ARREDO URBANO) IN VARIE AREE COMUNALI - AFFIDAMENTO DIRETTO SOCIETÀ GREAT SRL DI ROMA (AGGIUDICAZIONE GARA ESPLETATA AI SENSI DELL’ART. 50 DEL D.LGS. 36/2023 CON UN SOLO OPERATORE ECONOMICO - G00358 CIG BC79E04949)</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1732999</link>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1732999</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2054</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/uzd31p2ajp4kh3sryuuzp88ybxz2cwc6.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
