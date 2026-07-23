@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 23 Jul 2026 11:05:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 12:05:47 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIMITAZIONI ALLA VENDITA PER ASPORTO DI BEVANDE IN CONTENITORI DI VETRO E LATTINE E DI BEVANDE ALCOLICHE IN QUALSIASI TIPOLOGIA DI CONTENITORE, NONCHÉ ULTERIORI MISURE A TUTELA DELLA SICUREZZA URBANA E DEL REGOLARE SVOLGIMENTO DELLA MANIFESTAZIONE "LADISPOLI SUMMER FEST 2026" – 31 LUGLIO E 1 E 2 AGOSTO 2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1733568</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1733568</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">23/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">07/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2073</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/9l4s7tuk93yy6vrzx3weemsbz8kfq6k6.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>OCCUPAZIONE SUOLO PUBBLICO CONDOMINIO VIA PALERMO 21</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1733478</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/uzd31p2ajp4kh3sryuuzp88ybxz2cwc6.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A FIDALE ANDREA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1732967</link>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1732967</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">31/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2053</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/gzga9szmpijk7v4oz4n4vbm1rf5x8v2b.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
 </rss>
