@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 22 Jul 2026 10:35:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 05:35:34 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A FIDALE ANDREA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1732967</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1732967</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">23/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">31/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2053</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/gzga9szmpijk7v4oz4n4vbm1rf5x8v2b.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A PIERI CRISTI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1732965</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1732965</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">23/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">31/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2052</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/7uvspdk3o0t96pneuiqduvf43fzbzti6.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>(RPS577/26) LAVORI DI "REALIZZAZIONE PIATTAFORMA IN LEGNO PER LA DISCESA ACCESSIBILE AL MARE SUL LUNGOMARE DI PALO" - AGGIUDICAZIONE GARA ESPLETATA AI SENSI DELL’ART. 50 DEL D.LGS. 36/2023 CON UN SOLO OPERATORE ECONOMICO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1732381</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/4qen9af1n88dtdys91v7lerk02oz75fr.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>COMPARTECIPAZIONE COL MINISTERO DI GIUSTIZIA PER LE RETTE DI RICOVERO DI UN MINORE IN ISTITUTO – LIQUIDAZIONE DI SPESA IN FAVORE DI “REPUBBLICA DEI RAGAZZI” – GIUGNO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1730244</link>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1730244</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">20/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">04/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2033</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/xfcsz7fkhtlr3e0ybxkjdc2buxung1wc.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA IN FAVORE DELL'ASSOCIAZIONE AVALON PROGETTO CASA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1730241</link>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1730241</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">20/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">04/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2032</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/4jwe065w3bx2a2m607fzyn9p6u5o7fge.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
