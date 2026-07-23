@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 23 Jul 2026 05:35:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 07:06:11 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>VERDESTATE 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1733004</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1733004</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">23/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">07/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2056</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/emzx84i30bpuw3e5wjt6sazxf8jmlfn0.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>DECISIONE A CONTRARRE E CONTESTUALE AFFIDAMENTO DIRETTO EX ART. 50, COMMA 1, LETT. B) D.LGS. 36/2023 IN FAVORE DELLA “HOLDING SICUREZZA E INVESTIGAZIONI SRLS” PER IL SERVIZIO DI SICUREZZA IN OCCASIONE DELLA MANIFESTAZIONE LADISPOLI SUMMER FEST 2026 - ASSUNZIONE IMPEGNO DI SPESA.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1733002</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1733002</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">23/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">07/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2055</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/zk8ldqduyp0q1khg9sztd2f6co1voryi.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>(RPS591/26) FORNITURA E POSA IN OPERA DI PANCHINE (ARREDO URBANO) IN VARIE AREE COMUNALI - AFFIDAMENTO DIRETTO SOCIETÀ GREAT SRL DI ROMA (AGGIUDICAZIONE GARA ESPLETATA AI SENSI DELL’ART. 50 DEL D.LGS. 36/2023 CON UN SOLO OPERATORE ECONOMICO - G00358 CIG BC79E04949)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1732999</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1732999</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">23/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">07/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2054</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/uzd31p2ajp4kh3sryuuzp88ybxz2cwc6.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI A FIDALE ANDREA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1732967</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/spzyaavcl3uht0soe34od366wn8n1ly7.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA PER L'EROGAZIONE DI CONTRIBUTI PER AFFIDAMENTI FA-MILIARI ED ADOZIONI DEL COMUNE DI LADISPOLI LINEE GUIDA DGR 90/2019 – DGR 351/2024 COMPE-TENZE 01.01.2026.- 08.04.2026 UTENTE S.N.F.- INTEGRAZIONE DETERMINAZIONE DIRIGENZIALE N.1002/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1730576</link>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1730576</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">20/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">04/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2036</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/4b1q9yq155bt728k9qj2tlo89y8uylpp.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE AI DIPENDENTI DEL SALARIO ACCESSORIO RELATIVO AL MESE DI GIUGNO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1730425</link>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1730425</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">20/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">04/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2035</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/jfde2av6mods5vpov04l3n3i80rtrfnf.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RILASCIO DI CONCESSIONE DEMANIALE MARITTIMA STRAORDINARIA TEMPORANEA AI SENSI DELL'ART. 19 DEL REGOLAMENTO REGIONALE LAZIO N. 19/2016 E DELLA DELIBERAZIONE DELLA GIUNTA COMUNALE N. 73 DEL 28 APRILE 2026, IN FAVORE DELLA A.S.D. BEACH TENNIS AND SPORTS PER LA REALIZZAZIONE DELL'INIZIATIVA 'LADISPOLI SUMMER SPORT 2026"</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1730268</link>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1730268</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">20/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">04/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2034</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/4qen9af1n88dtdys91v7lerk02oz75fr.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
