@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 24 Jul 2026 11:35:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 12:05:54 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>PROGETTO "SMART PATROL LADISPOLI – DIGITALIZZAZIONE COMPLETA DELLE PATTUGLIE, SICUREZZA OPERATIVA E TUTELA AMBIENTALE DELLA POLIZIA LOCALE" E AUTORIZZAZIONE ALLA PARTECIPAZIONE ALL'AVVISO PUBBLICO DELLA REGIONE LAZIO "POLIZIA LOCALE 4.0 – EDIZIONE 2026: INVESTIMENTI".</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1734689</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1734689</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">24/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2089</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/gs8m7ae2kxtu0eqsei972eug5dlwnx6t.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>CONVOCAZIONE COMMISSIONE ARTIGIANATO, CACCIA, PESCA, AGRICOLTURA E COMMERCIO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1734663</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1734663</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">24/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2088</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/n2jkjf2wqid34dtoct7nwvz63qbp2rq2.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>PROCEDURA DI MOBILITÀ VOLONTARIA ESTERNA AI SENSI DELL’ART. 30, COMMA 1 DEL D.LGS. N. 165/2001 E SS.MM.II. PER L'ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI N. 1 ASSISTENTE SOCIALE - AREA DEI FUNZIONARI E DELLA E.Q. (EX CATEGORIA D). APPROVAZIONE VERBALE DELLA COMMISSIONE E CONSEGUENTE PRESA D’ATTO DELL’ESCLUSIONE DEI CANDIDATI ALLA PROCEDURA.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1734612</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/7yfhqn3hibrgtink7dn7jt9z06ytkxus.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DEL CONTRIBUTO ECONOMICO CONCESSO ALL’A.S.D. BAD BOYS PER LA REALIZZAZIONE DELLA MANIFESTAZIONE SPORTIVA DENOMINATA “FACE 2 FACE#13” IN PROGRAMMA IL 23/05/2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1733312</link>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1733312</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2068</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/77resva7fjao470sk4a5t4izsjs5p5e8.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>SERVIZIO DI REALIZZAZIONE DELLO SPETTACOLO CON L’ ARTISTA ENRICO MONTESANO IN PROGRAMMA IL 24/07/2026 IN PIAZZA R. ROSSELLINI INSERITO NEL CALENDARIO DEGLI EVENTI ESTIVI EDIZIONE 2026 - LIQUIDAZIONE ANTICIPAZIONE DI SPESA IN FAVORE DELLA SOC. “RISORGIMENTO PRODUZIONI SPETTACOLI”.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1733263</link>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1733263</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2067</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/uv252fho39b4njqt248gyxhz2l9sw6xl.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
