@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 24 Jul 2026 10:35:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 11:35:34 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>PROCEDURA DI MOBILITÀ VOLONTARIA ESTERNA AI SENSI DELL’ART. 30, COMMA 1 DEL D.LGS. N. 165/2001 E SS.MM.II. PER L'ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI N. 1 ASSISTENTE SOCIALE - AREA DEI FUNZIONARI E DELLA E.Q. (EX CATEGORIA D). APPROVAZIONE VERBALE DELLA COMMISSIONE E CONSEGUENTE PRESA D’ATTO DELL’ESCLUSIONE DEI CANDIDATI ALLA PROCEDURA.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1734612</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1734612</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">24/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2087</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/qpw925tb6fydqxsq86byza7oxate64ye.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>CONVOCAZIONE COMMISSIONE CONGIUNTA BILANCIO, PATRIMONIO E TRIBUTI E COMMISSIONE ECOLOGIA, IGIENE URBANA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1734490</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/uv252fho39b4njqt248gyxhz2l9sw6xl.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA N. 2133234 DEL 30/06/2026 EMESSA DALLA SOC. MAGGIOLI SPA PER IL SERVIZIO DI ASSISTENZA SU MISURA PER LA RIFORMA ACCRUAL - ACQUISTO PACCHETTO ACCRUAL GOLD - CIG B83C7D62EF.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1733260</link>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1733260</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2066</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/h9pxkbcze5o1ruhil307445vltum8454.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
