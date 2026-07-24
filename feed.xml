@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 24 Jul 2026 12:05:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 13:05:39 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONVOCAZIONE CONSIGLIO COMUNALE_30.07.2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1734793</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1734793</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">24/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">30/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2090</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/1jwnfwacumsquhs0w34vhyvoe89xc06g.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>PROGETTO "SMART PATROL LADISPOLI – DIGITALIZZAZIONE COMPLETA DELLE PATTUGLIE, SICUREZZA OPERATIVA E TUTELA AMBIENTALE DELLA POLIZIA LOCALE" E AUTORIZZAZIONE ALLA PARTECIPAZIONE ALL'AVVISO PUBBLICO DELLA REGIONE LAZIO "POLIZIA LOCALE 4.0 – EDIZIONE 2026: INVESTIMENTI".</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1734689</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/tcrlxdtpmxm8sx2v69ot3kojidkz468q.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DI MCTC PER VISURE SECONDO TRIMESTRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1733315</link>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1733315</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2069</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/7yfhqn3hibrgtink7dn7jt9z06ytkxus.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
