@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 24 Jul 2026 13:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 08:35:48 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>OCCUPAZIONE SUOLO PUBBLICO VIA CATANIA 6</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1735029</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1735029</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">25/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">09/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2092</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/3uvqigxrzkt0pgr3i17lhok32vmg49vy.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>OCCUPAZIONE SUOLO PUBBLICO VIA PALERMO 119 PER LAVORI DI RICOSTRUZIONE FABBRICATO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1735025</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1735025</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">25/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">09/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2091</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/3505lh3040ozxdm550yk13532yiprpim.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>CONVOCAZIONE CONSIGLIO COMUNALE_30.07.2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1734793</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">ORDINANZE</category>
       <enclosure url="https://app.box.com/shared/static/0sb7it2f78shnb4wznph1hkvjmocfgib.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DEL CONTRIBUTO ECONOMICO IN FAVORE DELL’A.S.D. CIRCOLO SCACCHISTICO ALVISE ZICHICHI PER LA REALIZZAZIONE DEL TORNEO DENOMINATO "SCACCHI D'AMARE" - 3^ EDIZIONE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1733321</link>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1733321</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2071</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/y0hnzaziqgsfz9xkn6ig0c9v456devdh.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DI POSTE ITALIANE FATTURA N. 3260513675 DEL 21/07/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1733318</link>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1733318</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2070</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/tcrlxdtpmxm8sx2v69ot3kojidkz468q.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
