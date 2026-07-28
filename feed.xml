@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 28 Jul 2026 07:36:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 10:05:53 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DISPOSIZIONE DI ACCERTAMENTO SANITARIO OBBLIGATORIO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1736349</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1736349</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2105</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/p8lhc2qb5hmdmyji3k0sz0kw6cayk7hv.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>ISTITUZIONE DI DIVIETO DI SOSTA E FERMATA LUNGOMARE MARCO POLO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1736347</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1736347</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2104</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/h8cwgmbyg0z2ydn0t6pjjuewzumrpabh.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>AGGIORNAMENTO DELL'ELENCO FIDUCIARIO DEGLI AVVOCATI ESTERNI AI QUALI AFFIDARE INCARICHI LEGALI DI RAPPRESENTANZA E DIFESA GIUDIZIALE O STRAGIUDIZIALE OVVERO DI CONSULENZA GIURIDICA NELL'INTERESSE DEL COMUNE DI LADISPOLI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1736155</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/e2sqw532s9dpiadc38l6n76ja3lttr94.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>CONGEDO DI PATERNITA’ AI SENSI DELL’ART. 27-BIS DEL D.LGS. N. 151/2001 A FAVORE DI UN DIPENDENTE. DETERMINAZIONI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1734241</link>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1734241</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">24/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2085</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/b04tl5ijd8pw41dmth6wrqsnctn2kvaz.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>CONCESSIONE DI PATROCINIO E CONTRIBUTO ECONOMICO IN FAVORE DELL' ASSOCIAZIONE PRO LOCO LADISPOLI APS PER LA REALIZZAZIONE DELLA MANIFESTAZIONE DENOMINATA “SIMPOSIO ETRUSCO. UNA MAGICA NOTTE DI 2500 ANNI FA, 32^ EDIZIONE”, INSERITA NEL CALENDARIO ESTIVO 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1734111</link>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1734111</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">24/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2084</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/mrzsaw9aqaaw5q4wvnnwuzygb0x49cxf.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
