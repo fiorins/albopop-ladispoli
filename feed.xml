@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 27 Jul 2026 12:05:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 05:35:57 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,84 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A MIGLIAZZA BARBARA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1736074</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1736074</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2101</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/mjdcgp758np1qgq4z6tgxohjevtabf6q.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A NAVARRA ALESSANDRO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1736072</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1736072</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2100</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/jnt8unarrpbmey2danuzke5b6th7h2dv.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A FIORAVANTI MARCO ANTONIO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1736070</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1736070</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2099</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/y6jr703kb9m5hutlf337ccusds16bhsp.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A GRIGORAS MARIA VIORICA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1736068</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1736068</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2098</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/s7bya12sewbxw7sze33enuqzl1t42uxd.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A BRAY MARCO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1736066</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1736066</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2097</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/d1rydo7ofs32tznv6zuohbhd6fekmuus.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A MANDI MIRELA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1736064</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1736064</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2096</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/8zy1mbvsbvuzd8he4e6b03dtt9wjxrt4.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>ART.45 BIS DEL CODICE DELLA NAVIGAZIONE – AFFIDAMENTO AD ALTRI SOGGETTI DELLE ATTIVITÀ OGGETTO DELLA CONCESSIONE DEMANIALE MARITTIMA N. 31/2009 PROROGATA FINO ALLA DATA DEL 31.12.2020 CON ATTO N. 31/2009 ED ESTESA EX LEGE RILASCIATA DAL COMUNE DI LADISPOLI A FAVORE DELLO STABILIMENTO BALNEARE DENOMINATO “ARCOBALENO”.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1735759</link>
@@ -200,84 +278,6 @@
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/o7s1c3qcktf76fltvkvy3247eoi50no6.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>PRESA D’ATTO DELLA CESSAZIONE DEL COMODATO D’USO, PRESA IN CARICO DELL’IMMOBILE DESTINATO AD ALLOGGIO DEL CUSTODE PRESSO IL CIMITERO COMUNALE SITO IN VIA SETTEVENE PALO NORD N.13, E PREVISIONE DI ASSEGNAZIONE PER NUOVI SCOPI DI INTERESSE PUBBLICO.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1734102</link>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1734102</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">24/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2081</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/ylpld4f60ot1wflm8vavewy36orpwhke.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>AUTORIZZAZIONE E CONFERIMENTO INCARICO PER RESISTERE INNANZI AL TRIBUNALE AMMINISTRATIVO REGIONALE DEL LAZIO AVVERSO IL RICORSO NOTIFICATO AL COMUNE DI LADISPOLI CON PROT. N. 44412/2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1734099</link>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1734099</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">24/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2080</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/webt1vstax6v6aj3kimatulnj4q1k52t.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>DETERMINAZIONE DEL PREZZO MASSIMO DI CESSIONE E RINUNCIA AL DIRITTO DI PRELAZIONE DI IMMOBILE IN PIANO DI ZONA “FASCIA AURELIA” – COOPERATIVA “CASABELLA” – VIA LUBIANA, 3. ISTANZA PROT. 43510/2026 DEL 15/07/2026. RICHIEDENTE B.G.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1734069</link>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1734069</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">24/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2079</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/jmy8le6kgisctlw58pjwj9qbly1tvnn4.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>DIVIETO DI SOSTA PIAZZA BENICARLO'</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1733969</link>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1733969</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">24/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2078</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/0zsfxw49zfozkss3zthqlumhihylbtkr.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>CONVOCAZIONE COMMISSIONE BILANCIO, PATRIMONIO E TRIBUTI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1733823</link>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1733823</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">28/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2077</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/anioaopdlw4c6fl6tuyem83xc7f2f02x.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>CONVOCAZIONE COMMISSIONE CONSILIARE LAVORI PUBBLICI, ARREDO URBANO, VIABILITÀ, SEGNALETICA E TRASPORTI_27.07.2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1733725</link>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1733725</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">27/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2075</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/028ep755t751zkqbz996612ovipy99oh.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
 </rss>
