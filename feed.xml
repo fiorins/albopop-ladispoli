@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 28 Jul 2026 05:35:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 07:36:14 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AGGIORNAMENTO DELL'ELENCO FIDUCIARIO DEGLI AVVOCATI ESTERNI AI QUALI AFFIDARE INCARICHI LEGALI DI RAPPRESENTANZA E DIFESA GIUDIZIALE O STRAGIUDIZIALE OVVERO DI CONSULENZA GIURIDICA NELL'INTERESSE DEL COMUNE DI LADISPOLI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1736155</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1736155</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2103</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/86cv7hm88jtn5dvf2hjk151grdkzr4nt.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>PROCEDURA APERTA PER L’AFFIDAMENTO, TRAMITE ACCORDO QUADRO EX ART. 59, COMMA 3 D.LSG. 36/23, DELLA MANUTENZIONE ORDINARIA E STRAORDINARIA DELLE AREE DESTINATE A VERDE PUBBLICO DEL COMUNE DI LADISPOLI - CIG BBC3799E7A - DETERMINA DI AGGIUDICAZIONE, EX ART. 17, COMMA 5, D.LGS. 36/23 E ADEMPIMENTI CONNESSI, PRESUPPOSTI E CONSEGUENTI ALLA STESSA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1736152</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1736152</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2102</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/3pa1r7oewxl7peqs11po389b9lxi6ejc.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI A MIGLIAZZA BARBARA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1736074</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/mrzsaw9aqaaw5q4wvnnwuzygb0x49cxf.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>AUTORIZZAZIONE E CONFERIMENTO INCARICO DI PATROCINIO LEGALE PER RESISTERE INNANZI AL TRIBUNALE AMMINISTRATIVO REGIONALE PER IL LAZIO (ROMA) AVVERSO IL RICORSO N. 3132/2025 R.G. AVENTE AD OGGETTO L’IMPUGNAZIONE DELLA DETERMINAZIONE DIRIGENZIALE N. 2315 DEL 06.12.2024.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1734108</link>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1734108</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">24/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2083</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/jf6tml262yuch3ogb6mwrw2ahbw9mj7p.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>“ADEGUAMENTO STAZIONI DI SOLLEVAMENTO FOGNARIE LOTTO 1” LOCALITÀ MARINA DI SAN NICOLA NEL COMUNE DI LADISPOLI – LAVORI IMPIANTO DI SOLLEVAMENTO PRESSO ISTITUTO SCOLASTICO SITO IN VIA VENERE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1734105</link>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1734105</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">24/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2082</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/o7s1c3qcktf76fltvkvy3247eoi50no6.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
