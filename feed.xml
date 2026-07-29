@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 28 Jul 2026 10:05:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 08:35:51 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AFFIDAMENTO DIRETTO E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DELLA SOCIETA' GREEN ACTION SRL - IMPLEMENTAZIONE DELLE OPERE BIKE SHARING, FINALIZZATE ALL' ATTIVAZIONE DEL SERVIZIO;</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1737202</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1737202</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">29/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">13/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2106</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/uc83ewrz7ugg1n75zhaajy09zj4r0hda.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>DISPOSIZIONE DI ACCERTAMENTO SANITARIO OBBLIGATORIO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1736349</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/qpw925tb6fydqxsq86byza7oxate64ye.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>CONVOCAZIONE COMMISSIONE CONGIUNTA BILANCIO, PATRIMONIO E TRIBUTI E COMMISSIONE ECOLOGIA, IGIENE URBANA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1734490</link>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1734490</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">24/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">28/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2086</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/e2sqw532s9dpiadc38l6n76ja3lttr94.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
 </rss>
