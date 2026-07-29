@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 29 Jul 2026 11:39:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 12:05:44 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AFFIDAMENTO DIRETTO MEDIANTE TRATTATIVA DIRETTA SUL MEPA PER IL RINNOVO QUADRIENNALE DELLA LICENZA PREMIUM NAMIRIAL SIGN, DESTINATA ALLA FIRMA MASSIVA DEGLI ATTI AMMINISTRATIVI DEL COMANDO DI POLIZIA LOCALE – DECISIONE DI CONTRARRE, CONTESTUALE AFFIDAMENTO ED IMPEGNO DI SPESA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1737796</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1737796</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">29/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">13/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2152</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/tuy51cjoqfvpya14f0nqdoukdc11j8k3.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE DI SPESA IN FAVORE DELLA SOCIETA’ NIULAB SRL P.I.:15757361009 PER IL SERVIZIO PALCO, SERVICE AUDIO LUCI E SUPPORTO TECNICO PER LA REALIZZAZIONE DELL’EVENTO "UNA NOTTE LUNGA UN GIORNO" LUNGOMARE MARCOPOLO DEL COMUNE DI LADISPOLI, CIG: BC1F89CFD0;</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1737745</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/3g3203dgeyif09ek2hy2izqzobj5uf3p.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE 1 SALDO FATTURA N. 45 DEL 16/07/2026, ALLA SOCIETA’ NOHA SRL P.IVA: IT14198651003 PER IL SERVIZIO DI ASSISTENZA BAGNANTI PER N. 4 POSTAZIONI DI SALVATAGGIO SUGLI ARENILI LIBERI DEL COMUNE DI LADISPOLI-CIG: BBD09B40EE.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1737554</link>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1737554</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2132</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/6ut8n9fyd4zifj20dp8itmidwxubbhqo.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
