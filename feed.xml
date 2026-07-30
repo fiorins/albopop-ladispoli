@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 30 Jul 2026 05:35:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 09:05:42 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DETERMINAZIONE DIRIGENZIALE DI APPROVAZIONE DEL CONTRATTO RELATIVO ALL’APPALTO INTEGRATO PER GLI INTERVENTI DI DIFESA COSTIERA PREVISTI NEL TERRITORIO DEL COMUNE DI LADISPOLI NEL TRATTO COMPRESO TRA TORRE FLAVIA E MARINA DI PALO LAZIALE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1738280</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1738280</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">14/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2155</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/amj0cuv1cnt61t67hdn142zsaqrq2p4c.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI A FIORAVANTI MARCO ANTONIO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1738115</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/6l711vt6r364kgop1upjb5p08ef8rvso.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>SERVIZIO DI ELABORAZIONE ATTI, PROVVEDIMENTI, AVVISI E COMUNICAZIONI OGGETTO DI NOTIFICA PER IL RELATIVO DEPOSITO SULLA PIATTAFORMA NOTIFICHE DIGITALI E PER LA GESTIONE DEGLI ESITI DELLA NOTIFICA – LIQUIDAZIONE FATTURA MAGGIOLI S.P.A.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1737563</link>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1737563</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2135</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/o94et6l2l2b5ctx1iyvlmv0b34dpm13s.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
