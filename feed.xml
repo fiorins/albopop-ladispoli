@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 30 Jul 2026 14:35:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 15:06:12 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,58 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RIVERSAMENTO AL COMUNE DI LOIRI PORTO SAN PAOLO DELLA SOMMA DI € 213,00 A TITOLO DI IMU ERRONEAMENTE VERSATA AL COMUNE DI LADISPOLI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1738915</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1738915</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">14/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2163</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/79odvuud6e02d44xdlrt2rmqgq605je9.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>RIVERSAMENTO AL COMUNE DI TERLIZZI DELLA SOMMA DI € 109,00 A TITOLO DI IMU ERRONEAMENTE VERSATA AL COMUNE DI LADISPOLI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1738912</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1738912</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">14/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2162</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/hlmx8wg4icrqww1f1mjoqxiyv2ixvnqn.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>APPROVAZIONE AVVISO PUBBLICO PER LA COPERTURA DI N. 1 POSTO DI ASSISTENTE SOCIALE - AREA DEI FUNZIONARI E DELLA E.Q. (EX CATEGORIA D) CON RAPPORTO DI LAVORO A TEMPO PIENO E INDETERMINATO TRAMITE PROCEDURA DI MOBILITA' TRA ENTI AI SENSI DELL'ART. 30 D.LGS. 165/2001</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1738909</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1738909</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">14/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2161</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/9ubsjgi3txk2p2o8oo3yhjuadxo8i7ez.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>PROCEDURA NEGOZIATA SVOLTA IN MODALITÀ TELEMATICA PER L'AFFIDAMENTO DI LAVORI PER LA "RIQUALIFICAZIONE E RIFUNZIONALIZZAZIONE DEL PARCO PUBBLICO “SACRO CUORE” IN VIA DEI FIORDALISI ANGOLO VIA DELLE VIOLE, LADISPOLI (ROMA)"-CUP.E62H2600042000 E CIG. BC00B1E1B7 - DETERMINA DI AGGIUDICAZIONE, EX ART. 17, COMMA 5, D.LGS. 36/23 E ADEMPIMENTI CONNESSI, PRESUPPOSTI E CONSEGUENTI ALLA STESSA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1738906</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1738906</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">14/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2160</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/fbc4jj5yzv4xrdw49jbt83dwfyhohdc8.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>NOMINA DI INCARICO PROFESSIONALE PER IL COLLAUDO TECNICO-AMMINISTRATIVO – OPERE DI URBANIZZAZIONE PRIMARIA CONNESSE AL PIANO PARTICOLAREGGIATO PER INSEDIAMENTO PRODUTTIVO COMMERCIALE IN VIA AURELIA KM 38,00 PER LA REALIZZAZIONE DI STRUTTURA COMMERCIALE. APPROVAZIONE DISCIPLINARE ALLEGATO.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1738872</link>
@@ -225,58 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/as9qj5qjxicrxdz06v6zsaugd7jkn2zw.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>RECUPERO FUNZIONALE DEL CASTELLACCIO DI MONTERONI – CUP E64D21000000005 – FINANZIATO DALL’UNIONE EUROPEA – NEXTGENERATION EU A VALERE SU FONDI P.N.R.R. – M5C2INV2.1 RIGENERAZIONE URBANA – ORDINANZA DI LIQUIDAZIONE “PRESTAZIONE PROFESSIONALE TECNICA PER IL PROGETTO PREVENZIONE INCENDI” POST VARIANTE.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1737664</link>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1737664</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2143</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/l5913l3xnsieuyjqdi54wi6ik62n18w0.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE PROGETTO EMERGENZA CASA, IN ESECUZIONE DELLA CONVENZIONE REP. N. 60/2026, ASSOCIAZIONE AVALON ODV PROTEZIONE CIVILE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1737661</link>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1737661</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2142</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/tj3nrru1i2tsaosov9ahn480jumis7qn.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RIVERSAMENTO AL COMUNE DI CERVETERI DELLA SOMMA DI € 1.534,00 A TITOLO DI IMU ERRONEAMENTE VERSATA AL COMUNE DI LADISPOLI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1737658</link>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1737658</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2141</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/84a12eo9igbqmblfpmij5sip75e5pl8z.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>RIVERSAMENTO A COMUNE DI ARDEA DELLA SOMMA DI €. 100,13 A TITOLO DI TARI ERRONEAMENTE VERSATA AL COMUNE DI LADISPOLI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1737655</link>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1737655</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2140</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/8253j3wp5ur8vt8uepd591bkrurwkxsu.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
