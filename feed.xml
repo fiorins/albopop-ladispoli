@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 29 Jul 2026 12:05:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 05:35:30 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A FIORAVANTI MARCO ANTONIO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1738115</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1738115</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">07/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2154</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/b4xrdeei2icto1lp3vbblzu9d3dwue8y.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A MOSTEGUTU MIHAITA FLORIN</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1738113</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1738113</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">07/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2153</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/0lxgwd0d9vd5wzu8eyvyyltc70gqx6pg.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>AFFIDAMENTO DIRETTO MEDIANTE TRATTATIVA DIRETTA SUL MEPA PER IL RINNOVO QUADRIENNALE DELLA LICENZA PREMIUM NAMIRIAL SIGN, DESTINATA ALLA FIRMA MASSIVA DEGLI ATTI AMMINISTRATIVI DEL COMANDO DI POLIZIA LOCALE – DECISIONE DI CONTRARRE, CONTESTUALE AFFIDAMENTO ED IMPEGNO DI SPESA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1737796</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/o94et6l2l2b5ctx1iyvlmv0b34dpm13s.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RETTE PER L'ACCOGLIENZA DI MINORI IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI - LIQUIDAZIONE DI SPESA IN FAVORE DELL'APS CHIARA E FRANCESCO – MAGGIO E GIUGNO 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1737560</link>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1737560</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2134</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/zehpbpllqfdnggiu458xbvyqs1ucnz6h.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>CONCESSIONE DI PATROCINIO E CONTRIBUTO ECONOMICO IN FAVORE DELL' ASSOCIAZIONE PRO LOCO LADISPOLI APS PER LA REALIZZAZIONE DELLA MANIFESTAZIONE DENOMINATA “SIMPOSIO ETRUSCO. UNA MAGICA NOTTE DI 2500 ANNI FA, 32^ EDIZIONE” – ASSUNZIONE IMPEGNO DI SPESA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1737557</link>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1737557</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2133</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/3g3203dgeyif09ek2hy2izqzobj5uf3p.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
