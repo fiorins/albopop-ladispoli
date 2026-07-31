@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 31 Jul 2026 10:36:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 11:06:08 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DECISIONE A CONTRARRE E CONTESTUALE AFFIDAMENTO TRAMITE TRATTATIVA DIRETTA MEPA AI SENSI DELL’ART. 50, COMMA 1, LETTERA B) DEL D.LGS. 36/2023, IN FAVORE DELLA SOCIETÀ ON AIR SRL PER IL SERVIZIO DI NOLEGGIO DI STRUMENTAZIONE AUDIO/VIDEO/LUCI E PERSONALE TECNICO AGGIUNTIVO IN OCCASIONE DELLA MANIFESTAZIONE DENOMINATA “LADISPOLI SUMMER FEST”, EDIZIONE 2026 - CIG BC95B88FF7 - ASSUNZIONE IMPEGNO DI SPESA.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1739953</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1739953</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">31/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">15/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2173</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/45l5ck6gy1so1w47y9lgosp7zt2n2579.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>PROGETTO P.N.R.R FINANZIATO DALL'UNIONE EUROPEA – NEXT GENERATION EU P.N.R.R. MISSIONE 4: ISTRUZIONE E RICERCA COMPONENTE 1 – POTENZIAMENTO DELL’OFFERTA DEI SERVIZI DI ISTRUZIONE: DAGLI ASILI NIDO ALLE UNIVERSITÀ INVESTIMENTO 1.1: PIANO PER ASILI NIDO E SCUOLE DELL’INFANZIA E SERVIZI DI EDUCAZIONE E CURA PER LA PRIMA INFANZIA C.U.P.: E65E22000210006 – COMPENSAZIONE ANTICIPAZIONE NON DOVUTA, SAL 7</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1739909</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1739909</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">31/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">15/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2172</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/noyv485w1o8sbtu1ig4plfb67h59ngj8.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE DI SPESA A SALDO IN FAVORE DELL' OPERATORE ECONOMICO L.D.- LAVORI DI RIQUALIFICAZIONE AREA CANI SITA IN V.LE EUROPA LADISPOLI - CIG BBAE044AE2;</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1739906</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1739906</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">31/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">15/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2171</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/gtl5xoaydbu396dyq1il2s1rhxovjdtl.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>CONFERIMENTO DI INCARICO PROFESSIONALE AD ALTO CONTENUTO SPECIALI-STICO ALLO STUDIO AOR AVV.TI QUALE ATTIVITÀ DI SUPPORTO AL RUP, AI SENSI DELL'ART. 2 ALL. I.2. D.LGS. N. 36/2023, PER GLI ADEMPIMENTI DI CUI AL CODICE DEI CONTRATTI PUBBLICI IN MERITO AGLI “INTERVENTI DI DIFESA COSTIERA NEL TRATTO COMPRESO TRA TORRE FLAVIA E MARINA DI PALO” – LIQUIDAZIONE A SALDO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1739862</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/b4xrdeei2icto1lp3vbblzu9d3dwue8y.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A MOSTEGUTU MIHAITA FLORIN</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1738113</link>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1738113</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">30/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2153</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/0lxgwd0d9vd5wzu8eyvyyltc70gqx6pg.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AFFIDAMENTO DIRETTO MEDIANTE TRATTATIVA DIRETTA SUL MEPA PER IL RINNOVO QUADRIENNALE DELLA LICENZA PREMIUM NAMIRIAL SIGN, DESTINATA ALLA FIRMA MASSIVA DEGLI ATTI AMMINISTRATIVI DEL COMANDO DI POLIZIA LOCALE – DECISIONE DI CONTRARRE, CONTESTUALE AFFIDAMENTO ED IMPEGNO DI SPESA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1737796</link>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1737796</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2152</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/tuy51cjoqfvpya14f0nqdoukdc11j8k3.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELLA SOCIETA’ NIULAB SRL P.I.:15757361009 PER IL SERVIZIO PALCO, SERVICE AUDIO LUCI E SUPPORTO TECNICO PER LA REALIZZAZIONE DELL’EVENTO "UNA NOTTE LUNGA UN GIORNO" LUNGOMARE MARCOPOLO DEL COMUNE DI LADISPOLI, CIG: BC1F89CFD0;</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1737745</link>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1737745</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2151</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/9qrzmn26c1odosmt6dz2v0wt7saaecd8.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
