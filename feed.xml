@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 31 Jul 2026 12:07:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 12:38:09 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE ALLA SOCIETÀ COOPERATIVA SOCIALE ONLUS CASSIAVASS - P.IVA: 03593831005, FATTURA N. 2434 DEL 30/07/2026 PER GESTIONE DELLA FORNITURA DI MATERIALE PER LA SPIAGGIA INCLUSIVA STAGIONE BALNEARE 2026 DEL COMUNE DI LADISPOLI CIG: BBCFBD7034.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1740140</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1740140</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">31/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">15/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2186</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/qhpgtctis07y56rsrqeabh1p0pn6uwvv.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 5]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE LAVAGGIO E STIRATURA DELLA FASCIA TRICOLORE E DELLA TOVAGLIA PER LA SALA MATRIMONI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1740115</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/6jtgw2jism7jdbfdrezs88ujby348c1u.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>AVVISO PUBBLICO PER LA CONCESSIONE DEI CONTRIBUTI FINALIZZATI ALLA FORNITURA GRATUITA O PARZIALE DEI LIBRI DI TESTO E SUSSIDI DIDATTICI DIGITALI O NOTEBOOK, PER L’ANNO SCOLASTICO 2026/2027, A FAVORE DEGLI ALUNNI DELLE SCUOLE DELL'OBBLIGO E SECONDARIE SUPERIORI RESIDENTI NEL COMUNE DI LADISPOLI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1739795</link>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1739795</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">31/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">15/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2166</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ej004t1ytcnzrsrxtacmbxjb4ail4wvj.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
     </item>
   </channel>
 </rss>
