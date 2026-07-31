@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 30 Jul 2026 15:06:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 07:35:47 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>OGGETTO: DEROGA TEMPORANEA AI LIMITI DELLE EMISSIONI SONORE DURANTE LO SVOLGIMENTO DELLA MANIFESTAZIONE “LADISPOLI SUMMER FEST 2026”.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1739389</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1739389</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">31/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">15/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2164</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/a2j4v9jgqnlmi8jv5mkbqeo6h0qdanlm.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>RIVERSAMENTO AL COMUNE DI LOIRI PORTO SAN PAOLO DELLA SOMMA DI € 213,00 A TITOLO DI IMU ERRONEAMENTE VERSATA AL COMUNE DI LADISPOLI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1738915</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/ck0ybb6xxl78hwb75zeogm3on4lz7ue2.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RIVERSAMENTO A COMUNE DI CERVETERI DELLA SOMMA DI €. 597,00 A TITOLO DI IMU ERRONEAMENTE VERSATA AL COMUNE DI LADISPOLI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1737667</link>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1737667</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2144</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/as9qj5qjxicrxdz06v6zsaugd7jkn2zw.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
