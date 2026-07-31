@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 31 Jul 2026 07:35:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 08:35:54 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>APPROVAZIONE AVVISO DI PUBBLICAZIONE DELL'ELENCO DEI VOLUMI SCARTATI DAL PATRIMONIO LIBRARIO/DOCUMENTARIO DELLA BIBLIOTECA COMUNALE PEPPINO IMPASTATO.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1739539</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1739539</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">31/07/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">15/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2165</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/p029tovg2m1gvbl688g90lkmg8q4t37p.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>OGGETTO: DEROGA TEMPORANEA AI LIMITI DELLE EMISSIONI SONORE DURANTE LO SVOLGIMENTO DELLA MANIFESTAZIONE “LADISPOLI SUMMER FEST 2026”.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1739389</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/7bo9zzqv2lxi3ua9z40dky0tle0g8kee.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA N. 2040260017836 DEL 17/07/2026 “SPESE PER LA SICUREZZA SUI LUOGHI DI LAVORO”, PER L'ACQUISTO DI N.10 CASSETTE DI PRONTO SOCCORSO, D.LGS 81/2008 – D.M. 388/2003, ALL.1; CIG N.BC663FA211;</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1737670</link>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1737670</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2145</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ck0ybb6xxl78hwb75zeogm3on4lz7ue2.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
