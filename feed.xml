@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 31 Jul 2026 12:38:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 13:05:44 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>ORDINANZA PER DIVIETO DI SOSTA E FERMATAPER MANIFESTAZIONE SPORTIVA DENOMINATA "SUMMER SPORT"</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1741358</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1741358</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">03/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">18/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2187</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/yb5r0ago4dvidjric4kh1r1pe613gu2j.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>ORDINATIVO DI LIQUIDAZIONE ALLA SOCIETÀ COOPERATIVA SOCIALE ONLUS CASSIAVASS - P.IVA: 03593831005, FATTURA N. 2434 DEL 30/07/2026 PER GESTIONE DELLA FORNITURA DI MATERIALE PER LA SPIAGGIA INCLUSIVA STAGIONE BALNEARE 2026 DEL COMUNE DI LADISPOLI CIG: BBCFBD7034.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1740140</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/kv77u2uvrfno5dral9abfku9nvh0bm4p.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>ASSUNZIONE IMPEGNO DI SPESA IN FAVORE DELLA PARROCCHIA SAN GIOVANNI BATTISTA PER LA REALIZZAZIONE DEL PROGETTO DENOMINATO “ALLA SCOPERTA DELLA DIVERSITÀ” IN PROGRAMMA DA SETTEMBRE A NOVEMBRE PER LA DURATA DI 8 SETTIMANE.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1739853</link>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1739853</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">31/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">15/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2167</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/6jtgw2jism7jdbfdrezs88ujby348c1u.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
