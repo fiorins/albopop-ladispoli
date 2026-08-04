@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 04 Aug 2026 12:07:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 14:05:49 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>PROCEDURA NEGOZIATA SVOLTA IN MODALITÀ TELEMATICA PER L'AFFIDAMENTO DI LAVORI PER L’INTERVENTO "CAMPAGNA DI MANUTENZIONE STRADALE DELLA VIABILITA’ COMUNALE – VIE VARIE", LADISPOLI (ROMA)"-CUP. E67H26000250004 E CIG. BC17967656 - DETERMINA DI AGGIUDICAZIONE, EX ART. 17, COMMA 5, D.LGS. 36/23 E ADEMPIMENTI CONNESSI, PRESUPPOSTI E CONSEGUENTI ALLA STESSA.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1742310</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1742310</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2213</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/0gjepq517xich7gmbayi6db1u3pxwr5f.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>DETERMINAZIONE AFFIDAMENTO DIRETTO, AI SENSI DELL’ART.50, CO.1, LETT. A, DEL D.LGS. N.36/2023 MEDIANTE PIATTAFORMA TELEMATICA CERTIFICATA DI QUESTO ENTE “APPALTI &amp; CONTRATTI”, PER LA FORNITURA DI MATERIALE GRAFICO PER UFFICIO, TARGHE INFORMATIVE E ROLL-UP DIVULGATIVI - CIG: BC9EC5B33D.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1742162</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/d9eq8cyzt1zwtan8hlhmzxk6bx8b2wzo.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>DECRETO DI NOMINA DEL SINDACO UNICO QUALE ORGANO INDIPENDENTE DI REVISIONE E DI CONTROLLO DELLA SOCIETA' PARTECIPATA FLAVIA SERVIZI S.R.L.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1741936</link>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1741936</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2193</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DECRETI</category>
-      <enclosure url="https://app.box.com/shared/static/krpo7fjhngxc4v0bjmndgbyom1lwsk2z.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
 </rss>
