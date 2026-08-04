@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 03 Aug 2026 13:05:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 05:35:41 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A CAVICCHIONI DOMENICO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1741605</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1741605</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2190</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/uqm0zeu9v56kytt9ipcs3b49jmjx3u1m.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A ASTUTI GIOVANNA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1741603</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1741603</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2189</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/qp01jwvzi7uxbxeigntfo8ex15071d1l.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A ANDOR SIMONA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1741601</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1741601</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2188</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/zns9chdoldzbvrbxfr9me2r8dhrxebhz.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>ORDINANZA PER DIVIETO DI SOSTA E FERMATAPER MANIFESTAZIONE SPORTIVA DENOMINATA "SUMMER SPORT"</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1741358</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/gtl5xoaydbu396dyq1il2s1rhxovjdtl.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>CONFERIMENTO DI INCARICO PROFESSIONALE AD ALTO CONTENUTO SPECIALI-STICO ALLO STUDIO AOR AVV.TI QUALE ATTIVITÀ DI SUPPORTO AL RUP, AI SENSI DELL'ART. 2 ALL. I.2. D.LGS. N. 36/2023, PER GLI ADEMPIMENTI DI CUI AL CODICE DEI CONTRATTI PUBBLICI IN MERITO AGLI “INTERVENTI DI DIFESA COSTIERA NEL TRATTO COMPRESO TRA TORRE FLAVIA E MARINA DI PALO” – LIQUIDAZIONE A SALDO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1739862</link>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1739862</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">31/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">15/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2170</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/aimx91wxmq985uyqlwdl8bvuydlfnzqb.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE CONTRIBUTO UNIFICATO TRIBUTARIO TRAMITE AVVISO PAGOPA – RICORSO IN CORTE DI CASSAZIONE DELLA SENTENZA N. 1025/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1739859</link>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1739859</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">31/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">15/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2169</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/18byuzi6glicgjbt1e5ra9a5zf9kuqnt.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>(RPS515/26) LAVORI DI MANUTENZIONE, MESSA IN SICUREZZA E RIQUALIFICAZIONE DELLO SPAZIO TEATRALE E AREE LIMITROFE DE "LA GROTTACCIA" IN VIA RAPALLO (CIG BBDBA12BE0- AFFIDAMENTO G00308) - SOCIETÀ AZ SYSTEM DI LADISPOLI - ORDINANZA DI LIQUIDAZIONE PRIMO ACCONTO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1739856</link>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1739856</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">31/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">15/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2168</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/kv77u2uvrfno5dral9abfku9nvh0bm4p.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
