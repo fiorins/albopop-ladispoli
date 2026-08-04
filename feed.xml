@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 04 Aug 2026 14:05:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 14:36:35 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,58 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AFFIDAMENTO DI SERVIZI STRUMENTALI A SUPPORTO DELL'UFFICIO TRIBUTI ALLA SOCIETÀ PARTECIPATA FLAVIA SERVIZI S.R.L. - LIQUIDAZIONE PERIODO 01/04/2026 – 30/06/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1742335</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1742335</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2217</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/lqzg4zoh9u0kro4hjgseikfpq1cm6b6a.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>RIU 87/2026 - SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI EER 20.03.07 – ORDINANZA DI LIQUIDAZIONE DI GIUGNO 2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1742332</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1742332</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2216</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/bevj93d21lwfqlfklougl9lwc9s5odn8.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE DELLA SPESA PER L'AFFIDAMENTO DEL SERVIZIO UFFICIO RELAZIONI CON IL PUBBLICO (URP) – II TRIMESTRE 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1742329</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1742329</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2215</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/q3xk4rzef3plkrh74a8ettolclvm2s73.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA PER SERVIZIO RECUPERO E TRASPORTO N. 1 SALMA - ETHERNYA SNC</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1742326</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1742326</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2214</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/pbinp7013yrdsqemtnefmtb2i7c6ah34.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>PROCEDURA NEGOZIATA SVOLTA IN MODALITÀ TELEMATICA PER L'AFFIDAMENTO DI LAVORI PER L’INTERVENTO "CAMPAGNA DI MANUTENZIONE STRADALE DELLA VIABILITA’ COMUNALE – VIE VARIE", LADISPOLI (ROMA)"-CUP. E67H26000250004 E CIG. BC17967656 - DETERMINA DI AGGIUDICAZIONE, EX ART. 17, COMMA 5, D.LGS. 36/23 E ADEMPIMENTI CONNESSI, PRESUPPOSTI E CONSEGUENTI ALLA STESSA.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1742310</link>
@@ -226,58 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/j9jm2lsz92fz6o4uje3d2egiuvt6m195.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>PNRR M5C2 - INVESTIMENTO 1.2 “PERCORSI DI AUTONOMIA PER PERSONE CON DISABILITÀ – CUP E65I22000020001 - LIQUIDAZIONE DELLA 5° E 6° RENDICONTAZIONE – MANDANTE RTI “SOLIDARIETÀ SOCIETÀ COOPERATIVA SOCIALE”</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1742095</link>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1742095</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2197</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/gq4u2fvtjp4sfulvhico13a7pe5322bl.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE CANONE LUNGO NOLEGGIO VETTURE AUTOPARCO COMUNALE SOC. ALD AUTOMOTIVE ITALIA SRL MESE LUGLIO 2026 LOTTI 1-2-3</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1742092</link>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1742092</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2196</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/p25nge2vb9z3jcm35colcd4jx0ymro23.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>SPERIMENTAZIONE PIATTAFORMA NOTIFICHE DIGITALI SEND – LIQUIDAZIONE FATTURE PAGOPA SPA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1742089</link>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1742089</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2195</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/aosuz4tw0aa3qyvruf8dwil1usvgp01z.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>SERVIZIO ASSOCIATO DI TRASPORTO PUBBLICO LOCALE (TPL) DEI COMUNI DI CERVETERI E LADISPOLI – LIQUIDAZIONE A.T.I. “SEATOUR S.R.L.” - “ARRIVA ITALIA S.R.L.” SERVIZIO TPL RELATIVO AL QUARTO BIMESTRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1742086</link>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1742086</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2194</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/d9eq8cyzt1zwtan8hlhmzxk6bx8b2wzo.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
