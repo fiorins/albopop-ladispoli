@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 04 Aug 2026 05:35:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 07:35:56 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RIU 86/2026 – UTENZE IDRICHE COMUNALI – ORDINANZA DI LIQUIDAZIONE CONSUMI IDRICI ALLA DATA DEL 07/07/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1741783</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1741783</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2192</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/c38tp97j20g4fqrl3tvfb4z688t9u9xv.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>SERVIZIO DI RECAPITO TRAMITE SERVIZIO POSTALE ON LINE, PERIODO GIUGNO 2026 – LIQUIDAZIONE FATTURA POSTE ITALIANE S.P.A.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1741780</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1741780</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2191</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/li1gbimlwuc7r69vmlz6rl2m9z209tjy.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI A CAVICCHIONI DOMENICO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1741605</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/45l5ck6gy1so1w47y9lgosp7zt2n2579.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>PROGETTO P.N.R.R FINANZIATO DALL'UNIONE EUROPEA – NEXT GENERATION EU P.N.R.R. MISSIONE 4: ISTRUZIONE E RICERCA COMPONENTE 1 – POTENZIAMENTO DELL’OFFERTA DEI SERVIZI DI ISTRUZIONE: DAGLI ASILI NIDO ALLE UNIVERSITÀ INVESTIMENTO 1.1: PIANO PER ASILI NIDO E SCUOLE DELL’INFANZIA E SERVIZI DI EDUCAZIONE E CURA PER LA PRIMA INFANZIA C.U.P.: E65E22000210006 – COMPENSAZIONE ANTICIPAZIONE NON DOVUTA, SAL 7</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1739909</link>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1739909</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">31/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">15/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2172</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/noyv485w1o8sbtu1ig4plfb67h59ngj8.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA A SALDO IN FAVORE DELL' OPERATORE ECONOMICO L.D.- LAVORI DI RIQUALIFICAZIONE AREA CANI SITA IN V.LE EUROPA LADISPOLI - CIG BBAE044AE2;</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1739906</link>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1739906</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">31/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">15/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2171</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/gtl5xoaydbu396dyq1il2s1rhxovjdtl.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
