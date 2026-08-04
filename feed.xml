@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 04 Aug 2026 07:35:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 09:35:39 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DECRETO DI NOMINA DEL SINDACO UNICO QUALE ORGANO INDIPENDENTE DI REVISIONE E DI CONTROLLO DELLA SOCIETA' PARTECIPATA FLAVIA SERVIZI S.R.L.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1741936</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1741936</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2193</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DECRETI</category>
+      <enclosure url="https://app.box.com/shared/static/krpo7fjhngxc4v0bjmndgbyom1lwsk2z.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>RIU 86/2026 – UTENZE IDRICHE COMUNALI – ORDINANZA DI LIQUIDAZIONE CONSUMI IDRICI ALLA DATA DEL 07/07/2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1741783</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/mud211sf5de9ly8h9uflydyqy5dd2tfp.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 5]]></description>
-    </item>
-    <item>
-      <title>DECISIONE A CONTRARRE E CONTESTUALE AFFIDAMENTO TRAMITE TRATTATIVA DIRETTA MEPA AI SENSI DELL’ART. 50, COMMA 1, LETTERA B) DEL D.LGS. 36/2023, IN FAVORE DELLA SOCIETÀ ON AIR SRL PER IL SERVIZIO DI NOLEGGIO DI STRUMENTAZIONE AUDIO/VIDEO/LUCI E PERSONALE TECNICO AGGIUNTIVO IN OCCASIONE DELLA MANIFESTAZIONE DENOMINATA “LADISPOLI SUMMER FEST”, EDIZIONE 2026 - CIG BC95B88FF7 - ASSUNZIONE IMPEGNO DI SPESA.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1739953</link>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1739953</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">31/07/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">15/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2173</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/45l5ck6gy1so1w47y9lgosp7zt2n2579.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
