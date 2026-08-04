@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 04 Aug 2026 14:36:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 15:35:49 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONCESSIONE PATROCINIO ONEROSO E CONTRIBUTO ECONOMICO IN FAVORE DELL’A. S. D. BEACH TENNIS AND SPORTS PER LA REALIZZAZIONE DELL’EVENTO DENOMINATO “LADISPOLI SUMMER SPORT”, IN PROGRAMMA NEI GIORNI DAL 10 AL 31 AGOSTO 2026, PRESSO LA SPIAGGIA LIBERA - LUNGOMARE REGINA ELENA- ANTICIPAZIONE LIQUIDAZIONE DI SPESA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1742432</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1742432</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2218</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/as1zejf1cl82uplhm5on2ccw8f1482uq.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>AFFIDAMENTO DI SERVIZI STRUMENTALI A SUPPORTO DELL'UFFICIO TRIBUTI ALLA SOCIETÀ PARTECIPATA FLAVIA SERVIZI S.R.L. - LIQUIDAZIONE PERIODO 01/04/2026 – 30/06/2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1742335</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/ogfa7udy4c2ghbus7tsv1lmh818q8xtv.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DI PAGOPA PIATTAFORMA SEND FATTURA N. 5226024154 DEL 15/07/2026 E FATTURA N. 5226024989 DEL 20/07/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1742098</link>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1742098</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2198</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/j9jm2lsz92fz6o4uje3d2egiuvt6m195.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
