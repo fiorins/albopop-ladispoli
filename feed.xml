@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 05 Aug 2026 13:05:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 13:35:50 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>PERMESSI RETRIBUITI AI SENSI DELL'ARTICOLO 33, COMMA 3 DELLA LEGGE 5 FEBBRAIO 1992, N. 104 E SS.MM.II. CONCESSI AD UN DIPENDENTE. DETERMINAZIONI.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743422</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1743422</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2258</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/3t6vpurao7ctmv151kbmd39wdggyduqz.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>SPOSTAMENTO TEMPORANEO DELL'AREA DESTINATA ALLO SVOLGIMENTO DEL MERCATO SETTIMANALE DEL SABATO PRESSO MARINA DI SAN NICOLA PER L'ESECUZIONE DI LAVORI PRESSO L'EDIFICIO SCOLASTICO IN VIA VENERE.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743419</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/eujyumudrsh6hw5i3lfsipwy7yveid1n.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DI UTENTI ANZIANI PER IL SERVIZIO DI ASSISTENZA DOMICILIARE (SAISA) EFFETTUATO NEL MESE DI MAGGIO 2026 CON QUIETANZA DIRETTA ALLA COOPERATIVA SOCIALE "LA GOLETTA" SOGGETTO EROGATORE DEL SERVIZIO ISCRITTO AL RUA DEL DISTRETTO 4.2.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743226</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1743226</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2238</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/385xx6kyztl2rizluez1uslnquy4p0bb.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
