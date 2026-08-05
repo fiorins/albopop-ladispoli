@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 04 Aug 2026 15:35:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 07:35:32 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>APPROVAZIONE VERBALE DELLA COMMISSIONE DI VALUTAZIONE DEL PROGETTO: " C.A.S.A. - COMUNITÀ ATTIVA PER LO SVILUPPO E L'AUTONOMIA" PRESENTATO DALLA COOPERATIVA SOCIALE CASA COMUNE 2000 PER I BENEFICIARI DI ASSEGNO DI INCLUSIONE (PUC)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1742627</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1742627</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2219</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/rpi3d28gixe0h4auca9s4uj7t48qqgt6.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>CONCESSIONE PATROCINIO ONEROSO E CONTRIBUTO ECONOMICO IN FAVORE DELL’A. S. D. BEACH TENNIS AND SPORTS PER LA REALIZZAZIONE DELL’EVENTO DENOMINATO “LADISPOLI SUMMER SPORT”, IN PROGRAMMA NEI GIORNI DAL 10 AL 31 AGOSTO 2026, PRESSO LA SPIAGGIA LIBERA - LUNGOMARE REGINA ELENA- ANTICIPAZIONE LIQUIDAZIONE DI SPESA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1742432</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/92jb530avdgg4x2smcfpn0k50rysijwo.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 5]]></description>
-    </item>
-    <item>
-      <title>DETERMINA DI IMPEGNO IN FAVORE DELLA DITTA D'ONOFRIO ROBERTO PER FORNITURA UNIFORMI POLIZIA LOCALE - CIG B971D86F6C</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1742101</link>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1742101</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2199</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ogfa7udy4c2ghbus7tsv1lmh818q8xtv.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
