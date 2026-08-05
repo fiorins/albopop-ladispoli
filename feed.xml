@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 05 Aug 2026 07:35:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 10:06:20 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RIU 89/2026 - SERVIZIO DI SELEZIONE DEGLI IMBALLAGGI E SEPARAZIONE FRAZIONE ESTRANEA DEL RIFIUTO URBANO EER 15.01.06 – ORDINANZA DI LIQUIDAZIONE GIUGNO 2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743070</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1743070</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2222</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/fz4sekmt5nupsn48k4l1leutuyglci37.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>DETERMINAZIONE AFFIDAMENTO DIRETTO, AI SENSI DELL’ART.50, CO.1, LETT. A, DEL D.LGS. N.36/2023 MEDIANTE PIATTAFORMA TELEMATICA CERTIFICATA DI QUESTO ENTE “APPALTI &amp; CONTRATTI” ALLA SOCIETA’ LA MANDOLA S.R.L. P.IVA 04790991006 RELATIVO ALLO SPETTACOLO PIROTECNICO PREVISTO PER LA SERATA DEL 15 AGOSTO 2026 NELL'AMBITO DELLA MANIFESTAZIONE "UNA NOTTE LUNGA UN GIORNO"- CIG: BC9F52FC3D</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743067</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1743067</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2221</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/qmdu67kf1k2sqbftwcz92h2eivii5xie.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATT. NR. 2026S3001364 E N. 2026S3001365 DEL 30/07/2026 PER FORNITURA MATERIALE DI CANCELLERIA E CARTA PER FOTOCOPIE A4 - PROCED SRL</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743064</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1743064</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2220</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/gk1msj0eo9c0hrd8u75ddh5lpmq2bo68.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>APPROVAZIONE VERBALE DELLA COMMISSIONE DI VALUTAZIONE DEL PROGETTO: " C.A.S.A. - COMUNITÀ ATTIVA PER LO SVILUPPO E L'AUTONOMIA" PRESENTATO DALLA COOPERATIVA SOCIALE CASA COMUNE 2000 PER I BENEFICIARI DI ASSEGNO DI INCLUSIONE (PUC)</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1742627</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/jc8nta601m0wepp3uyuuufo5kq16rsv0.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>PAGAMENTO FERIE SPETTANTI E NON GODUTE ALL’ATTO DELLA CESSAZIONE DEL RAPPORTO DI LAVORO – ART. 28, COMMA 11, CCNL 2022-2024.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1742110</link>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1742110</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2202</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/a6lmqcnszpqv9n4c9wpf8896xu9e940v.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>DETERMINAZIONE AFFIDAMENTO DIRETTO, AI SENSI DELL’ART.50, CO.1, LETT. A, DEL D.LGS. N.36/2023 MEDIANTE PIATTAFORMA TELEMATICA CERTIFICATA DI QUESTO ENTE “APPALTI &amp; CONTRATTI”, IN FAVORE DELLA SOCIETA’ NIULAB SRL P.I.:15757361009 INTEGRAZIONE PER LIVELLAMENTO AREA PALCO E ADEGUAMENTO MONTAGGIO PER L’EVENTO DEL 14 E 15 AGOSTO LUNGOMARE MARCOPOLO DEL COMUNE DI LADISPOLI, CIG: BC1F89CFD0;</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1742107</link>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1742107</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2201</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/g9ajxbi7imrxo8z4rt8y6s64s3yzzmiw.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>AFFIDAMENTO AD TEMPUS DEL SERVIZIO DI MANUTENZIONE DELLE AREE VERDI DEL TERRITORIO COMUNALE A FAVORE DELLA SOC. I TRE PINI S.N.C – LIQUIDAZIONE GIUGNO LUGLIO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1742104</link>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1742104</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2200</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/92jb530avdgg4x2smcfpn0k50rysijwo.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
     </item>
   </channel>
 </rss>
