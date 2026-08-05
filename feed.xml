@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 05 Aug 2026 11:36:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 12:17:54 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,149 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>REGOLAMENTO PER L’APPLICAZIONE DELLA TA.RI.P. (TASSA RIFIUTI PUNTUALE)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743385</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1743385</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2256</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <enclosure url="https://app.box.com/shared/static/sm3xlpcuj23dlpy10luew3042gbfkz9f.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 7]]></description>
+    </item>
+    <item>
+      <title>APPROVAZIONE DELLE TARIFFE PER L’APPLICAZIONE DELLA TA.RI.P. (TASSA -RIFIUTI PUNTUALE) – ANNO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743382</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1743382</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2255</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <enclosure url="https://app.box.com/shared/static/sr4kzgp1r34n20qi1ll3iqrkk5wk2a0e.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 6]]></description>
+    </item>
+    <item>
+      <title>APPROVAZIONE DEL PIANO FINANZIARIO DEGLI INTERVENTI RELATIVI AL SERVIZIO DI GESTIONE DEI RIFIUTI URBANI PER IL TERZO PERIODO REGOLATORIO 2026-2029, DI CUI AL METODO TARIFFARIO RIFIUTI (MTR-3) DELLA DELIBERAZIONE ARERA 5 AGOSTO 2025 N. 397/2025/R/RIF</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743379</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1743379</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2254</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <enclosure url="https://app.box.com/shared/static/znlqmf3urkfb2ukk55odujwr09hoywyj.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 11]]></description>
+    </item>
+    <item>
+      <title>ASSESTAMENTO GENERALE DI BILANCIO E SALVAGUARDIA DEGLI EQUILIBRI PER L’ESERCIZIO 2026 AI SENSI DEGLI ARTT. 175, COMMA 8 E 193 DEL D.LGS. N. 267/2000.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743376</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1743376</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2253</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <enclosure url="https://app.box.com/shared/static/8dp43qb6bycreuy0nyypkg9bo71xxhdj.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 25]]></description>
+    </item>
+    <item>
+      <title>MODIFICA DEL REGOLAMENTO DI POLIZIA URBANA APPROVATO CON DELIBERAZIONE DEL CONSIGLIO COMUNALE N. 21 DEL 29/06/2023 – INSERIMENTO DELL'ARTICOLO 4-BIS "AREE URBANE SOGGETTE ALLE MISURE DI TUTELA DEL DECORO URBANO E DELLA SICUREZZA URBANA AI SENSI DELL'ARTICOLO 9 DEL DECRETO-LEGGE 20 FEBBRAIO 2017, N. 14".</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743353</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1743353</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2252</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <enclosure url="https://app.box.com/shared/static/j9z8c4ibrkdidi7e71kh9fegxu9runfw.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>APPROVAZIONE DEL “REGOLAMENTO PER LA LOCALIZZAZIONE, L’INSTALLAZIONE ED IL RIASSETTO DI INFRASTRUTTURE E IMPIANTI DI TELEFONIA MOBILE E TECNOLOGIE ASSIMILABILI”, NEL COMUNE DI LADISPOLI, AI SENSI DELL’ART. 8, COMMA 6, DELLA LEGGE 22 FEBBRAIO 2001, N. 36 E DELL’ART. 9, COMMI 7, 8 E 9, DELLA L.R. LAZIO 10 AGOSTO 2022, N. 19. ESAME OSSERVAZIONI E CONTRODEDUZIONI.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743350</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1743350</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2251</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <enclosure url="https://app.box.com/shared/static/6ngj6080kdv59yn5umtj2uslwmc3eweu.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 20]]></description>
+    </item>
+    <item>
+      <title>PIANO COMUNALE DELLE AREE PER L’ESERCIZIO DEL COMMERCIO SU AREA PUBBLICA DI CUI ALL’ART. 51 COMMA 1 DELLA L.R. 22/2019 – APPROVAZIONE DEFINITIVA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743347</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1743347</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2250</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <enclosure url="https://app.box.com/shared/static/yvswn5rmh5v6wb6cyiavf2osxdxqo3d1.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 21]]></description>
+    </item>
+    <item>
+      <title>NULLA OSTA ALLA DEROGA AGLI STRUMENTI URBANISTICI EX ART. 14 DPR 380/2001 PER LA REALIZZAZIONE DEL NUOVO PALAZZETTO DELLO SPORT COMUNALE “PALA-LADISLAO” FINANZIATO NELL’AMBITO DELL’AVVISO “SPORT E PERIFERIE 2025"</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743344</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1743344</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2249</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <enclosure url="https://app.box.com/shared/static/yjqdbna2xfi51j2f6g64ysxi3v002zp7.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 19]]></description>
+    </item>
+    <item>
+      <title>FLAVIA SERVIZI S.R.L. - LIQUIDAZIONE FATTURA N.11/PATR/2026 RELATIVA AL SERVIZIO DI TRASPORTO SCOLASTICO IN FAVORE DEGLI ALUNNI FREQUENTANTI LA SCUOLA INFANZIA, PRIMARIA E SECONDARIA DI PRIMO GRADO - TRIMESTRE APRILE/MAGGIO/GIUGNO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743341</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1743341</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2248</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/td2609u8waaqhhn18oq2o9z9goid7umq.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>AFFIDAMENTO INCARICO PROFESSIONALE ESTERNO PER LA RAPPRESENTANZA E LA DIFESA DEL COMUNE DI LADISPOLI NELLA CAUSA N. 1505/2026 R.G. INNANZI AL TRIBUNALE ORDINARIO DI CIVITAVECCHIA, SEZ. LAVORO – ASSUNZIONE IMPEGNO DI SPESA E APPROVAZIONE DELLO SCHEMA DI DISCIPLINARE – CIG N. BCA3B484EE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743338</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1743338</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2247</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/boiwybe7j9zsvaozjs4zdpr6ga5i351f.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>ORDINANZA MOSTRA MERCATO CONSORZIO MARINA DI SAN NICOLA E SPOSTAMENTO MERCATO SETTIMANALE DEL SABATO NEI GIORNI 08-15-22/08/2026 IN VIA TRE PESCI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743335</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1743335</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2246</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/495p3cm1el98h8k4ihk6spbuy88c0ao5.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN OCCASIONE DEI FESTEGGIAMENTI PREVISTI SUL LUNGOMARE MARINA DI PALO IN OCCASIONE DEL FERRAGOSTO 2026.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743262</link>
@@ -135,149 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/bppn7bn90dn16gfz7li3u3qh9w59ilxb.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>RIU 90/2026 - SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI EER 20.02.01 – ORDINANZA DI LIQUIDAZIONE GIUGNO 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743220</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1743220</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2236</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ed54h1n99fkkv6eolgkgkuan9a2qhlx2.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FORNITURA CARBURANTE PER LA TRAZIONE DEGLI AUTOMEZZI COMUNALI FATTURA N. 9601341942 DEL 31/07/2026 - IP PLUS SRL</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743217</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1743217</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2235</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/6pg5ihj5leuzz4cthbrtwbtaqh7b69ro.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>RIU 88/2026 - SERVIZIO DI “PIATTAFORMA COREVE” DEI RIFIUTI URBANI EER 15.01.07 – ORDINANZA DI LIQUIDAZIONE MESE DI GIUGNO 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743214</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1743214</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2234</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/hajazaiqu3h3ri5ijcvz5y018wdtaphu.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA N. 88 DEL 31/07/2026 EMESSA DALLA SOC. EDILWOOD DI FRANCO MATTEINI PER I LAVORI DI "REALIZZAZIONE PIATTAFORMA IN LEGNO PER LA DISCESA ACCES-SIBILE AL MARE SUL LUNGOMARE DI PALO"- CIG: BC74861DD9</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743211</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1743211</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2233</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/8wtf51fy71bkzrfgqa5mx2y02uzyqxyg.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA - DETERMINAZIONE A CONTRARRE AI SENSI DELL' ART.17 DEL D.LGS. 36/2023 AFFIDAMENTO DIRETTO , AI SENSI DELL' ART.50 CO.1 LETT.B) DEL D.LGS. 36/2023 SERVIZIO DI TRASLOCO DEGLI ARREDI SCOLASTICI - APPROVAZIONE PREVENTIVO CIG: BC 8ACDCB29</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743155</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1743155</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2232</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/xqdzmfebn58qlggnwshqz43x8wyj3rf6.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>AUTORIZZAZIONE E CONFERIMENTO INCARICO LEGALE ESTERNO PER RESISTERE INNANZI AL TRIBUNALE ORDINARIO DI CIVITAVECCHIA, SEZ. LAVORO, NELLA CAUSA N. 1505/2026 R.G., AI SENSI DELL’ART. 5 DEL REGOLAMENTO COMUNALE PER LA COSTITUZIONE E LA GESTIONE DELL’ELENCO FIDUCIARIO E PER LA DISCIPLINA DELL’AFFIDAMENTO DEI SERVIZI LEGALI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743121</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1743121</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2231</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/5gkn1io2as47jyxg82v5901ptplxjfpr.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>CONCESSIONE DEL NULLA OSTA ALL’ISTITUTO COMPRENSIVO ILARIA ALPI PER LO SVOLGIMENTO DEL SERVIZIO DI “PRE E DOPOSCUOLA PER L'ANNO SCOLASTICO 2026/2027 NEI LOCALI DELLA SCUOLA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743118</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1743118</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2230</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/huqdgwhtf2pvbluinvkq6zbzhu031l6p.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>AUTORIZZAZIONE E CONFERIMENTO INCARICO PER RESISTERE NEI DUE GIUDIZI DI APPELLO N. 6652/2026 E N. 6670/2026 R.G. PENDENTI INNANZI AL CONSIGLIO DI STATO ED AVENTI AD OGGETTO L’IMPUGNAZIONE DELLA SENTENZE N. 1327 E 1328 DEL 2026 EMESSE DAL TAR DEL LAZIO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743115</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1743115</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2229</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/gpg8w5xnf00ry5r0um92ysuvkub4g1oz.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>AUTORIZZAZIONE E CONFERIMENTO INCARICO PER RESISTERE INNANZI AL TRI-BUNALE AMMINISTRATIVO REGIONALE DEL LAZIO AVVERSO IL RICORSO NOTIFICATO AL COMUNE DI LADISPOLI IN DATA 29/07/2026 (PROT. N. 46044/2026) AVENTE AD OGGETTO L’IMPUGNAZIONE DELL’ORDINANZA DI DEMOLIZIONE N. 87 DEL 18/06/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743112</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1743112</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2228</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/6x0q7c7mvmvs34vl1i5ccir4x5ff36pk.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>RETTIFICA DELLA DELIBERAZIONE DI GIUNTA COMUNALE N. 26 DEL 19/02/2026 AD OGGETTO: "MANIFESTAZIONE DI INTERESSE ALL’ACQUISIZIONE AL PATRIMONIO COMUNALE DI BENI IMMOBILI DEFINITIVAMENTE CONFISCATI ALLA CRIMINALITÀ ORGANIZZATA, AI SENSI DELL’ART. 48 DEL D.LGS. 159/2011 E SS.MM.II." – CORREZIONE IDENTIFICATIVI CATASTALI DELL'IMMOBILE SITO IN VIA DUCA DEGLI ABRUZZI N. 95.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743109</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1743109</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2227</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/x5q5jza8zy0fkhoe2i29kwm32gotp2if.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
-    </item>
-    <item>
-      <title>PRELEVAMENTO FONDO DI RISERVA -SPESE PER INCARICHI PROFESSIONALI PER IL SERVIZIO LEGALE COMUNALE.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743106</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1743106</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2226</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/nzgv9bg1dt00hnivzofsnka7gzgawkb2.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
     </item>
   </channel>
 </rss>
