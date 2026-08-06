@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 06 Aug 2026 12:36:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 15:06:45 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>V VARIAZIONE AL BILANCIO DI PREVISIONE 2026/2028 AI SENSI DELL'ARTICOLO 175 COMMA 4 DEL TUEL 267/2000 (VAR. 22/2026)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1744545</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1744545</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2272</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/r20jyymnzg8xoncpkigwg6ontcepbcsx.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 8]]></description>
+    </item>
+    <item>
+      <title>ADESIONE ALL'INIZIATIVA DEL MINISTERO DELL'INTERNO DENOMINATA “SPIAGGE SICURE - ESTATE 2026”. APPROVAZIONE DELLA SCHEDA PROGETTUALE PER L'ACQUISTO DI N. 2 MOTOVEICOLI TIPO "QUAD" E SERVIZI DI POLIZIA LOCALE PER IL CONTRASTO ALL'ABUSIVISMO COMMERCIALE E ALLA CONTRAFFAZIONE.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1744542</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1744542</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2271</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/97m9ssf19d5o4cx0u058aixxfrmugn5e.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>DISPOSIZIONE DI ACCERTAMENTO SANITARIO OBBLIGATORIO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1744537</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1744537</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2270</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/ajhzdywp8bx7156xt85eau21xjo6po3r.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELLA SODI SCIENTIFICA PER CONTRATTO LUNGO NOLEGGIO MESI 36 DI 4 POSTAZIONI VELOX FISSE FATT. NR. 567/S DEL 31/07/2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1744309</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
       <enclosure url="https://app.box.com/shared/static/8dp43qb6bycreuy0nyypkg9bo71xxhdj.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 25]]></description>
-    </item>
-    <item>
-      <title>MODIFICA DEL REGOLAMENTO DI POLIZIA URBANA APPROVATO CON DELIBERAZIONE DEL CONSIGLIO COMUNALE N. 21 DEL 29/06/2023 – INSERIMENTO DELL'ARTICOLO 4-BIS "AREE URBANE SOGGETTE ALLE MISURE DI TUTELA DEL DECORO URBANO E DELLA SICUREZZA URBANA AI SENSI DELL'ARTICOLO 9 DEL DECRETO-LEGGE 20 FEBBRAIO 2017, N. 14".</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743353</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1743353</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2252</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
-      <enclosure url="https://app.box.com/shared/static/j9z8c4ibrkdidi7e71kh9fegxu9runfw.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>APPROVAZIONE DEL “REGOLAMENTO PER LA LOCALIZZAZIONE, L’INSTALLAZIONE ED IL RIASSETTO DI INFRASTRUTTURE E IMPIANTI DI TELEFONIA MOBILE E TECNOLOGIE ASSIMILABILI”, NEL COMUNE DI LADISPOLI, AI SENSI DELL’ART. 8, COMMA 6, DELLA LEGGE 22 FEBBRAIO 2001, N. 36 E DELL’ART. 9, COMMI 7, 8 E 9, DELLA L.R. LAZIO 10 AGOSTO 2022, N. 19. ESAME OSSERVAZIONI E CONTRODEDUZIONI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743350</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1743350</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2251</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
-      <enclosure url="https://app.box.com/shared/static/6ngj6080kdv59yn5umtj2uslwmc3eweu.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 20]]></description>
-    </item>
-    <item>
-      <title>PIANO COMUNALE DELLE AREE PER L’ESERCIZIO DEL COMMERCIO SU AREA PUBBLICA DI CUI ALL’ART. 51 COMMA 1 DELLA L.R. 22/2019 – APPROVAZIONE DEFINITIVA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743347</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1743347</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2250</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
-      <enclosure url="https://app.box.com/shared/static/yvswn5rmh5v6wb6cyiavf2osxdxqo3d1.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 21]]></description>
     </item>
   </channel>
 </rss>
