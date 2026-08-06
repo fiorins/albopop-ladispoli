@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 06 Aug 2026 07:06:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 12:06:02 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AFFIDAMENTO DIRETTO, AI SENSI DELL’ART. 50, COMMA 1, LETT. B) DEL D.LGS. N. 36/2023 E S.M.I. CON ORDINE DIRETTO DI ACQUISTO (ODA) TRAMITE LA PIATTAFORMA MEPA, PER IL SERVIZIO DI ORGANIZZAZIONE, GESTIONE E SVOLGIMENTO DI CONCORSI PUBBLICI IN MODALITÀ DIGITALE FORNITO DA RECRYTERA S.R.L. CIG: BCA212642B</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1744291</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1744291</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2265</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/b93hd6doel63103hlec5hyv8adbd63yb.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA PER SERVIZIO RECUPERO E TRASPORTO N. 2 SALME - SAMPAOLESI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1744288</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1744288</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2264</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/7od348nvmwm2k2dl4pyh0731so2dw39v.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>AVVISO PUBBLICO AI FINI DELLA NOMINA DELL’AMMINISTRATORE UNICO DELLA SOCIETÀ PARTECIPATA FLAVIA SERVIZI S.R.L.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743691</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">ORDINANZE</category>
       <enclosure url="https://app.box.com/shared/static/495p3cm1el98h8k4ihk6spbuy88c0ao5.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN OCCASIONE DEI FESTEGGIAMENTI PREVISTI SUL LUNGOMARE MARINA DI PALO IN OCCASIONE DEL FERRAGOSTO 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743262</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1743262</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2245</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/jqjb3wpurfgau4tv0nfgkf6zmq79lswo.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>RIF.TO PROT. N. 55445 DEL 22/08/2025, ISTANZA A.U.A. PER RINNOVO DELL’AUTORIZZAZIONE ALLO SCARICO DI ACQUE REFLUE INDUSTRIALI - RICHIEDENTE SETTEVENE CARBURANTI DI DEL VECCHIO MARCO E C. – S.A.S., PER L’IMPIANTO DI AUTOLAVAGGIO SITO IN VIA SETTEVENE PALO KM +1,000. RILASCIO PARERE TECNICO FAVOREVOLE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743260</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1743260</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2244</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/lvjxhddlc467uk4ps4rdaulkgdl2vj7a.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
