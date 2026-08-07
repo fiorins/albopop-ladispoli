@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 07 Aug 2026 08:06:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 08:35:38 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>ORDINANZA DI DEMOLIZIONE DI OPERE ABUSIVE - ARTT. 31-32 D.P.R. 380/2001 - NELL'IMMOBILE SITO IN VIA LAZIO DI PROPRIETÀ DI F.L. PER: 1. AMPLIAMENTO DELL’AMBIENTE BAGNO CON REALIZZAZIONE DI FINESTRA IN ZONA SOTTOPOSTA A VINCOLO PAESAGGISTICO E DIVERSA DISTRIBUZIONE DEGLI SPAZI INTERNI; 2. TETTOIA CON PARZIALI CHIUSURE VERTICALI IN ZONA SOTTOPOSTA A VINCOLO PAESAGGISTICO; 3. MANUFATTI ACCESSORI PERTINENZIALI DI DIMENSIONI VARIE IN AREA SOTTOPOSTA A VINCOLO PAESAGGISTICO E IN ADERENZA E/O NEL DISTACCO DA EDIFICI CONFINANTI.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1745135</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1745135</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">07/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">22/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2279</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/y5cz3z1vbe3j6hedhvzz9etm33g39n2x.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>ORDINATIVO DI LIQUIDAZIONE ACCORDO QUADRO "CLOUD ENABLING ID 2652 LOTTO 9" - 2° SAL APR - MAG - GIU 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1745036</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/3e288lp2rf7uq32w3sxrb6jfia2nhdt3.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A SEGATORI MASSIMILIANO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743610</link>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1743610</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">14/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2259</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/rc1pxqni8q31j4j4g4oztfuciq5khlez.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
 </rss>
