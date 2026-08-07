@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 06 Aug 2026 15:06:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:35:52 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>VARIAZIONI COMPENSATIVE TRA CAPITOLI DI SPESA APPARTENENTI ALLO STESSO MACRO-AGGREGATO (ART. 175, COMMA 5-QUATER, LETT. A), D.LGS. N. 267/000) . IRAP PERSONALE A TEMPO DETERMINATO POLIZIA LOCALE (VAR. 23/2026)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1744930</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1744930</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">07/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">22/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2273</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/gx8ked4amwy6tuew4kuxygq38y4srn23.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>V VARIAZIONE AL BILANCIO DI PREVISIONE 2026/2028 AI SENSI DELL'ARTICOLO 175 COMMA 4 DEL TUEL 267/2000 (VAR. 22/2026)</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1744545</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
       <enclosure url="https://app.box.com/shared/static/znlqmf3urkfb2ukk55odujwr09hoywyj.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 11]]></description>
-    </item>
-    <item>
-      <title>ASSESTAMENTO GENERALE DI BILANCIO E SALVAGUARDIA DEGLI EQUILIBRI PER L’ESERCIZIO 2026 AI SENSI DEGLI ARTT. 175, COMMA 8 E 193 DEL D.LGS. N. 267/2000.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1743376</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1743376</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2253</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
-      <enclosure url="https://app.box.com/shared/static/8dp43qb6bycreuy0nyypkg9bo71xxhdj.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 25]]></description>
     </item>
   </channel>
 </rss>
