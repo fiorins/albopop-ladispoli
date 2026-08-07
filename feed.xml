@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 07 Aug 2026 09:06:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 10:05:40 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>SGOMBERO DEI LUOGHI PER FUOCHI PIROTECNICI DEL GIORNO 15 AGOSTO 2026 NELL’AMBITO DELLA MANIFESTAZIONE COMUNALE "UNA NOTTE LUNGA UN GIORNO" ARENILE LIBERO LUNGOMARE MARINA DI PALO PRESSO LA SPIAGGIA INCLUSIVA.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1745387</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1745387</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">07/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">22/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2284</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/y6p1furwlgnek95hewzenwt1dqipjeh4.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>TELEFONIA MOBILE - LIQUIDAZIONE FATT. N. AS02189952 E N. AS02194880 DEL 29 LUGLIO 2026 SOC. FASTWEB S.P.A. PERIODO: 24 MAGGIO 2026 AL 23 LUGLIO 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1745163</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/b93hd6doel63103hlec5hyv8adbd63yb.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA PER SERVIZIO RECUPERO E TRASPORTO N. 2 SALME - SAMPAOLESI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1744288</link>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1744288</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2264</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/7od348nvmwm2k2dl4pyh0731so2dw39v.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
