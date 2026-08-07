@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 07 Aug 2026 11:05:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 12:35:43 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>OCCUPAZIONE SUOLO PUBBLICO VIA SPOLETO 6</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1745763</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1745763</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">07/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">22/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2286</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/438a29mn14r3wlcdxc789utibm212rfd.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>CONCESSIONE IN COMODATO D'USO GRATUITO DEL NATANTE COMUNALE "ECOLAD" ALL'ASSOCIAZIONE DOLPHIN ODV PER FINALITÀ DI TUTELA DELL'AMBIENTE MARINO, MONITORAGGIO AMBIENTALE E SERVIZIO SPECIALE ANTINQUINAMENTO. APPROVAZIONE SCHEMA DI CONTRATTO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1745513</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/qdg6reul2dqhc2tgdbj4yumvv45xitn7.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE PARCELLA 08/A 2026 - COMPENSO PRESIDENTE ORGANO DI REVISIONE ECONOMICO-FINANZIARIA PER L'ESPLETAMENTO DELLE PROPRIE FUNZIONI (PERIODO GIUGNO - LUGLIO 2026).</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1744300</link>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1744300</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2266</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/thhxwx7vzla4ztrltyrsxd2akr196ayp.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
