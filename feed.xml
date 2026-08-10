@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 07 Aug 2026 12:35:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 08:36:44 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LAVORI DI COMPLETAMENTO DEL NUOVO ASILO NIDO REALIZZATO IN ATTUAZIONE DELL'INTERVENTO PNRR M4 C1 I1.1 - AFFIDAMENTO DIRETTO A FAVORE DELLA ARTERI COSTRUZIONI EDILI S.R.L.S.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1746142</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1746142</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">10/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">25/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2288</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/4cg6m39rc8esbaxny6y5cczz8rrpski3.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 8]]></description>
+    </item>
+    <item>
+      <title>LAVORI DI COMPLETAMENTO DELL'IMMOBILE DI VIA ALDO MORO (PIANO TERRA) IN RISTRUTTURAZIONE PER L'INTERVENTO PNRR M5 C2 I1.2 - AFFIDAMENTO DIRETTO A FAVORE DELLA MATRIC COSTRUZIONI &amp; APPALTI S.R.L.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1746139</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1746139</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">10/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">25/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2287</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/8pvn0ati6vo0aojo6dm1pa7trqlvwjjd.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 6]]></description>
+    </item>
     <item>
       <title>OCCUPAZIONE SUOLO PUBBLICO VIA SPOLETO 6</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1745763</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/r6je8pjo0z0nl5owkv28xgyx3o790fgu.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELL'ASSOCIAZIONE DI TUTELA DEGLI ANIMALI E DELL’AMBIENTE ACCADEMIA KRONOS - CONTRIBUTO GIUGNO E LUGLIO ANNUALITA' 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1744306</link>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1744306</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2268</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/dv81fv6yqo74l1u0iv2rrdu0bj8r2fml.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELL'ASSOCIAZIONE NAZIONALE MARINAI D'ITALIA - GIUGNO E LUGLIO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1744303</link>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1744303</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2267</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/qdg6reul2dqhc2tgdbj4yumvv45xitn7.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
