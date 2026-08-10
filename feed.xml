@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 10 Aug 2026 08:36:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 10:05:49 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE DI SPESA A SALDO - IN FAVORE DELLA SOCIETA' GEMINI PROGETTI - SER-VIZIO PROFESSIONALE DI COORDINAMENTO DELLA SICUREZZA IN FASE DI ESECUZIONE PER L'OPERA P.N.R.R., FINANZIATO DALL’UNIONE EUROPEA NEXTGENERATION EU. M5 C2 INVE-STIMENTO 1.2 PERCORSI DI AUTONOMIA PER PERSONE CON DISABILITÀ. IMMOBILE DI VIA ALDO MORO – COMUNE DI LADISPOLI - GIÀ IN USO AI SERVIZI SOCIALI (PIANO TERRA) TRE ALLOGGI; CUP: E65I22000020001</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1746304</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1746304</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">10/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">25/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2289</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/qg4eyxvnc1sxa7cv89f0enz44q3rouew.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>LAVORI DI COMPLETAMENTO DEL NUOVO ASILO NIDO REALIZZATO IN ATTUAZIONE DELL'INTERVENTO PNRR M4 C1 I1.1 - AFFIDAMENTO DIRETTO A FAVORE DELLA ARTERI COSTRUZIONI EDILI S.R.L.S.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1746142</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">ORDINANZE</category>
       <enclosure url="https://app.box.com/shared/static/ajhzdywp8bx7156xt85eau21xjo6po3r.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELLA SODI SCIENTIFICA PER CONTRATTO LUNGO NOLEGGIO MESI 36 DI 4 POSTAZIONI VELOX FISSE FATT. NR. 567/S DEL 31/07/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1744309</link>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1744309</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2269</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/r6je8pjo0z0nl5owkv28xgyx3o790fgu.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
