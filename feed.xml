@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 11 Aug 2026 09:36:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 10:35:47 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DETERMINA DI IMPEGNO IN FAVORE DELLA DITTA NATIONAL SERVICES GROUP PROGETTO PRESIDIO E TUTELA - CIG BCB06C94BC</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1747157</link>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1747157</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2295</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/rmh22n8i4ndda2dybuzd4uk6mva8qpai.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>PROGETTO SPERIMENTALE “PRESIDIO E TUTELA . ATTIVAZIONE DI UN SERVIZIO DI VIGILANZA DINAMICA E PRESIDIO SUSSIDIARIO DELLE AREE E DEI BENI PUBBLICI.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1747100</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/w34nipmf33xmzfto8gtox2caqy36kedw.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>DETERMINA DI IMPEGNO E CONTESTUALE LIQUIDAZIONE A FAVORE AS.SO.VO.CE ORGANIZZAZIONE DI VOLONTARIATO (O.D.V.) PER IL SERVIZIO ASSISTAENZA SANIRARIA COME DA PIANO SANITARIO SUL LUNGOMARE MARINA DI PALO NELLE GIORNATE DEL 14 E 15 AGOSTO 2026 NELL’AMBITO DELLA MANIFESTAZIONE “UNA NOTTE LUNGA UN GIORNO” NEL COMUNE DI LADISPOLI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1745027</link>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1745027</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2275</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/0oels5ptvk7k4qhj9dfvo2s0vn8b9guc.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
