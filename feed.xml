@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 11 Aug 2026 11:35:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 14:05:47 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A DI PORTO GIACOMO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1747454</link>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1747454</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2298</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/ri8s7rimslj7wop21a3rnvzelvb1n4x2.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>APPROVAZIONE SCHEMA DI AVVISO PUBBLICO AVENTE AD OGGETTO: “CONTRIBUTI PER IL TRASPORTO SCOLASTICO DEGLI ALUNNI CON DISABILITÀ CHE FREQUENTERANNO LE ISTITUZIONI SCOLASTICHE SECONDARIE DI 2^ GRADO STATALI O PARITARIE OPPURE I PERCORSI TRIENNALI DI ISTRUZIONE E FORMAZIONE PROFESSIONALE, DI CUI ALL’ART. 28 DEL D.LGS. N. 226/2005 NELL' ANNO SCOLASTICO 2026/2027-“</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1747452</link>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1747452</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2297</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/5v0k7lor8l09j6ijxjea6kqabo20mwp5.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>MODIFICHE ED INTEGRAZIONI ALL'ORDINANZA SINDACALE N.129 DEL 06/08/2026.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1747297</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">ORDINANZE</category>
       <enclosure url="https://app.box.com/shared/static/y5cz3z1vbe3j6hedhvzz9etm33g39n2x.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE ACCORDO QUADRO "CLOUD ENABLING ID 2652 LOTTO 9" - 2° SAL APR - MAG - GIU 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1745036</link>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1745036</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2278</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/yjeb6nkqftvt576lwqaevxvr4jpqbxct.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>DETERMINA DI IMPEGNO E CONTESTUALE LIQUIDAZIONE A FAVORE ALL'ASSOCIAZIONE “FARE AMBIENTE LABORATORIO VERDE AREA METROPOLITANA DI LADISPOLI” PER LO SVOLGIMENTO DELLE ATTIVITÀ DI VOLONTARIATO SUL LUNGOMARE MARINA DI PALO NELLE GIORNATE DEL 14 E 15 AGOSTO 2026 NELL’AMBITO DELLA MANIFESTAZIONE “UNA NOTTE LUNGA UN GIORNO” NEL COMUNE DI LADISPOLI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1745033</link>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1745033</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2277</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/g6xn35d9e2ve2dij43npubonlu39g3fm.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
