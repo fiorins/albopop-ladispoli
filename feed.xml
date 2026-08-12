@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 12 Aug 2026 06:35:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 11:05:38 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DECISIONE A CONTRARRE E CONTESTUALE AFFIDAMENTO DIRETTO EX ART. 50, COMMA 1, LETT. B) D.LGS. 36/2023 ALLA TIPOGRAFIA ARTI GRAFICHE LAURIA DI EMANUELE LAURIA &amp; C. S.N.C PER LA FORNITURA DI N. 20 PANNELLI IMMAGINE DI LADISPOLI, SU FOREX DA 5 MM FORM. 50X70, CON STAMPA DIRETTA A COLORI IN UV – ASSUNZIONE IMPEGNO DI SPESA.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1747961</link>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1747961</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">12/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">27/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2300</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/04fw4ur7ylq2f3ltkohyjffig6i63hmu.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>ISTITUZIONE AREE DISABILI AD PERSONAM E GENERICHE</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1747564</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/r6478uuzy68h3t14h4xb8xx2rb6386mm.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>RIU 91/2026 - SERVIZIO DI REDAZIONE DEL REGOLAMENTO PER L’INSTALLAZIONE DI IMPIANTI DI TELEFONIA MOBILE E DELOCALIZZAZIONE DI QUELLI ESISTENTI NEL TERRITORIO COMUNALE DI LADISPOLI, DA ADOTTARE AI SENSI DELL’ART. 8, COMMA 6 DELLA L. 36/2001 E DELL’ART. 9, COMMA 8, DELLA L.R. N. 19/2022. – ORDINANZA DI LIQUIDAZIONE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1745154</link>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1745154</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2280</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/gkgjem0zfo7kng95d2a4nb6ar3jvag90.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
