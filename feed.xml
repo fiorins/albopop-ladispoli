@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 13 Aug 2026 10:05:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 10:36:10 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONCESSIONE PATROCINIO ONEROSO IN FAVORE DELL'ASSOCIAZIONE APS RESISTENZA CULTURALE PER LA REALIZZAZIONE DELL’EVENTO SPORTIVO DENOMINATO “PROGETTO SUMMER CUP- TORNEO CALCIO A 5 STUDENTESCO”, CHE SI SVOLGERÀ PRESSO IL CAMPO DA CALCIO A 5 SITUATO IN VIA FIRENZE, DAL 20 AL 26 E DAL 28 AL 30 AGOSTO 2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1748706</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1748706</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">13/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">28/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2309</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/64d5t6211p52nhkqhe4plm6tyrc9bi8c.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>CONCESSIONE PATROCINIO E CONTRIBUTO ECONOMICO IN FAVORE DELL’ASSOCIAZIONE MARINA DI PALO APS PER LA REALIZZAZIONE DELL’EVENTO DENOMINATO “UN MARE DI EMOZIONI – LO SPORT NON VA IN VACANZA” – EDIZIONE 2026, IN PROGRAMMA NEI GIORNI DI SABATO 22 E DOMENICA 23 AGOSTO 2026, PRESSO IL LUNGOMARE MARINA DI PALO.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1748703</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1748703</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">13/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">28/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2308</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/johfha6mx8qpd3bsmho6va58m9dichc6.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>DECISIONE A CONTRARRE E CONTESTUALE AFFIDAMENTO DIRETTO DEL SERVIZIO, AI SENSI DELL’ART. 50, COMMA 1, LETTERA B) DEL D.LGS. 36/2023, ALL’ARTISTA GIULIA PERICONE, PER L’ORGANIZZAZIONE DELLO SPETTACOLO DENOMINATO "SUMMER FEVER FEST" IN PROGRAMMA IL 16/08/2026 IN PIAZZA ROSSELLINI - CIG BCB3BF44E3 - ASSUNZIONE IMPEGNO DI SPESA.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1748634</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/2v9lbuszcy1blvwbr0ihy1ve14mr7wkh.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA A SALDO - IN FAVORE DELLA SOCIETA' GEMINI PROGETTI - SER-VIZIO PROFESSIONALE DI COORDINAMENTO DELLA SICUREZZA IN FASE DI ESECUZIONE PER L'OPERA P.N.R.R., FINANZIATO DALL’UNIONE EUROPEA NEXTGENERATION EU. M5 C2 INVE-STIMENTO 1.2 PERCORSI DI AUTONOMIA PER PERSONE CON DISABILITÀ. IMMOBILE DI VIA ALDO MORO – COMUNE DI LADISPOLI - GIÀ IN USO AI SERVIZI SOCIALI (PIANO TERRA) TRE ALLOGGI; CUP: E65I22000020001</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1746304</link>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1746304</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">10/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">25/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2289</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/qg4eyxvnc1sxa7cv89f0enz44q3rouew.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>LAVORI DI COMPLETAMENTO DEL NUOVO ASILO NIDO REALIZZATO IN ATTUAZIONE DELL'INTERVENTO PNRR M4 C1 I1.1 - AFFIDAMENTO DIRETTO A FAVORE DELLA ARTERI COSTRUZIONI EDILI S.R.L.S.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1746142</link>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1746142</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">10/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">25/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2288</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/4cg6m39rc8esbaxny6y5cczz8rrpski3.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 8]]></description>
     </item>
   </channel>
 </rss>
