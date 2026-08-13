@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 12 Aug 2026 11:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 05:35:42 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A IMPELLIZZERI MARIA LETIZIA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1748376</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1748376</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">13/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2303</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/6dyqmxovi31viy2sszmrpow0gq0mjmoh.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A MANCO MARIAROSARIA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1748374</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1748374</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">13/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2302</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/26s4n3nnwrw6mj7lmf1fbmukmdqkoq4u.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>PRESA D’ATTO DELLE DIMISSIONI VOLONTARIE DI UN DIPENDENTE DALLA DATA DEL 01/09/2026 (ULTIMO GIORNO DI SERVIZIO 31/08/2026).</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1748029</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">ORDINANZE</category>
       <enclosure url="https://app.box.com/shared/static/y6p1furwlgnek95hewzenwt1dqipjeh4.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>TELEFONIA MOBILE - LIQUIDAZIONE FATT. N. AS02189952 E N. AS02194880 DEL 29 LUGLIO 2026 SOC. FASTWEB S.P.A. PERIODO: 24 MAGGIO 2026 AL 23 LUGLIO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1745163</link>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1745163</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2283</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/oyhlm67ru8tfcx2qf0teaztmexd1vjgt.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>DECISIONE A CONTRARRE E AFFIDAMENTO - D.LGS. 36/2023, ART. 50 COMMA 1 LETT. B) - MEDIANTE TRATTATIVA DIRETTA MEPA PER LA FORNITURA DI MOBILI E ARREDI PER LA NUOVA MENSA SCOLASTICA SITA IN VIA CASTELLAMARE, LADISPOLI - CIG BCA3814040</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1745160</link>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1745160</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2282</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/vk5nnrzl94kpg5nvzvn68uso0z4zr1uz.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
