@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 13 Aug 2026 09:05:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 10:05:42 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DECISIONE A CONTRARRE E CONTESTUALE AFFIDAMENTO DIRETTO DEL SERVIZIO, AI SENSI DELL’ART. 50, COMMA 1, LETTERA B) DEL D.LGS. 36/2023, ALL’ARTISTA GIULIA PERICONE, PER L’ORGANIZZAZIONE DELLO SPETTACOLO DENOMINATO "SUMMER FEVER FEST" IN PROGRAMMA IL 16/08/2026 IN PIAZZA ROSSELLINI - CIG BCB3BF44E3 - ASSUNZIONE IMPEGNO DI SPESA.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1748634</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1748634</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">13/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">28/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2307</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/2s1kop31s1pxsvb65spyku121dbuh6p5.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>PRESA D’ATTO DEL RINNOVO ALL’AUTORIZZAZIONE ALLO SCARICO DELLE ACQUE REFLUE (DI CUI AL CAPO II DEL TITOLO V DELLA SEZIONE II DELLA PARTE TERZA ART. 124 D. LGS. 152/2006) – “SETTEVENE CARBURANTI DI DEL VECCHIO MARCO &amp; C. SAS – VIA SETTEVENEPALO KM. 1,000”</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1748563</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/4cg6m39rc8esbaxny6y5cczz8rrpski3.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 8]]></description>
-    </item>
-    <item>
-      <title>LAVORI DI COMPLETAMENTO DELL'IMMOBILE DI VIA ALDO MORO (PIANO TERRA) IN RISTRUTTURAZIONE PER L'INTERVENTO PNRR M5 C2 I1.2 - AFFIDAMENTO DIRETTO A FAVORE DELLA MATRIC COSTRUZIONI &amp; APPALTI S.R.L.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1746139</link>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1746139</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">10/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">25/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2287</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/8pvn0ati6vo0aojo6dm1pa7trqlvwjjd.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 6]]></description>
     </item>
   </channel>
 </rss>
