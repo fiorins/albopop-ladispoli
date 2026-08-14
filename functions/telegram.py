@@ -1,6 +1,7 @@
 import re, requests, time, html
 from .helpers import (
     TELEGRAM_CHAT_ID,
+    TELEGRAM_CHAT_ID_UPDATES,
     TELEGRAM_TOKEN,
     TYPE_MAPPINGS,
 )
@@ -157,3 +158,23 @@ def send_telegram_msg(meta: dict, file_bytes=None, filename=None):
     except Exception as e:
         print(f"Telegram error for {meta['register']}: {e}")
         return None
+
+
+def send_missing_entries_alert(missing_entries):
+    if not missing_entries:
+        return None
+
+    text = (
+        "⚠️ <b>Missing registry entries detected</b>\n\n"
+        f"Missing: <code>{', '.join(missing_entries)}</code>"
+    )
+
+    payload = {
+        "chat_id": TELEGRAM_CHAT_ID_UPDATES,
+        "text": text,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": True,
+    }
+
+    url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
+    return requests.post(url, json=payload)

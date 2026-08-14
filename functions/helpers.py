@@ -32,6 +32,7 @@ REQUIRED_ENV = [
     "BOX_ATTACHMENTS_FOLDER_ID",
     "TELEGRAM_TOKEN",
     "TELEGRAM_CHAT_ID",
+    "TELEGRAM_CHAT_ID_UPDATES",
     "GOOGLE_SHEET_ID",
 ]
 
@@ -45,6 +46,7 @@ ELEMENT_BASE_URL = os.getenv("ELEMENT_BASE_URL")
 BOX_ATTACHMENTS_FOLDER_ID = os.getenv("BOX_ATTACHMENTS_FOLDER_ID")
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+TELEGRAM_CHAT_ID_UPDATES = os.getenv("TELEGRAM_CHAT_ID_UPDATES")
 GOOGLE_SHEET_ID = os.getenv("GOOGLE_SHEET_ID")
 
 # ── Metadata Mappings ────────────────────────────────────────────────────────
@@ -72,6 +74,17 @@ RSS_MUNICIPALITY_GEODATA = {
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
+
+
+# Sort the registry list by year and number
+def registry_sort_key(value):
+    try:
+        year, number = str(value).split("-", 1)
+        return int(year), int(number)
+    except (ValueError, IndexError):
+        return (0, 0)
+
+
 # Loads the list of already processed entries from seen.json
 def load_seen():
     if not Path(SEEN_FILE).exists():
@@ -88,15 +101,7 @@ def load_seen():
 
 # After processing new entries it saves the updated list back to seen.json
 def save_seen(seen, limit=40):
-
-    def safe_sort_key(x):
-        try:
-            parts = x.split("-")
-            return (int(parts[0]), int(parts[1]))
-        except (ValueError, IndexError):
-            return (0, 0)
-
-    seen_list = sorted(seen, key=safe_sort_key)
+    seen_list = sorted(seen, key=registry_sort_key)
 
     seen_list = seen_list[-limit:]
     seen_list.reverse()
