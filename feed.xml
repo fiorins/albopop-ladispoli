@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 17 Aug 2026 11:05:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 06:05:45 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A CICIRIELLO FABRIZIO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1750579</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1750579</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2338</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/g6qw37zlc4v94ogwdenuc0ghew5b7ys8.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A ROMILDO ANNA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1750577</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1750577</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2337</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/a3pafi3z36sz5et5vkq7ei867yfx9d39.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A CALTAGIRONE ALESSANDRO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1750575</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1750575</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2336</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/eir9kcneyt7r4gk4lixtsmbxibdjv1r0.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>ATTO DI PIGNORAMENTO DEI CREDITI VERSO TERZI EMESSO DA AGENZIA DELLE ENTRATE-RISCOSSIONE, AGENTE DELLA RISCOSSIONE PER LA PROVINCIA DI ROMA - TRATTENUTA MENSILE A CARICO DI UN DIPENDENTE.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1750304</link>
@@ -238,45 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/8oa55r1i7oeyx09v6sqda85re132g7v8.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>CONTRIBUTI ECONOMICI SOGGETTI INDIGENTI - COMMISSIONE 05.08.2026 - IMPEGNO SOMMA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1750123</link>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1750123</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2318</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/y73ncqse6ymlvcx56k10oibigio5yfra.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA SERVIZIO DI OPERAZIONI CIMITERIALI DI ESCAVAZIONE FOSSE E SEPOLTURA A TERRA DELLA SALMA DI UN CITTADINO INDIGENTE - “SOC. SARA ’94 S.R.L.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1750120</link>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1750120</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2317</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/9eyystbaypc7axsonrqwyz728qwj175l.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA INERENTE IL FINANZIAMENTO PER L’INDIVIDUAZIONE DELLE FA-MIGLIE BENEFICIARIE DEL CONTRIBUTO PER LA FREQUENZA DI CENTRI ESTIVI ACCREDITATI, DESTINATI A BAMBINI/RAGAZZI DA 0 A 17 ANNI-PERIODO GIUGNO 2026 – SETTEMBRE 2026”</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1750117</link>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1750117</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2316</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/s65bw0trvkx470sag9mrbl12lrip3j65.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
