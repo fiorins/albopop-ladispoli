@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 18 Aug 2026 10:05:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:05:54 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DETERMINA DI IMPEGNO IN FAVORE DELLA DITTA ARTI GRAFICHE LAURIA PER ACQUISTO STAMPATI VARI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1751426</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1751426</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">19/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2341</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/i55sg876fnnm2xr3vnzc3lo48uwb6794.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE SPESA PER LA FORNITURA DI BUONI PASTO ELETTRONICI FATTURA N. VO-134753 DEL 10/08/2026 DAY RISTOSERVICE S.P.A.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1750859</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/j3va2hdpvntltzf4fbpskll98szcta1g.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELLA COOPERATIVA SOCIALE MEDIHOSPES PER IL SERVIZIO DI ASSISTENZA EDUCATIVA A SOSTEGNO DELLE AUTONOMIE (OEPAC) PER UN ALUNNO DISABILE FREQUENTANTE UN ISTITUTO FUORI COMUNE - PERIODO DA GENNAIO A GIUGNO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1750162</link>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1750162</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2321</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/q6f8hg1zn6nmnszaynk1gjapmdai3c71.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
