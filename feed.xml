@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 20 Aug 2026 11:05:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 14:35:53 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE CONTRIBUTI ECONOMICI SOGGETTI INDIGENTI - COMMISSIONE 05.08.2026 -</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1752530</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1752530</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">20/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">04/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2352</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/pm9jxw9yp19g9u041lahy29x0gv9w8ip.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>RIU 93/2026 - SERVIZIO DI GESTIONE DELLA FRAZIONE ESTRANEA ECCEDENTE LA FRANCHIGIA DI CUI ALLA CONVENZIONE COMIECO – ORDINANZA DI LIQUIDAZIONE GIUGNO 2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1752527</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1752527</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">20/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">04/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2351</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/5m3ghe6fk0mh7bmm4nm13btwocc772mb.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>IMPEGNO DI SPESA E CONTESTUALE LIQUIDAZIONE PER FORNITURA CARTE D'IDENTITÀ CARTACEE PROVVISORIE.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1752310</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/aip9w8nny5ltjadbms2j5phqou80hne7.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA PER L'EROGAZIONE DI CONTRIBUTI PER AFFIDAMENTI FA-MILIARI ED ADOZIONI DEL COMUNE DI LADISPOLI LINEE GUIDA DGR 90/2019 – DGR 351/2024 COMPETENZE ANNUALITA’ 2026 2 QUADRIMESTRE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1750220</link>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1750220</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2332</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/deyckjv5btr5ej2rg34h8lm7bp8gnfyg.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RIU 101/2026 - SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI EER 20.03.07 – ORDINANZA DI LIQUIDAZIONE DI LUGLIO 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1750199</link>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1750199</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2331</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/x6i6wcrvy0tk2iamigb48n553dvb0vsr.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
