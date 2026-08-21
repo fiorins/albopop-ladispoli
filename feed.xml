@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 21 Aug 2026 09:36:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:35:34 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RIU 98/2026 – DIRETTORE ESECUZIONE DEL CONTRATTO (DEC) DEL SERVIZIO DI IGIENE URBANA INTEGRATA – ORDINANZA DI LIQUIDAZIONE PERIODO MAGGIO - LUGLIO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1753047</link>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1753047</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">21/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">05/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2355</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/b0mhh8cru2yfr7zky3n8cpcnj8hrq4ht.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>APPROVAZIONE AVVISO PUBBLICO PER LA CONCESSIONE IN USO TEMPORANEO ED IN ORARIO EXTRASCOLASTICO DELLE PALESTRE, DEI LOCALI SCOLASTICI E DEGLI SPAZI VERDI ANNESSI AGLI ISTITUTI SCOLASTICI DI PROPRIETÀ DEL COMUNE DI LADISPOLI, PER L'ANNO 2026/2027.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1752948</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/eir9kcneyt7r4gk4lixtsmbxibdjv1r0.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>ATTO DI PIGNORAMENTO DEI CREDITI VERSO TERZI EMESSO DA AGENZIA DELLE ENTRATE-RISCOSSIONE, AGENTE DELLA RISCOSSIONE PER LA PROVINCIA DI ROMA - TRATTENUTA MENSILE A CARICO DI UN DIPENDENTE.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1750304</link>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1750304</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2335</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/p4a2vtzau2z5vkdakvk2fw9sgcezsvqu.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
