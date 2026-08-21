@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 20 Aug 2026 14:35:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 09:36:33 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>APPROVAZIONE AVVISO PUBBLICO PER LA CONCESSIONE IN USO TEMPORANEO ED IN ORARIO EXTRASCOLASTICO DELLE PALESTRE, DEI LOCALI SCOLASTICI E DEGLI SPAZI VERDI ANNESSI AGLI ISTITUTI SCOLASTICI DI PROPRIETÀ DEL COMUNE DI LADISPOLI, PER L'ANNO 2026/2027.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1752948</link>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1752948</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">21/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">05/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2354</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/wdh5ky5baki16r5hqqxrttbe5eibow2b.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 6]]></description>
+    </item>
+    <item>
+      <title>APPROVAZIONE AVVISO PUBBLICO PER LA CONCESSIONE IN USO TEMPORANEO DEGLI SPAZI SITUATI ALL'INTERNO DELL’IMMOBILE COMUNALE DENOMINATO PALAZZETTO DELLO SPORT “A. SORBO” PER LA STAGIONE SPORTIVA 2026-2027.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1752945</link>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1752945</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">21/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">05/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2353</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/2qsmok8lhcax3mn14iih71qfr4pbgfgv.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 6]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE CONTRIBUTI ECONOMICI SOGGETTI INDIGENTI - COMMISSIONE 05.08.2026 -</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1752530</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/p4a2vtzau2z5vkdakvk2fw9sgcezsvqu.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RIU 95/2026 - SERVIZIO PER LA GESTIONE DELLA FRAZIONE DI RIFIUTO URBANO EER 20.01.38 – ORDINANZA DI LIQUIDAZIONE MESE DI LUGLIO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1750226</link>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1750226</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2334</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ytnj1e0o2o6bjwg80nwzlv7vq4enaelh.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RIU 96/2026 - SERVIZIO DI “PIATTAFORMA COREVE” DEI RIFIUTI URBANI EER 15.01.07 – ORDINANZA DI LIQUIDAZIONE MESE DI LUGLIO 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1750223</link>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1750223</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2333</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/aip9w8nny5ltjadbms2j5phqou80hne7.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
