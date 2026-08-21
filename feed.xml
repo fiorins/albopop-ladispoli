@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 21 Aug 2026 10:35:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 11:35:53 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONCESSIONE CONTRIBUTO ECONOMICO IN FAVORE DELL’ASSOCIAZIONE MARINA DI PALO APS PER LA REALIZZAZIONE DELL’EVENTO DENOMINATO “UN MARE DI EMOZIONI – LO SPORT NON VA IN VACANZA” – EDIZIONE 2026, IN PROGRAMMA NEI GIORNI DI SABATO 22 E DOMENICA 23 AGOSTO 2026, PRESSO IL LUNGOMARE MARINA DI PALO - ASSUNZIONE IMPEGNO DI SPESA.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1753085</link>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1753085</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">21/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">05/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2357</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/4o4yjyynmadg1jb1zjonr1b9egmihvs3.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>DECISIONE A CONTRARRE E CONTESTUALE AFFIDAMENTO DIRETTO DEL SERVIZIO, AI SENSI DELL’ART. 50, COMMA 1, LETTERA B) DEL D.LGS. 36/2023, PER L’ORGANIZZAZIONE DELLO SPETTACOLO DENOMINATO “VALENTINO AQUILANI CANTA LUCIO DALLA” IN PROGRAMMA IL 28/08/2026, IN PIAZZA ROSSELLINI, ALL’A.S.D. SPORTIS LIFE - CIG BCB5CD9A1C - ASSUNZIONE IMPEGNO DI SPESA.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1753082</link>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1753082</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">21/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">05/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2356</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/n7dxpwn3p35uzjoygam68ka39jp2algu.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>RIU 98/2026 – DIRETTORE ESECUZIONE DEL CONTRATTO (DEC) DEL SERVIZIO DI IGIENE URBANA INTEGRATA – ORDINANZA DI LIQUIDAZIONE PERIODO MAGGIO - LUGLIO 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1753047</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/g6qw37zlc4v94ogwdenuc0ghew5b7ys8.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A ROMILDO ANNA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1750577</link>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1750577</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">18/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2337</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/a3pafi3z36sz5et5vkq7ei867yfx9d39.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A CALTAGIRONE ALESSANDRO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1750575</link>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1750575</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">18/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2336</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/eir9kcneyt7r4gk4lixtsmbxibdjv1r0.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
