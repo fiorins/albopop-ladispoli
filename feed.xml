@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 24 Aug 2026 11:37:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 13:35:42 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RIMBORSO AI CONTRIBUENTI DI SOMME IMU NON DOVUTE PER L’IMPORTO COMPLESSIVO DI €. 3.231,00</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1753740</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1753740</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">24/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2384</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/f805em4desdhvl193jpepczuvvce3501.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>STRUTTURA CONGREGAZIONE FEMMINILE SERVE DEI POVERI “CASA DI RIPOSO STELLA MARIS” - LIQUIDAZIONE SOMMA PER COMPARTECIPAZIONE ALLA RETTA UTENTI RICOVERATI - PERIODO LUGLIO 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1753707</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/qy2wod3bgjxhjogmvh4pv3w7ykdpomfc.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DI VARI CITTADINI PER SOMME ERRONEAMENTE VERSATE LUGLIO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1753383</link>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1753383</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">24/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2364</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/lzbe2cofrq6r39zsos5dbnh834mgwk7c.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
