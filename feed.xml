@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 24 Aug 2026 05:05:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:05:35 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>PERMESSI RETRIBUITI AI SENSI DELL’ARTICOLO 33, COMMA 3, DELLA LEGGE 5 FEBBRAIO 1992, N. 104 E SS.MM.II. CONCESSI A UN DIPENDENTE. DETERMINAZIONI.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1753351</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1753351</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">24/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2359</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/9pmqdaalbin8skk8eiesnn4kv3viruc1.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>SPOSTAMENTO MERCATO SETTIMANALE DEL SABATO IN VIA TRE PESCI IN DATA 29.08.26</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1753237</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/9hlotjmxilyv3r5ic90q7rgq0nsjo31s.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE IN FAVORE DELL'AGENZIA "ETHERNYA SNC DI TERMINI GIUSEPPE&amp;C - TAFFO", PER ILSERVIZIO DI ONORANZE FUNEBRI IN FAVORE DI UN CITTADINO INDIGENTE.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1750856</link>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1750856</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">18/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">02/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2339</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/4ge6wivmge9dstf93fb1xsekbw5fxnl5.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
