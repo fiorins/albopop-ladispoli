@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 24 Aug 2026 13:35:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:35:48 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONVENZIONE CON PRONTO STRADE SRL, AGGIUDICATARIO DELLA GARA COMUNITARIA A PROCEDURA APERTA, ARTT. 186 E SS. DEL D.LGS. 36/23 E 70, COMMA 1 E 71, COMMA 1, D. LGS. N. 36/23, INDETTA DALLA CITTÀ METROPOLITANA DI ROMA CAPITALE NELLA VESTE DI SOGGETTO AGGREGATORE, COME DA DELIBERAZIONE DELL’AUTORITÀ NAZIONALE ANTICORRUZIONE DEL 23 LUGLIO 2015, FINALIZZATA ALL’AFFIDAMENTO IN CONCESSIONE DEL “SERVIZIO DI RIPRISTINO DELLE CONDIZIONI DI SICUREZZA STRADALE, REINTEGRA DELLE MATRICI AMBIENTALI COMPROMESSE DAL VERIFICARSI DI INCIDENTI STRADALI.”. CIG DERIVATO BCC3A582EA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1754246</link>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1754246</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">25/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">09/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2385</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/hmpn2m8ttkfwbrj2u4avivk6a3cx70bp.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 5]]></description>
+    </item>
     <item>
       <title>RIMBORSO AI CONTRIBUENTI DI SOMME IMU NON DOVUTE PER L’IMPORTO COMPLESSIVO DI €. 3.231,00</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1753740</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/b5mhxh6uh6p5jc7hvkd5kb9q52w857p8.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>RETTE PER L'ACCOGLIENZA DI MINORI IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI - LIQUIDAZIONE DI SPESA IN FAVORE DELL'APS CHIARA E FRANCESCO – LUGLIO 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1753386</link>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1753386</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">24/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2365</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/qy2wod3bgjxhjogmvh4pv3w7ykdpomfc.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
