@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 25 Aug 2026 13:38:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:05:50 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE FATTURA EMESSA DALLA CIRFOOD PER L’EROGAZIONE DEL SERVIZIO DI “PASTI A DOMICILIO AGLI ANZIANI ED ADULTI IN CONDIZIONI DI DISAGIO SOCIO–SANITARIO ED ECONOMICHE” NEL MESE DI LUGLIO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1754718</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1754718</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">10/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2398</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/r2a21kw8n1r7xjw0v0ek3ji958qu73bl.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>INCARICO A FAVORE DELL’ARCH. MAURO BRUGNONI PER IL PROGETTO P.N.R.R. COFINAN-ZIATO DALL'UNIONE EUROPEA – NEXT GENERATION EU - MISSIONE 4: ISTRUZIONE E RICERCA COMPONENTE 1 – POTENZIAMENTO DELL’OFFERTA DEI SERVIZI DI ISTRUZIONE: DAGLI ASILI NIDO ALLE UNIVERSITÀ INVESTIMENTO - 1.1: PIANO PER ASILI NIDO E SCUOLE DELL’INFANZIA E SERVIZI DI EDUCAZIONE E CURA PER LA PRIMA INFANZIA C.U.P.: E65E22000210006 – LIQUIDAZIONE SAL 8.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1754360</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/mdcuthn17f98bwe7r0m8dhnmoxyb53av.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>NOMINA AMMINISTRATORE UNICO SOCIETA' PARTECIPATA FLAVIA SERVIZI S.R.L.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1753657</link>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1753657</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">24/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2378</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DECRETI</category>
-      <enclosure url="https://app.box.com/shared/static/liwgi7pxzpiqejaa69ltretlt6nzfqdl.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
 </rss>
