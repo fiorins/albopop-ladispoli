@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 26 Aug 2026 11:05:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 08:05:58 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DETERMINAZIONE A CONTRARRE E AFFIDAMENTO DIRETTO AI SENSI DELL’ART. 50, COMMA 1, LETT. B) DEL D.LGS. N. 36/2023, DEL SERVIZIO DI INVIO MASSIVO PEO-PEC</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1755276</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1755276</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">11/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2401</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/d851ce8i6v7zboy6djjsb2un6a7yinwi.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>DETERMINAZIONE ASSUNZIONE IMPEGNO DI SPESA A SEGUITO DELL’AFFIDAMENTO DEI LAVORI DELL’OPERA “CAMPAGNA DI MANUTENZIONE STRADALE DELLA VIABILITÀ COMUNALE – VIE VARIE NEL COMUNE DI LADISPOLI”- CUP: E67H26000250004 E APPROVAZIONE DEL Q.T.E. RIMODULATO.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1755273</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1755273</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">11/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2400</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/9n5ipjtggox2r3qppw5gpl33zc53eae6.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>RIQUALIFICAZIONE LUNGOMARI DI LADISPOLI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1754931</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/cr9afnn28q5mpfzaxmvzo8koiplksjke.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE CONTRIBUTO ECONOMICO IN FAVORE DEL SIG. EMANUELE OREFICE A COPERTURA DELLE SPESE SOSTENUTE PER LA REALIZZAZIONE DELL’EVENTO SPORTIVO DENOMINATO “TORNEO DI BEACH SOCCER”, DAL 15 LUGLIO AL 31 LUGLIO 2026, PRESSO LO STABILIMENTO BALNEARE “ALBA TIRRENO”.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1753701</link>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1753701</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">24/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2381</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/8oeuiiglh227a23nbspgmyhkxmupthl4.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA PER SOMME DOVUTE A TITOLO DI RIFUSIONE DEI DANNI SUBITI A SEGUITO DI INSIDIA STRADALE – RICHIESTE DI RISARCIMENTO PROT. N. 46303/2024; N. 36196/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1753698</link>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1753698</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">24/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2380</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/v3cw1c2t2t5v55h6fzmlj6ib8yownt3b.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
