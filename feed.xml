@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 27 Aug 2026 13:37:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 14:06:05 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RIU 104/2026 - SERVIZIO PER LA GESTIONE DELLA FRAZIONE DI RIFIUTO URBANO EER 20.01.38 – ORDINANZA DI LIQUIDAZIONE MESE DI GIUGNO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1755890</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1755890</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">11/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2411</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/y5myv9023p5vy22htc78f9f76s78c37l.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>RIU 103/2026 – SERVIZIO DI DERATTIZZAZIONE, MONITORAGGIO E SANIFICAZIONE AMBIENTALE DEL TERRITORIO COMUNALE – LIQUIDAZIONE SAL 2</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1755887</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1755887</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">11/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2410</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/hn1yjpj2gxirdf9z6qs2jqhmkvyyf1ma.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>RIU 105/2026 - SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI EER 20.03.03 – ORDINANZA DI LIQUIDAZIONE LUGLIO 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1755845</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/cpgp5sn2palj9uysn0hklx3iiuoacuj4.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>(RPS 642/26) AFFIDAMENTO DIRETTO E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DELL'OPERATORE ECONOMICO SM EDILIZIA DI ALESSANDRO VECCHIOTTI PER LAVORI DI MANUTENZIONE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) D. L.VO 36/2023) SUL TERRITORIO COMUNALE.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1754319</link>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1754319</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">25/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">09/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2391</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/9nqdiorh2hbjogp4nqrwfw693y8c3pog.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ISCRIZIONE DELL’ASD ETRURIA SPORTING ALL’ALBO COMUNALE DELLE ASSOCIAZIONI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1754316</link>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1754316</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">25/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">09/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2390</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/bkvmhrl1wkvnmupzrkztshdtaiccf5nq.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
