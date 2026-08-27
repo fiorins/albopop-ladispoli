@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 27 Aug 2026 14:06:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 15:06:04 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE FATTURA N.445 DEL 03/08/2026 - DITTA SARA'94 - P.I. IT04793501000, CON SEDE A BRACCIANO - AFFITTO PLESSO SCOLASTICO DENOMINATO “ILARIA ALPI” SITO IN VIA PRAGA.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1755926</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1755926</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">11/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2413</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/owci0my28luzzm32wqr9nhdhzvzshhoc.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>RIMBORSO 2026, DELLE SPESE RELATIVE ALLE UTENZE DELLA PUBBLICA ILLUMINAZIONEA, DERIVANTE DALLA CONVENZIONE REP.4657/2017 E REP.4667/2019, CONSORZIO MARINA DI SAN NICOLA.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1755923</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1755923</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">11/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2412</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/tgb9276nn1pcy0qeaqburymox7ony00i.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>RIU 104/2026 - SERVIZIO PER LA GESTIONE DELLA FRAZIONE DI RIFIUTO URBANO EER 20.01.38 – ORDINANZA DI LIQUIDAZIONE MESE DI GIUGNO 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1755890</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/iwn4lecee7e9rgyfovg8rzu86axh2x5i.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 5]]></description>
-    </item>
-    <item>
-      <title>PROGETTO P.N.R.R. FINANZIATO DALL'UNIONE EUROPEA – NEXT GENERATION EU - MISSIONE 5 COMPO-NENTE 2, INVESTIMENTO 1.2 - PERCORSI DI AUTONOMIA PER PERSONE CON DISABILITÀ. E65I22000020001, RELATIVO ALLA RISTRUTTURAZIONE IMMOBILE DI VIA ALDO MORO – COMUNE DI LADISPOLI – GIÀ IN USO AI SERVIZI SOCIALI (PIANO TERRA) - LIQUIDAZIONE 2° SAL IN FAVORE DELL'ING. A.N.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1754325</link>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1754325</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">25/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">09/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2393</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/vflthlz8zo77r1hvi3c4rkywbh3skcgi.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DI UTENTI ANZIANI PER IL SERVIZIO DI ASSISTENZA DOMICILIARE (SAISA) EFFETTUATO NEL MESE DI GIUGNO 2026 CON QUIETANZA DIRETTA ALLA COOPERATIVA SOCIALE "LA GOLETTA" SOGGETTO EROGATORE DEL SERVIZIO ISCRITTO AL RUA DEL DISTRETTO 4.2.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1754322</link>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1754322</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">25/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">09/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2392</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/cpgp5sn2palj9uysn0hklx3iiuoacuj4.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
