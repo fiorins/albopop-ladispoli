@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 28 Aug 2026 07:07:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 08:35:46 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DETERMINA DI SOSTITUZIONE PER FERIE DEL COMANDANTE LA POLIZIA LOCALE - DAL GIORNO 02/09/26 AL GIORNO 11/09/26.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1756224</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1756224</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/08/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2421</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/aa54wb25onc8q6ijngy7kzj4fx1gvexi.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE FATT. N. 1/419 PER FORNITURA DI SEDIE OPERATIVE E DI ATTESA - ENERGY SRL</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1756133</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/u5tt3o4eyzw2d67bzv41o9p7e7figt9h.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>DETERMINAZIONE A CONTRARRE E AFFIDAMENTO DIRETTO AI SENSI DELL’ART. 50, COMMA 1, LETT. B) DEL D.LGS. N. 36/2023, DEL SERVIZIO DI INVIO MASSIVO PEO-PEC</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1755276</link>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1755276</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">27/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">11/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2401</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/d851ce8i6v7zboy6djjsb2un6a7yinwi.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
