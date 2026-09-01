@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:06:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:05:50 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DECISIONE A CONTRARRE E CONTESTUALE AFFIDAMENTO DIRETTO, AI SENSI DELL’ART. 50, COMMA 1, LETTERA B) DEL D.LGS. 36/2023, PER IL SERVIZIO DI REGIA VIDEO IN OCCASIONE DI EVENTI DI RILIEVO INSERITI NEL CALENDARIO ESTIVO 2026 - ASSUNZIONE IMPEGNO DI SPESA.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1758189</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1758189</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">01/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">16/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2447</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/whueqo677kzhl5ly72ji34fix8kgeynv.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>COMPARTECIPAZIONE AL PAGAMENTO DELLA RETTA DI OSPITALITÀ PER L’INSERIMENTO DI UN UTENTE IN VIA SPERIMENTALE PRESSO LA STRUTTURA RESIDENZIALE “PROGETTO 96” - LIQUIDAZIONE FATTURA PERIODO LUGLIO 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1757968</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/nreya5kjvcxun5b09azat94mgmegi43v.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>COMPARTECIPAZIONE AL PAGAMENTO DELLA RETTA DI OSPITALITÀ PER IL RICOVERO DI N. 3 UTENTI PRESSO LA STRUTTURA RESIDENZIALE “PROGETTO 96” - LIQUIDAZIONE SOMMA PERIODO LUGLIO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1756431</link>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1756431</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">28/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">12/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2427</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/cw8uyidbnznno3t342nayz26jbj18t2g.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
