@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 01 Sep 2026 15:05:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 07:05:36 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AFFIDAMENTO DIRETTO IN FAVORE DELLO STUDIO PASQUA S.R.L.S. IN RIFERIMENTO AL CORDINAMENTO DELLA SICUREZZA IN FASE DI PROGETTAZIONE ED ESECUZIONE PER L’INTERVENTO DENOMINATO “COMPLETAMENTO MANUTENZIONE STRADE RURALI DELLA VIABILITÀ CITTADINA DEL COMUNE DI LADISPOLI - CIG BCD59BDD43;</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1758396</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1758396</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">02/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2448</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/2zflelj5u36cn21oqj4yrio0loc8tvdu.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>DECISIONE A CONTRARRE E CONTESTUALE AFFIDAMENTO DIRETTO, AI SENSI DELL’ART. 50, COMMA 1, LETTERA B) DEL D.LGS. 36/2023, PER IL SERVIZIO DI REGIA VIDEO IN OCCASIONE DI EVENTI DI RILIEVO INSERITI NEL CALENDARIO ESTIVO 2026 - ASSUNZIONE IMPEGNO DI SPESA.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1758189</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/qqih5hn1dxiga5f8mj4tcw883ibhkgbs.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE SAL 2 - MANUTENZIONE ORDINARIA E STRAORDINARIA DELLA VIABILITÀ DEL COMUNE DI LADISPOLI ALL'AGGIUDICATARIA CONSORZIO STABILE DE MEDICI - CUP E67H24001630004 E CIG B78DB24AFE.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1756465</link>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1756465</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">28/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">12/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2428</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/nreya5kjvcxun5b09azat94mgmegi43v.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
