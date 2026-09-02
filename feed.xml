@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 02 Sep 2026 07:05:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 08:35:35 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>: SO.G.E.T. SPA - ON-LINE AI SENSI DELL'ART. 60 D.P.R. 29/09/73 N. 600</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1758500</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1758500</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">02/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2450</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/we8qydxtuogrz37g00mngij58pkfcjmp.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>- COMUNE: SO.G.E.T. SPA - ON-LINE AI SENSI DELL'ART. 60 D.P.R. 29/09/73 N. 600</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1758498</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1758498</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">02/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2449</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/nacvzu8vtpndo7h89mcln29lilvfuit6.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>AFFIDAMENTO DIRETTO IN FAVORE DELLO STUDIO PASQUA S.R.L.S. IN RIFERIMENTO AL CORDINAMENTO DELLA SICUREZZA IN FASE DI PROGETTAZIONE ED ESECUZIONE PER L’INTERVENTO DENOMINATO “COMPLETAMENTO MANUTENZIONE STRADE RURALI DELLA VIABILITÀ CITTADINA DEL COMUNE DI LADISPOLI - CIG BCD59BDD43;</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1758396</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/4x1bmkz9531p5q93xawislmj0uz7j5rt.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DI UTENTI CON DISABILITÀ PER IL SERVIZIO DI ASSISTENZA DOMICILIARE (SAISD) CON QUIETANZA DIRETTA ALLA COOPERATIVA SOCIALE "LA GOLETTA" SOGGETTO EROGATORE DEL SERVIZIO ISCRITTO AL RUA DEL DISTRETTO 4.2. GIUGNO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1756471</link>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1756471</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">28/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">12/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2430</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/z06sgut81m78ohh7picvsbcm2s8au08c.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA FATTURA N. 14PA DEL 18/08/2026 - IN FAVORE DELLA SOCIETA' I TRE PINI - PER LAVORI DI MANUTENZIONE STRAORDINARIA DEL VERDE PUBBLICO PER I MESI DI MARZO/APRILE/MAGGIO 2026- CIG B877FBEC9F;</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1756468</link>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1756468</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">28/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">12/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2429</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/qqih5hn1dxiga5f8mj4tcw883ibhkgbs.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
