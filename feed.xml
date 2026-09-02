@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 02 Sep 2026 09:05:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:05:26 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>MODIFICA DEL PROFILO PROFESSIONALE DI UN DIPENDENTE IN SERVIZIO A TEMPO PIENO E INDETERMINATO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1758660</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1758660</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">02/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2452</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/kisovldcmdoek1f3wzbyjadukb1j018p.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>NOMINA DEL VICESEGRETARIO GENERALE PER IL GIORNO 2 SETTEMBRE 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1758545</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">ORDINANZE</category>
       <enclosure url="https://app.box.com/shared/static/tek60ec9emqileegqtr6abki2tq36k3o.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LAVORI DI ASFALTATURA MARINA DI SAN NICOLA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1756679</link>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1756679</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">28/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">12/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2432</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/uusm0wj5ftl5b5ejyx8i2hhatr5th868.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
