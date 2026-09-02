@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 02 Sep 2026 10:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 11:36:52 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,71 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELLA CROCE ROSSA ITALIANA COMITATO DI SANTA SEVERA – SANTA MARINELLA PER IL SERVIZIO DI ASSISTENZA SANITARIA IN OCCASIONE DELLA MANIFESTAZIONE “LADISPOLI SUMMER FEST” 2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1758921</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1758921</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">02/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2457</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/416uqtmj5va2xvcqiawp440m80epnc8s.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE DI SPESA IN FAVORE DI UTENTI BENEFICIARI DEL CONTRIBUTO PER IL SERVIZIO DI ASSISTENZA EDUCATIVA PRESSO I CENTRI ESTIVI DEL TERRITORIO COMUNALE CON QUIETANZA DIRETTA ALLA COOPERATIVA "CASSIAVASS", SOGGETTO EROGATORE DEL SERVIZIO ACCREDITATO AL RUA DEL DISTRETTO 4.2 - ANNO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1758918</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1758918</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">02/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2456</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/jws1rldcx8i5qa8vme79mm1wv3bmi4o2.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>MANUTENZIONE STRAORDINARIA DELLA VIABILITÀ NEL COMUNE DI LADISPOLI – COMPLETAMENTO MANUTENZIONE STRADE RURALI E DELLA VIABILITÀ CITTADINA – APPROVAZIONE DEL DOCUMENTO DI INDIRIZZO ALLA PROGETTAZIONE (DIP) E NOMINA RUP – CUP E67H26000850004</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1758915</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1758915</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">02/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2455</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/ormffreqfck9a39ciy49wkokxl3q2q2n.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>CONCESSIONE DI PATROCINIO ONEROSO IN FAVORE DELL'ASSOCIAZIONE NAZIONALE MARINAI D’ITALIA – GRUPPO DI LADISPOLI PER LA REALIZZAZIONE DELLA MANIFESTAZIONE DENOMINATA “LUCI SUL MARE PER MARIA” IN PROGRAMMA IL 12/09/2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1758912</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1758912</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">02/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2454</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/nzheapo7vuvctd983cy1d9xyd9ltkv8g.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE DI SPESA IN FAVORE DI ON AIR SRL PER IL SERVIZIO DI STRUMENTAZIONE AUDIO/VIDEO/LUCI E PERSONALE TECNICO AGGIUNTIVO IN OCCASIONE DELLA MANIFESTAZIONE DENOMINATA “LADISPOLI SUMMER FEST” EDIZIONE 2026 - CIG BC95B88FF7</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1758876</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1758876</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">02/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2453</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/pmouqy4gmutl1bs0lbqgkjguf29zz7af.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>MODIFICA DEL PROFILO PROFESSIONALE DI UN DIPENDENTE IN SERVIZIO A TEMPO PIENO E INDETERMINATO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1758660</link>
@@ -213,71 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/ibz4d3v313yy6mqoef2ih2mw3c4rfcde.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ASSOCIAZIONE UNIONE NAZIONALE POLIZIA PENITENZIARIA U.N.P.PE PER PROLUNGAMENTO DEL SERVIZIO DI GUARDIANIA NOTTURNA PRESSO LA SPIAGGIA INCLUSIVA DI PROPRIETA’ DEL COMUNE DI LADISPOLI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1757775</link>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1757775</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">01/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">16/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2437</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/bh1v3ksvw1ck736b7n25z5rivnne1cgp.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>DECISIONE A CONTRARRE E CONTESTUALE AFFIDAMENTO TRAMITE TRATTATIVA DIRETTA MEPA AI SENSI DELL’ART. 50, COMMA 1, LETTERA B) DEL D.LGS. 36/2023, IN FAVORE DELL’ASSOCIAZIONE CULTURALE ROMAMÌ PER L’AFFIDAMENTO DEL SERVIZIO ARTISTICO IN PROGRAMMA IL 04/09/2026 IN P.ZZA ROSSELLINI, COME PREVISTO NEL PROGRAMMA DEL CALENDARIO DEGLI EVENTI ESTIVI DENOMINATO LADISPOLI LIVE, EDIZIONE 2026 - CIG BCD0F6860B - ASSUNZIONE IMPEGNO DI SPESA.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1757772</link>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1757772</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">01/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">16/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2436</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/u8bffhcod342ayrjf5tm6qgwmqbuvtks.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>CHIUSURA STRADA PER CERIMONIA 20 ANNI DELLA COSTITUZIONE DELLA SEZIONE ANB LADISPOLI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1757587</link>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1757587</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">31/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">15/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2435</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/klcz2sbnihnxtv9p53c5vd55wd5x7cg0.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LAVORI FIBRA FIBERCOP SPA E E.S.S.SRL</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1757395</link>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1757395</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">31/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">15/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2434</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/l5n310o7j6e30k0rwc0drdxx0pehib4o.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>SGOMBERO E PULIZIA PARCHEGGIO VIA CAPUA DITTA PRONTO STRADE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1756826</link>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1756826</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/08/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2433</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/tek60ec9emqileegqtr6abki2tq36k3o.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
