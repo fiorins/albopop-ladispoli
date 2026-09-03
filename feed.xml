@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 03 Sep 2026 12:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 13:05:31 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>OCCUPAZIONE SUOLO PUBBLICO VIA FIUME 88</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1759874</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1759874</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">03/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">18/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2469</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/8qd1d75amh0pzube1xjufgc4b8jhw4wq.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE DI SPESA IN FAVORE DELL’OPERATORE ECONOMICO “LA VALIGIA DELL’ATTORE APS” PER IL SERVIZIO DI GESTIONE E ORGANIZZAZIONE DEGLI EVENTI ALL’INTERNO DELLA MANIFESTAZIONE DENOMINATA “RASSEGNA ESTIVA 2026” PRESSO LO SPAZIO SITO IN VIA RAPALLO, ATTIGUO AL SITO ARCHEOLOGICO DENOMINATO “LA GROTTACCIA” - SALDO.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1759694</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/we8qydxtuogrz37g00mngij58pkfcjmp.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>- COMUNE: SO.G.E.T. SPA - ON-LINE AI SENSI DELL'ART. 60 D.P.R. 29/09/73 N. 600</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1758498</link>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1758498</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">02/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">03/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2449</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/nacvzu8vtpndo7h89mcln29lilvfuit6.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
