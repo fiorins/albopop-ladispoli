@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 03 Sep 2026 07:37:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 08:06:17 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>SERVIZIO DI RECAPITO TRAMITE SERVIZIO POSTALE ON LINE, PERIODO LUGLIO 2026 – LIQUIDAZIONE FATTURA POSTE ITALIANE S.P.A.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1759327</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1759327</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">03/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">18/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2466</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/g8brf6mep5hb5u4ljilbh8hadr2lhncd.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE 3 SALDO FATTURA N. 87 DEL 27/08/2026, ALLA SOCIETA’ NOHA SRL P.IVA: IT14198651003 PER IL SERVIZIO DI ASSISTENZA BAGNANTI PER N. 4 POSTAZIONI DI SALVATAGGIO SUGLI ARENILI LIBERI DEL COMUNE DI LADISPOLI-CIG: BBD09B40EE.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1759324</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1759324</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">03/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">18/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2465</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/q7ynxrlpyraiebtblvxc3w1yayev0rul.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 5]]></description>
+    </item>
     <item>
       <title>CONCESSIONE DI PATROCINIO ONEROSO IN FAVORE DELL'ASSOCIAZIONE NAZIONALE MARINAI D’ITALIA – GRUPPO DI LADISPOLI PER LA REALIZZAZIONE DELLA MANIFESTAZIONE DENOMINATA “LUCI SUL MARE PER MARIA” IN PROGRAMMA IL 12/09/2026 - ASSUNZIONE IMPEGNO DI SPESA.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1759277</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/whueqo677kzhl5ly72ji34fix8kgeynv.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>COMPARTECIPAZIONE AL PAGAMENTO DELLA RETTA DI OSPITALITÀ PER L’INSERIMENTO DI UN UTENTE IN VIA SPERIMENTALE PRESSO LA STRUTTURA RESIDENZIALE “PROGETTO 96” - LIQUIDAZIONE FATTURA PERIODO LUGLIO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1757968</link>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1757968</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">01/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">16/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2446</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/j661dnyrrb6ax0y7ef2ry5jfiks2c2fj.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>AREA POLIZIA LOCALE - ASSEGNAZIONE DI INDENNITA’ DI FUNZIONE PER L'ANNO 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1757943</link>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1757943</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">01/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">16/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2445</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/6w8mtvw1tcr7h5hphstdqbd9l5y13w3f.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
