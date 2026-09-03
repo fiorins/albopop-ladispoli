@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 03 Sep 2026 09:05:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:05:52 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELL’OPERATORE ECONOMICO “LA VALIGIA DELL’ATTORE APS” PER IL SERVIZIO DI GESTIONE E ORGANIZZAZIONE DEGLI EVENTI ALL’INTERNO DELLA MANIFESTAZIONE DENOMINATA “RASSEGNA ESTIVA 2026” PRESSO LO SPAZIO SITO IN VIA RAPALLO, ATTIGUO AL SITO ARCHEOLOGICO DENOMINATO “LA GROTTACCIA” - SALDO.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1759694</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1759694</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">03/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">18/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2468</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/yb31iwou8hn1x9zfc029lzn72m93pvjb.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI N. 2 NELLA CASA DEL COMUNE LADISPOLI - STEMAR PELLAMI SRL -DA.MA SNC</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1759400</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/nacvzu8vtpndo7h89mcln29lilvfuit6.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AFFIDAMENTO DIRETTO IN FAVORE DELLO STUDIO PASQUA S.R.L.S. IN RIFERIMENTO AL CORDINAMENTO DELLA SICUREZZA IN FASE DI PROGETTAZIONE ED ESECUZIONE PER L’INTERVENTO DENOMINATO “COMPLETAMENTO MANUTENZIONE STRADE RURALI DELLA VIABILITÀ CITTADINA DEL COMUNE DI LADISPOLI - CIG BCD59BDD43;</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1758396</link>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1758396</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">02/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">17/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2448</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/2zflelj5u36cn21oqj4yrio0loc8tvdu.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
