@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 03 Sep 2026 13:05:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 13:36:04 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RIU 107/2026 - SERVIZIO DI CONFERIMENTO DEI RIFIUTI URBANI EER 20.03.01 “RIFIUTI URBANI NON DIFFERENZIATI”, PRESSO L'IMPIANTO GESTITO DALLA ECOSYSTEM S.P.A. SITO IN POMEZIA (RM) VIA DELLA SOLFORATA KM 10,750 – ADEGUAMENTO RETROATTIVO TARIFFA A CONSUNTIVO ANNUALITÀ 2024 E 2025 – LIQUIDAZIONE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1759896</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1759896</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">03/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">18/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2471</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/ynvwm7694foy9la17ppxhalx9xtfp9hy.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 5]]></description>
+    </item>
+    <item>
+      <title>SERVIZIO DI ELABORAZIONE ATTI, PROVVEDIMENTI, AVVISI E COMUNICAZIONI OGGETTO DI NOTIFICA PER IL RELATIVO DEPOSITO SULLA PIATTAFORMA NOTIFICHE DIGITALI E PER LA GESTIONE DEGLI ESITI DELLA NOTIFICA – LIQUIDAZIONE FATTURA MAGGIOLI S.P.A.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1759893</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1759893</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">03/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">18/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2470</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/8g646z73ent91n4mcjini81920o98s2m.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>OCCUPAZIONE SUOLO PUBBLICO VIA FIUME 88</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1759874</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/kisovldcmdoek1f3wzbyjadukb1j018p.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>NOMINA DEL VICESEGRETARIO GENERALE PER IL GIORNO 2 SETTEMBRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1758545</link>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1758545</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">02/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">17/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2451</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DECRETI</category>
-      <enclosure url="https://app.box.com/shared/static/vg51ychclfztof16vnwdq2jybtr1j486.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>: SO.G.E.T. SPA - ON-LINE AI SENSI DELL'ART. 60 D.P.R. 29/09/73 N. 600</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1758500</link>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1758500</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">02/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">03/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2450</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/we8qydxtuogrz37g00mngij58pkfcjmp.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
