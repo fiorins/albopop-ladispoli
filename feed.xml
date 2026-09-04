@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 04 Sep 2026 13:05:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:05:48 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>NUOVO PALAZZETTO DELLO SPORT “PALA LADISLAO”, FINANZIATO NELL’AMBITO DELL’AVVISO SPORT E PERIFERIE 2025 – LINEA DI INTERVENTO B (CUP E65B25000190005) - DETERMINAZIONE DI CONCLUSIONE POSITIVA DELLA CONFERENZA DI SERVIZI DECISORIA EX ART. 14 BIS, COMMA 2, LEGGE 241/1990 E SS.MM.II. E ART. 13 D.L. N. 76/2020 CONVERTITO IN LEGGE N. 120/2020 E SUCCESSIVA PROROGA DI CUI ALL’ART. 10, COMMA 4 DEL DECRETO LEGGE 14 MARZO 2025 N. 25 – FORMA SEMPLIFICATA IN MODALITÀ ASINCRONA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1760956</link>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1760956</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2474</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/zvkhucn5xqjkmwcvrkgtedj0vgep3rmz.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>OCCUPAZIONE SUOLO PUBBLICO VIA E.FERMI 3</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1760934</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/ormffreqfck9a39ciy49wkokxl3q2q2n.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>CONCESSIONE DI PATROCINIO ONEROSO IN FAVORE DELL'ASSOCIAZIONE NAZIONALE MARINAI D’ITALIA – GRUPPO DI LADISPOLI PER LA REALIZZAZIONE DELLA MANIFESTAZIONE DENOMINATA “LUCI SUL MARE PER MARIA” IN PROGRAMMA IL 12/09/2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1758912</link>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1758912</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">02/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">17/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2454</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/nzheapo7vuvctd983cy1d9xyd9ltkv8g.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
