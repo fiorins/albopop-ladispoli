@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 03 Sep 2026 13:36:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:05:48 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>OCCUPAZIONE SUOLO PUBBLICO VIA E.FERMI 3</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1760934</link>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1760934</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2473</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/3q8fgri5fsgl21i6fg94nkl8d8ic28i4.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>OCCUPAZIONE SUOLO PUBBLICO VIA NERVI 37</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1760911</link>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1760911</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2472</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/uq0gb94dyhrcgve3qarzbcxkljm2i78k.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>RIU 107/2026 - SERVIZIO DI CONFERIMENTO DEI RIFIUTI URBANI EER 20.03.01 “RIFIUTI URBANI NON DIFFERENZIATI”, PRESSO L'IMPIANTO GESTITO DALLA ECOSYSTEM S.P.A. SITO IN POMEZIA (RM) VIA DELLA SOLFORATA KM 10,750 – ADEGUAMENTO RETROATTIVO TARIFFA A CONSUNTIVO ANNUALITÀ 2024 E 2025 – LIQUIDAZIONE</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1759896</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/nzheapo7vuvctd983cy1d9xyd9ltkv8g.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DI ON AIR SRL PER IL SERVIZIO DI STRUMENTAZIONE AUDIO/VIDEO/LUCI E PERSONALE TECNICO AGGIUNTIVO IN OCCASIONE DELLA MANIFESTAZIONE DENOMINATA “LADISPOLI SUMMER FEST” EDIZIONE 2026 - CIG BC95B88FF7</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1758876</link>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1758876</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">02/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">17/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2453</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/pmouqy4gmutl1bs0lbqgkjguf29zz7af.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>MODIFICA DEL PROFILO PROFESSIONALE DI UN DIPENDENTE IN SERVIZIO A TEMPO PIENO E INDETERMINATO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1758660</link>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1758660</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">02/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">17/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2452</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/kisovldcmdoek1f3wzbyjadukb1j018p.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
 </rss>
