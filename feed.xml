@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 07 Sep 2026 09:37:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 12:35:38 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA A TEMPO PIENO ED INDETERMINATO DI N. 2 POSTI DI “AGENTI DI POLIZIA LOCALE”, AREA DEGLI ISTRUTTORI (EX CATEGORIA “C”). APPROVAZIONE ELENCO CANDIDATI AMMESSI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1761901</link>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1761901</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">07/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">22/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2482</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/i4wozw8h0fadc2641kron8a1pjvdolp9.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>ORDINATIVO DI LIQUIDAZIONE CONTRIBUTO ECONOMICO EROGATO IN FAVORE DI AS.SO.VO.CE ORGANIZZAZIONE DI VOLONTARIATO (O.D.V.) PER IL SERVIZIO SANITARIO LUNGO IL TRATTO DI ARENILE DEL COMUNE DI LADISPOLI PER LA STAGIONE BALNEARE 2026.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1761483</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/trjqrsix9qyzcyuyfr9s0em4ilozu50k.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE ALLA SOCIETA’ ARTI GRAFICHE LAURIA DI EMANUELE LAURIA E &amp; S.N.C. P.IVA: IT0597791004, FATTURA N. 245 DEL 01/09/2026 PER LA FORNITURA DI MATERIALE GRAFICO PER UFFICIO, TARGHE INFORMATIVE E ROLL-UP DIVULGATIVI - CIG: BC9EC5B33D.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1759271</link>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1759271</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">03/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">18/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2462</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/4gfmoumm8tggmuvi9vfs3wph413zdof8.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
     </item>
   </channel>
 </rss>
