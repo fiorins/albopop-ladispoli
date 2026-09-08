@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 08 Sep 2026 06:35:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:05:45 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DETERMINAZIONE DIRIGENZIALE DI APPROVAZIONE DEL CONTRATTO DI ACCORDO QUADRO EX ART. 59, COMMA 3 D.LSG. 36/23, PER L'AFFIDAMENTO DELLA MANUTENZIONE ORDINARIA E STRAORDINARIA DELLE AREE DESTINATE A VERDE PUBBLICO DEL COMUNE DI LADISPOLI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1762412</link>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1762412</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">08/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">23/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2487</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/nletoxshew52hyugvnasp0mwf7bji5q1.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI A RICCI FEDERICO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1762138</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/yb31iwou8hn1x9zfc029lzn72m93pvjb.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI N. 2 NELLA CASA DEL COMUNE LADISPOLI - STEMAR PELLAMI SRL -DA.MA SNC</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1759400</link>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1759400</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">03/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">04/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2467</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/80e44cxfsf2axzid36kbvzmpa8sxssc9.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
 </rss>
