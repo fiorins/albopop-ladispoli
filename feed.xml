@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 09 Sep 2026 08:05:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:06:47 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DETERMINA A CONTRARRE L’AVVIO DI UNA PROCEDURA NEGOZIATA SENZA BANDO DI GARA (ART. 50, COMMA 1, LETTERA C, DEL D. LGS. N. 36/2023 E S.M.I) PER L’AFFIDAMENTO DEI LAVORI PER LA REALIZZAZIONE DI UNA STRUTTURA ASSI-STENZIALE “DOPO DI NOI” - LADISPOLI (RM) – CUP E65E26000110004</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1763496</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1763496</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">09/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">24/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2503</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/4etda7u9suf6mo2u7hjepyjx9aeu9sib.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 5]]></description>
+    </item>
+    <item>
+      <title>APPROVAZIONE DEL PROGETTO ESECUTIVO DEI LAVORI PER LA REALIZZAZIONE DI UNA STRUTTURA SOCIO ASSISTENZIALE “DOPO DI NOI” - LADISPOLI (RM) – CUP E65E26000110004</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1763468</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1763468</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">09/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">24/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2502</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/usljo4f484dswlfg4aczouzamg1lhh58.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE ABBONAMENTO MYO EDK “FORMULA FULL” ANNO 2025/2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1763172</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/anuxf0b4eap9qaey24l24j5cchx1n5bj.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A BILISCO GERMANO FRANCESCO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1762132</link>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1762132</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">08/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">16/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2483</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/xa5rocu8auc2zfp4ndz6tvjqpclirbz7.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA A TEMPO PIENO ED INDETERMINATO DI N. 2 POSTI DI “AGENTI DI POLIZIA LOCALE”, AREA DEGLI ISTRUTTORI (EX CATEGORIA “C”). APPROVAZIONE ELENCO CANDIDATI AMMESSI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1761901</link>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1761901</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2482</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/i4wozw8h0fadc2641kron8a1pjvdolp9.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
