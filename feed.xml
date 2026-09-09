@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 08 Sep 2026 13:36:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 07:06:14 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>SPERIMENTAZIONE PIATTAFORMA NOTIFICHE DIGITALI SEND – LIQUIDAZIONE FATTURA PAGOPA SPA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1763057</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1763057</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">09/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">24/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2495</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/3895sed0hfnyzak7897slep3do88wwcf.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>ASSUNZIONE IMPEGNO DI SPESA IN FAVORE DELL’ASSOCIAZIONE DMO ETRUSKEY PER QUOTA DI PARTECIPAZIONE E DI ADESIONE ANNUALE DEL COMUNE DI LADISPOLI AL PROGRAMMA REGIONALE STRAORDINARIO PER IL RILANCIO E LA PROMOZIONE DELLE DESTINAZIONI TURISTICHE PROGETTO ETRUSKEY – ANNUALITA' 2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1763054</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1763054</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">09/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">24/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2494</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/1ujd2c0xny890o4p5ntd5h8a3c4wkvjp.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE GETTONI DI PRESENZA AI CONSIGLIERI COMUNALI. I SEMESTRE ANNO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1763051</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1763051</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">09/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">24/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2493</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/vezuno3nbh10bmkubqliqksv2oqft5fe.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>AUTORIZZAZIONE ALLA REVOCA (ALLO SVINCOLO) DELL'ATTO UNILATERALE D'OBBLIGO (ATTO NOTAIO RENATO BISSI REP. 37013 DEL 23/07/1998) RELATIVO A IMMOBILE FG. 70 P.LLA 864.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1762673</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/kw2ofm0h37fsz4omag1nzg2287emriry.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LAVORI DI ASFALTATURA MARINA DI SAN NICOLA 2</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1760997</link>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1760997</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2475</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/o75nd2gqb9n10531u1zo732ddvf534mj.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>NUOVO PALAZZETTO DELLO SPORT “PALA LADISLAO”, FINANZIATO NELL’AMBITO DELL’AVVISO SPORT E PERIFERIE 2025 – LINEA DI INTERVENTO B (CUP E65B25000190005) - DETERMINAZIONE DI CONCLUSIONE POSITIVA DELLA CONFERENZA DI SERVIZI DECISORIA EX ART. 14 BIS, COMMA 2, LEGGE 241/1990 E SS.MM.II. E ART. 13 D.L. N. 76/2020 CONVERTITO IN LEGGE N. 120/2020 E SUCCESSIVA PROROGA DI CUI ALL’ART. 10, COMMA 4 DEL DECRETO LEGGE 14 MARZO 2025 N. 25 – FORMA SEMPLIFICATA IN MODALITÀ ASINCRONA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1760956</link>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1760956</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2474</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/zvkhucn5xqjkmwcvrkgtedj0vgep3rmz.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>OCCUPAZIONE SUOLO PUBBLICO VIA E.FERMI 3</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1760934</link>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1760934</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2473</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/3q8fgri5fsgl21i6fg94nkl8d8ic28i4.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
