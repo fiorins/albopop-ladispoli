@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 09 Sep 2026 11:40:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 12:35:38 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>MODIFICA CONFERIMENTO INCARICHI DI COLLABORAZIONE AI SENSI DELL'ART. 90 TUEL, AUMENTO PRESTAZIONE LAVORATIVA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1764366</link>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1764366</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">10/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">25/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2520</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DECRETI</category>
+      <enclosure url="https://app.box.com/shared/static/7w0he6d0cywuwn6bcv5ndzolhp7invgq.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>APPROVAZIONE AVVISO PUBBLICO E MODULO DI DOMANDA PER LA CONCESSIONE IN USO TEMPORANEO DELLE STANZE DELL’IMMOBILE DI PROPRIETÀ COMUNALE DENOMINATO “CENTRO D'ARTE E CULTURA” - ANNO 2026/2027.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1763613</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/3dfflbl1rztagf7n5zocbc61g6gd9urj.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RIU 108/2026 – SERVIZIO DI PROGETTAZIONE DEL NUOVO APPALTO DI GESTIONE INTEGRATA DEI RIFIUTI URBANI DEL COMUNE DI LADISPOLI E SUPPORTO TECNICO PER LA REDAZIONE DEGLI ATTI DI GARA – ORDINANZA DI LIQUIDAZIONE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1763081</link>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1763081</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">09/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">24/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2500</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/hbodh36b2tesl1enejchxk7o2yms30rv.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
