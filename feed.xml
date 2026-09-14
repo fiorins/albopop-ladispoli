@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 11 Sep 2026 09:06:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 08:35:34 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI N. 10 NELLA CASA DEL COMUNE LADISPOLI - DINU CONSTANTIN MIRCEA ED ALTRI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1766101</link>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1766101</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">15/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2536</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/zx88yu2jyr2c39mhezva3npnvmlyto7i.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>DISIMPEGNO PARZIALE DELLE SOMME IMPEGNATE CON DETERMINAZIONE DIRIGENZIALE N.1150/2026 RELATIVE ALL'ATTUAZIONE DEL PIANO AL DIRITTO ALLO STUDIO - ANNO SCOLASTICO 2025/2026.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1765129</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/q9uz5mto83j2tkg7tezhola0aoaps8am.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 6]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA N. V1/PY/2600284/2026 EMESSA DALLA "NAMIRIAL SPA" CON SEDE IN VIA CADUTI SUL LAVORO 4, SENIGALLIA, PER IL RINNOVO DELLA LICENZA SOFTWARE NAMIRIAL SIGN PREMIUM</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1763604</link>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1763604</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">09/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">24/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2516</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ygtxriago46tmiw298w8juo69bhle0km.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
     </item>
   </channel>
 </rss>
