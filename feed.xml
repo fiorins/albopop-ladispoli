@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 14 Sep 2026 09:36:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 12:05:44 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONVOCAZIONE COMMISSIONE CONSILIARE CULTURA, SPORT E TURISMO_17.09.2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1766590</link>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1766590</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2543</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/7yyt4uefrehy3un227pji0hhcp304d40.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>MODIFICA DELL'INCARICO DI COLLABORAZIONE DI UN DIPENDENTE ASSUNTO NELL’UFFICIO DI STAFF DEL SINDACO EX ART 90 D.LGS. 267/2000 E SS.MM.II. - DECORRENZA 15/09/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1766571</link>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1766571</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2542</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/z6t3wcy827jrwwhy1t8qhfssj4a1h9lk.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELLA DITTA ARTI GRAFICHE LAURIA DI EMANUELE LAURIA &amp; C. SNC P.I. 05967791004 - CIG. BCB881BCA9 - FATT. N. 249 DEL 08/09/2026 PER ACQUISTO STAMPATI VARI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1766245</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/qba4mh7f6ozcgv3wgpg93c68qw12afc4.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>RETTE PER L'ACCOGLIENZA DI MINORI IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI - LIQUIDAZIONE DI SPESA IN FAVORE DELL'ISTITUTO SALESIANO ERNESTO MENICHINI PRESSO STRUTTURA "IL PONTE" - PERIODO AGOSTO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1765032</link>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1765032</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2523</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/dje3gsmp213osr3nl9ovx9wa9p2thezl.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>COMPARTECIPAZIONE AL PAGAMENTO DELLA RETTA DI OSPITALITÀ PER IL RICOVERO DI N. 3 UTENTI PRESSO LA STRUTTURA RESIDENZIALE “PROGETTO 96” - LIQUIDAZIONE SOMMA PERIODO AGOSTO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1765029</link>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1765029</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">11/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">26/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2522</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/xsjm119mz7mcc99hubdjb6ixdzq8811t.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
