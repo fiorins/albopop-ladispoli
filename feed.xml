@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:07:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:36:02 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELL'ASSOCIAZIONE NAZIONALE POLIZIA DI STATO - CONTRIBUTO LUGLIO E AGOSTO ANNO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1766704</link>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1766704</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2559</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/qnlv61h6apx8mko7hsnp3yf72wfx84im.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA HERA COMM SPA NR. 412620748746 DEL 08/09/2026 PER LA FORNITURA TEMPORANEA DI ENERGIA ELETTRICA PER MANIFESTAZIONI ESTIVE PRESSO PIAZZA ROSSELLINI PER IL PERIODO DAL 01/08/2026 AL 31/08/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1766701</link>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1766701</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2558</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/8rwd8yxfqnjbe9upe7i5fo112ze8if4y.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FORNITURA COMBUSTIBILE PLESSO SCOLASTICO "ILARIA ALPI" SITO IN VIA VARSAVIA - PERIODO: DAL 01/07/2026 AL 30/07/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1766698</link>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1766698</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2557</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/p8kwfd0wm3h3gdpxfyeh2f64j6wgeorh.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>(RPS 698/26) AFFIDAMENTO IN FAVORE DELL'OPERATORE ECONOMICO AZ-SYSTEM DI FRESILLI LUCIANO PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) D. L.VO 36/2023): REALIZZAZIONE SPAZIO RICREATIVO ESTERNO SCUOLA VIA FLORIDA E VIA VIRGINIA (CIG BBA6A2A501) - LIQUIDAZIONE</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1766680</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/2a9cwpjlbt87f2kndffm6ewknmrkozra.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>ASSOCIAZIONE UNIONE NAZIONALE POLIZIA PENITENZIARIA U.N.P.PE PER IL SERVIZIO DI VIGILANZA PRESSO IL PALAZZETTO COMUNALE. LIQUIDAZIONE RIMBORSO SPESE PER IL MESE DI AGOSTO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1766239</link>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1766239</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">14/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">29/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2539</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/me02gbdmhlfxwgzxhkmrehzzor3ysz23.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA E CONTESTUALE VERSAMENTO DELLE SOMME NON UTILIZZATE PER I CENTRI ESTIVI ALLA PRESIDENZA DEL CONSIGLIO DEI MINISTRI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1766236</link>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1766236</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">14/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">29/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2538</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/l5cejkymew55jjt5zvofhkuhf9132eh6.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>VARIAZIONE COMPENSATIVA ALLE PARTITE DI GIRO E ALLE OPERAZIONI PER CONTO TERZI AI SENSI DELL’ART. 175, COMMA 5-QUATER, LETT. E), DEL D.LGS. N. 267/2000 – RIPRISTINO CASSA VINCOLATA.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1766203</link>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1766203</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">14/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">29/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2537</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/wxfjawxbo7bkgh771y8s5of1kzxa763u.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
