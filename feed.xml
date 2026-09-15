@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:36:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:35:42 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,58 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI NOTIFICA DI 1 ATTO A CARICO DEL SIG.RA STOICA OANA ELENA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1766997</link>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1766997</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">15/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">23/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2563</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/ffqryugzzmdh9qkww1o1reqnh4rj0wfg.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI NOTIFICA DI 1 ATTO A CARICO DEL SIG. OLIVIERI FILIBERTO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1766995</link>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1766995</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">15/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">23/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2562</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/b4al8nvuca3swenpvwrcbt2c1igwrihw.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI NOTIFICA DI 1 ATTO A CARICO DEL SIG. RA SPAZIANI ANNA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1766993</link>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1766993</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">15/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">23/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2561</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/ruq7fcmon5f1z2o5qhnfv4kysx09dlez.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI NOTIFICA DI 1 ATTO A CARICO DEL SIG. FOGLIA MIRKO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1766991</link>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1766991</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">15/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">23/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2560</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/gd17mu13i5ky3ooml45ituk3hs5x4jgr.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELL'ASSOCIAZIONE NAZIONALE POLIZIA DI STATO - CONTRIBUTO LUGLIO E AGOSTO ANNO 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1766704</link>
@@ -225,58 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/dbenz24hb367a5zznqvzqnk07k1yfny8.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>CONVOCAZIONE COMMISSIONE CONSILIARE CULTURA, SPORT E TURISMO_17.09.2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1766590</link>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1766590</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">14/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">17/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2543</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/7yyt4uefrehy3un227pji0hhcp304d40.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>MODIFICA DELL'INCARICO DI COLLABORAZIONE DI UN DIPENDENTE ASSUNTO NELL’UFFICIO DI STAFF DEL SINDACO EX ART 90 D.LGS. 267/2000 E SS.MM.II. - DECORRENZA 15/09/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1766571</link>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1766571</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">14/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">29/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2542</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/z6t3wcy827jrwwhy1t8qhfssj4a1h9lk.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELLA DITTA ARTI GRAFICHE LAURIA DI EMANUELE LAURIA &amp; C. SNC P.I. 05967791004 - CIG. BCB881BCA9 - FATT. N. 249 DEL 08/09/2026 PER ACQUISTO STAMPATI VARI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1766245</link>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1766245</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">14/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">29/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2541</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/4orycmgnwdvpo8xy9rippmlchbgr6mon.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELL’OPERATORE ECONOMICO GIULIA PERICONE PER L’AFFIDAMENTO DEL SERVIZIO DELLO SPETTACOLO ARTISTICO DENOMINATO “SUMMER FEVER FEST” IN PROGRAMMA IL 16/08/2026, COME PREVISTO NEL CALENDARIO DEGLI EVENTI ESTIVI, EDIZIONE 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1766242</link>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1766242</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">14/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">29/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2540</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/2a9cwpjlbt87f2kndffm6ewknmrkozra.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
