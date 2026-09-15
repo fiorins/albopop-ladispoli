@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:35:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 08:05:53 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>MODIFICA DELL'INCARICO DI COLLABORAZIONE DI UN DIPENDENTE ASSUNTO NELL’UFFICIO DI STAFF DEL SINDACO EX ART 90 D.LGS. 267/2000 E SS.MM.II. - DECORRENZA 15/09/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1767090</link>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1767090</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">15/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">30/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2564</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/zjp611edgc5zsal7mjlwva2laxul42yo.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>AVVISO DI NOTIFICA DI 1 ATTO A CARICO DEL SIG.RA STOICA OANA ELENA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1766997</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/g30viruqtohbwlbm0rjre4f66adnm3ul.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>MODIFICA DELL'INCARICO DI COLLABORAZIONE DI UN DIPENDENTE ASSUNTO NELL’UFFICIO DI STAFF DEL SINDACO EX ART 90 D.LGS. 267/2000 E SS.MM.II. - DECORRENZA 15/09/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1766606</link>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1766606</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">14/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">29/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2544</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/dbenz24hb367a5zznqvzqnk07k1yfny8.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
