@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 16 Sep 2026 12:37:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:06:08 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>PNRR M5C2 - INVESTIMENTO 1.3 SUB INVESTIMENTO 1.3.2 “POVERTÀ ESTREMA - STAZIONE DI POSTA” - CUP E64H22000310001 – LIQUIDAZIONE PER 5° LA RENDICONTAZIONE MANDANTE ATI “CASA COMUNE 2000”</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1768336</link>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1768336</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">16/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">01/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2594</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/n9cwr07xecu0o38gjfvnhi0yz5mcnja4.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE DI SPESA ALL’ASSOCIAZIONE DMO ETRUSKEY - QUOTA DI PARTECIPAZIONE E DI ADESIONE ANNUALE DEL COMUNE DI LADISPOLI AL PROGRAMMA REGIONALE STRAORDINARIO PER IL RILANCIO E LA PROMOZIONE DELLE DESTINAZIONI TURISTICHE PER IL PROGETTO DENOMINATO ETRUSKEY - ANNO 2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1768333</link>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1768333</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">16/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">01/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2593</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/1v60igfp5j3xe530esneg3jkpv6miezw.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI DUE ISTRUTTORI DEI SERVIZI AMMINISTRATIVI - AREA DEGLI ISTRUTTORI (EX CAT. C) TRAMITE PROCEDURA DI MOBILITÀ VOLONTARIA ESTERNA AI SENSI DELL’ART. 30 COMMA 1 DEL D.LGS. N. 165/2001 E SS.MM.II.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1768319</link>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1768319</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">16/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">01/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2592</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/73c434jg4b9jdisiajmz0qtmi5ge8xm5.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>CONCESSIONE CONTRIBUTO ECONOMICO IN FAVORE DELL' ISITUTO STATALE D’ISTRUZIONE SUPERIORE “GIUSEPPE DI VITTORIO” PER L’ORGANIZZAZIONE DELLA CERIMONIA DI INAUGURAZIONE DEL PALAZZETTO SPORTIVO E PER LE ATTIVITÀ DIDATTICHE DEGLI STUDENTI DELL’ISTITUTO ALBERGHIERO.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1768280</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/n4mtaqfcs43su5rbfeotq83jceyslwv7.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DITTA MEGABYTE STORE DI CRISTIANO LEONE - FATTURA N. 245 DEL 11/09/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1767547</link>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1767547</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2574</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/x03iwgkd7mj119xj1jewlgeqr7s1k5n2.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA PARZIALE DEL CONTRIBUTO ECONOMICO CONCESSO IN FAVORE DELL’ASSOCIAZIONE MARINA DI PALO APS PER LA REALIZZAZIONE DELL’EVENTO DENOMINATO “UN MARE DI EMOZIONI – LO SPORT NON VA IN VACANZA” EDIZIONE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1767544</link>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1767544</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2573</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/z83ipbq1pq04hv63dmtfgq22oaat0z96.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>COSTITUZIONE DEL GRUPPO DI LAVORO E CONFERIMENTO DEGLI INCARICHI PER IL RICONOSCIMENTO DEGLI INCENTIVI PER LE FUNZIONI TECNICHE DI CUI ALL’ART. 45 DEL D. LGS. 36/2023 PER LA REALIZZAZIONE DELLA MANIFESTAZIONE “LADISPOLI SUMMER FEST” – NOMINA DEL DIRETTORE ESECUTIVO DEL CONTRATTO.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1767526</link>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1767526</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2572</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/un63wdnm26x454bzzsepebrc3c089tsw.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
