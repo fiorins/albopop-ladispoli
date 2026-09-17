@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 17 Sep 2026 14:05:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 14:35:39 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONVOCAZIONE COMMISSIONE BILANCIO, PATRIMONIO E TRIBUTI.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1769320</link>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1769320</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">17/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">22/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2606</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/hhkust5pe9p4kwwuyt3tdp6arlfapz1n.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE AI DIPENDENTI DEL SALARIO ACCESSORIO RELATIVO AL MESE DI AGOSTO 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1769250</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">ORDINANZE</category>
       <enclosure url="https://app.box.com/shared/static/t9uu37rtwud386j0yaaunn4mt1ip1s4m.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>BILANCIO DI PREVISIONE FINANZIARIO 2027/2029 – ATTO DI INDIRIZZO AL RESPONSABILE DEL SETTORE FINANZIARIO PER LA PREDISPOSIZIONE DELLO SCHEMA DI BILANCIO E DEI RELATIVI DOCUMENTI DI PROGRAMMAZIONE.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1768266</link>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1768266</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2586</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/cp772sxwv9x7y5za8ugxibsytt6dlr7r.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
