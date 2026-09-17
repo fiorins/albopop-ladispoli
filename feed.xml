@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:05:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:35:38 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DETERMINA DI IMPEGNO PER SPERIMENTAZIONE PIATTAFORMA NOTIFICHE DIGITALI SEND - AFFIDAMENTO PAGOPA SPA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1768917</link>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1768917</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">17/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">02/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2597</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/r729zu8gb9vprin0kaa7blkw0zrgetwk.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>DETERMINA DI IMPEGNO PER SPESE VETERINARIE IN FAVORE AMBULATORIO VETERINARI ASSOCIATI SRLS - CIG BCFE4E030A</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1768545</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/a5swj5ii3249c92g7seisweoty0p3e5b.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA PARZIALE DEL CONTRIBUTO ECONOMICO CONCESSO IN FAVORE DELL’A. S. D. BEACH TENNIS AND SPORTS PER LA REALIZZAZIONE DELL’EVENTO DENOMINATO “LADISPOLI SUMMER SPORT”, IN PROGRAMMA NEI GIORNI DAL 10 AL 31 AGOSTO 2026, PRESSO LA SPIAGGIA LIBERA - LUNGOMARE REGINA ELENA.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1767556</link>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1767556</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2577</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/c8g7j45ime6s9cnsgrg3v5ulozypv4x1.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
