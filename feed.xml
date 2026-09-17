@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:35:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:05:48 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>FESTA DI SANTA MARIA DEL ROSARIO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1769048</link>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1769048</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">17/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">02/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2599</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/cpgj1vt2bzeiva21eprj27mponako23p.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE DI SPESA DEL CONTRIBUTO ECONOMICO CONCESSO IN FAVORE DELLA ASD CRAZY DANCE REVOLUTION PER LA REALIZZAZIONE DELL’EVENTO SPORTIVO DENOMINATO “SOGNANDO IN GRANDE”, PRESSO IL PALAZZETTO DELLO SPORT “ANTONIO SORBO”</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1769031</link>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1769031</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">17/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">02/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2598</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/33eunjnm6yzgdosxbcf18235kvb12nt0.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>DETERMINA DI IMPEGNO PER SPERIMENTAZIONE PIATTAFORMA NOTIFICHE DIGITALI SEND - AFFIDAMENTO PAGOPA SPA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1768917</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/1s7u505fexguy354vb6ee1h64ms517gc.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA N. 26306162/2026 EMESSA DALLA S.R.L. CONVERGE PER LA FORNITURA DEL SERVIZIO DI HOSTING IN CLOUD PER IL NUOVO PORTALE ISTITUZIONALE “COMUNE.LADISPOLI.RM.IT” PER IL MESE DI LUGLIO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1767620</link>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1767620</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2579</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/2pgytxtq2l6050prvw6706a729tb6r8i.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>DECISIONE DI CONTRARRE PER AFFIDAMENTO FORNITURA DI ENERGIA ELETTRICA PER IL COMUNE DI LADISPOLI - ADESIONE CONVENZIONE CONSIP ID 2880 LOTTO 10 - CIG BCB8AF356F DAL 01/12/2026 AL 30/11/2027</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1767559</link>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1767559</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2578</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/a5swj5ii3249c92g7seisweoty0p3e5b.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
