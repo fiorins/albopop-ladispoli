@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 16 Sep 2026 13:06:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:05:58 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DETERMINA DI IMPEGNO PER SPESE VETERINARIE IN FAVORE AMBULATORIO VETERINARI ASSOCIATI SRLS - CIG BCFE4E030A</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1768545</link>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1768545</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">17/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">02/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2596</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/348g90vvvs4fpwzf6uyj84v0erps40fe.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>RIMBORSO AI CONTRIBUENTI DI SOMME CUP NON DOVUTE PER L’IMPORTO COMPLESSIVO DI €. 67,00</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1768542</link>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1768542</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">17/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">02/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2595</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/kk6hwygqsa92js7f6e5wia4mjv131pt2.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>PNRR M5C2 - INVESTIMENTO 1.3 SUB INVESTIMENTO 1.3.2 “POVERTÀ ESTREMA - STAZIONE DI POSTA” - CUP E64H22000310001 – LIQUIDAZIONE PER 5° LA RENDICONTAZIONE MANDANTE ATI “CASA COMUNE 2000”</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1768336</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/c8g7j45ime6s9cnsgrg3v5ulozypv4x1.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DI UTENTI ANZIANI E CON DISABILITÀ PER IL SERVIZIO DI ASSISTENZA DOMICILIARE (SAISA E SAISD) EFFETTUATO NEL MESE DI AGOSTO 2026 CON QUIETANZA DIRETTA ALLA COOPERATIVA SOCIALE "CASA COMUNE 2000" SOGGETTO EROGATORE DEL SERVIZIO ISCRITTO AL RUA DEL DISTRETTO 4.2.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1767553</link>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1767553</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2576</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ahbxp6bwo9e0si7qi27011wpd2hrkhbm.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DI UTENTI BENEFICIARI DEL CONTRIBUTO PER IL SERVIZIO DI ASSISTENZA EDUCATIVA PRESSO I CENTRI ESTIVI DEL TERRITORIO COMUNALE CON QUIETANZA DIRETTA ALLA COOPERATIVA "CASA COMUNE 2000", SOGGETTO EROGATORE DEL SERVIZIO ACCREDITATO AL RUA DEL DISTRETTO 4.2 PER I MESI ESTIVI 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1767550</link>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1767550</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2575</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/n4mtaqfcs43su5rbfeotq83jceyslwv7.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
