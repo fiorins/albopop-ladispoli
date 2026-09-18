@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 18 Sep 2026 12:06:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:35:33 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>PROCEDURA DI MOBILITÀ VOLONTARIA ESTERNA AI SENSI DELL’ART. 30, COMMA 1 DEL D.LGS. N. 165/2001 E SS.MM.II. PER L'ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI UN FUNZIONARIO TECNICO - AREA DEI FUNZIONARI E DELLA E.Q. (EX CATEGORIA D). NOMINA DELLA COMMISSIONE ESAMINATRICE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1770225</link>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1770225</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2615</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/pinn13v8rkdyjupifim5qoyfvs5ioncb.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELLA DITTA NATIONAL SERVICES GROUP SRL - FATT. N. 1328 DEL 03/09/2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1770177</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/348g90vvvs4fpwzf6uyj84v0erps40fe.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RIMBORSO AI CONTRIBUENTI DI SOMME CUP NON DOVUTE PER L’IMPORTO COMPLESSIVO DI €. 67,00</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1768542</link>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1768542</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">02/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2595</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/kk6hwygqsa92js7f6e5wia4mjv131pt2.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
