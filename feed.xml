@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 17 Sep 2026 16:05:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 09:35:35 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONVOCAZIONE CONSIGLIO COMUNALE_24.09.2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1769788</link>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1769788</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">24/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2608</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/1jslft2bp72t62ia3jpe59npbvjelahc.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>DETERMINA A CONTRARRE PER L’AVVIO DI UNA PROCEDURA NEGOZIATA SENZA BANDO DI GARA (ART. 50, COMMA 1, LETTERA C, DEL D. LGS. N. 36/2023 E S.M.I) PER L’AFFIDAMENTO DELL' INTERVENTO: COMPLETAMENTO MANUTENZIONE STRADE RURALI DELLA VIABILITÀ CITTADINA DEL COMUNE DI LADISPOLI – CUP E67H26000850004</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1769448</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/7a5d10xacla06csu1oo3ycij2rvcdkno.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>APPROVAZIONE SCHEMA DI ACCORDO TRA PUBBLICHE AMMINISTRAZIONI PER L’ATTIVAZIONE DEL SERVIZIO DI RICHIESTA DEI CERTIFICATI DEL CASELLARIO GIUDIZIALE E DELL’ANAGRAFE DELLE SANZIONI AMMINISTRATIVE DIPENDENTI DA REATO NELLE MORE DELL’ACCREDITAMENTO ALLA PIATTAFORMA DIGITALE NAZIONALE DATI (P.D.N.D.) DI CUI ALL’ART. 50 TER D.LGS. 82/2005 CAD</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1768271</link>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1768271</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2588</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/y2ucadzkrlc6ken63jd3nxrifz1v1v1s.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
