@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 18 Sep 2026 09:35:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:35:33 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DIVIETO DI UTILIZZO DELL'ACQUA PER USO POTABILE ALLE UTENZE ALLACCIATE ALLA CONDOTTA DELL'ACQUEDOTTO BRACCIO DI MARE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1769896</link>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1769896</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2609</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/qcft4rsypp39fp2nh3pszt2k0b5iuxj3.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>CONVOCAZIONE CONSIGLIO COMUNALE_24.09.2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1769788</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/afbrs5fy5d0sfo2sxkas4tp1fhf8oj5b.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>INDIRIZZI PER LA COSTITUZIONE DEL FONDO RISORSE DECENTRATE ANNO 2026 E DIRETTIVE ALLA DELEGAZIONE TRATTANTE DI PARTE PUBBLICA PER LA CONTRATTAZIONE DECENTRATA ANNO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1768274</link>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1768274</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2589</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/7a5d10xacla06csu1oo3ycij2rvcdkno.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
