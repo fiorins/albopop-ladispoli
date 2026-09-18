@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 18 Sep 2026 10:35:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:06:41 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,71 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELLA DITTA NATIONAL SERVICES GROUP SRL - FATT. N. 1328 DEL 03/09/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1770177</link>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1770177</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2614</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/en8ixjo1c4yl0qbz7w2857mf4lv5m9qk.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELLA DITTA ATS SRL - CIG BC45D63DDC - I SAL - FATTURA N. 352 DEL 16/09/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1770174</link>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1770174</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2613</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/5bwv65tjjcz8kzptqobku82trdphclt5.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DI PAGOPA PIATTAFORMA SEND FATTURA N. 5226030189 DEL 15/09/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1770171</link>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1770171</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2612</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/n2g2t1zrrf9dcv57hv7o0g40j9e34z4m.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>OCCUPAZIONE SUOLO PUBBLICO VIA CATANIA 15</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1770168</link>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1770168</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2611</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/v5i5493ceark1s19c4wjey7x0gzsg69y.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>PROCEDURA DI MOBILITA’ VOLONTARIA AI SENSI DELL’ART. 30, COMMA 1 DEL D.LGS N. 165/2001 E SS.MM.II. PER L’ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI UN POSTO DI FUNZIONARIO TECNICO - AREA DEI FUNZIONARI E DELLA E.Q. (EX CATEGORIA D). APPROVAZIONE ELENCO CANDIDATI AMMESSI E CONTESTUALE CONVOCAZIONE A SOSTENERE IL COLLOQUIO.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1770090</link>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1770090</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2610</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/qzx7f8naa6zjtlkezkvsvr4cwt10283f.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>DIVIETO DI UTILIZZO DELL'ACQUA PER USO POTABILE ALLE UTENZE ALLACCIATE ALLA CONDOTTA DELL'ACQUEDOTTO BRACCIO DI MARE</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1769896</link>
@@ -213,71 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/kk6hwygqsa92js7f6e5wia4mjv131pt2.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>PNRR M5C2 - INVESTIMENTO 1.3 SUB INVESTIMENTO 1.3.2 “POVERTÀ ESTREMA - STAZIONE DI POSTA” - CUP E64H22000310001 – LIQUIDAZIONE PER 5° LA RENDICONTAZIONE MANDANTE ATI “CASA COMUNE 2000”</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1768336</link>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1768336</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2594</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/n9cwr07xecu0o38gjfvnhi0yz5mcnja4.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA ALL’ASSOCIAZIONE DMO ETRUSKEY - QUOTA DI PARTECIPAZIONE E DI ADESIONE ANNUALE DEL COMUNE DI LADISPOLI AL PROGRAMMA REGIONALE STRAORDINARIO PER IL RILANCIO E LA PROMOZIONE DELLE DESTINAZIONI TURISTICHE PER IL PROGETTO DENOMINATO ETRUSKEY - ANNO 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1768333</link>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1768333</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2593</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/1v60igfp5j3xe530esneg3jkpv6miezw.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI DUE ISTRUTTORI DEI SERVIZI AMMINISTRATIVI - AREA DEGLI ISTRUTTORI (EX CAT. C) TRAMITE PROCEDURA DI MOBILITÀ VOLONTARIA ESTERNA AI SENSI DELL’ART. 30 COMMA 1 DEL D.LGS. N. 165/2001 E SS.MM.II.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1768319</link>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1768319</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2592</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/73c434jg4b9jdisiajmz0qtmi5ge8xm5.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>CONCESSIONE CONTRIBUTO ECONOMICO IN FAVORE DELL' ISITUTO STATALE D’ISTRUZIONE SUPERIORE “GIUSEPPE DI VITTORIO” PER L’ORGANIZZAZIONE DELLA CERIMONIA DI INAUGURAZIONE DEL PALAZZETTO SPORTIVO E PER LE ATTIVITÀ DIDATTICHE DEGLI STUDENTI DELL’ISTITUTO ALBERGHIERO.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1768280</link>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1768280</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2591</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/vbivkrpptqjiwize7ecw4uskp702w987.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>APPROVAZIONE IN VIA SPERIMENTALE DELLE LINEE GUIDA PER I SERVIZI DI ASSISTENZA DOMICILIARE INDIRETTA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1768277</link>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1768277</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2590</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/afbrs5fy5d0sfo2sxkas4tp1fhf8oj5b.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
