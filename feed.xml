@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 21 Sep 2026 09:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 09:35:46 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>APPROVAZIONE GRADUATORIA INERENTE GLI AVENTI DIRITTO AL RIMBORSO PARZIALE DELLE SPESE SOSTENUTE PER I CENTRI ESTIVI 2026-“FINANZIAMENTO PER L’INDIVIDUAZIONE DELLE FAMIGLIE BENEFICIARIE DEL CONTRIBUTO PER LA FREQUENZA DI CENTRI ESTIVI ACCREDITATI, DESTINATI A BAMBINI/RAGAZZI DA 0 A 17 ANNI-PERIODO GIUGNO 2026 – SETTEMBRE 2026”</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1770802</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1770802</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">21/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">06/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2620</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/eyzlru6nsb3tl14udqz4z3ny9ip451hk.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>NOMINA DELLA COMMISSIONE PER L'ESAME E LA VALUTAZIONE DELLE ISTANZE PERVENUTE A SEGUITO DI AVVISO PUBBLICO APPROVATO CON DETERMINAZIONE DIRIGENZIALE N. 1867 DEL 21/08/2026, PER LA CONCESSIONE IN USO TEMPORANEO DELL’IMMOBILE DI PROPRIETA COMUNALE DENOMINATO “PALAZZETTO DELLO SPORT A. SORBO”, PER LA STAGIONE SPORTIVA 2026-2027.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1770799</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1770799</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">21/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">06/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2619</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/u3nx0fg7ee5rzr2frdciwhuqaqasc57l.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>NOMINA COMMISSIONE PER L'ESAME E LA VALUTAZIONE DELLE ISTANZE PERVENUTE A SEGUITO DI AVVISO PUBBLICO APPROVATO CON DETERMINAZIONE DIRIGENZIALE N. 1868 DEL 21/08/2026, PER LA CONCESSIONE IN USO TEMPORANEO ED IN ORARIO EXTRASCOLASTICO DELLE PALESTRE, DEI LOCALI SCOLASTICI E DEGLI SPAZI VERDI ANNESSI AGLI ISTITUTI SCOLASTICI DI PROPRIETÀ DEL COMUNE DI LADISPOLI, PER L’ANNO 2026-2027.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1770745</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/dth7046x9xbkbuyzd8ric9gim6sebjha.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>APPROVAZIONE PROGETTO ESECUTIVO “COMPLETAMENTO MANUTENZIONE STRADE RURALI DELLA VIABILITÀ CITTADINA DEL COMUNE DI LADISPOLI” – CUP E67H26000850004.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1769149</link>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1769149</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">02/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2600</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ggscwflbhtgg1igcjhjxfexkwobfc6xi.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
-    </item>
-    <item>
-      <title>FESTA DI SANTA MARIA DEL ROSARIO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1769048</link>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1769048</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">02/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2599</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/cpgj1vt2bzeiva21eprj27mponako23p.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
