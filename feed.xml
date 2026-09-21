@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 21 Sep 2026 09:35:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 10:05:35 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONGEDO PARENTALE AI SENSI DELL’ART. 32 COMMA 1 DEL D.LGS. N. 151/2001 A FAVORE DI UN DIPENDENTE. DETERMINAZIONI.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1770865</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1770865</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">21/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">06/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2621</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/ku6y2i7ud150jwiys2358gl5hvl0qvkc.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>APPROVAZIONE GRADUATORIA INERENTE GLI AVENTI DIRITTO AL RIMBORSO PARZIALE DELLE SPESE SOSTENUTE PER I CENTRI ESTIVI 2026-“FINANZIAMENTO PER L’INDIVIDUAZIONE DELLE FAMIGLIE BENEFICIARIE DEL CONTRIBUTO PER LA FREQUENZA DI CENTRI ESTIVI ACCREDITATI, DESTINATI A BAMBINI/RAGAZZI DA 0 A 17 ANNI-PERIODO GIUGNO 2026 – SETTEMBRE 2026”</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1770802</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/1khwx1pgpnfvgr91ro1471wxpwygen2j.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>SERVIZIO DI GESTIONE, MANUTENZIONE E RIQUALIFICAZIONE ENERGETICA DEGLI IMPIANTI DI PUBBLICA ILLUMINAZIONE IN CONCESSIONE ALLA ENGIE SERVIZI SPA - DETERMINAZIONE DI LIQUIDAZIONE DEI CORRISPETTIVI MENSILI RELATIVI AL SERVIZIO ESPLETATO NEI MESI DI LUGLIO - AGOSTO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1769152</link>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1769152</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">02/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2601</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/dth7046x9xbkbuyzd8ric9gim6sebjha.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
