@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 21 Sep 2026 08:05:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 09:05:39 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>NOMINA COMMISSIONE PER L'ESAME E LA VALUTAZIONE DELLE ISTANZE PERVENUTE A SEGUITO DI AVVISO PUBBLICO APPROVATO CON DETERMINAZIONE DIRIGENZIALE N. 1868 DEL 21/08/2026, PER LA CONCESSIONE IN USO TEMPORANEO ED IN ORARIO EXTRASCOLASTICO DELLE PALESTRE, DEI LOCALI SCOLASTICI E DEGLI SPAZI VERDI ANNESSI AGLI ISTITUTI SCOLASTICI DI PROPRIETÀ DEL COMUNE DI LADISPOLI, PER L’ANNO 2026-2027.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1770745</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1770745</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">21/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">06/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2618</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/m83lmggenby4tootgp0bjq5ghtthwl24.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>(RPS743/26) AFFIDAMENTO IN FAVORE DELL'OPERATORE ECONOMICO SM EDILIZIA DI ALESSANDRO VECCHIOTTI PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) SU VARI IMMOBILI COMUNALI (CIG BBE77FB3E7, AFFIDAMENTO G00309 - CIG BBE7903DC0, AFFIDAMENTO G00310 - CIG BBE7A770C0, AFFIDAMENTO G00311 - CIG BBE7E7F461, AFFIDAMENTO G00312 - CIG BBE837A08C, AFFIDAMENTO G00313) - LIQUIDAZIONE</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1770713</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">ORDINANZE</category>
       <enclosure url="https://app.box.com/shared/static/cpgj1vt2bzeiva21eprj27mponako23p.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA DEL CONTRIBUTO ECONOMICO CONCESSO IN FAVORE DELLA ASD CRAZY DANCE REVOLUTION PER LA REALIZZAZIONE DELL’EVENTO SPORTIVO DENOMINATO “SOGNANDO IN GRANDE”, PRESSO IL PALAZZETTO DELLO SPORT “ANTONIO SORBO”</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1769031</link>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1769031</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">17/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">02/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2598</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/33eunjnm6yzgdosxbcf18235kvb12nt0.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
