@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 22 Sep 2026 08:08:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 08:35:32 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>REVOCA ORDINANZA SINDACALE 151 DEL 18/09/2026, AVENTE AD OGGETTO “DIVIETO DI UTILIZZO DELL'ACQUA PER USO POTABILE ALLE UTENZE ALLACCIATE ALLA CONDOTTA DELL'ACQUEDOTTO BRACCIO DI MARE”.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1771694</link>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1771694</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">22/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">07/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2647</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/a8ou6kaf18w9oacglsuk94rpbnzmf8cv.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>DISIMPEGNO DI SPESA SOMME RESIDUE DESTINATE PER L'EROGAZIONE DI CONTRIBUTI PER AFFIDAMENTI FAMILIARI ED ADOZIONI DEL COMUNE DI LADISPOLI LINEE GUIDA DGR 90/2019 – DGR 351/2024 COMPETENZE ANNUALITA’ 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1771663</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/rjb4u9i3ze5cneqsdqophcwnpi45gsyl.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>(RPS754/26) AFFIDAMENTO DIRETTO E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DELL'OPERATORE ECONOMICO AZ SYSTEM DI LADISPOLI PER INTERVENTI DI MANUTENZIONE STRAORDINARIA, RIQUALIFICAZIONE, MESSA IN SICUREZZA E REVISIONE INFISSI PRESSO I PLESSI SCOLASTICI COMUNALI DI VIA FRATELLI BANDIERA - LIVATINO, VIA DEL GHIRLANDAIO E VIA LAZIO - (CIG BD064FDBF8 - AFFIDAMENTO G00390)</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1771473</link>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1771473</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2627</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/errdkivffis8kja9qnj6yjb4dacig7qi.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
