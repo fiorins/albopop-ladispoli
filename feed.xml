@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 22 Sep 2026 06:38:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 07:05:47 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DETERMINA DI IMPEGNO IN FAVORE ALLA DITTA ITALSOCCORSO SRL - CIG. 8624663110</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1771520</link>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1771520</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">22/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">07/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2636</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/5gj3ejpqdj4if3hm26my1dy32uypv5ev.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE SALDO IN FAVORE DELL’OPERATORE ECONOMICO “ASSOCIAZIONE CULTURALE ROMAMÌ” PER IL SERVIZIO DI AFFIDAMENTO DI SERVIZI ARTISTICI PER N. 16 SPETTACOLI IN P.ZZA ROSSELLINI E N. 2 SERVIZI DI INTERPRETARIATO LIS, COME PREVISTO NEL PROGRAMMA DEL CALENDARIO DEGLI EVENTI ESTIVI DENOMINATO LADISPOLI LIVE, EDIZIONE 2026.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1771499</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/w6b88thvv2c6wuhm8zslvl5fv7sbbmvf.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA PER CARTE D'ARGENTO SENZA NOME, NUMERATE E PLASTICATE OPACHE - ARTI GRAFICHE LAURIA S.N.C.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1770700</link>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1770700</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">21/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">06/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2616</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/9jcqm68vjph0z4m3xkc9v73v7rfvr0fo.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
