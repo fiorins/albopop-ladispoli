@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 23 Sep 2026 13:06:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 14:36:47 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,71 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RIVERSAMENTO A COMUNE DI ARDEA DELLA SOMMA DI €. 171,00 A TITOLO DI TARI ERRONEAMENTE VERSATA AL COMUNE DI LADISPOLI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1773228</link>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1773228</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">23/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2663</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/j6f2jwehn1cg5urer0jmxzsgsft88o69.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>CONTRIBUTI ECONOMICI SOGGETTI INDIGENTI - COMMISSIONE 21.09.2026 - IMPEGNO SOMMA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1773225</link>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1773225</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">23/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2662</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/xfed73we3b0fhe1ia17vvc5mk2wyit09.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DI PAGOPA PIATTAFORMA SEND FATTURA N. 5226032223 DEL 20/09/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1773222</link>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1773222</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">23/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2661</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/19ru8pwmek0nfv9qyntck39lhltt5j5k.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELLA DITTA ITALSOCCORSO SRL - FATTURE NR. 000284-0CPAPA E NR. 000285-0CPAPA DEL 22/09/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1773219</link>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1773219</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">23/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2660</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/6xortbb2cc2ug3byuqsl2irmzse73fpq.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE DI SPESA INERENTE GLI AVENTI DIRITTO AL RIMBORSO PARZIALE DELLE SPESE SOSTENUTE PER I CENTRI ESTIVI 2026“FINANZIAMENTO PER L’INDIVIDUAZIONE DELLE FAMI-GLIE BENEFICIARIE DEL CONTRIBUTO PER LA FREQUENZA DI CENTRI ESTIVI ACCREDITATI, DE-STINATI A BAMBINI/RAGAZZI DA 0 A 17 ANNI-PERIODO GIUGNO 2026 – SETTEMBRE 2026”</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1773216</link>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1773216</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">23/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2659</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/c9jfrrkhn1t598ilyf0s9434ri4yd20r.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 5]]></description>
+    </item>
     <item>
       <title>(RPS767/26) AFFIDAMENTO DIRETTO E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DELL'OPERATORE ECONOMICO SOLUZIONI AMBIENTALI DI ALESSANDRO CICILLINI DI LADISPOLI PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) SU VARI IMMOBILI COMUNALI (MERCATO GIORNALIERO E POLIZIA LOCALE - AFFIDAMENTO N. G00392- CIG BD1082E772)</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1773118</link>
@@ -213,71 +278,6 @@
       <category domain="item-category-subType">PERMESSI A COSTRUIRE</category>
       <enclosure url="https://app.box.com/shared/static/7w0yjoii0zm5h7jprdbeczh0jlwes3c9.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>DETERMINA DI AFFIDAMENTO RUOLO COATTIVO DEGLI ILLECITI AMMINISTRATIVI DERIVANTI DA VIOLAZIONI AL CDS - AFFIDAMENTO A SAP TRIBUTI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1771644</link>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1771644</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2643</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/cetnsgscq8o0h447rzx65esuvocobny7.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELL' ASSOCIAZIONE "FARE AMBIENTE LABORATORIO VERDE AREA METROPOLITANA DI LADISPOLI", A SOSTEGNO DELLE SPESE PER ATTIVITÀ DI VOLONTARIATO DURANTE LA MANIFESTAZIONE ESTIVA “LADISPOLI LIVE 2026” - SALDO.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1771641</link>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1771641</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2642</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/hi8l4lg4ssn2034fvsi5ts9ny03wi25n.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>DETERMINA DI INTEGRAZIONE E IMPEGNO DI SPESA AI SENSI DELL’ART.50, CO.1, LETT. A, DEL D.LGS. N.36/2023 MEDIANTE PIATTAFORMA TELEMATICA CERTIFICATA DI QUESTO ENTE “APPALTI &amp; CONTRATTI”, ALLA SOCIETA’ MED S.R.L. UNIPERSONALE PER FORNITURA ARTICOLI NAUTICI PER BATTELLO PNEUMATICO 6.3 PRO - CIG: BC602509C1.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1771638</link>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1771638</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2641</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/cbpshh5ar6bz1uzrrfurxyfbwmt5cnsb.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FORNITURA E POSA IN OPERA DI TENDE DI VARIO TIPO PER GLI UFFICI COMUNALI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1771635</link>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1771635</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2640</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ji5ovdsf5oizz0c3ngwj6chx4uutxmc0.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELLA TIPOGRAFIA ARTI GRAFICHE LAURIA DI EMANUELE &amp; C. S.N.C PER LA FORNITURA DI 20 PANNELLI IMMAGINE DI LADISPOLI, SU FOREX DA 5 MM FORM. 50X70, CON STAMPA DIRETTA A COLORI IN UV</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1771632</link>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1771632</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2639</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/6zmduebhpfmck33clipy135judlho2ka.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
