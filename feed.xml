@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 23 Sep 2026 11:35:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 13:06:25 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>(RPS767/26) AFFIDAMENTO DIRETTO E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DELL'OPERATORE ECONOMICO SOLUZIONI AMBIENTALI DI ALESSANDRO CICILLINI DI LADISPOLI PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) SU VARI IMMOBILI COMUNALI (MERCATO GIORNALIERO E POLIZIA LOCALE - AFFIDAMENTO N. G00392- CIG BD1082E772)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1773118</link>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1773118</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">23/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2658</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/d88p8powkczcvterklx8sblvsdns9rcu.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>PRENOTAZIONE DI IMPEGNO - SPESE PER CONTENZIOSO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1773115</link>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1773115</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">23/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2657</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/r68currmtykn2dtb7u726b7ffe5dz26g.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>VARIAZIONE PARTITE DI GIRO E SERVIZI CONTO TERZI AL SENSI DELL'ARTICOLO 175 COMMA 5-QUATER LETTERA E. (VARIAZIONE 29/2026)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1773112</link>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1773112</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">23/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2656</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/b5ixgvro9n0yorabwrgk4wsry785vokd.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>ASSUNZIONE IMPEGNO DI SPESA IN FAVORE DELL’ARTISTA DJ OSSO PER LA REGOLARIZZAZIONE DELL’IMPOSTA DI BOLLO SULLE FATTURE ELETTRONICHE NN. FPA 2/26 DEL 18/09/2026 E FPA 1/26 DEL 18/09/2026.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1773026</link>
@@ -238,45 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/6zmduebhpfmck33clipy135judlho2ka.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE FATTURA N. V26353250 DEL 26/08/2026 ALLA SOCIETA’ SEBACH S.P.A. P.IVA: IT03912150483 PER L’ESECUZIONE DEL SERVIZIO DI NOLEGGIO N. 4 WC CHIMICI PER IL PROGETTO “SPIAGGE SICURE 2026”. - CIG: BBD9910EB6.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1771629</link>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1771629</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2638</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ptkavo6s8n6ly6kzwz9c3s20zlz3q97a.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE FATT. 2529 DEL 18/09/2026 IN FAVORE VETERINARI ASSOCIATI SRLS DR FABRIZIO NUSCA &amp; DR.SSA ELENA PECI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1771626</link>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1771626</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2637</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/hei77n9fg8fyoeb7cadw40k6ok7nokcm.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>DETERMINA DI IMPEGNO IN FAVORE ALLA DITTA ITALSOCCORSO SRL - CIG. 8624663110</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1771520</link>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1771520</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2636</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/5gj3ejpqdj4if3hm26my1dy32uypv5ev.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
