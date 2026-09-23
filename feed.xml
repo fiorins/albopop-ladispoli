@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 23 Sep 2026 07:36:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 08:35:38 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONVOCAZIONE COMMISSIONE BILANCIO, PATRIMONIO E TRIBUTI.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1772601</link>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1772601</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">23/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">28/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2653</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/d2sriwbos418tl1yo9ggnsce53jh559o.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE SPESA PER LA FORNITURA DI BUONI PASTO ELETTRONICI FATTURA N. VO-152037 DEL 15/09/2026 DAY RISTOSERVICE S.P.A.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1772436</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/aez4ho7ir2lefabo96symz8y0e0sv95f.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE 3 SALDO FATTURA N. 116 DEL 14/09/2026 ALLA SOCIETA’ NOHA SRL P.IVA: IT14198651003 PER IL SERVIZIO DI ASSISTENZA BAGNANTI PER N. 4 POSTAZIONI DI SALVATAGGIO SUGLI ARENILI LIBERI DEL COMUNE DI LADISPOLI-CIG: BBD09B40EE.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1771493</link>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1771493</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2633</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/lrhkyhuwc5i517r9cog906e45ica3567.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
     </item>
   </channel>
 </rss>
