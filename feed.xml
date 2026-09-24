@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 24 Sep 2026 09:05:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 09:35:38 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DETERMINAZIONE DI CONCLUSIONE POSITIVA DELLA CONFERENZA DEI SERVIZI DECISORIA EX ART. 14 COMMA 2, LEGGE N. 241/90 – FORMA SEMPLIFICATA E MODALITA’ ASINCRONA INDETTA A SEGUITO DI ISTANZA ID N. SCGGLC70H15C773-12062026-1729 PROTOCOLLO SUPRO 64237/16-06-2026, PRESENTATA DAL SIG. SCOGNAMIGLIO GIANLUCA, IN QUALITÀ DI PROPRIETARIO DELL’AREA, FINALIZZATA ALLA “REALIZZAZIONE DI STRUTTURA TURISTICO RICETTIVA ALL'ARIA APERTA CON INSTALLAZIONE DI CASE MOBILI, REALIZZAZIONE PIAZZOLE PER OSPITI NON DOTATI DI PROPRI MEZZI DI PERNOTTAMENTO E REALIZZAZIONE BAR/RISTORANTE A SERVIZIO DELL'ATTIVITÀ DI CAMPEGGIO”, SITA IN LADISPOLI (RM), VIA ROMA N. 115, SU AREA DISTINTA IN CATASTO AL FG. 68, P.LLA 959 E TESA AD OTTENERE LE AUTORIZZAZIONI, NULLA OSTA, PARERI, INTESE E/O ALTRI ATTI DI ASSENSO DI CUI AI SEGUENTI PROCEDIMENTI: AUTORIZZAZIONE PAESAGGISTICA ORDINARIA, DOMANDA DI PARERE SUL PROGETTO EDILIZIO PER UNA DEROGA DEI REQUISITI IGIENICO SANITARI, NULLA OSTA PER L'ESECUZIONE DI OPERE IN AREA SOTTOPOSTA A VINCOLO INDIRETTO - EDILIZIA RESIDENZIALE, PERMESSO DI COSTRUIRE, SEGNALAZIONE CERTIFICATA INIZIO ATTIVITÀ PER STRUTTURE RICETTIVE ALL’AREA APERTA, SCIA PER APERTURA DI ESERCIZIO DI SOMMINISTRAZIONE DI ALIMENTI E BEVANDE, NOTIFICA AI FINI DELLA REGISTRAZIONE AI SENSI DELL’ART. 6 REGOLAMENTO CE N. 852/2004, COMUNICAZIONE PER LA VENDITA DI ALCOLICI (D.LGS. N. 504/1995).</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1773952</link>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1773952</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">24/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">09/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2665</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/7u3nckc3cjv4foa0hkk3bbf0ejtmics3.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>OCCUPAZIONE SUOLO PUBBLICO COND. VIA LAZIO 39</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1773898</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/0h4dx37jfc8x94ihl9df4rbsu3a5pnn2.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELL’OPERATORE ECONOMICO DITTA INDIVIDUALE MOTA DI ANDREA PICA PER IL SERVIZIO ARTISTICO IN PROGRAMMA SABATO 29/08/2026, COME INDICATO NEL CALENDARIO DEGLI EVENTI ESTIVI DENOMINATO LADISPOLI LIVE, EDIZIONE 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1771660</link>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1771660</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2645</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/l0ri8ptutw9qa9ulyskcw33vnywjngp1.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
