@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 24 Sep 2026 11:36:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:35:41 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>ASTENSIONE DAL LAVORO DI UN DIPENDENTE COMUNALE PER CONGEDO AI SENSI DELL'ARTICOLO 42 COMMA 5 DEL DECRETO LEGISLATIVO 26 MARZO 2001 N. 151 E SS.MM.II.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1774409</link>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1774409</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">24/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">09/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2678</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/nmlf0bmkz6e6tbu6wo4dy7wm6522l8lq.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE SPESE PER CONTENZIOSO SENTENZA N. 19057/2021 EMESSA IN MERITO AL PROCEDIMENTO R.G. 8652/2020 DEL GDP DI ROMA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1774201</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/c9jfrrkhn1t598ilyf0s9434ri4yd20r.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 5]]></description>
-    </item>
-    <item>
-      <title>(RPS767/26) AFFIDAMENTO DIRETTO E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DELL'OPERATORE ECONOMICO SOLUZIONI AMBIENTALI DI ALESSANDRO CICILLINI DI LADISPOLI PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) SU VARI IMMOBILI COMUNALI (MERCATO GIORNALIERO E POLIZIA LOCALE - AFFIDAMENTO N. G00392- CIG BD1082E772)</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1773118</link>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1773118</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2658</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/d88p8powkczcvterklx8sblvsdns9rcu.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
