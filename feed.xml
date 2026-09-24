@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 24 Sep 2026 10:36:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:06:49 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>REVOCA DECRETO SINDACALE N. 17/2026 RELATIVO A CONFERIMENTO DI INCARICO DI DIREZIONE DELL'AREA II “BILANCIO E PROGRAMMAZIONE ECONOMICO FINANZIARIA”</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1774093</link>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1774093</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">24/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">09/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2675</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DECRETI</category>
+      <enclosure url="https://app.box.com/shared/static/jgt2bpa55i0t87hrz1tbccg9hbw84loq.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE DI SPESA IN FAVORE DI UTENTI BENEFICIARI DEL CONTRIBUTO PER IL SERVIZIO DI ASSISTENZA EDUCATIVA PRESSO I CENTRI ESTIVI DEL TERRITORIO COMUNALE CON QUIETANZA DIRETTA ALLA COOPERATIVA "SOLIDARIETÀ", SOGGETTO EROGATORE DEL SERVIZIO ACCREDITATO AL RUA DEL DISTRETTO 4.2 - ANNO 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1774047</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/b5ixgvro9n0yorabwrgk4wsry785vokd.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ASSUNZIONE IMPEGNO DI SPESA IN FAVORE DELL’ARTISTA DJ OSSO PER LA REGOLARIZZAZIONE DELL’IMPOSTA DI BOLLO SULLE FATTURE ELETTRONICHE NN. FPA 2/26 DEL 18/09/2026 E FPA 1/26 DEL 18/09/2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1773026</link>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1773026</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2655</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/h373bnruo5xs36vu1pg1bq5wl4q6txzl.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
