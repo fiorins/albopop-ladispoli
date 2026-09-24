@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 23 Sep 2026 14:36:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 09:05:32 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>OCCUPAZIONE SUOLO PUBBLICO COND. VIA LAZIO 39</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1773898</link>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1773898</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">24/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">09/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2664</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/lpcmw2k4m436jwohw7tw58ancypouhup.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>RIVERSAMENTO A COMUNE DI ARDEA DELLA SOMMA DI €. 171,00 A TITOLO DI TARI ERRONEAMENTE VERSATA AL COMUNE DI LADISPOLI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1773228</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/l0ri8ptutw9qa9ulyskcw33vnywjngp1.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>ELENCO DEI PERMESSI DI COSTRUIRE RILASCIATI 2026_ SETTEMBRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1771658</link>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1771658</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2644</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">PERMESSI A COSTRUIRE</category>
-      <enclosure url="https://app.box.com/shared/static/7w0yjoii0zm5h7jprdbeczh0jlwes3c9.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
