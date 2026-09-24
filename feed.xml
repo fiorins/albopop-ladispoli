@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 24 Sep 2026 11:06:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:36:14 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE SPESE PER CONTENZIOSO SENTENZA N. 19057/2021 EMESSA IN MERITO AL PROCEDIMENTO R.G. 8652/2020 DEL GDP DI ROMA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1774201</link>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1774201</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">24/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">09/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2677</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/xffza62lejy0bxrm2ole4q78myuqcbmx.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>OGGETTO: (RPS744/26) AFFIDAMENTO IN FAVORE DELL'OPERATORE ECONOMICO MENONI SRLU, PER LAVORI DI FORNITURA E POSA IN OPERA OSCURANTI IN UN PLESSO SCOLASTICO DI LADISPOLI CIG B9A631C212 – LIQUIDAZIONE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1774198</link>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1774198</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">24/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">09/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2676</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/80oham41zw233xymz7uqr5g75avvh8f2.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>REVOCA DECRETO SINDACALE N. 17/2026 RELATIVO A CONFERIMENTO DI INCARICO DI DIREZIONE DELL'AREA II “BILANCIO E PROGRAMMAZIONE ECONOMICO FINANZIARIA”</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1774093</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/d88p8powkczcvterklx8sblvsdns9rcu.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>PRENOTAZIONE DI IMPEGNO - SPESE PER CONTENZIOSO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1773115</link>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1773115</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2657</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/r68currmtykn2dtb7u726b7ffe5dz26g.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>VARIAZIONE PARTITE DI GIRO E SERVIZI CONTO TERZI AL SENSI DELL'ARTICOLO 175 COMMA 5-QUATER LETTERA E. (VARIAZIONE 29/2026)</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1773112</link>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1773112</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">08/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2656</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/b5ixgvro9n0yorabwrgk4wsry785vokd.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
