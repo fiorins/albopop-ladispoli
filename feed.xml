@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 28 Sep 2026 08:35:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 13:36:04 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE FATT. N. 3431/PA DEL 01/09/2026 IN FAVORE DELLA SOC. ANDREANI TRIBUTI SRL PER FORNITURA SOFTWARE SMART CITY - DIGITAL TWIN - CIG: B7C7E1253C</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1777064</link>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1777064</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">13/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2701</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/r0h7a1e0h65k7p3d4jqvr50df5khppkx.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA - RIMBORSO SPESE PER IL TRASFERIMENTO DI UN MINORE IN CASA FAMIGLIA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1777061</link>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1777061</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">13/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2700</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/y7vbe9z778ezd3mw5atccuhd3k4io656.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>(RPS 706/26) PROGETTO DI “RIQUALIFICAZIONE PARCHEGGIO PIAZZA FALCONE” - AFFIDAMENTO INCARICO PROFESSIONALE PER ASSISTENZA SPECIALISTICA AGRONOMICA A SUPPORTO DELLA ESECUZIONE DEI LAVORI - DOTT. AGRONOMO PAOLO PETRUZZI DI CERVETERI CIG BCF67E8268</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1776544</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/e0c594f06y7f5e4zjznvtggzs0gk42m1.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>AUTORIZZAZIONE E CONFERIMENTO INCARICO PER RESISTERE INNANZI AL CON-SIGLIO DI STATO AVVERSO L’APPELLO N. 7600/2026 R.G. AVENTE AD OGGETTO L’IMPUGNAZIONE DELL’ORDINANZA CAUTELARE N. 4931/2026 EMESSA DAL TAR DEL LAZIO IN DATA 08/09/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1774570</link>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1774570</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">24/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">09/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2681</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/w9v49b6lnb8tfsi5ef90fiw6hfae07dy.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>APPROVAZIONE DELLO SCHEMA DI “ACCORDO PER LA CONCESSIONE DI SITI COMUNALI E IL MANTENIMENTO DI INFRASTRUTTURE DI COMUNICAZIONE ELETTRONICA” TRA IL COMUNE DI LADISPOLI E LA SOCIETÀ NEWNIX S.R.L. PER LA DURATA DI ANNI 7.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1774567</link>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1774567</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">24/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">09/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2680</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/5d8q15m894xjibrr0jj5qbivp37g0olu.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
     </item>
   </channel>
 </rss>
