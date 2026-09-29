@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 29 Sep 2026 08:35:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 09:35:48 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>ISTITUZIONE AREE DISABILI AD PERSONAM E GENERICHE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1777575</link>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1777575</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">29/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">14/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2712</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/l9d19lg3kun9nna8bhkqalkbyf8zb0mq.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE IN FAVORE DELL’ARTISTA DJ OSSO PER IL SERVIZIO ARTISTICO RESO IN DATA 05/09/2026, COME PROGRAMMATO NEL CALENDARIO DEGLI EVENTI ESTIVI “LADISPOLI LIVE”, EDIZIONE 2026.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1777410</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/notvbouap3ac99whevfr6j9js6tvj45n.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>CONCESSIONE CONTRIBUTO ECONOMICO IN FAVORE DELLA ASD BASKET CITTA’ DI LADISPOLI PER LA REALIZZAZIONE DELL’EVENTO SPORTIVO DENOMINATO “TROFEO CITTÀ DI LADISPOLI – II MEMORIAL FRANCESCO BARRESE” EDIZIONE 2026, PRESSO IL PALAZZETTO DELLO SPORT “ANTONIO SORBO”– ASSUNZIONE IMPEGNO DI SPESA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1775767</link>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1775767</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">25/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">10/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2692</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ie5yht9dpykj597dexb7zhj2tojycgqo.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
