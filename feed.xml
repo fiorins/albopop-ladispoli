@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 29 Sep 2026 09:35:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 16:05:51 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DETERMINA A CONTRARRE L’AVVIO DI UNA PROCEDURA NEGOZIATA SENZA BANDO DI GARA (ART. 50, COMMA 1, LETTERA D, DEL D. LGS. N. 36/2023 E S.M.I) PER L’AFFIDAMENTO DEI LAVORI PER LA REALIZZAZIONE DEL NUOVO PALAZZETTO DELLO SPORT COMUNALE “PALA LADISLAO” FINANZIATO NELL’AMBITO DELL’AVVISO SPORT E SALUTE 2025 – LINEA DI INTERVENTO B - LADISPOLI (RM) – CUP E65B25000190005</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1778636</link>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1778636</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">29/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">14/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2713</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/aplg610ur7de4djxdosotnnjgapu8phu.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>ISTITUZIONE AREE DISABILI AD PERSONAM E GENERICHE</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1777575</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/6vd2vz9x6xksffuegy5x7qqw5ua4c7h4.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>DETERMINA DI IMPEGNO IN FAVORE ALLA DITTA ITALSOCCORSO SRL - CIG. 672378748F</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1775770</link>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1775770</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">25/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">10/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2693</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/notvbouap3ac99whevfr6j9js6tvj45n.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
