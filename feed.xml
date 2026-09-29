@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 29 Sep 2026 08:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:35:41 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE IN FAVORE DELL’ARTISTA DJ OSSO PER IL SERVIZIO ARTISTICO RESO IN DATA 05/09/2026, COME PROGRAMMATO NEL CALENDARIO DEGLI EVENTI ESTIVI “LADISPOLI LIVE”, EDIZIONE 2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1777410</link>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1777410</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">29/09/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">14/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2711</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/iy6tdr0hlqi0dlpa88roqcyasus9j2nk.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>APPROVAZIONE DEI VERBALI DELLA COMMISSIONE ESAMINATRICE CONTENENTI LA VALUTAZIONE DELLA DOCUMENTAZIONE AMMINISTRATIVA DELLE ISTANZE DI PARTECIPAZIONE E LA TABELLA DEI PUNTEGGI ASSEGNATI IN RIFERIMENTO ALL’AVVISO PUBBLICO PER LA CONCESSIONE, IN USO TEMPORANEO, DELLE PALESTRE, DEI LOCALI SCOLASTICI E DEGLI SPAZI VERDI ANNESSI AGLI ISTITUTI SCOLASTICI DI PROPRIETÀ DEL COMUNE DI LADISPOLI - ANNO 2026/2027.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1777379</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/ie5yht9dpykj597dexb7zhj2tojycgqo.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>NOMINA DELLA COMMISSIONE PER L'ESAME E LA VALUTAZIONE DELLE ISTANZE PERVENUTE A SEGUITO DI AVVISO PUBBLICO APPROVATO CON DETERMINAZIONE DIRIGENZIALE N. 1995 DEL 09/09/2026, PER LA CONCESSIONE IN USO TEMPORANEO DELL’IMMOBILE DI PROPRIETA COMUNALE DENOMINATO “CENTRO D'ARTE E CULTURA”, PER L’ANNO 2026-2027.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1774804</link>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1774804</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">25/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">10/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2691</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/z0hsgpvvl2u5eqwlm62l92s5eay1at5e.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
