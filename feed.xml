@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 30 Sep 2026 10:36:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 07:37:11 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI PARTECIPAZIONE ALL’OFFERTA EDUCATIVA DEL “CATALOGO DEI PROGETTI DI GENS DI EDUCAZIONE AMBIENTALE DELLE AREE NATURALI PROTETTE DELLA CMRC</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1779852</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1779852</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">01/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2716</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/sbgck6zec2di33yexkccqq5slf8bw55l.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 8]]></description>
+    </item>
     <item>
       <title>APPROVAZIONE VERBALE DELLA COMMISSIONE GIUDICATRICE E DELLA GRIGLIA DI ASSEGNAZIONE IN USO TEMPORANEO DEGLI SPAZI SITUATI ALL'INTERNO DELL’IMMOBILE COMUNALE DENOMINATO PALAZZETTO DELLO SPORT “A. SORBO” PER LA STAGIONE SPORTIVA 2026/2027.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1779086</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/x5hdsj6u62r26p5ffk44hou79imabuva.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE CONTRIBUTI ECONOMICI SOGGETTI INDIGENTI - COMMISSIONE 21.09.2026 -</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1776471</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1776471</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">28/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2696</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/o7tw0b2otyspzz5wpq24xil7cxhld1mq.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
