@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 01 Oct 2026 07:37:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:05:42 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>PRESA D’ATTO DI RIPOSI GIORNALIERI PER ALLATTAMENTO AI SENSI DELL’ART. 39 DEL D.LGS. N. 151/2001 A FAVORE DI UNA DIPENDENTE. DETERMINAZIONI.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1780167</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1780167</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">01/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">16/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2718</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/4uyloq88vin6b1qu7t3k3sewd9tnngze.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>ASTENSIONE DAL LAVORO DI UN DIPENDENTE COMUNALE PER CONGEDO AI SENSI DELL'ARTICOLO 42 COMMA 5 DEL DECRETO LEGISLATIVO 26 MARZO 2001 N. 151 E SS.MM.II.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1780164</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1780164</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">01/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">16/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2717</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/8hftladglg77hthgeelt3rk556j3k1yk.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>AVVISO DI PARTECIPAZIONE ALL’OFFERTA EDUCATIVA DEL “CATALOGO DEI PROGETTI DI GENS DI EDUCAZIONE AMBIENTALE DELLE AREE NATURALI PROTETTE DELLA CMRC</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1779852</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/h6vyuqblq7rqcyz3peq49hz1dcryjt52.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>AFFIDAMENTO DIRETTO, AI SENSI DELL’ART. 50, COMMA 1, LETT. B) DEL D.LGS. N. 36/2023 E S.M.I. CON ORDINE DIRETTO DI ACQUISTO (ODA) TRAMITE LA PIATTAFORMA MEPA, PER L’ACQUISTO DEL PRODOTTO “CANDIDATO GLOBAL SERVICE” AD INTEGRAZIONE DEL SERVIZIO DI ORGANIZZAZIONE, GESTIONE E SVOLGIMENTO DI CONCORSI PUBBLICI IN MODALITÀ DIGITALE AFFIDATO A RECRYTERA S.R.L. CIG: BD1C290649</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1776541</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1776541</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">28/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2698</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/btqw6ixgpipjfavvdo5mhu7lqfwx52jj.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATT. N. 10_26 DEL 07/08/2026 IN FAVORE DELL'ING. A.V. A SALDO DELLA PROGETTAZIONE ESECUTIVA PER INTERVENTI DI EFFICIENTAMENTO ENERGETICO NEL I.C. LADISPOLI PLESSO CANDIDA ZARRELLI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1776512</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1776512</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">28/09/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2697</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/x5hdsj6u62r26p5ffk44hou79imabuva.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
