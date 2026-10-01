@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 01 Oct 2026 15:12:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 15:35:42 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DOMANDA DI ISCRIZIONE ALL'ALBRO DEGLI SCRUTATORI DI SEGGIO ELETTORALE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1781017</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1781017</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">01/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">30/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2749</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/3r5xss4pk5rgo05guej18bi89fkg23bf.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>DOMANDA DI ISCRIZIONE ALL'ALBRO DEI PRESIDENTI DI SEGGIO ELETTORALE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1781015</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1781015</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">01/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">31/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2748</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/y4kb1qj76e66vuevml9d5jl56pne24fw.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>PIANO PARTICOLAREGGIATO PER INSEDIAMENTO PRODUTTIVO-COMMERCIALE E RESIDENZIALE IN VIA AURELIA KM 37,700, IN VARIANTE AL P.R.G. VIGENTE – PRESA D’ATTO DELL’APPROVAZIONE REGIONALE, ADEGUAMENTO DELLO SCHEMA DI CONVENZIONE E DISCIPLINA DELLE MODALITÀ E DEI TEMPI DI CORRESPONSIONE DEL CONTRIBUTO STRAORDINARIO DI URBANIZZAZIONE.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1780988</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/nzjhy8ipk7uj3abr3rslvrhyc50ona6s.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>PNRR M5C2 - INVESTIMENTO 1.3 SUB INVESTIMENTO 1.3.2 “POVERTÀ ESTREMA - STAZIONE DI POSTA” - CUP E64H22000310001 – LIQUIDAZIONE PER LA 6° RENDICONTAZIONE – MANDATARIA ATI “DOMUS COOPERATIVA SOCIALE”</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1780483</link>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1780483</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">01/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">16/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2729</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/iubjjhgnq06waotee56neba6gjf05f5d.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>PNRR M5C2 - INVESTIMENTO 1.3 SUB INVESTIMENTO 1.3.2 “POVERTÀ ESTREMA - STAZIONE DI POSTA” - CUP E64H22000310001 – LIQUIDAZIONE PER LA 7° ED ULTIMA RENDICONTAZIONE – MANDATARIA ATI “DOMUS COOPERATIVA SOCIALE”</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1780480</link>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1780480</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">01/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">16/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2728</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/b8ngt0m89xcfqfi48fio05sx8zi16uqb.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
