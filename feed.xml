@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 01 Oct 2026 11:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:05:48 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>PAGAMENTO DEI DIRITTI SIAE PER MANIFESTAZIONE DENOMINATA "UNA NOTTE LUNGA UN GIORNO", PROGRAMMATA NELLE GIORNATE DEL 14 E 15 AGOSTO 2026 PRESSO LUNGOMARE MARINA DI PALO DEL COMUNE DI LADISPOLI - ASSUNZIONE IMPEGNO DI SPESA.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1780557</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1780557</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">01/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">16/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2739</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/npp7sq9tqpt2ujmu1xsz28y1qz3egx51.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>RIMBORSO AI CONTRIBUENTI DI SOMME TARI NON DOVUTE PER L’IMPORTO COMPLESSIVO DI €. 344,00</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1780510</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/ubxek4hwftedui04oi2yej254gluvipd.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELLA DITTA ITALSOCCORSO SRL - FATTURE NR. 000290-0CPAPA DEL 23/09/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1780365</link>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1780365</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">01/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">16/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2719</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/hv18q70z9d5byqi34tmqiyvdvyz5eu5k.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
