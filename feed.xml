@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 02 Oct 2026 11:35:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:06:56 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,58 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>OCCUPAZIONE SUOLO PUBBLICO COND. VIA CLAUDIA 64</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1781757</link>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1781757</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">02/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2755</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/znfsqo2iy83z5goi6cvwyrqxwgivwjnc.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>CONCESSIONE PATROCINIO ONEROSO IN FAVORE DELL'APS RESISTENZA CULTURALE PER LA REALIZZAZIONE DELL’EVENTO UMANITARIO E SPORTIVO DENOMINATO “GAZA FREEDOM CUP 2026 – TORNEO DI BASKET E AREA ARTIGIANATO/ACCOGLIENZA”, IN PROGRAMMA IL 17/09/2026 PRESSO L’AREA DEI GIARDINI DI VIA FIRENZE.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1781755</link>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1781755</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">02/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2754</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/de5bssx7jv2wbmu17cvoszzv16oacpjz.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>CONCESSIONE PATROCINIO E CONTRIBUTO ECONOMICO IN FAVORE DELLA PARROCCHIA SANTA MARIA DEL ROSARIO PER LA REALIZZAZIONE DELLA MANIFESTAZIONE DENOMINATA “FESTA DI SANTA MARIA DEL ROSARIO 2026”.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1781752</link>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1781752</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">02/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2753</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/e77fos5rgh9vun6medpqrs15uihdoq10.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>VARIAZIONE AL BILANCIO DI PREVISIONE 2026/2028 AI SENSI DELL'ARTICOLO 175 COMMA 4 DEL TUEL 267/2000 (VAR. 30/2026)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1781749</link>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1781749</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">02/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">17/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2752</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/n4j9ylydsj52bqye6q7cm8063khoildq.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 6]]></description>
+    </item>
     <item>
       <title>PROCEDURA DI MOBILITÀ VOLONTARIA ESTERNA AI SENSI DELL’ART. 30, COMMA 1 DEL D.LGS. N. 165/2001 E SS.MM.II. PER L'ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI N. 1 ASSISTENTE SOCIALE - AREA DEI FUNZIONARI E DELLA E.Q. (EX CATEGORIA D). APPROVAZIONE VERBALE DELLA COMMISSIONE ESAMINATRICE E GRADUATORIA DI MERITO. NOMINA VINCITORE.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1781679</link>
@@ -225,58 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/9mdcz0zqv8c5xkjv01a1h5u3h8syltup.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELLA SODI SCIENTIFICA PER CONTRATTO LUNGO NOLEGGIO MESI 36 DI 4 POSTAZIONI VELOX FISSE FATT. NR. 706/S DEL 30/09/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1780501</link>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1780501</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">01/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">16/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2735</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/xq2fqv0oyh1dvse4pppzeeqov8p1ap5i.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELL'ASSOCIAZIONE NAZIONALE MARINAI D'ITALIA - AGOSTO E SETTEMBRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1780498</link>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1780498</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">01/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">16/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2734</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ocrul4bjntxjobj16nllhslz6gx40449.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELL'ASSOCIAZIONE DI TUTELA DEGLI ANIMALI E DELL’AMBIENTE ACCADEMIA KRONOS - CONTRIBUTO AGOSTO E SETTEMBRE ANNUALITA' 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1780495</link>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1780495</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">01/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">16/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2733</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/lwz9ukd4my088k7qcuwinc7kl42go78n.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA DEL CONTRIBUTO ECONOMICO CONCESSO IN FAVORE DELL’A. S. D. BEACH TENNIS AND SPORTS PER LA REALIZZAZIONE DELL’EVENTO DENOMINATO “LADISPOLI SUMMER SPORT”, IN PROGRAMMA NEI GIORNI DAL 10 AL 31 AGOSTO 2026, PRESSO LA SPIAGGIA LIBERA - LUNGOMARE REGINA ELENA – SALDO.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1780492</link>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1780492</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">01/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">16/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2732</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/mu9ufgttkitmrzv9vbqaobmoyfznvsai.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
