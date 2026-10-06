@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 06 Oct 2026 15:37:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:39:08 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,71 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>APPROVAZIONE NUOVO REGOLAMENTO DELLA BIBLIOTECA COMUNALE PEPPINO IMPASTATO.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1784230</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1784230</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2793</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <enclosure url="https://app.box.com/shared/static/cz36ryoex1k4xkmq84hkl9rhn3k1q86i.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 7]]></description>
+    </item>
+    <item>
+      <title>APPROVAZIONE DEL REGOLAMENTO PER IL FUNZIONAMENTO DELLA COMMISSIONE MENSA SCOLASTICA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1784227</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1784227</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2792</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <enclosure url="https://app.box.com/shared/static/2wswls046hg941g45licu43ul8bvewna.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 6]]></description>
+    </item>
+    <item>
+      <title>RATIFICA DELLA DELIBERAZIONE DI GIUNTA COMUNALE N. 172 DEL 06/08/2026 AVENTE AD OGGETTO"V VARIAZIONE AL BILANCIO DI PREVISIONE 2026/2028 AI SENSI DELL'ARTICOLO 175 COMMA 4 DEL TUEL 267/2000 (VAR. 22/2026)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1784224</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1784224</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2791</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <enclosure url="https://app.box.com/shared/static/hhpeh1sripvfmjauh77blxknwg95wnk6.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 6]]></description>
+    </item>
+    <item>
+      <title>APPROVAZIONE DEL BILANCIO CONSOLIDATO DELL’ESERCIZIO 2025 AI SENSI DELL’ART. 11-BIS DEL D.LGS. N. 118/2011.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1784221</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1784221</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2790</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <enclosure url="https://app.box.com/shared/static/4942stgvigyhcrid9zkauoo7vpqiebzn.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 13]]></description>
+    </item>
+    <item>
+      <title>SURROGA DI CONSIGLIERE COMUNALE DIMISSIONARIO E CONVALIDA SUBENTRANTE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1784218</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1784218</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2789</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
+      <enclosure url="https://app.box.com/shared/static/3ssreh6c6w3l8hzt7w0jzz3tx4oiok3l.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>ORDINATIVO DI LIQUIDAZIONE ACCORDO QUADRO "CLOUD ENABLING ID 2652 LOTTO 9" - 3° SAL LUG - AGO - SET 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1784155</link>
@@ -213,71 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/ylszd8g31mslecvxyel001zhy1epkn9f.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>RETTE PER L'ACCOGLIENZA E L'OSPITALITÀ DI UN NUCLEO FAMILIARE IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI - LIQUIDAZIONE DI SPESA IN FAVORE DI "ORIZZONTI S.R.L.” – PERIODO SETTEMBRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1783554</link>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1783554</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2773</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/jzj4qfbkqcwco6x30mgm8jsmzuel5wc3.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>PROCEDURA NEGOZIATA SVOLTA IN MODALITÀ TELEMATICA PER L'AFFIDAMENTO DEGLI "INTERVENTI DI EFFICIENZA ENERGETICA E REALIZZAZIONE DI SISTEMI DI PRODUZIONE DI ENERGIA DA FONTI RINNOVABILI NELL'I.C. LADISPOLI I, PLESSO "ROSARIO LIVATINO" DEL COMUNE DI LADISPOLI (RM)"-CUP. E64D25000400008 E CIG. BC6D14FB4F - DETERMINA DI AGGIUDICAZIONE, EX ART. 17, COMMA 5, D.LGS. 36/23 E ADEMPIMENTI CONNESSI, PRESUPPOSTI E CONSEGUENTI ALLA STESSA.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1783551</link>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1783551</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2772</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/erqseqnax1ki6179bollvzbabfqr9idp.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
-    </item>
-    <item>
-      <title>PROCEDURA NEGOZIATA SVOLTA IN MODALITÀ TELEMATICA PER L'AFFIDAMENTO DEGLI "INTERVENTI DI EFFICIENZA ENERGETICA E REALIZZAZIONE DI SISTEMI DI PRODUZIONE DI ENERGIA DA FONTI RINNOVABILI NELL'I.C. LADISPOLI I, PLESSO "CANDIDA ZARELLI"-CUP. E64D25000410008 E CIG. BC68BBE2DE - DETERMINA DI AGGIUDICAZIONE, EX ART. 17, COMMA 5, D.LGS. 36/23 E ADEMPIMENTI CONNESSI, PRESUPPOSTI E CONSEGUENTI ALLA STESSA.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1783548</link>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1783548</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2771</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/58qxqb5bric8xce7wpuyeroz9cwq4kk4.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
-    </item>
-    <item>
-      <title>RETTE PER L'ACCOGLIENZA E L'OSPITALITÀ DI MINORI IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI – LIQUIDAZIONE DI SPESA IN FAVORE DI THULE SOCIETÀ COOPERATIVA SOCIALE A R.L. – PERIODO SETTEMBRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1783480</link>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1783480</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2770</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/q9w763dedsxvzl0seou2sk8i7oibi6rl.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE IN FAVORE DI VARIE AMMINISTRAZIONI COMUNALI A TITOLO DI RIMBORSO SPESE DI NOTIFICA ACCERTAMENTI TRIBUTARI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1783477</link>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1783477</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2769</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/4dn7qenkqveyewyu31fvciefdtr838l4.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
     </item>
   </channel>
 </rss>
