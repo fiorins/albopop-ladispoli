@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 06 Oct 2026 09:38:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:05:32 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DIVIETO DI SOSTA VIA CUPELLO DA PIAZZA BENICARLO' A PIAZZA FALCONE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1783624</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1783624</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2779</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/mharuxfspgwtgdj8vs3jni3dhzjrmn6a.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE DELLA SPESA FATTURA N.79 - FE/2026 IN FAVORE DELLA DITTA INDIVIDUALE DI DAMIANO MONALDI TRASLOCHI E TRASPORTI PER LA FORNITURA DEL SERVIZIO DI TRASLOCO DEGLI ARREDI SCOLASTICI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1783569</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/if6vqzmd2o1pvisdmm2dz587nj0h8lqa.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA PER FORNITURA DI CARTA A4 PER FOTOCOPIE E CONSUMABILI - MYO SPA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1783444</link>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1783444</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2759</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/2vmwemixdf1rbwm0mqlsi3wef0i8i6q1.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
