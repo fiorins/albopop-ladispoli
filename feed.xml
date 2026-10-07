@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 07 Oct 2026 11:35:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 12:35:43 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>PROCEDURA DI MOBILITÀ VOLONTARIA ESTERNA AI SENSI DELL’ART. 30, COMMA 1 DEL D.LGS. N. 165/2001 E SS.MM.II. PER L'ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI UN FUNZIONARIO TECNICO - AREA DEI FUNZIONARI E DELLA E.Q. (EX CATEGORIA D). APPROVAZIONE VERBALE DELLA COMMISSIONE ESAMINATRICE E GRADUATORIA DI MERITO. NOMINA VINCITORE.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1784954</link>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1784954</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">07/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">22/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2801</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/y806ft2x0opk2nzd3w2dcxxa1sttwzr0.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>OCCUPAZIONE SUOLO PUBBLICO COND. VIA DEI TULIPANI 2</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1784854</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/pavqms0pz6ykxrvmzzirvafvjiwjknhz.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA IN FAVORE DELLA SOC. "SARA 94 SRL" PER IL SERVIZIO DI INUMAZIONE ESEGUITO IN FAVORE DI UN CITTADINO INDIGENTE.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1784134</link>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1784134</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2781</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/s92kniiatzx7lx8cuk229giwfrtrj0pu.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
