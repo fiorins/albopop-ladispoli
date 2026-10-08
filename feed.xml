@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 08 Oct 2026 12:35:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 14:36:18 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE FATTURA N.575 DEL 01/10/2026 - DITTA SARA'94 - P.I. IT04793501000, CON SEDE A BRACCIANO - AFFITTO PLESSO SCOLASTICO DENOMINATO “ILARIA ALPI” SITO IN VIA PRAGA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1786115</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1786115</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">08/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">23/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2810</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/f6cfnq7jf78cfuvdaqksxurfv0qpu1ab.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>FORNITURA DI ARREDI PER VARI UFFICI COMUNALI - CIG BD40538BF9 - IMPEGNO DI SPESA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1786112</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1786112</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">08/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">23/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2809</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/qt39y6hwgxwq7j56djs1ki2y5fayhtu0.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELL' ASSOCIAZIONE "UNPPE", A SOSTEGNO DELLE SPESE PER ATTIVITÀ DI VOLONTARIATO NELL’ ESTATE 2026. SALDO.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1786109</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1786109</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">08/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">23/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2808</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/649hqktxackp359xp0382ielmtw55rhu.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>CONVOCAZIONE CONSIGLIO COMUNALE_15.10.2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1785872</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
       <enclosure url="https://app.box.com/shared/static/hhpeh1sripvfmjauh77blxknwg95wnk6.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 6]]></description>
-    </item>
-    <item>
-      <title>APPROVAZIONE DEL BILANCIO CONSOLIDATO DELL’ESERCIZIO 2025 AI SENSI DELL’ART. 11-BIS DEL D.LGS. N. 118/2011.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1784221</link>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1784221</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2790</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
-      <enclosure url="https://app.box.com/shared/static/4942stgvigyhcrid9zkauoo7vpqiebzn.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 13]]></description>
-    </item>
-    <item>
-      <title>SURROGA DI CONSIGLIERE COMUNALE DIMISSIONARIO E CONVALIDA SUBENTRANTE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1784218</link>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1784218</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2789</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
-      <enclosure url="https://app.box.com/shared/static/3ssreh6c6w3l8hzt7w0jzz3tx4oiok3l.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE ACCORDO QUADRO "CLOUD ENABLING ID 2652 LOTTO 9" - 3° SAL LUG - AGO - SET 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1784155</link>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1784155</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2788</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/1e8gzm12a07m2sejtp0433u62nx7xp24.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
