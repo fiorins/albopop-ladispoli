@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 07 Oct 2026 13:35:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:05:43 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI N. 8 ATTI NELLA CASA DEL COMUNE LADISPOLI - NIOI KETTI ED ALTRI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1785452</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1785452</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">08/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">09/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2803</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/0n12nuapg4mxgehef55b4m1s7gww5cfc.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>IMPEGNO DI SPESA PROGETTO GIORNATA FORMATIVA MOBILITÀ E SICUREZZA STRADALE IN LADISPOLI A FAVORE DEL CENTRO STUDI CESARE FERRARI - CIG BD3DCDDE8F</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1785025</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/wtrg0w76qkqt8ubbvnrmgd54wfooon57.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE RILEGATURA REGISTRI DI STATO CIVILE - MYO SPA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1784140</link>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1784140</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2783</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/7fmh7gxg0zj11d0iw1hur658vqllainu.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
