@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 08 Oct 2026 15:06:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:35:31 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CHIUSURA DEGLI ISTITUTI SCOLASTICI PUBBLICI DI OGNI ORDINE E GRADO PRESENTI SUL TERRITORIO COMUNALE E DEL PALAZZETTO DELLO SPORT “PALASORBO” PER LA GIORNATA DI VENERDÌ 9 OTTOBRE 2026, A SEGUITO DEGLI ECCEZIONALI EVENTI METEOROLOGICI VERIFICATISI L'8 OTTOBRE 2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1786310</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1786310</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">08/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">23/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2815</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/bnu25g7zsa1g6i5657tiu1ypbdq9q5p6.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>RETTE PER L'ACCOGLIENZA E L'OSPITALITÀ IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI - LIQUIDAZIONE DI SPESA IN FAVORE DI "ASSOCIAZIONE DIMENSIONE SALUTE" - PERIODO LUGLIO E AGOSTO 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1786142</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/xf59npb8nky9ux00iuktawztzq2fljex.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 5]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DEL CONTRIBUTO ECONOMICO CONCESSO ALL'A.P.S. RESISTENZA CULTURALE PER LA REALIZZAZIONE DELL’INIZIATIVA DENOMINATA “COMIXPOLI - FIERA DEL FUMETTO E DEL RETROGAMES” IN PROGRAMMA NEI GIORNI 4, 5 E 6 SETTEMBRE 2026 IN PIAZZA R. ROSSELLINI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1784383</link>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1784383</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2795</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/0qig2gtwivrj9tvd9gpdybu2dxc2nty1.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
