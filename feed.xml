@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 08 Oct 2026 09:05:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 10:05:56 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>OCCUPAZIONE SUOLO PUBBLICO COND. VIALE ITALIA 7</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1785645</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1785645</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">08/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">23/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2805</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/l7igzzo1gfkfai4374t17uf1tnv1c2bn.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>OCCUPAZIONE SUOLO PUBBLICO COND. VIA CLAUDIA 64</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1785612</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1785612</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">08/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">23/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2804</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/nwbbb0bzeqltf5rgrp7o05cvlz55ltwa.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI N. 8 ATTI NELLA CASA DEL COMUNE LADISPOLI - NIOI KETTI ED ALTRI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1785452</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/lupgqk73zqke3eei5qcex49igmisnmyh.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>AFFIDAMENTO CONFERIMENTO INCARICO PROFESSIONALE DI VERIFICA DEL PROGETTO ESECUTIVO DEL PROGETTO: “INTERVENTO DI DIFESA COSTIERA NEL TRATTO DI LITORALE COMPRESO TRA TORRE FLAVIA E MARINA DI PALO” - RETTIFICA E SOSTITUZIONE DELLA DETERMINAZIONE DIRIGENZIALE N. 2119/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1784146</link>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1784146</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2785</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/rt5cfyygzknvsu4fvalonzqh2mtpdu08.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>CONCESSIONE CONTRIBUTO ECONOMICO IN FAVORE DELLA PARROCCHIA SANTA MARIA DEL ROSARIO PER LA REALIZZAZIONE DELLA MANIFESTAZIONE DENOMINATA “FESTA DI SANTA MARIA DEL ROSARIO” - ASSUNZIONE IMPEGNO DI SPESA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1784143</link>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1784143</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2784</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/wtrg0w76qkqt8ubbvnrmgd54wfooon57.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
