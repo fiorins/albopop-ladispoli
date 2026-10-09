@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 09 Oct 2026 11:35:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 12:05:35 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI AGGIUNTE, DEI CITTADINI STRANIERI DELL'UNIONE EUROPEA IN OCCASIONE DELLE ELEZIONI PER IL RINNOVO DEGLI ORGANI DEL COMUNE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1787077</link>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1787077</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">09/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2818</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/4ulh1b988552odiqd7niajj67ppr1i2m.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI AGGIUNTE, DEI CITTADINI COMUNITARI IN OCCASIONE DELLE ELEZIONI PER IL PARLAMENTO EUROPEO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1787038</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">ORDINANZE</category>
       <enclosure url="https://app.box.com/shared/static/wexkrmqgddfjv9yhj7rn1i97c56drdmb.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA EMESSA DALLA COOPERATIVA "CASA COMUNE 2000" QUALE QUOTA PARTE CONTRIBUTO ANNUO A SOSTEGNO DELLE SPESE DI GESTIONE DEL SERVIZIO DI ASILO NIDO COMUNALE "SENSORY"</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1784392</link>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1784392</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2798</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/b9utl489uyuoxlln41sy652dms9amqtd.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
