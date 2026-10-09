@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 08 Oct 2026 18:35:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 11:35:32 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI AGGIUNTE, DEI CITTADINI COMUNITARI IN OCCASIONE DELLE ELEZIONI PER IL PARLAMENTO EUROPEO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1787038</link>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1787038</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">09/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2817</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/bteeyyh5zlbiedb5gtacis9qbk5svltp.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1787036</link>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1787036</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">09/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2816</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/axoz6fjhb9o31qz49pmw4p24dbi0br0k.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>CHIUSURA DEGLI ISTITUTI SCOLASTICI PUBBLICI DI OGNI ORDINE E GRADO PRESENTI SUL TERRITORIO COMUNALE E DEL PALAZZETTO DELLO SPORT “PALASORBO” PER LA GIORNATA DI VENERDÌ 9 OTTOBRE 2026, A SEGUITO DEGLI ECCEZIONALI EVENTI METEOROLOGICI VERIFICATISI L'8 OTTOBRE 2026.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1786310</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/b9utl489uyuoxlln41sy652dms9amqtd.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>ASSOCIAZIONE UNIONE NAZIONALE POLIZIA PENITENZIARIA U.N.P.PE PER IL SERVIZIO DI VIGILANZA PRESSO IL PALAZZETTO COMUNALE. LIQUIDAZIONE RIMBORSO SPESE PER IL MESE DI SETTEMBRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1784389</link>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1784389</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2797</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/qs6sc42xdaxbts0cgfm4d0n2b7f4jxmy.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA N 806/PA DEL 23/09/2026 EMESSA DALLA SOC. YAMME SRL PER LA FORNITURA DEL SERVIZIO DI DEMATERIALIZZAZIONE DELLE CEDOLE LIBRARIE – SALDO CANONE 2026 -</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1784386</link>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1784386</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">07/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">22/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2796</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/xf59npb8nky9ux00iuktawztzq2fljex.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
     </item>
   </channel>
 </rss>
