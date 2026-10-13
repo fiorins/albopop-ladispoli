@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 13 Oct 2026 06:05:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 08:35:56 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI PARTECIPAZIONE ALL’OFFERTA EDUCATIVA “CATALOGO DEI PROGETTI DI GENS"</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1788814</link>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1788814</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">13/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2830</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/0cgw2awv6wlmg39mu7c1bvs3jll5qx5t.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 5]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI A GILIS JEAM C M</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1788598</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/a35l0i8f9dywgsg9kd9opirdievhl22a.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA N.575 DEL 01/10/2026 - DITTA SARA'94 - P.I. IT04793501000, CON SEDE A BRACCIANO - AFFITTO PLESSO SCOLASTICO DENOMINATO “ILARIA ALPI” SITO IN VIA PRAGA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1786115</link>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1786115</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">08/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">23/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2810</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/f6cfnq7jf78cfuvdaqksxurfv0qpu1ab.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
