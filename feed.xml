@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 13 Oct 2026 10:05:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 10:35:47 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DETERMINA DI SOSTITUZIONE PER FERIE DEL COMANDANTE LA POLIZIA LOCALE - DAL GIORNO 15/10/26 AL GIORNO 17/10/26.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1789123</link>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1789123</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">13/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">28/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2833</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/fx2m2pq0rnf2gy5lk0wcdw2a28kbze9t.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>INTERVENTI DI MANUTENZIONE ORDINARIA E STRAORDINARIA DELLA RETE DI RACCOLTA DELLE ACQUE CHIARE.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1789069</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/tljdin4p7zjqozst8sfk25lpg5y23t9a.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>PNRR M5C2 - INVESTIMENTO 1.2 “PERCORSI DI AUTONOMIA PER PERSONE CON DISABILITÀ – CUP E65I22000020001 - LIQUIDAZIONE DELLA 8° RENDICONTAZIONE – MANDANTE RTI “SOLIDARIETÀ SOCIETÀ COOPERATIVA SOCIALE”</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1786139</link>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1786139</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">08/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">23/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2813</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/82cmkkr4lfljfnyghyv78hd203clx8g8.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
