@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 14 Oct 2026 08:36:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:05:36 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RIU 113/2026 - SERVIZIO DI PREDISPOSIZIONE DEL PIANO ECONOMICO FINANZIARIO RIFIUTI 2026-2029 E ASSISTENZA AL MONITORAGGIO DELLA TARIP NEL RISPETTO DELLE LINEE GUIDA ARERA - ANNUALITÀ 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1790252</link>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1790252</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">14/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2852</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/zz8kgwck8pmcwakinqt72wpbu062xmhp.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>VARIAZIONE PARTITE DI GIRO E SERVIZI CONTO TERZI AL SENSI DELL'ARTICOLO 175 COMMA 5-QUATER LETTERA E. (VARIAZIONE 32/2026)</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1789907</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/fx2m2pq0rnf2gy5lk0wcdw2a28kbze9t.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>INTERVENTI DI MANUTENZIONE ORDINARIA E STRAORDINARIA DELLA RETE DI RACCOLTA DELLE ACQUE CHIARE.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1789069</link>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1789069</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">13/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">28/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2832</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/9p3095umo5rj88hioxb3h6tg19lgj8jo.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
