@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 15 Oct 2026 15:07:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 15:35:49 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>(RPS 792/26) AFFIDAMENTO IN FAVORE DELL'OPERATORE ECONOMICO SM EDILIZIA DI ALESSANDRO VECCHIOTTI PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) SU VARI SITI/IMMOBILI COMUNALI (CIG BCBE048081, AFFID.TO G00374) - LIQUIDAZIONE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1791550</link>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1791550</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">15/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">30/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2889</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/l3dfjj45wesoutmy6kofau3scjax16oh.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>RETTIFICA DATI ALLEGATO VARIAZIONE AL PIANO ESECUTIVO DI GESTIONE N. 32 DEL 13/10/2026 D.D. N.2246 DEL 13-10-2026 VARIAZIONE PARTITE DI GIRO E SERVIZI CONTO TERZI AL SENSI DELL'ARTICOLO 175 COMMA 5-QUATER LETTERA E. (VARIAZIONE 32/2026)</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1791515</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/q84a6eqxs0zbbnbod95hsut65qs8jmfl.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA HERA COMM SPA NR. 412623122132 DEL 08/10/2026 PER LA FORNITURA TEMPORANEA DI ENERGIA ELETTRICA PER MANIFESTAZIONI ESTIVE PRESSO PIAZZA ROSSELLINI PER IL PERIODO DAL 01/09/2026 AL 30/09/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1790685</link>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1790685</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2869</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/wee6gx5n81yhxcn1vksieq36yn66tzhz.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
