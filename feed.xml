@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 15 Oct 2026 15:35:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 16:05:52 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>OGGETTO: RIU 116/2026 – ACCORDO QUADRO ANCI-CONAI 2025-2029 - APPROVAZIONE DELLO SCHEMA DI CONVENZIONE LOCALE ANCI-COREVE (CONSORZIO RECUPERO VETRO).</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1791699</link>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1791699</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">15/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">30/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2891</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/iz3hilc0ygv3b9mkwvt0hzglwp8ybco9.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>CONVOCAZIONE COMMISSIONE ECOLOGIA, IGIENE URBANA.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1791651</link>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1791651</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">15/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2890</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/el0tskda5sff4tfl5no43dljmf1o9zd2.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>(RPS 792/26) AFFIDAMENTO IN FAVORE DELL'OPERATORE ECONOMICO SM EDILIZIA DI ALESSANDRO VECCHIOTTI PER LAVORI/SERVIZI/FORNITURE DI MINIMO IMPORTO (MICRO-AFFIDAMENTI AI SENSI DELL'ART. 49 C. 6 E ART. 50 C.1 LETT. A) E B) DLVO 36/2023) SU VARI SITI/IMMOBILI COMUNALI (CIG BCBE048081, AFFID.TO G00374) - LIQUIDAZIONE</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1791550</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/frrp0yckv57dw9dbxjydgq6va5ua05s5.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA N. 26307051/2026 EMESSA DALLA S.R.L. CONVERGE PER LA FORNITURA DEL SERVIZIO DI HOSTING IN CLOUD PER IL NUOVO PORTALE ISTITUZIONALE “COMUNE.LADISPOLI.RM.IT” PER IL MESE DI AGOSTO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1790712</link>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1790712</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2871</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/hkdk691df82y5ac6dzkapvh3mtqu2b8h.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE CANONE LUNGO NOLEGGIO VETTURE AUTOPARCO COMUNALE SOC. ALD AUTOMOTIVE ITALIA SRL LOTTO 1-2-3 TASSA DI PROPRIETA' DAL 01/09/2026 AL 31/12/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1790709</link>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1790709</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2870</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/q84a6eqxs0zbbnbod95hsut65qs8jmfl.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
