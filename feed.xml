@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 15 Oct 2026 12:35:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 14:06:12 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>ASSUNZIONE A TEMPO PIENO E INDETERMINATO DI UN FUNZIONARIO TECNICO - AREA DEI FUNZIONARI E DELLA E.Q. (EX CAT. D) TRAMITE PROCEDURA DI MOBILITÀ VOLONTARIA ESTERNA AI SENSI DELL’ART. 30 COMMA 1 DEL D.LGS. N. 165/2001 E SS.MM.II.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1791270</link>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1791270</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">15/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">30/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2881</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/k5yff5h7ipix8tdhmu3ieknnpp9i921r.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>PROGETTO P.N.R.R. FINANZIATO DALL’UNIONE EU-ROPEA – NEXT GENERATION EU – MISSIO-NE 5 COMPONENTE 2 SOTTOCOMPONENTE 1, INVESTIMENTO 1.3 SUB-INVESTIMENTO 1.3.2 – STAZIONE DI POSTA - RISTRUTTURAZIONE E RIQUALIFICAZIONE DEGLI IMMOBILI COMUNA-LI ESISTENTI SITI IN V. ALDO MORO C.D. STECCA SERVIZI ED IN V. ANCONA “EX TELECOM” (P. TERRA), PER LA REALIZZAZIONE DI STAZIONE DI POSTA – CENTRO SERVIZI” – IMPEGNO DI SPESA A FAVORE DI ACEA ATO 2 SPA.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1791267</link>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1791267</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">15/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">30/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2880</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/rsn55w8nztb796buezjxz2jqe29bmhmg.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>INTERVENTI DI MANUTENZIONE STRADALE.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1791202</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/ar9ezcm46n53o7usrkcp2pb32ycs7km6.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>COMPARTECIPAZIONE AL PAGAMENTO DELLA RETTA DI OSPITALITÀ PER L’INSERIMENTO DI UN UTENTE IN VIA SPERIMENTALE PRESSO LA STRUTTURA RESIDENZIALE “PROGETTO 96” - LIQUIDAZIONE FATTURA PERIODO SETTEMBRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1790351</link>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1790351</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">14/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">29/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2861</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/8xlds9d6ydq2efg5ji0feszu2cgouf26.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>RETTE PER L'ACCOGLIENZA E L'OSPITALITÀ DI MINORI IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI - LIQUIDAZIONE DI SPESA IN FAVORE DELLA COOPERATIVA SOCIALE "LA GOLETTA". PERIODO LUGLIO AGOSTO E SETTEMBRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1790348</link>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1790348</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">14/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">29/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2860</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/bwsn7vwov1lthodgka6wfngwh0mkze7h.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
