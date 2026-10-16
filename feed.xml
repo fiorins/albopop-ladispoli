@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 16 Oct 2026 10:06:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 12:06:58 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>IMPEGNO DI SPESA PER CONTRIBUTO ALL’ASSOCIAZIONE CAFFE AFRICA CON SEDE A CIVITAVECCHIA VIA PIAVE SNC C.F. 91084220580 ATTO ALLA REALIZZAZIONE DEL PROGETTO TEATRALE “LA LINGUA DEI SOGNI ” INCLUSIV0 CON PROGETTO L.I.S.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1792718</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1792718</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">16/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">31/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2896</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/b3w66srz95g6v9elrflk5x576ie3th3a.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>RETTE PER L'ACCOGLIENZA E L'OSPITALITÀ DI DUE MINORI IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI - LIQUIDAZIONE DI SPESA IN FAVORE DI “ASSOCIAZIONE G.M. GIOVENTÙ MARIANA CENTRO SOCIALE RAGAZZI - ODV” – LUGLIO E SETTEMBRE 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1792343</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/6yvn4rmweoczl6jz9nwi81lw2od4662a.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>SERVIZIO DI ELABORAZIONE ATTI, PROVVEDIMENTI, AVVISI E COMUNICAZIONI OGGETTO DI NOTIFICA PER IL RELATIVO DEPOSITO SULLA PIATTAFORMA NOTIFICHE DIGITALI E PER LA GESTIONE DEGLI ESITI DELLA NOTIFICA – LIQUIDAZIONE FATTURA MAGGIOLI S.P.A.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1790941</link>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1790941</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2876</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/iutb9y4pku441va6ishm58olalsxfcxf.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
