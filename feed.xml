@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 16 Oct 2026 12:06:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 05:35:43 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO DI 4 ATTI A ANTINORI DAVIDE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1794107</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1794107</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">20/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">28/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2899</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/wk6c0egbn8dx3y3aro41y38fx9zckteq.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A PAGNOTTINI MAURO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1794105</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1794105</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">20/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">28/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2898</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/d6ch5oxab9mpssxp0rmwqxf8bwg0s1ej.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A IMPELLIZZERI MARIA LETIZIA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1794103</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1794103</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">20/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">28/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2897</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/0ztggjkgynlyw5t149dpftc8zoceza1n.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>IMPEGNO DI SPESA PER CONTRIBUTO ALL’ASSOCIAZIONE CAFFE AFRICA CON SEDE A CIVITAVECCHIA VIA PIAVE SNC C.F. 91084220580 ATTO ALLA REALIZZAZIONE DEL PROGETTO TEATRALE “LA LINGUA DEI SOGNI ” INCLUSIV0 CON PROGETTO L.I.S.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1792718</link>
@@ -238,45 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/rsn55w8nztb796buezjxz2jqe29bmhmg.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>INTERVENTI DI MANUTENZIONE STRADALE.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1791202</link>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1791202</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2879</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/bh8d3wznq5rzv09kjqtbi8i935ik4ice.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA IN FAVORE DEL PROFESSIONISTA ARCH. L.D.S. - 2° ACCONTO SUPPORTO AL RUP EFFICIENTAMENTO ENERGETICO PLESSO SCOLASTICO ROSARIO LIVATINO.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1790947</link>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1790947</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2878</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/qntshs53547senbtn3g953huv0wb5bvv.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>AFFIDAMENTO DI SERVIZI STRUMENTALI A SUPPORTO DELL'UFFICIO TRIBUTI ALLA SOCIETÀ PARTECIPATA FLAVIA SERVIZI S.R.L. - LIQUIDAZIONE PERIODO 01/07/2026 – 30/09/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1790944</link>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1790944</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2877</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/6yvn4rmweoczl6jz9nwi81lw2od4662a.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
