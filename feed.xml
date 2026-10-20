@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 20 Oct 2026 10:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 14:35:33 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>ORDINANZA CONTINGIBILE E URGENTE PER L’ESECUZIONE DEL SERVIZIO FUNEBRE E DELLA SEPOLTURA DELLA SALMA DELLA SIG.RA N.M. PRIVA DI PARENTI O CON FAMILIARI IRREPERIBILI O DISINTERESSATI.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1794857</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1794857</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">20/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">04/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2902</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/4hkd85qnhi5ro42m6jqqy4a498kwvh74.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>LAVORI E-DISTRIBUZIONE</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1794565</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/mhdmzxy29wr3nnb5dxouxlb4tt2iptg9.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>TIROCINI FORMATIVI E DI ORIENTAMENTO: PERCORSI IN ALTERNANZA SCUOLA - LAVORO. APPROVAZIONE CONVENZIONE CON IL CENTRO ITALIANO OPERE FEMMINILI SALESIANE, FORMAZIONE PROFESSIONALE DI LADISPOLI - CIOFS FP LAZIO ETS, PER L'ANNO SCOLASTICO 2026/2027.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1791363</link>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1791363</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2882</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/11tsr39kb174hk7uq5mivtoe0sq9dvqq.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
     </item>
   </channel>
 </rss>
