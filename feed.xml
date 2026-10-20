@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 20 Oct 2026 05:35:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 09:05:35 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONFERIMENTO DELLE FUNZIONI DI VICESINDACO ALL'ASSESSORE MARGHERITA FRAPPA.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1794384</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1794384</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">20/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">04/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2900</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DECRETI</category>
+      <enclosure url="https://app.box.com/shared/static/wcffaow5qheyf7z04odtdpkyv1w5mqrw.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO DI 4 ATTI A ANTINORI DAVIDE</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1794107</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/k5yff5h7ipix8tdhmu3ieknnpp9i921r.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>PROGETTO P.N.R.R. FINANZIATO DALL’UNIONE EU-ROPEA – NEXT GENERATION EU – MISSIO-NE 5 COMPONENTE 2 SOTTOCOMPONENTE 1, INVESTIMENTO 1.3 SUB-INVESTIMENTO 1.3.2 – STAZIONE DI POSTA - RISTRUTTURAZIONE E RIQUALIFICAZIONE DEGLI IMMOBILI COMUNA-LI ESISTENTI SITI IN V. ALDO MORO C.D. STECCA SERVIZI ED IN V. ANCONA “EX TELECOM” (P. TERRA), PER LA REALIZZAZIONE DI STAZIONE DI POSTA – CENTRO SERVIZI” – IMPEGNO DI SPESA A FAVORE DI ACEA ATO 2 SPA.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1791267</link>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1791267</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2880</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/rsn55w8nztb796buezjxz2jqe29bmhmg.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
