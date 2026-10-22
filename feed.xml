@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 22 Oct 2026 05:35:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 13:35:49 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>APPROVAZIONE DELLE TARIFFE PER L'APPLICAZIONE DELL'IMPOSTA DI SOGGIORNO - ANNO 2027</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1796872</link>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1796872</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">22/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">06/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2949</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/u29trasnccz553p5t8p49anxogska441.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO DUE ATTI A ZOCCHI BARBARA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1796153</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/ar4oj08naroxea7t0db1qmzv8w5eolcz.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 22]]></description>
-    </item>
-    <item>
-      <title>AFFIDAMENTO INCARICO DI ASSISTENZA E DIFESA LEGALE DELL’ENTE PER COSTITUZIONE IN GIUDIZIO AL FINE DEL CONTRORICORSO PER REVOCAZIONE DELL’ORDINANZA N. 22637/2026 DELLA CORTE SUPREMA DI CASSAZIONE, SEZIONE TRIBUTARIA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1795162</link>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1795162</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">20/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">04/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2929</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/zpxachi0db8zq9xr2p6ivwbh8xg7euef.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
