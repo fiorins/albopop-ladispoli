@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 23 Oct 2026 09:07:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 07:05:35 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>STALLI DI SOSTA VIA S.REMO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1798522</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1798522</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">24/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">08/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2969</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/24enxegal85z8wplfwsy8sfl97c4w6hu.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>(RPS838/26) LAVORI DI REALIZZAZIONE NUOVA AULA PLESSO SCOLASTICO GHIRLANDAIO E DIVISIONE DEL LOCALE DESTINATO A SERVICI IGIENICI - LIQUIDAZIONE SALDO LAVORI IMPRESA ROMANA APPALTI 2 RA2 DI LADISPOLI (CIG BCDC4B0F20 - AFFIDAMENTO G00380)</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1797736</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/1jn4apwd14kky4raeqbudcn8g9ddig45.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>APPROVAZIONE DELLE TARIFFE PER L'APPLICAZIONE DELL'IMPOSTA DI SOGGIORNO - ANNO 2027</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1796872</link>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1796872</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">06/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2949</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/u29trasnccz553p5t8p49anxogska441.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
