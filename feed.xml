@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 26 Oct 2026 12:36:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:35:52 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AFFIDAMENTO DIRETTO, AI SENSI DELL’ART.50, CO.1, LETT. B, DEL D.LGS. N.36/2023 MEDIANTE PIATTAFORMA TELEMATICA CERTIFICATA DI QUESTO ENTE “APPALTI &amp; CONTRATTI” ALLA SOCIETA’ DRAGSUB S.R.L.C.F./P.IVA 15240581007 PER L’ESECUZIONE DI CAROTAGGI PER CAMPIONAMENTO NEL COMUNE DI LADISPOLI (RM)-CIG: BD7A6426CE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1799381</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1799381</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">10/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2980</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/yv9g71gz9ulqg9c3602sxr7kz271lii4.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>(RPS846/26) VERIFICA REQUISITI OBBLIGATORI DELL'EDIFICIO E PRESENTAZIONE SCIA DI PREVENZIONE INCENDI AI SENSI DELL’ ART. 4 DEL D.P.R. 01/08/2011 N. 151 – BIBLIOTECA COMUNALE “PEPPINO IMPASTATO” - AFFIDAMENTO INCARICO PROFESSIONALE ALL'ING. ANDREA IANNOTTI DI LADISPOLI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1799213</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/lgtkp9llnm5qigqwrc55cks597r1yn0v.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE ALLEVAMENTO VALLE DI FAUL PER SPESE SERVIZIO CANILE - FATTURA NR. 76 DEL 21/10/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1797366</link>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1797366</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2960</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/7glq95a4tzh2dzo5augh2ebz43nev3kr.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
