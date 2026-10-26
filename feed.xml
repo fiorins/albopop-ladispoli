@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 26 Oct 2026 10:06:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 11:35:29 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONVOCAZIONE COMMISSIONE BILANCIO, PATRIMONIO E TRIBUTI.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1799110</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1799110</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">29/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2976</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/5qaub8vupumeix8mhxdjo395lw3ibahw.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>RETTE PER L'ACCOGLIENZA DI MINORI IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI - LIQUIDAZIONE DI SPESA IN FAVORE DELL'APS CHIARA E FRANCESCO – AGOSTO E SETTEMBRE 2026.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1798967</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">ORDINANZE</category>
       <enclosure url="https://app.box.com/shared/static/nuk8lmdc8w0atnaa5t1jn6q68q4obamr.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>MOZIONI INTERROGAZIONI ED INTERPELLANZE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1796925</link>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1796925</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">06/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2956</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI CONSIGLIO</category>
-      <enclosure url="https://app.box.com/shared/static/xb0spq6os54smgrhsdh3c9r6ubrn95s0.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 25]]></description>
     </item>
   </channel>
 </rss>
