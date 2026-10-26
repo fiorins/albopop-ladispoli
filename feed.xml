@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 24 Oct 2026 07:05:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:35:42 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>COLLOCAMENTO IN ASPETTATIVA SENZA ASSEGNI DI UN DIPENDENTE, PER LO SVOLGIMENTO DI UN INCARICO DIRIGENZIALE A TEMPO DETERMINATO AI SENSI DELL'ART. 110, COMMA 1 DEL D.LGS. N. 267/2000</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1798867</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1798867</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">10/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2970</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/l3b3b53of956pb8f7pubh1xipxijrhkm.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>STALLI DI SOSTA VIA S.REMO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1798522</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/nn2zmmr73ut2697pqbvlia4y0v2dh151.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>ATTO DI INDIRIZZO PER LA REALIZZAZIONE DELLA STAGIONE NATALIZIA 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1796895</link>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1796895</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">06/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2950</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/1jn4apwd14kky4raeqbudcn8g9ddig45.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
