@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 26 Oct 2026 11:35:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:36:09 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>(RPS846/26) VERIFICA REQUISITI OBBLIGATORI DELL'EDIFICIO E PRESENTAZIONE SCIA DI PREVENZIONE INCENDI AI SENSI DELL’ ART. 4 DEL D.P.R. 01/08/2011 N. 151 – BIBLIOTECA COMUNALE “PEPPINO IMPASTATO” - AFFIDAMENTO INCARICO PROFESSIONALE ALL'ING. ANDREA IANNOTTI DI LADISPOLI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1799213</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1799213</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">10/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2979</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/qnmw9cdi4jrmtfcbzadrjhqqv3qlj5v0.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA N. 7X04676789 DEL 10/10/2026 RIFERIMENTO AGOSTO SETTEMBRE 2026 - TIM SPA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1799210</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1799210</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">10/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2978</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/v9tjip2d6v55i1t8bycrco3wn65303wp.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>IMPEGNO E CONTESTUALE LIQUIDAZIONE CONTRIBUTO ISTAT DESTINATO ALL'U.C.C. E AI RILEVATORI – CENSIMENTO PERMANENTE DELLA POPOLAZIONE E DELLE ABITAZIONE EDIZIONE 2025</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1799207</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1799207</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">10/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2977</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/rn7qqxoe0v7w3bqky0l4ymn2e2w6d73a.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>CONVOCAZIONE COMMISSIONE BILANCIO, PATRIMONIO E TRIBUTI.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1799110</link>
@@ -238,45 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/7glq95a4tzh2dzo5augh2ebz43nev3kr.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>SERVIZIO DI INVIO MASSIVO PEO-PEC ANNO 2026 - LIQUIDAZIONE FATTURA MAGGIOLI S.P.A.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1797363</link>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1797363</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2959</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/9u83dk9q30g7b4nxpry1abcc7w3c3iui.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE A FAVORE DELLA SOCIETÀ MARIO DI COLA S.R.L. CORRISPONDENTE AL SAL 1 DEI LAVORI IN ESECUZIONE PER L'OPERA DI "RESTAURO CONSERVATIVO DEL COMPLESSO MONUMENTALE DI TORRE FLAVIA" - CUP E62I18000020001 - CIG A000894504;</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1797360</link>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1797360</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2958</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ylslzz7essno9x5jqlhy3oyz6ngyzmry.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ISTITUZIONE AREE DISABILI AD PERSONAM E GENERICHE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1796995</link>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1796995</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">22/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">06/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2957</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/nuk8lmdc8w0atnaa5t1jn6q68q4obamr.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
