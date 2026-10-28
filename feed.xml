@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 28 Oct 2026 08:36:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 09:06:17 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>IMPEGNO DI SPESA PER FORNITURA DI CANCELLERIA - TUTTOUFFICIO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1801009</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1801009</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2987</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/tdii9uxo1oj82wu7hkubk81wl44v6s0o.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE SOMMA IN FAVORE DELLA SOC. "SARA 94 SRL" PER IL SERVIZIO DI INUMAZIONE ESEGUITO IN FAVORE DI UN CITTADINO INDIGENTE - SIG.RA R.M.T</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1801006</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1801006</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2986</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/3jf9k2qun4leoi0zu2g18y5c10ogk6xr.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>SERVIZIO NOTIFICHE DIGITALI MEDIANTE PIATTAFORMA SEND – LIQUIDAZIONE FATTURA PAGOPA SPA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1801003</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1801003</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2985</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/njqayv0x3c0cbmodn9gxk14mondbe52h.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>NOMINA COMMISSIONE ESAMINATRICE DELLE ISTANZE DI CONTRIBUTI ECONOMICI PER IL SOSTEGNO A CITTADINI IN CONDIZIONI DI DISAGIO SOCIO – ECONOMICO -</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1800977</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/mef9127xtmutq30eslvlr45ttpue04ix.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LAVORI DI COMPLETAMENTO DEL NUOVO ASILO NIDO REALIZZATO IN ATTUAZIONE DELL'INTERVENTO PNRR M4 C1 I1.1 - LIQUIDAZIONE FATTURA N. 17 DEL 09/10/2026 DITTA “CARPENTIERI SIMONE” PER LA FORNITURA E POSA IN OPERA INFISSI INTERNI ED ESTERNI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1797733</link>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1797733</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2967</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/dmiyv3l51grv904ajzy0rqb3q3ll372j.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>(RPS 826/26) PROGETTO DI “RIQUALIFICAZIONE PARCHEGGIO PIAZZA FALCONE” - INCARICO PROFESSIONALE PER ASSISTENZA SPECIALISTICA AGRONOMICA A SUPPORTO DELLA ESECUZIONE DEI LAVORI - DOTT. AGRONOMO PAOLO PETRUZZI DI CERVETERI CIG BCF67E8268 - LIQUIDAZIONE A SALDO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1797730</link>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1797730</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2966</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/uawfx6mytm1ufmlz4mvt279pi76io1i9.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>DETERMINA DI AFFIDAMENTO, AI SENSI DELL’ART.50, CO.1, LETT. A, DEL D.LGS. N.36/2023 MEDIANTE PIATTAFORMA TELEMATICA CERTIFICATA DI QUESTO ENTE “APPALTI &amp; CONTRATTI”, DEL PROGETTO BLUE EXPERIENCE ALL'ASSOCIAZIONE MAR ETS - LEGGE REGIONALE N° 18 DEL 27/10/22 “PIANO STRAORDINARIO DI INTERVENTI SETTORIALI E INTERSETTORIALI PER LO SVILUPPO ECONOMICO E LA VALORIZZAZIONE TERRITORIALE DELL'ETRURIA MERIDIONALE “ATTUAZIONE DELLA D.G.R. N.221 DEL 16.4.2026. ANNUALITÀ 2026/2028 - CIG: BD7A121B47.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1797727</link>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1797727</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2965</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/haysmzo6dwcavf3a5nx2qtv6bc9jmwah.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
