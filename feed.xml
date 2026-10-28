@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 27 Oct 2026 12:35:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:36:19 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>NOMINA COMMISSIONE ESAMINATRICE DELLE ISTANZE DI CONTRIBUTI ECONOMICI PER IL SOSTEGNO A CITTADINI IN CONDIZIONI DI DISAGIO SOCIO – ECONOMICO -</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1800977</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1800977</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2984</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/xecjjq0ufnw4kage9zcy1d13k2vzs5jw.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA E LIQUIDAZIONE DELLE FATTURE COMPENSATE EMESSE DALLA SOC. GESTORE DEI SERVIZI ENERGETICI – GSE S.P.A., ASSOGGETTATE AL REGIME DELLO SPLIT PAYMENT AI SENSI DELL’ART. 17-TER DEL D.P.R. N. 633/1972.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1800974</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1800974</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2983</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/way0feqlcc65nle3tuya7u406ffax10t.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>DETERMINA A CONTRARRE, EX ART. 17, COMMA 1, D.LGS. 36/2023 PER L’INDIZIONE DI UNA PROCEDURA APERTA PER L‘AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO DI GESTIONE DELLA RISCOSSIONE COATTIVA DELLE SANZIONI AMMINISTRATIVE ELEVATE IN VIOLAZIONE ALLE NORME DEL CODICE DELLA STRADA E DI TUTTE LE ALTRE SANZIONI AMMINISTRATIVE IN GENERE PASSIBILI DI RISCOSSIONE DA PARTE DELLA POLIZIA LOCALE, NOMINA DEL SUPPORTO AL RUP E TRASMISSIONE ATTI ALLA S.O.S. DEL COMUNE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1800971</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1800971</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">28/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-2982</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/4vmdtpl8jqyc8ia1dpmm6q1hk292tdh8.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>NOMINA DIRETTORE DELLA BIBLIOTECA COMUNALE “PEPPINO IMPASTATO”.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1800355</link>
@@ -238,45 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/haysmzo6dwcavf3a5nx2qtv6bc9jmwah.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA A FAVORE DELLA SOC. HERA COMM SPA PER L'ATTIVAZIONE DELLA FORNITURA TEMPORANEA DI ENERGIA ELETTRICA PER EVENTI NATALIZI 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1797724</link>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1797724</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2964</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/jfeg33y6bdjgsxek3r9yrq111uydtxza.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA A FAVORE DELLA SOC. FORMULA SERVIZI PER PULIZIA STRAORDINARIA PRESSO L'ISTITUTO COMPRENSIVO CORRADO MELONE - PLESSO "LADISLAO ODESCALCHI"</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1797721</link>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1797721</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2963</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/1rn6imgiiji8lr3i0wjn62n8bbcbihfa.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>VARIAZIONE COMPENSATIVA TRA CAPITOLI DI SPESA APPARTENENTI ALLA STESSA MISSIO-NE, PROGRAMMA E MACROAGGREGATO, ANNUALITÀ 2026 - UFFICIO CULTURA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1797718</link>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1797718</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">23/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">07/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-2962</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/wk703v87fvrpxnnnevb61ejnft4u31fk.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
