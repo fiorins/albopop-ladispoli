@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 29 Oct 2026 15:35:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 16:35:43 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONCESSIONE CONTRIBUTO ECONOMICO IN FAVORE DELL'ASSOCIAZIONE PRO LOCO A.P.S. PER LA REALIZZAZIONE DELLA FESTA DI HALLOWEEN IN PROGRAMMA IL 31 OTTOBRE 2026 PRESSO IL BOSCO DI PALO - ASSUNZIONE IMPEGNO DI SPESA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1802855</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1802855</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">29/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">13/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3034</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/apxcxjn1ew7jijwttfe7bu40rzhsfp6m.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>(RPS871/26) AFFIDAMENTO DIRETTO E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DELL'OPERATORE ECONOMICO SM EDILIZIA DI ALESSANDRO VECCHIOTTI DI LADISPOLI PER IL RIFACIMENTO PARZIALE DELLA IMPERMEABILIZZAZIONE DELLA COPERTURA DELLA SCUOLA CANDIDA ZARELLI DI VIA LAZIO A LADISPOLI (CIG BD94E46F70 - AFFIDAMENTO G00412)</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1802768</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">ORDINANZE</category>
       <enclosure url="https://app.box.com/shared/static/bo0ksg5nc5vbf8coce0qamidzykqlxop.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA DEL CONTRIBUTO ECONOMICO IN FAVORE DELLA PARROCCHIA SANTA MARIA DEL ROSARIO PER LA REALIZZAZIONE DELLA MANIFESTAZIONE DENOMINATA “FESTA DI SANTA MARIA DEL ROSARIO” ANNO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1802165</link>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1802165</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3014</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/hz7gaz1gh0g7uv29qjboag5cou711bhg.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
