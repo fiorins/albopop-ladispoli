@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 29 Oct 2026 11:38:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:35:49 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>PRESA D’ATTO DI RIPOSI GIORNALIERI PER ALLATTAMENTO AI SENSI DELL’ART. 39 DEL D.LGS. N. 151/2001 A FAVORE DI UNA DIPENDENTE. DETERMINAZIONI.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1802530</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1802530</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">29/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">13/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3025</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/068nnlzkww33834xx1krplyzov4sny6z.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>CONCESSIONE DEL PATROCINIO GRATUITO DEL COMUNE DI LADISPOLI E APPROVAZIONE DEL PROGETTO DENOMINATO “ANNIVERSARIO ROSSELLINI” IN PROGRAMMA PER L’ESTATE 2027.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1802318</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/9dvzc2z98pxr6og5s9ge1ujqikkltp87.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>PROCEDURA APERTA PER L‘AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO DI GESTIONE DELLA RISCOSSIONE COATTIVA DELLE SANZIONI AMMINISTRATIVE ELEVATE IN VIOLAZIONE ALLE NORME DEL CODICE DELLA STRADA E DI TUTTE LE ALTRE SANZIONI AMMINISTRATIVE IN GENERE PASSIBILI DI RISCOSSIONE DA PARTE DELLA POLIZIA LOCALE - APPROVAZIONE ATTI DI GARA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1802129</link>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1802129</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3005</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/xa1q7p38nni2rpdzwoqzsgp3nmpkfqrg.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
