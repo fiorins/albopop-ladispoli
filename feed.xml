@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 29 Oct 2026 14:37:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:35:50 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>(RPS871/26) AFFIDAMENTO DIRETTO E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DELL'OPERATORE ECONOMICO SM EDILIZIA DI ALESSANDRO VECCHIOTTI DI LADISPOLI PER IL RIFACIMENTO PARZIALE DELLA IMPERMEABILIZZAZIONE DELLA COPERTURA DELLA SCUOLA CANDIDA ZARELLI DI VIA LAZIO A LADISPOLI (CIG BD94E46F70 - AFFIDAMENTO G00412)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1802768</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1802768</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">29/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">13/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3033</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/t4j2f4jztyfsua279uuwcsb5wmifpvrh.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>AFFIDAMENTO INCARICO DI DIRETTORE OPERATIVO E COORDINATORE DELLA SICUREZZA IN FASE DI ESECUZIONE DEI LAVORI DI DIFESA COSTIERA NEL TERRITORIO DEL COMUNE DI LADISPOLI (RM) RELATIVI AL TRATTO DI LITORALE COMPRESO TRA TORRE FLAVIA E MARINA DI PALO LAZIALE A FAVORE DELLA SOC. INGEGNERI POLITO S.R.L.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1802627</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/hz7gaz1gh0g7uv29qjboag5cou711bhg.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>DISIMPEGNO E CONTESUALE IMPEGNO DI SPESA PER RETTE RICOVERO DI MINORI IN ISTITUTO - 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1802162</link>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1802162</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3013</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/la2c9wiw9xtlmcehi88kki17ztu60a6t.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
