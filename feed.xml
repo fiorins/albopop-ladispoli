@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 30 Oct 2026 12:38:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 13:05:42 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>IMPEGNO DI SPESA PER ACQUISTO DI BUSTE E CARTONCINI - ARTI GRAFICHE LAURIA S.N.C.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1803980</link>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1803980</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">14/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3046</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/krmlz6emx4f2dq1mi4i05bk7sgebjjqd.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>OPERE DI “RIQUALIFICAZIONE FUNZIONALE E URBANA, MESSA IN SICUREZZA, ACCESSIBILITÀ E MOBILITÀ SOSTENIBILE DI VIA SETTEVENE PALO (TRATTO SS1 AURELIA - ROTATORIA D'INGRESSO) A LADISPOLI” CUP E61J26000400004 - APPROVAZIONE DOCUMENTI DI INDIRIZZO ALLA PROGETTAZIONE (DIP) ART. 41 E ALL. 7 SEZ. 1 ART 3 D.LGS 36/23 ESSMMII, ATTO DI INDIRIZZO E CONTESTUALE NOMINA R.U.P.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1803953</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/qac3ganmy54dx2oc9hig3y8wmlmupgy4.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DI PAGOPA PIATTAFORMA SEND FATTURA N. 5226036164 DEL 20/10/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1802596</link>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1802596</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3026</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/3xtoc9istfgscs5m8tr6y9u9rci0z07h.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
