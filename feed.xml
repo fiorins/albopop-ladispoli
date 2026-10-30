@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 30 Oct 2026 09:36:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:35:33 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONVOCAZIONE CONSIGLIO COMUNALE_04.11.2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1803598</link>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1803598</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">30/10/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">04/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3041</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/ytfsenx06wbpvdid23b009jklz3a5wdt.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>APPALTO INTEGRATO DELL'OPERA DENOMINATA “INTERVENTO DI DIFESA COSTIERA NEL TRATTO DI LITORALE COMPRESO TRA TORRE FLAVIA E MARINA DI PALO” – CUP E69H18000000002 - LIQUIDAZIONE DELL'ANTICIPAZIONE DEL 20% DELL'IMPORTO LAVORI</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1803531</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/bzzj5ojkmtplkh8ftg3yzmz34j959htt.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>CONCESSIONE PATROCINIO ONEROSO E CONCESSIONE PER L'UTILIZZO TEMPORANEO E GRATUITO DELLA PALESTRA ANNESSA ALL’I.C. CORRADO MELONE DENOMINATA “C. MELONE” ALL’ASSOCIAZIONE ASD BASKET CITTÀ DI LADISPOLI PER LO SVOLGIMENTO DI ATTIVITÀ SPORTIVE RELATIVE AL PROGETTO “BASKIN”.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1802309</link>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1802309</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3021</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/w6stp5oz2zjwziue7jgthgn69d2yfjvj.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
