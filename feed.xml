@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 03 Nov 2026 10:35:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 15:06:25 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RINNOVO POLIZZE ASSICURATIVE AUTOMEZZI COMUNALI DI PROPRIETA' - CIG BD874ADE38</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1806246</link>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1806246</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">03/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">18/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3060</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/9rtlxe50xegsjfndksfigyjnfhwwichn.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA PER FORNITURA DI ARREDI PER CENTRO DI AGGREGAZIONE GIOVANILE - SOC. MONDOFFICE SRL CIG BD99174FAD</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1806243</link>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1806243</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">03/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">18/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3059</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/inqx5mtc19kj0qegm764bafi88rsu9ra.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>AFFIDAMENTO DIRETTO EX ART. 50, COMMA 1, LETT. B) D.LGS. 36/2023 E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DELL’OPERATORE ECONOMICO ALICE LOPEDOTE PER IL SERVIZIO DI PRESENTAZIONE DI EVENTI E SPETTACOLI TURISTICI 2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1806240</link>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1806240</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">03/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">18/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3058</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/eo5c4ndyfguv1yaxhsmajsk517z28r5o.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>(RPS860/26) LIQUIDAZIONE IN FAVORE DELL'OPERATORE ECONOMICO SUPERALL 2000 - K&amp;P SRLS DI LADISPOLI PER LA FORNITURA E INSTALLAZIONE DI INFERRIATE DI FERRO IMMOBILE COMUNALE SITO IN VIA VILNIUS A LADISPOLI (CIG BBD1057AFA - AFFIDAMENTO G00280)</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1805680</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/ytfsenx06wbpvdid23b009jklz3a5wdt.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>APPALTO INTEGRATO DELL'OPERA DENOMINATA “INTERVENTO DI DIFESA COSTIERA NEL TRATTO DI LITORALE COMPRESO TRA TORRE FLAVIA E MARINA DI PALO” – CUP E69H18000000002 - LIQUIDAZIONE DELL'ANTICIPAZIONE DEL 20% DELL'IMPORTO LAVORI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1803531</link>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1803531</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">30/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">14/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3040</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/gv5m8379ffpksfzhxezpea32ckr8wkkx.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>AFFIDAMENTO ALLA SOC. EDIL SERVICE SRL DEI LAVORI PER "INTERVENTO DI EFFICIENZA ENERGETICA E REALIZZAZIONE DI SISTEMI DI PRODUZIONE DI ENERGIA DA FONTI RINNOVABILI NELL'I.C. LADISPOLI I, PLESSO "ROSARIO LIVATINO" DEL COMUNE DI LADISPOLI (RM)" - CUP: E64D25000400008” – LIQUIDAZIONE ACCONTO 20%</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1803475</link>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1803475</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">30/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">14/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3039</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/7q4u9c1pbico46eibiqnrpulv6oishsv.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>AFFIDAMENTO DEL SERVIZIO PER L'AUTONOMIA E LA COMUNICAZIONE A SOSTEGNO DEGLI ALUNNI DISABILI RESIDENTI NEL COMUNE DI LADISPOLI, FREQUENTANTI LE SCUOLE DELL'INFANZIA, PRIMARIE E SECONDARIE DI PRIMO GRADO, OEPAC (EX AEC) AL RTI CASSIAVASS MANDATARIA – INCREMENTO IMPEGNO E QUANTIFICAZIONE NUMERO DI ORE PREVISTE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1803472</link>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1803472</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">30/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">14/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3038</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/gceox25rityx8rq6c5ufeqmh1qbxdxa0.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
