@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 30 Oct 2026 17:06:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:35:42 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A PILO ROBERTO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1805249</link>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1805249</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">03/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">11/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3051</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/1qf1230f3xrnx9c21kzx3j6xfoipizee.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A BURGHESU MARIA GIOVANNA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1805247</link>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1805247</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">03/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">11/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3050</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/2ymwweaf9kl3h6xc10i29vz4vx4aaqae.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>CHIUSURA TEMPORANEA STRADA PER CADUTA CAVI TELECOM</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1804183</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/f8c5lxm65qiocc6m1je4wtsh14eifdu5.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA N.1 DEL 28/10/2026 DELLA SOC. LADIS IV S.R.L., P.I. E C.F. N.10573861001, RELATIVA ALL'ACQUISTO DEL TERRENO SITO IN LADISPOLI “PARCO PUBBLICO - BOSCO DI PALO LAZIALE”.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1802622</link>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1802622</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3031</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/xc7oltvxvswa3kf4g2yyo26gbcuoec7l.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>(RPS 835/26) PROGETTO DI “RIQUALIFICAZIONE DEL LUNGOMARE DI LADISPOLI - ATTUAZIONE DELLA D.G.R. N. 943 DEL 15/11/2024 “FONDO STRAORDINARIO PER LO SVILUPPO ECONOMICO DEL LITORALE LAZIALE” TRIENNIO 2024/2026” - LIQUIDAZIONE A SALDO PER ASSISTENZA SPECIALISTICA AGRONOMICA A SUPPORTO DELLA ESECUZIONE DEI LAVORI - DOTT. AGRONOMO PAOLO PETRUZZI DI CERVETERI CIG BCF2E69FE3</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1802609</link>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1802609</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">29/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3030</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/xl6f5qz0zdisp8yf9e8h9ue3mwwkoa93.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
