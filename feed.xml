@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 04 Nov 2026 14:05:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 16:36:25 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE FATTURA N. 2026S3001803 DEL 29/10/2026 - PROCED SRL</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1809009</link>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1809009</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3072</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/2cusbd2kko05vec5g1hzwl0wjbndmbwn.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>(RPS858/26) INCARICO PROFESSIONALE RELATIVO A INTERVENTI DI ABBATTIMENTO DELLE BARRIERE ARCHITETTONICHE NEI PLESSI SCOLASTICI COMUNALI - P.E.B.A. - PROGETTAZIONE ESECUTIVA, DIREZIONE LAVORI E COORDINAMENTO SICUREZZA IN FASE DI ESECUZIONE - LIQUIDAZIONE IN ACCONTO - ING. ANDREA IANNOTTI DI LADISPOLI - CIG B78C6A2E8D</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1809005</link>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1809005</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3071</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/4nl43h1gxfwthojfezf2ftvcogq2ok4r.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>RIMBORSO DEL 50%, 2° SEMESTRE 2026, DELLA SPESA ANNUALE PER ONERI DERIVANTI DALLA CONVENZIONE REP.4667/2019 - MANUTENZIONE VERDE PUBBLICO CONSORZIO MARINA DI SAN NICOLA -</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1809000</link>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1809000</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3070</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/uhenfwu3seow54hwlw8jshqdb23y8fzr.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>SELEZIONE PER LA PROGRESSIONE TRA LE AREE, AI SENSI DELL’ART. 13 COMMA 6 DEL CCNL 16/11/2022 E DALL’ART. 12 C. 1 DEL CCNL 23/02/2026, PER TITOLI, RISERVATA AL PERSONALE DELLA POLIZIA LOCALE DEL COMUNE DI LADISPOLI PER LA COPERTURA DI N. 1 POSTO DI “FUNZIONARIO” – AREA DEI FUNZIONARI E E.Q. (EX CATEGORIA D). APPROVAZIONE AVVISO.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1807230</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/1qf1230f3xrnx9c21kzx3j6xfoipizee.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A BURGHESU MARIA GIOVANNA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1805247</link>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1805247</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">03/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">11/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3050</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/2ymwweaf9kl3h6xc10i29vz4vx4aaqae.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>CHIUSURA TEMPORANEA STRADA PER CADUTA CAVI TELECOM</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1804183</link>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1804183</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">30/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">14/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3049</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/exm6qsbf6b636zzwifuxwrhcpp880twb.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>DIVIETO DI SOSTA PER INTERVENTI POTATURE ALBERATURE GIARDINI PIAZZA MATTEOTTI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1804054</link>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1804054</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">30/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">14/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3048</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/rs37c9eyzxwnk7nu2dyowng91cgfkbck.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
