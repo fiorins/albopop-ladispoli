@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 04 Nov 2026 12:36:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 14:05:54 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>SELEZIONE PER LA PROGRESSIONE TRA LE AREE, AI SENSI DELL’ART. 13 COMMA 6 DEL CCNL 16/11/2022 E DALL’ART. 12 C. 1 DEL CCNL 23/02/2026, PER TITOLI, RISERVATA AL PERSONALE DELLA POLIZIA LOCALE DEL COMUNE DI LADISPOLI PER LA COPERTURA DI N. 1 POSTO DI “FUNZIONARIO” – AREA DEI FUNZIONARI E E.Q. (EX CATEGORIA D). APPROVAZIONE AVVISO.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1807230</link>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1807230</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3069</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/isxw2ma9lqi1etxzh7hp7rlyc75jk6pd.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>APPROVAZIONE RELAZIONE E RENDICONTAZIONE DELLE SPESE SOSTENUTE AI SENSI DELLA DGR N.171 DEL 26/03/2026 E DELLA DETERMINAZIONE N. G04908 DEL 15/04/2026 - STAGIONE BALNEARE ESTATE 2026.ASSEGNAZIONE DI RISORSE ECONOMICHE AI 21 COMUNI DEL LITORALE E AI 2 COMUNI ISOLANI DI PONZA E VENTOTENE</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1807052</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">ORDINANZE</category>
       <enclosure url="https://app.box.com/shared/static/rs37c9eyzxwnk7nu2dyowng91cgfkbck.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>ORDINANZA PER DIVIETO DI SOSTA FERMATA E TRANSITO LAVORI ITALGAS VIA A.TORRE FLAVIA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1804027</link>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1804027</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">30/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">14/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3047</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/0j1bzb87rh94ult2pk95nm3f991guamm.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
