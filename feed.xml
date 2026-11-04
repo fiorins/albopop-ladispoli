@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 03 Nov 2026 16:35:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 12:06:00 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RIU 121/2026 – “SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI NON DIFFERENZIATI EER 20.03.01 ‘SECCO RESIDUO’ PRODOTTI DAL COMUNE DI LADISPOLI, NEL PERIODO 01/01/2027 – 31/12/2027” – MODIFICA PARZIALE DELLA DETERMINAZIONE DIRIGENZIALE N. 2367 DEL 27/10/2026 IN ORDINE ALLA PROCEDURA DI AFFIDAMENTO.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1806958</link>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1806958</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3065</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/fu64lh0ix7erf0ezin05avd6rn0ckk88.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>OCCUPAZIONE SUOLO PUBBLICO COND. VIA DEL MARE 10</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1806955</link>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1806955</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">04/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">19/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3064</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/5ipd89rteui0koqk7osbwg3o8p5q4pvo.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>CONTRIBUTI ECONOMICI SOGGETTI INDIGENTI - COMMISSIONE 30.10.2026 - IMPEGNO SOMMA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1806310</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/q7u1nd30ve7wuw7s82id5ft04fsrn27q.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 18]]></description>
-    </item>
-    <item>
-      <title>OPERE DI “RIQUALIFICAZIONE AREE SPORTIVE ALL’APERTO: SKATEPARK E CAMPO DA CALCETTO DI VIA FIRENZE, PATTINODROMO COMUNALE DI VIA CANOVA E PALAZZETTO DELLO SPORT “PALA SORBO” A LADISPOLI” CUP E65B26000530004 - APPROVAZIONE DOCUMENTI DI INDIRIZZO ALLA PROGETTAZIONE (DIP) ART. 41 E ALL. 7 SEZ. 1 ART 3 D.LGS 36/23 ESSMMII E CONTESTUALE NOMINA R.U.P.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1803947</link>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1803947</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">30/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">14/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3043</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/ph9l3jurv1b23du62q1n2vedw1hnmmoc.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>INTERDIZIONE TEMPORANEA DELL'ACCESSO AI GIARDINI E ALLE AREE DI SOSTA SOTTOSTANTI LE ALBERATURE DI PINO DI PIAZZA MATTEOTTI PER MOTIVI DI PUBBLICA INCOLUMITÀ.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1803901</link>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1803901</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">30/10/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">14/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3042</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/rlrlqy55o3d7rkspoi8go6pad8spl5gn.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
