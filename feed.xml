@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 05 Nov 2026 14:35:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 16:37:19 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,84 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DI MCTC PER VISURE TERZO TRIMESTRE 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1813581</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1813581</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3089</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/uxderu3c0nrxivsb0vtc3rz3lqen6g6a.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DI VARI CITTADINI PER SOMME ERRONEAMENTE VERSATE AGOSTO-SETTEMBRE 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1813578</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1813578</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3088</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/8g8egvk813dcs4g16lkn6e2ymih739lv.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELL'ASSOCIAZIONE DI PROTEZIONE CIVILE AVALON - CONTRIBUTO SETTEMBRE E OTTOBRE ANNUALITA' 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1813575</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1813575</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3087</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/in5yhgpn6igc7s2tbr53fmgvx4xrp9za.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELL'ASSOCIAZIONE VERDE SPERANZA - CONTRIBUTO SETTEMBRE E OTTOBRE ANNUALITA' 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1813572</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1813572</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3086</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/zl4lbom07n239bamj6us2v0gzm8gim9b.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELL'ASSOCIAZIONE NAZIONALE POLIZIA DI STATO - CONTRIBUTO SETTEMBRE E OTTOBRE ANNO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1813569</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1813569</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3085</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/4dh91gsv7owuwq36242jxg2jk7sgad1y.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELL'ASSOCIAZIONE NAZIONALE CARABINIERI - CONTRIBUTO SETTEMBRE E OTTOBRE ANNO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1813566</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1813566</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">20/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3084</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/on7nwnhlukje1uz59edes81rty8jjizo.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>PROROGA DELL’INCARICO DEL NUCLEO DI VALUTAZIONE MONOCRATICO FINO AL TERMINE DEL MANDATO AMMINISTRATIVO DEL SINDACO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1813399</link>
@@ -200,84 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/uhenfwu3seow54hwlw8jshqdb23y8fzr.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>SELEZIONE PER LA PROGRESSIONE TRA LE AREE, AI SENSI DELL’ART. 13 COMMA 6 DEL CCNL 16/11/2022 E DALL’ART. 12 C. 1 DEL CCNL 23/02/2026, PER TITOLI, RISERVATA AL PERSONALE DELLA POLIZIA LOCALE DEL COMUNE DI LADISPOLI PER LA COPERTURA DI N. 1 POSTO DI “FUNZIONARIO” – AREA DEI FUNZIONARI E E.Q. (EX CATEGORIA D). APPROVAZIONE AVVISO.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1807230</link>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1807230</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3069</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/isxw2ma9lqi1etxzh7hp7rlyc75jk6pd.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>APPROVAZIONE RELAZIONE E RENDICONTAZIONE DELLE SPESE SOSTENUTE AI SENSI DELLA DGR N.171 DEL 26/03/2026 E DELLA DETERMINAZIONE N. G04908 DEL 15/04/2026 - STAGIONE BALNEARE ESTATE 2026.ASSEGNAZIONE DI RISORSE ECONOMICHE AI 21 COMUNI DEL LITORALE E AI 2 COMUNI ISOLANI DI PONZA E VENTOTENE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1807052</link>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1807052</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3068</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/qqk3d1clifnu4iob2cu7x8qn01mfvloa.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>REVOCA DELL'ORDINANZA SINDACALE N. 172 DEL 30/10/2026 RELATIVA ALL'INTERDIZIONE TEMPORANEA DELL'ACCESSO AI GIARDINI E ALLE AREE DI SOSTA SOTTOSTANTI LE ALBERATURE DI PINO DI PIAZZA MATTEOTTI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1807049</link>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1807049</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3067</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/0xqzx75gnp4fyds2t8ux9eekowre66e0.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>OCCUPAZIONE SUOLO PUBBLICO COND. VIA GIOVANNI RUSPOLI 73</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1807020</link>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1807020</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3066</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/ze2hg3cpr7y8g9k5mt4bz2u37sxlr3c6.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>RIU 121/2026 – “SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI NON DIFFERENZIATI EER 20.03.01 ‘SECCO RESIDUO’ PRODOTTI DAL COMUNE DI LADISPOLI, NEL PERIODO 01/01/2027 – 31/12/2027” – MODIFICA PARZIALE DELLA DETERMINAZIONE DIRIGENZIALE N. 2367 DEL 27/10/2026 IN ORDINE ALLA PROCEDURA DI AFFIDAMENTO.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1806958</link>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1806958</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3065</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/fu64lh0ix7erf0ezin05avd6rn0ckk88.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>OCCUPAZIONE SUOLO PUBBLICO COND. VIA DEL MARE 10</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1806955</link>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1806955</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3064</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/5ipd89rteui0koqk7osbwg3o8p5q4pvo.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
