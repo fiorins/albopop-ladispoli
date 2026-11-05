@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 04 Nov 2026 16:36:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 06:35:44 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,58 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO DI DUE ATTI A MOSCHETTI LAURA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1812594</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1812594</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">13/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3076</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/0dyv5d4aztsm0fwoz087zbt61vok2vkh.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A EREDI DI FUCILE RITA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1812592</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1812592</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">13/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3075</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/4ok2vr4l9vf2bi2ehxlb47y79fhc0klj.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A ALBANO MASSIMO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1812590</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1812590</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">13/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3074</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/la34dlwchame8857zrfraouvf69dkwl2.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A RUGGIERO LUIGI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1812588</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1812588</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">05/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">13/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3073</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/3w1h5vd5ov9xsrycdv2eehfld7mc9aur.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE FATTURA N. 2026S3001803 DEL 29/10/2026 - PROCED SRL</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1809009</link>
@@ -226,58 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/hrut793b88x6c9v2w1w9c4io5hif3ywe.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE NOTA DI RIMBORSO N.3/2026 EMESSA DALLA CARTOLIBRERIA CARTELLE DI RITA ELENA CON SEDE IN VIA ROMA 102 – LADISPOLI – CODICE FISCALE RTILNE65M64H501Y PER LA FORNITURA DEI LIBRI DI TESTO AGLI ALUNNI DELLE SCUOLE PRIMARIE ANNO SCOLASTICO 2025/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1805289</link>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1805289</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">03/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">18/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3054</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/6fo030tw43ksebok6q3e4yulpc9avear.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE NOTA DI RIMBORSO N.1/2026 EMESSA DALLA CARTOLIBRERIA “PUNTO CARTA DI DE DONNO MONICA”, CON SEDE IN VIA SETTEVENE PALO, N. 60 CERVETERI – CODICE FISCALE DDNMNC63C46H501W - - PARTITA IVA 04810051005 PER LA FORNITURA DEI LIBRI DI TESTO AGLI ALUNNI DELLE SCUOLE PRIMARIE ANNO SCOLASTICO 2026/2027</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1805286</link>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1805286</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">03/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">18/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3053</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/j51v75itri30h31zvebcped7skjtowax.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI NOTIFICA A CARICO DI SERAFINI FRANCO COLLETTIVAMENTE ED IMPERSONALMENTE AGLI EREDI</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1805263</link>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1805263</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">03/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">11/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3052</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/6z299jfy1xcfh7rsh106zqpt4ybuxijz.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A PILO ROBERTO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1805249</link>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1805249</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">03/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">11/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3051</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/1qf1230f3xrnx9c21kzx3j6xfoipizee.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
 </rss>
