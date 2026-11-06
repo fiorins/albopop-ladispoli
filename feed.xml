@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 06 Nov 2026 09:35:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 11:05:47 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE INCENTIVI TECNICI DI CUI ALLA DETERMINAZIONE DIRIGENZIALE N. 1662 DEL 17/09/2025</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1814042</link>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1814042</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3094</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/vjtwpz5bquhbyq43y0elh83m2al39kts.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>CMRC-2026-0258311 - AVVISO PUBBLICO AI FINI DELLA DESIGNAZIONE DI DUE NOMINATIVI IN SENO ALLA COMMISSIONE DI RISERVA DELLA RISERVA NATURALE STATALE DEL LITORALE ROMANO.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1813852</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/4ok2vr4l9vf2bi2ehxlb47y79fhc0klj.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A ALBANO MASSIMO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1812590</link>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1812590</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">13/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3074</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/la34dlwchame8857zrfraouvf69dkwl2.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
