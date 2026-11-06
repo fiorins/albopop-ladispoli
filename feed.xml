@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 05 Nov 2026 16:37:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 08:06:15 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELL'ASSOCIAZIONE GUARDIE DI FARE AMBIENTE - CONTRIBUTO SETTEMBRE E OTTOBRE ANNUALITA' 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1813755</link>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1813755</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3092</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/6cmbkzcgei8zui5vswpdurpl4pr46dx2.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELLA SODI SCIENTIFICA PER CONTRATTO LUNGO NOLEGGIO MESI 36 DI 4 POSTAZIONI VELOX FISSE FATT. NR. 804/S DEL 30/10/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1813752</link>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1813752</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3091</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/mseh2ro2i6y0624r1iqaxdb3x5k7utr0.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>PERFEZIONAMENTO PROCEDURA DI ACQUISTO DEL "BOSCO DI PALO" – AFFIDAMENTO ATTIVITÀ NOTARILI E FISCALI. CIG. BDA6FB6966.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1813749</link>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1813749</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3090</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/i6krfikd4ra5eyhsd0736v40hl0swd5b.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DI MCTC PER VISURE TERZO TRIMESTRE 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1813581</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/3w1h5vd5ov9xsrycdv2eehfld7mc9aur.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA N. 2026S3001803 DEL 29/10/2026 - PROCED SRL</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1809009</link>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1809009</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3072</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/2cusbd2kko05vec5g1hzwl0wjbndmbwn.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>(RPS858/26) INCARICO PROFESSIONALE RELATIVO A INTERVENTI DI ABBATTIMENTO DELLE BARRIERE ARCHITETTONICHE NEI PLESSI SCOLASTICI COMUNALI - P.E.B.A. - PROGETTAZIONE ESECUTIVA, DIREZIONE LAVORI E COORDINAMENTO SICUREZZA IN FASE DI ESECUZIONE - LIQUIDAZIONE IN ACCONTO - ING. ANDREA IANNOTTI DI LADISPOLI - CIG B78C6A2E8D</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1809005</link>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1809005</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3071</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/4nl43h1gxfwthojfezf2ftvcogq2ok4r.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RIMBORSO DEL 50%, 2° SEMESTRE 2026, DELLA SPESA ANNUALE PER ONERI DERIVANTI DALLA CONVENZIONE REP.4667/2019 - MANUTENZIONE VERDE PUBBLICO CONSORZIO MARINA DI SAN NICOLA -</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1809000</link>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1809000</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">04/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">19/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3070</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/uhenfwu3seow54hwlw8jshqdb23y8fzr.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
