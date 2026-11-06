@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 06 Nov 2026 12:37:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 13:06:11 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,58 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE FATTURA N.635 DEL 02/11/2026 - DITTA SARA'94 - P.I. IT04793501000, CON SEDE A BRACCIANO - AFFITTO PLESSO SCOLASTICO DENOMINATO “ILARIA ALPI” SITO IN VIA PRAGA.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1814418</link>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1814418</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3108</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/vuxhkkjsmxiwwcbg6fmpquqlrp58qqki.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE CONTRIBUTI ECONOMICI SOGGETTI INDIGENTI - COMMISSIONE DEL 30.10.2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1814415</link>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1814415</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3107</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/ba1d32fvxl0knr99t73pmqiuuptzczyz.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE CANONE LUNGO NOLEGGIO VETTURE AUTOPARCO COMUNALE SOC. ALD AUTOMOTIVE ITALIA SRL MESE OTTOBRE 2026 LOTTI 1-2-3</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1814412</link>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1814412</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3106</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/sxsm1usq22ai1zzyvirb4t8zrbl2svku.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FORNITURA CARBURANTE PER LA TRAZIONE DEGLI AUTOMEZZI COMUNALI FATTURA N. 9601531563 DEL 31/10/2026 - IP PLUS SRL</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1814409</link>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1814409</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">06/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3105</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/ngec6lv690g14vbu7qk0xg3s73odv1tg.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE DI SPESA IN FAVORE DELLA “COOPERATIVA SOCIALE SOLIDARIETÀ” PER IL SERVIZIO DI ASSISTENZA EDUCATIVA SCOLASTICA A SOSTEGNO DELLE AUTONOMIE - OEPAC - EFFETTUATO NEL MESE DI SETTEMBRE 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1814380</link>
@@ -226,58 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/uxderu3c0nrxivsb0vtc3rz3lqen6g6a.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DI VARI CITTADINI PER SOMME ERRONEAMENTE VERSATE AGOSTO-SETTEMBRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1813578</link>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1813578</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3088</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/8g8egvk813dcs4g16lkn6e2ymih739lv.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELL'ASSOCIAZIONE DI PROTEZIONE CIVILE AVALON - CONTRIBUTO SETTEMBRE E OTTOBRE ANNUALITA' 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1813575</link>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1813575</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3087</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/in5yhgpn6igc7s2tbr53fmgvx4xrp9za.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELL'ASSOCIAZIONE VERDE SPERANZA - CONTRIBUTO SETTEMBRE E OTTOBRE ANNUALITA' 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1813572</link>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1813572</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3086</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/zl4lbom07n239bamj6us2v0gzm8gim9b.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELL'ASSOCIAZIONE NAZIONALE POLIZIA DI STATO - CONTRIBUTO SETTEMBRE E OTTOBRE ANNO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1813569</link>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1813569</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">05/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">20/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3085</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/4dh91gsv7owuwq36242jxg2jk7sgad1y.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
