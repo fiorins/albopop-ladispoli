@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 09 Nov 2026 08:06:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:06:02 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DECISIONE A CONTRARRE E AFFIDAMENTO - D.LGS. 36/2023, ART. 50 COMMA 1 LETT. B) - MEDIANTE ORDINATIVO DI ESECUZIONE IMMEDIATA SUL MEPA PER LA FORNITURA PER LA FORNITURA DI COMPUTER PER IL CENTRO DI AGGREGAZIONE GIOVANILE. CIG BDB0C22EBF.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1815244</link>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1815244</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">09/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">24/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3113</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/qsgi77q4ax0mwmemns1vyjim8lcdv640.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA PER FORNITURA DI SEDUTE OPERATIVE - CIG N BDAC7EA303</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1815241</link>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1815241</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">09/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">24/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3112</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/2q02kemqc122ud7s5d9t1n573d5k28ul.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE SPESE PER CONTENZIOSO - SENT. 766/2026 - R.G. 1927/2024</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1815125</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/vjtwpz5bquhbyq43y0elh83m2al39kts.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>CMRC-2026-0258311 - AVVISO PUBBLICO AI FINI DELLA DESIGNAZIONE DI DUE NOMINATIVI IN SENO ALLA COMMISSIONE DI RISERVA DELLA RISERVA NATURALE STATALE DEL LITORALE ROMANO.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1813852</link>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1813852</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">28/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3093</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/cdm1r10j4rc3ihkt1i0dxknuocsnxhq2.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELL'ASSOCIAZIONE GUARDIE DI FARE AMBIENTE - CONTRIBUTO SETTEMBRE E OTTOBRE ANNUALITA' 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1813755</link>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1813755</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3092</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/6cmbkzcgei8zui5vswpdurpl4pr46dx2.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
