@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 09 Nov 2026 11:06:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 13:05:29 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>NOMINA ASSESSORE DELLA GIUNTA COMUNALE CON FUNZIONI DI VICESINDACO.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1815873</link>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1815873</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">09/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">24/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3115</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DECRETI</category>
+      <enclosure url="https://app.box.com/shared/static/d3p47853u4em9l40sk7dfpzav0l1ieso.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>PROCEDURA TELEMATICA APERTA PER L’AFFIDAMENTO IN CONCESSIONE MEDIANTE PARTENARIATO PUBBLICO PRIVATO (P.P.P.), ATTRAVERSO LA FORMULA DELLA FINANZA DI PROGETTO (PROJECT FINANCING) AI SENSI DEGLI ARTT. 193-198 DEL D.LGS 31 MARZO 2023 N. 36 “CODICE DEI CONTRATTI PUBBLICI”, PER LA COSTRUZIONE E LA GESTIONE FUNZIONALE ED ECONOMICA DI UNA NUOVA SCUOLA ELEMENTARE DEL COMUNE DI LADISPOLI - DETERMINA DI AGGIUDICAZIONE, EX ART. 17, COMMA 5, D.LGS. 36/23 E ADEMPIMENTI CONNESSI, PRESUPPOSTI E CONSEGUENTI ALLA STESSA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1815527</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/lsqipvm2b0udzzv2xnircqzwiyzzlpw5.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 5]]></description>
-    </item>
-    <item>
-      <title>PROROGA DELL’INCARICO DEL NUCLEO DI VALUTAZIONE MONOCRATICO FINO AL TERMINE DEL MANDATO AMMINISTRATIVO DEL SINDACO. IMPEGNO DI SPESA.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1814278</link>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1814278</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3095</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ujni385fl4eztaasrcz5zxplzezapk0u.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
