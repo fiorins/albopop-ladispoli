@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 10 Nov 2026 06:35:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:06:27 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,58 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>ASSUNZIONE IMPEGNO DI SPESA A FAVORE DEL COMUNE DI TREVIGNANO ROMANO PER LA GESTIONE DEL SISTEMA BIBLIOTECARIO CERETANO SABATINO – QUOTA PARTE DELLA BIBLIOTECA COMUNALE DI LADISPOLI “PEPPINO IMPASTATO” – VARIAZIONE COMPENSATIVA DI PEG</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1817155</link>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1817155</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">10/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">25/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3120</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/61lz4vm2d3r6sncv21o7df5h3wu0svex.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>ASSUNZIONE DEGLI IMPEGNI DI SPESA INERENTI PARTE DEL SALARIO ACCESSORIO ANNO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1817152</link>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1817152</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">10/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">25/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3119</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/lc7fq1x3fk5gz1966r15qbpmrcik9fgx.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>IMPEGNO SOMME AI FINI DEL RISARCIMENTO DANNI IN FAVORE DELLA SIG.RA G.M. – SINISTRO DEL 08/10/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1817149</link>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1817149</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">10/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">25/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3118</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/vmuhsjwtengzoa82dunbf1zl2bas7k9y.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>OGGETTO: BILANCIO DI PREVISIONE 2026- 2028 - APPLICAZIONE AVANZO VINCOLATO AI SENSI ART. 175 C QUATER LETTERA C) - ESERCIZIO 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1817146</link>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1817146</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">10/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">25/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3117</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/k1snz968bljhvf7j7e7u86tzgd3k72fg.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI A LISI GIUSEPPE</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1816227</link>
@@ -226,58 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/blqmexhxyd00ggb1xvhixx8z51v1gm9u.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>RETTE PER L'ACCOGLIENZA E L'OSPITALITÀ DI UN NUCLEO FAMILIARE IN STRUTTURE RESIDENZIALI E SEMIRESIDENZIALI - LIQUIDAZIONE DI SPESA IN FAVORE DI “FAMIGLIA IN CASA SRL” – OTTOBRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1814358</link>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1814358</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3100</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/jm7zmw4y04akgfxyzzh94qt90qigmypa.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELLA SOCIETÀ EVENTMENT SRL PER IL SERVIZIO DI SPETTACOLO A CARATTERE ARTISTICO IN PROGRAMMA NEL CALENDARIO DEGLI EVENTI ESTIVI, DENOMINATO “LADISPOLI LIVE”, EDIZIONE 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1814355</link>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1814355</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3099</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/5i6lcs734yzh7nru40jqaehoxpqnxl1k.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>BILANCIO DI PREVISIONE FINANZIARIO 2026/2028 VARIAZIONE DI CASSA (ART. 175, COMMA 5-BIS, LETT. D), D.LGS. N. 267/2000)</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1814310</link>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1814310</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3098</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/vwfzivumbi5w3q2qrv0s55qnrwpc9ztu.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>DIRETTIVA PER L’ESPLETAMENTO DI UNA PROCEDURA CONCORSUALE PREVISTA NELL’ALLEGATO 3 DEL PIANO INTEGRATO DI ATTIVITÀ E DI ORGANIZZAZIONE (PIAO) 2026-2028</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1814307</link>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1814307</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3097</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/bgauoa4kj3pbm2pfl9tgfcsqtbmzy77g.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
