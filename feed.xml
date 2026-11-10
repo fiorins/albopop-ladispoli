@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 09 Nov 2026 13:05:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 06:35:32 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A LISI GIUSEPPE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1816227</link>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1816227</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">10/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">18/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3116</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/a0kjqeh76612ser24na4ykt12nnekghd.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>NOMINA ASSESSORE DELLA GIUNTA COMUNALE CON FUNZIONI DI VICESINDACO.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1815873</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
       <enclosure url="https://app.box.com/shared/static/bgauoa4kj3pbm2pfl9tgfcsqtbmzy77g.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>CANONE PATRIMONIALE DI CONCESSIONE, AUTORIZZAZIONE O ESPOSIZIONE PUBBLICITARIA – CANONE PER LE PUBBLICHE AFFISSIONI – CANONE ''MERCATI'' – CONFERMA TARIFFE E COEFFICIENTI MOLTIPLICATORI - ANNO 2027</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1814304</link>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1814304</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3096</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/lsqipvm2b0udzzv2xnircqzwiyzzlpw5.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
     </item>
   </channel>
 </rss>
