@@ -117,6 +117,10 @@ def upload_to_box_folder(client, attachments, registry, all_items):
         subfolder_id = "0"
 
     for index, attachment in enumerate(attachments):
+        delay = random.uniform(2.5, 4.5)
+        print(f"Waiting for {delay:.2f} seconds before attachment request...")
+        time.sleep(delay)  # pauses for a random float between 2.5 and 4.5 seconds
+
         try:
             # Use sanitized original filename from the page, with index suffix
             base_name = attachment["filename"].rsplit(".", 1)[0]  # strip extension
@@ -137,17 +141,13 @@ def upload_to_box_folder(client, attachments, registry, all_items):
 
             # print(f"Uploaded extra attachment {index + 1}: {registry}")
 
-            delay = random.uniform(2.5, 4.5)
-            print(f"Waiting for {delay:.2f} seconds before next request...\n")
-            time.sleep(delay)  # pauses for a random float between 2.5 and 4.5 seconds
-
         except Exception as e:
             error_msg = getattr(e, "message", str(e))
             print(f"Error uploading attachment {index + 1} for {registry}: {error_msg}")
             continue
 
     if files_id:
-        print(f"Uploaded extra attachments ({len(files_id)} tot) for {registry}\n")
+        print(f"Extra attachments uploaded ({len(files_id)} tot) for {registry}\n")
     return subfolder_id, files_id
 
 
