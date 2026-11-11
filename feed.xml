@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 11 Nov 2026 12:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 16:05:49 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>OCCUPAZIONE SUOLO PUBBLICO COND. VIA BARI 13</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1818347</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1818347</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3132</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/ilpvfob8nw7dx613upg039edvzikf1zx.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>REGOLAMENTO DI ATTUAZIONE DELL'ARTICOLO 21, COMMA 6 LETTERE A), B), C), D), G), H) ED I) DELLA LEGGE REGIONALE 22 OTTOBRE 2018 N. 7 (DISPOSIZIONI PER LA SEMPLIFICAZIONE E LO SVILUPPO REGIONALE) IN MATERIA DI CONDUZIONE, MANUTENZIONE, CONTROLLO E ISPEZIONE DEGLI IMPIANTI TERMICI E DEL SUCCESSIVO REGOLAMENTO REGIONALE N.30 DEL 23-12-20</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1818027</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/qsgi77q4ax0mwmemns1vyjim8lcdv640.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA PER FORNITURA DI SEDUTE OPERATIVE - CIG N BDAC7EA303</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1815241</link>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1815241</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">09/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">24/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3112</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/2q02kemqc122ud7s5d9t1n573d5k28ul.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
