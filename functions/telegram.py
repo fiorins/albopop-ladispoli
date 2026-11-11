@@ -29,23 +29,50 @@ def escape(text):
 
 def send_with_rate_limit(send_func, *args, max_retries=5, **kwargs):
     for attempt in range(max_retries):
-        resp = send_func(*args, **kwargs)
+        attempt_num = attempt + 1
+        try:
+            resp = send_func(*args, **kwargs)
+        except requests.exceptions.RequestException as e:
+            print(f"Attempt {attempt_num}/{max_retries}: Network error: {e}")
+            resp = None
 
         if resp is None:
-            print(f"Attempt {attempt}: Function returned None.")
-            return False
+            print(f"Attempt {attempt_num}/{max_retries}: No response.")
+
+            if attempt_num < max_retries:
+                wait_time = min(2**attempt_num, 30)
+                print(f"Retrying in {wait_time}s...")
+                time.sleep(wait_time)
+                continue
+
+            break
 
         if resp.status_code == 200:
             time.sleep(TIME_DELAY)
             return resp
 
         if resp.status_code == 429:
-            retry_after = resp.json().get("parameters", {}).get("retry_after", 5)
+            try:
+                retry_after = int(
+                    resp.json().get("parameters", {}).get("retry_after", 5)
+                )
+            except (ValueError, TypeError):
+                retry_after = 5
+
             print(
-                f"Rate limit (Attempt {attempt}/{max_retries}). Wait {retry_after}s..."
+                f"Rate limit (Attempt {attempt_num}/{max_retries}). Wait {retry_after}s..."
             )
             time.sleep(retry_after + 1)
             continue
+
+        if 500 <= resp.status_code < 600:
+            print(f"Telegram server error: {resp.status_code}")
+
+            if attempt_num < max_retries:
+                time.sleep(min(2**attempt_num, 30))
+                continue
+
+            break
 
         print(f"Telegram error on attempt {attempt}: {resp.status_code} {resp.text}")
         return None
@@ -132,7 +159,7 @@ def send_telegram_msg(meta: dict, file_bytes=None, filename=None):
             }
             files = {"document": (filename, file_bytes, "application/pdf")}
             url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendDocument"
-            response = requests.post(url, data=payload, files=files)
+            response = requests.post(url, data=payload, files=files, timeout=(10, 60))
         else:
             # Send as Text only
             caption = get_telegram_caption(meta, include_header=True)
@@ -144,9 +171,9 @@ def send_telegram_msg(meta: dict, file_bytes=None, filename=None):
                 "disable_web_page_preview": True,
             }
             url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
-            response = requests.post(url, json=payload)
+            response = requests.post(url, json=payload, timeout=(10, 30))
 
-        if response.ok:
+        if response.ok:  # it's like response.status_code == 200
             print(f"Sent on Telegram item {meta['register']} ")
         else:
             print(
@@ -155,8 +182,8 @@ def send_telegram_msg(meta: dict, file_bytes=None, filename=None):
 
         return response
 
-    except Exception as e:
-        print(f"Telegram error for {meta['register']}: {e}")
+    except requests.exceptions.RequestException as e:
+        print(f"Telegram network error for {meta['register']}: {e}")
         return None
 
 
@@ -177,4 +204,4 @@ def send_missing_entries_alert(missing_entries):
     }
 
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
-    return requests.post(url, json=payload)
+    return requests.post(url, json=payload, timeout=(10, 30))
