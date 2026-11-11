@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 10 Nov 2026 16:35:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 07:35:47 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DD 2387/2026 DI AFFIDAMENTO INCARICO DI DIR.OP. E C.S.E. DEI LAVORI DI DIFESA COSTIERA NEL TERRITORIO DEL COMUNE DI LADISPOLI (RM) RELATIVI AL TRATTO DI LITORALE COMPRESO TRA TORRE FLAVIA E MARINA DI PALO LAZIALE A FAVORE DELLA SOC. INGEGNERI POLITO S.R.L. - RETTIFICA IMPEGNO DI SPESA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1817356</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1817356</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3122</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/0zqzhk5iskn1yn3ey9ybrj0hg99437zk.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>AFFIDAMENTO DIRETTO EX ART. 50, COMMA 1, LETT. B), DEL D.LGS. N. 36/2023 E IMPEGNO DI SPESA PER L'ACQUISIZIONE DELLA LICENZA D'USO ANNUALE E PER LA RIATTIVAZIONE DELLA PIATTAFORMA GESTIONALE CLOUD "NETLEX IN CLOUD" A SUPPORTO DELL'ATTIVITÀ DELL'AVVOCATURA COMUNALE - ANNUALITÀ 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1817190</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/mmk0ydwqayz8bndderkjlr21xd2ykxt5.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE CONTRIBUTO ECONOMICO IN FAVORE DEL CONSORZIO MARINA DI SAN NICOLA PER LA REALIZZAZIONE DELLA MANIFESTAZIONE DENOMINATA VERDESTATE 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1814368</link>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1814368</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3102</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/2lwmyay32c1xyiz0ms6px41ax7dyjnj4.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
