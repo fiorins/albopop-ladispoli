@@ -365,7 +365,7 @@ def process_single_entry(entry, box_client, box_items, box_item_names, session):
     if entry is None:
         return None
 
-    # 2. Process Extra Attachments (If they exist)
+    # 2. Process extra attachments (if they exist)
     entry = process_extra_attachments(entry, box_client, others_attachments, box_items)
 
     return entry

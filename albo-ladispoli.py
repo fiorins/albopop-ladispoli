@@ -88,7 +88,7 @@ def main():
 
     print(f"Previous run, old items list ({len(seen_list)} tot):\n" f"{seen_list}\n")
 
-    # 2. Scrape new entries (Passing the session)
+    # 3. Scrape new entries (Passing the session)
     # TO TEST COMMENT HERE:
     entries = scrape_entries_with_retry(seen, session)
     if entries is None:
@@ -124,6 +124,7 @@ def main():
         f"Actual run, new items list ({len(entries_list)} tot):\n" f"{entries_list}\n"
     )
 
+    # 4. Check missing registry entries
     missing_entries = find_missing_entries(seen, entries)
 
     if missing_entries:
@@ -138,14 +139,14 @@ def main():
             missing_entries,
         )
 
-    # 3. Initialize external services
+    # 5. Initialize external services
     box_client = get_box_client()
     sheet = init_sheet(current_year)
 
-    # 4. Fetch Google Sheet IDs once to avoid "Quota Exceeded" errors
+    # 6. Fetch Google Sheet IDs once to avoid "Quota Exceeded" errors
     existing_ids = set(sheet.col_values(4))
 
-    # 5. Fetch current Box inventory
+    # 7. Fetch current Box inventory
     box_items = get_box_items(box_client)
     # box_items_names = [entry.name for entry in box_items]
     box_items_names = {item.name for item in box_items}
@@ -155,7 +156,7 @@ def main():
     skipped_box = []
     uploaded_box = []
 
-    # 6. Process each entry (Download/Upload logic)
+    # 8. Process each entry (Download/Upload logic)
     # Fetch attachment from url and upload it on Box, process in reverse to safely skip entries
     for entry in entries:
 
@@ -189,11 +190,15 @@ def main():
         print("----- End log -----")
         return
 
-    # 7. Rebuild RSS Feed
+    # 9. Rebuild RSS Feed
     # Update RSS (pass all entries for full feed rebuild if needed)
     generate_rss(valid_entries)
 
-    # 8. Final Processing: Telegram and Google Sheets
+    # 10. Final Processing: Telegram and Google Sheets
+    completed_entries = 0
+    failed_telegram = []
+    failed_sheets = []
+
     # Send Telegram messages
     for entry in valid_entries:
         meta = {
@@ -215,7 +220,7 @@ def main():
             or f"allegato_atto_[{entry['registry']}].pdf",
         )
 
-        # 9. Mark as processed and save to Sheet
+        # 11. Mark as processed and save to Sheet
         # Mark as seen only after successful processing
         if sent_ok:
             # Store the Telegram message ID for reference
@@ -230,11 +235,36 @@ def main():
                 )  # We add it here so the NEXT entry in the loop knows this ID is now taken
                 seen.add(entry["registry"])  # Add the entry to the completed items list
 
-        # 10. Memory Management: Clear PDF data from RAM after use
+                # Increment successful processing counter
+                completed_entries += 1
+
+            else:
+                failed_sheets.append(entry["registry"])
+                print(f"Google Sheets save unsuccessful for {entry['registry']}")
+
+        else:
+            failed_telegram.append(entry["registry"])
+            print(f"Telegram delivery unsuccessful for {entry['registry']}")
+
+        # 12. Memory Management: Clear PDF data from RAM after use
         entry.pop("file_bytes", None)
 
     save_seen(seen)
-    print(f"\nProcessed {len(valid_entries)} new entries.")
+    # print(f"\nProcessed {len(valid_entries)} new entries.")
+    print(f"\nSuccessfully processed {completed_entries}/{len(valid_entries)} entries.")
+
+    if failed_telegram:
+        print(
+            f"Failed Telegram deliveries ({len(failed_telegram)} tot):\n{failed_telegram}"
+        )
+
+    if failed_sheets:
+        print(
+            f"Failed Google Sheets saves ({len(failed_sheets)} tot):\n{failed_sheets}"
+        )
+
+    if skipped_box:
+        print(f"Skipped existing Box entries ({len(skipped_box)} tot):\n{skipped_box}")
 
     print("----- End log -----")
 
