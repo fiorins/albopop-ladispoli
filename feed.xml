@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 11 Nov 2026 07:35:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 08:36:14 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE IN FAVORE DI RECRYTERA S.R.L. PER L’ACQUISTO DEL PRODOTTO “CANDIDATO GLOBAL SERVICE”. CIG BD1C290649. FATTURA N. FATT/2026/00600 DEL 31/10/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1817457</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1817457</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3125</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/d3uyyrxtok6psrzchfothy69psf0ubxm.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE IN FAVORE DI RECRYTERA S.R.L. PER IL SERVIZIO DI ORGANIZZAZIONE, GESTIONE E SVOLGIMENTO DI UN CONCORSO PUBBLICO IN MODALITÀ DIGITALE. CIG BCA212642B. FATTURA N. FATT/2026/00599 DEL 31/10/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1817454</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1817454</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3124</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/1bm5ky9fi9zzv1aw4jnc47w08j4p2ndj.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>COMPARTECIPAZIONE AL PAGAMENTO DELLA RETTA DI OSPITALITÀ PER IL RICOVERO DI N. 3 UTENTI PRESSO LA STRUTTURA RESIDENZIALE “PROGETTO 96” - LIQUIDAZIONE SOMMA PERIODO OTTOBRE 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1817451</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1817451</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">11/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">26/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3123</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/3ob5qltik4qut5ax4f4s5g75i1jpo0ji.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>DD 2387/2026 DI AFFIDAMENTO INCARICO DI DIR.OP. E C.S.E. DEI LAVORI DI DIFESA COSTIERA NEL TERRITORIO DEL COMUNE DI LADISPOLI (RM) RELATIVI AL TRATTO DI LITORALE COMPRESO TRA TORRE FLAVIA E MARINA DI PALO LAZIALE A FAVORE DELLA SOC. INGEGNERI POLITO S.R.L. - RETTIFICA IMPEGNO DI SPESA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1817356</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/sxsm1usq22ai1zzyvirb4t8zrbl2svku.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FORNITURA CARBURANTE PER LA TRAZIONE DEGLI AUTOMEZZI COMUNALI FATTURA N. 9601531563 DEL 31/10/2026 - IP PLUS SRL</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1814409</link>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1814409</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3105</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/ngec6lv690g14vbu7qk0xg3s73odv1tg.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELLA “COOPERATIVA SOCIALE SOLIDARIETÀ” PER IL SERVIZIO DI ASSISTENZA EDUCATIVA SCOLASTICA A SOSTEGNO DELLE AUTONOMIE - OEPAC - EFFETTUATO NEL MESE DI SETTEMBRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1814380</link>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1814380</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3104</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/brolcf5axtty50f243kbi2pz8izwk8qk.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA DEL CONTRIBUTO ECONOMICO IN FAVORE DELL'ASSOCIAZIONE CULTURALE “NUOVA LUCE” PER LA REALIZZAZIONE, IN COLLABORAZIONE CON L’AMMINISTRAZIONE COMUNALE, DELL’EVENTO DENOMINATO “FESTA DELLA SCUOLA” IN PROGRAMMA IL GIORNO 19 OTTOBRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1814373</link>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1814373</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">06/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">21/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3103</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/mmk0ydwqayz8bndderkjlr21xd2ykxt5.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
