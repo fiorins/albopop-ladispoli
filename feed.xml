@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 12 Nov 2026 07:05:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:35:54 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE INCENTIVI TECNICI DI CUI ALLA DETERMINAZIONE DIRIGENZIALE N. 1662 DEL 17/09/2025</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1818717</link>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1818717</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">12/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">27/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3135</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/ajkoz6wbop8h0s8lk85u4a8ac7oyai4r.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO DI DUE ATTI A B &amp; B AUTO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1818520</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/a0kjqeh76612ser24na4ykt12nnekghd.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>NOMINA ASSESSORE DELLA GIUNTA COMUNALE CON FUNZIONI DI VICESINDACO.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1815873</link>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1815873</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">09/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">24/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3115</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DECRETI</category>
-      <enclosure url="https://app.box.com/shared/static/d3p47853u4em9l40sk7dfpzav0l1ieso.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
