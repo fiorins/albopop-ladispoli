@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 12 Nov 2026 10:05:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 13:05:37 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>ANNULLAMENTO IN AUTOTUTELA DELL’AVVISO PUBBLICO PER LA PROGRESSIONE TRA LE AREE, AI SENSI DELL’ART. 13 COMMA 6 DEL CCNL 16/11/2022 E DALL’ART. 12, C. 1 DEL CCNL 23/02/2026, PER TITOLI, RISERVATA AL PERSONALE DELLA POLIZIA LOCALE DEL COMUNE DI LADISPOLI PER LA COPERTURA DI N. 1 POSTO DI “FUNZIONARIO” – AREA DEI FUNZIONARI E E.Q. (EX CATEGORIA D).</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1819104</link>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1819104</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">12/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">27/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3137</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/qh11j5wzk3wzti1yxp3t5sdb3k92gkyh.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI N. 2 ATTI NELLA CASA DEL COMUNE LADISPOLI - DINU VALENTINA RALUCA - PUDILIC TIBERIUS</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1818740</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/vmuhsjwtengzoa82dunbf1zl2bas7k9y.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>OGGETTO: BILANCIO DI PREVISIONE 2026- 2028 - APPLICAZIONE AVANZO VINCOLATO AI SENSI ART. 175 C QUATER LETTERA C) - ESERCIZIO 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1817146</link>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1817146</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">10/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">25/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3117</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/k1snz968bljhvf7j7e7u86tzgd3k72fg.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
