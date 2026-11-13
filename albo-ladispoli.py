@@ -121,7 +121,7 @@ def main():
     entries.sort(key=lambda entry: registry_sort_key(entry.get("registry", "")))
     entries_list = [entry.get("registry", "") for entry in entries]
     print(
-        f"Actual run, new items list ({len(entries_list)} tot):\n" f"{entries_list}\n"
+        f"Actual run, new items list ({len(entries_list)} tot):\n" f"{entries_list}"
     )
 
     # 4. Check missing registry entries

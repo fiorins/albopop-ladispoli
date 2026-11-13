@@ -206,7 +206,7 @@ def fetch_attachments(url, registry, session):
             None,  # fallback to first row
         )
         if main_row is None:
-            print(f"Warning: no main document found for {registry}, using first row\n")
+            print(f"\nWarning: no main document found for {registry}, using first row")
             main_row = attachment_rows[0]
 
         main_data = get_row_data(main_row)
