@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 13 Nov 2026 08:07:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 08:36:30 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>APPROVAZIONE DEL PROGETTO DEL SERVIZIO DI GESTIONE INTEGRATA DEI RIFIUTI URBANI NEL TERRITORIO DEL COMUNE DI LADISPOLI PER LA DURATA DI ANNI SETTE - AFFIDAMENTO DEL SERVIZIO DA ESPLETARSI ATTRAVERSO GARA DI APPALTO AD EVIDENZA PUBBLICA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1820189</link>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1820189</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">13/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">28/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3165</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/nnwkssmnsolp8y0kxux1xmbdwjt2i6f7.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 10]]></description>
+    </item>
     <item>
       <title>CONCESSIONE PATROCINIO ONEROSO IN FAVORE DELL’ASSOCIAZIONE ASD BASKET CITTÀ DI LADISPOLI PER LA REALIZZAZIONE DELL’EVENTO SPORTIVO RELATIVO AL PROGETTO “BASKIN”, NELLA GIORNATA DI SABATO 14 NOVEMBRE 2026, PRESSO LA PALESTRA ANNESSA ALL’I.C. CORRADO MELONE DENOMINATA “C. MELONE”.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1820095</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/t6cvsh5ttd6jhn0xk99akyle4h8angb1.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>DECISIONE DI CONTRARRE, CONTESTUALE AFFIDAMENTO DIRETTO MEDIANTE ORDINE DIRETTO DI ACQUISTO SUL MEPA ALLA SOCIETÀ BLADE INFORMATICA S.R.L. DEI SERVIZI DELLA PIATTAFORMA CLOUD NINJAONE PER LA GESTIONE E IL MONITORAGGIO CENTRALIZZATO DELL’INFRASTRUTTURA IT COMUNALE E IMPEGNO DI SPESA SUGLI ESERCIZI 2026, 2027 E 2028</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1819679</link>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1819679</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">12/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">27/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3145</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/8ny7cp9ds4893h725hko2qd7m55l7p5n.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 6]]></description>
     </item>
   </channel>
 </rss>
