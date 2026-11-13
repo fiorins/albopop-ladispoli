@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 13 Nov 2026 13:35:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 19:05:44 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DIVIETO DI SOSTA AREA CIRCOSTANTE IL MONUMENTO IN PIAZZA DEI CADUTI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1820988</link>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1820988</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">13/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">28/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3174</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/jdwx0ieddw6gsvsjgrbqfqkcrdobg20g.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>RICHIESTA CHIUSURA P.LE ONOFRI PER MANIFESTAZIONE DI SICUREZZA STRADALE IL GIORNO 27/11/2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1820874</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/s62b47ggag9740jyvxj3z4194c47yt2j.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>AFFIDAMENTO CONFERIMENTO INCARICO PROFESSIONALE DI VERIFICA DEL PROGETTO ESECUTIVO E SUPPORTO AL RUP PER LA VALIDAZIONE DEL PROGETTO: “INTERVENTO DI DIFESA COSTIERA NEL TRATTO DI LITORALE COMPRESO TRA TORRE FLAVIA E MARINA DI PALO” - LIQUIDAZIONE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1819741</link>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1819741</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">12/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">27/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3154</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/jl72mpxg3kadqe40y44c4vutmqn2oalx.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
