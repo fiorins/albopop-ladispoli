@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 15 Nov 2026 06:05:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:36:09 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RIU 123/2026 – “SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI NON DIFFERENZIATI EER 20.03.01 ‘SECCO RESIDUO’ PRODOTTI DAL COMUNE DI LADISPOLI – MODIFICA PARZIALE IN AUTOTUTELA DELLE DETERMINAZIONI DIRIGENZIALI N. 2367 DEL 27/10/2026 E N. 2411 DEL 04/11/2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1821372</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1821372</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">16/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">01/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3177</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/j0p7m7htw1unfdq2a43w2xbtmgi1oq7e.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE CONTRIBUTO UNIFICATO TRIBUTARIO TRAMITE AVVISO PAGOPA – RICORSO IN CORTE DI CASSAZIONE DELLA SENTENZA N. 2241/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1821340</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1821340</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">16/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">01/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3176</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/7ckugnabwg4btx5j26pma9n7wvuc5scn.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>DIVIETO DI SOSTA AREA CIRCOSTANTE LA FONTANA IN PIAZZA DELLA VITTORIA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1821123</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/lv4l8chd9evr1ul3vgi9kmdgjjcucla8.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>DECISIONE A CONTRARRE E CONTESTUALE AFFIDAMENTO DIRETTO, AI SENSI DELL’ART. 50, COMMA 1, LETT. B), DEL D.LGS. 36/2023, DELLA FORNITURA DI ATTREZZATURE AUDIO E VIDEO E RELATIVI ACCESSORI PER LA REALIZZAZIONE DI PICCOLI EVENTI PRESSO IL TEATRO VANNINI DI LADISPOLI. ASSUNZIONE IMPEGNO DI SPESA. CIG BDA5EA2185</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1819750</link>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1819750</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">12/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">27/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3157</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/mu5a727z9i4e6n2cbwgc4a6yrg2is2h1.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>INTERVENTI DI EFFICIENZA ENERGETICA E REALIZZAZIONE DI SISTEMI DI PRODUZIONE DI ENERGIA DA FONTI RINNOVABILI NELL’I.C. LADISPOLI I, PLESSO “ROSARIO LIVATINO” – CUP E64D25000400008.RIMODULAZIONE DEL QUADRO ECONOMICO APPROVATO CON DETERMINAZIONE N. 2177 DEL 01/10/2026, FINALIZZATA ALLA RIPARAMETRAZIONE DELLE SOMME A DISPOSIZIONE POST AFFIDAMENTI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1819747</link>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1819747</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">12/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">27/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3156</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/5rlmus12ng80px512hm9d24x83tzd7bd.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
