@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 16 Nov 2026 12:37:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 09:05:28 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI NOTIFICA A CARICO DEL IL SIG. MILANI ALBERTO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1822187</link>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1822187</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">17/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">25/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3187</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/3jw1d9ywaqiye6fe5tkwxasvn0x9p24y.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>RIU 125/2026 - POTENZIAMENTO E INNOVAZIONE DELLA RACCOLTA DIFFERENZIATA DEI RIFIUTI URBANI DI CUI ALLA DELIBERAZIONE DI GIUNTA REGIONALE N.519/2023 - FINANZIAMENTO A VALERE SUL PR FESR LAZIO 2021-2027 - CODICE SIGEM A0788B0002 - AZIONE 2.6.2.E62F25000360006 - REALIZZAZIONE DEL CENTRO DEL RIUSO - AFFIDAMENTO DEL SERVIZIO DI COLLAUDATORE STATICO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1821670</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/wbpd2gwvpo71x0vdfy1xfvmuvwm5ox0l.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE A FAVORE DEL COMUNE DI TREVIGNANO ROMANO PER LA GESTIONE DEL SISTEMA BIBLIOTECARIO CERETANO SABATINO – QUOTA PARTE DELLA BIBLIOTECA COMUNALE DI LADISPOLI “PEPPINO IMPASTATO” - ANNO 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1820817</link>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1820817</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">13/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">28/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3167</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/l6exhnnh8mfzws2b7nxably4yjk8g4bv.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
