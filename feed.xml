@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 17 Nov 2026 13:39:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 15:05:57 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DECISIONE A CONTRARRE PER LA REALIZZAZIONE DI UNO SHOW/SPETTACOLO MUSICALE PER IL FESTEGGIAMENTO DELL'ULTIMO DELL'ANNO 2026 / CAPODANNO 2027.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1823053</link>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1823053</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">17/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">02/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3189</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/1h6e9zzt4x9n6jmzi7504xeh00iozwqk.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>APPROVAZIONE AVVISO PUBBLICO PER LA COPERTURA DI N. 1 POSTO DI ASSISTENTE SOCIALE - AREA DEI FUNZIONARI E DELLA E.Q. (EX CATEGORIA D) CON RAPPORTO DI LAVORO A TEMPO PIENO E INDETERMINATO TRAMITE PROCEDURA DI MOBILITA' TRA ENTI AI SENSI DELL'ART. 30 D.LGS. 165/2001</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1822773</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/uwbo0srnxfbao5c64og956z24w3he082.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>(RPS885/26) INTERVENTO DI ABBATTIMENTO DELLE BARRIERE ARCHITETTONICHE PLESSO SCOLASTICO "ILARIA ALPI" VIA VARSAVIA N. 5 - APPROVAZIONE SAL N. 1/26, CONTABILITÀ LAVORI E CERTIFICATO DI PAGAMENTO CP N. 1/26 - LIQUIDAZIONE ACCONTO AL SAL N. 1/26 IMPRESA FDM COSTRUZIONI SRL LADISPOLI.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1820848</link>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1820848</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">13/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">28/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3169</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/cr3u9ivcorq49qypxabuq4ghiec7jfbf.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
