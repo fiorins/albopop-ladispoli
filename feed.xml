@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 18 Nov 2026 13:06:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:05:46 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONFERIMENTO DELEGA DI FIRMA A DIPENDENTI ASSEGNATI ALL’AREA II SETTORE I – BILANCIO E PROGRAMMAZIONE ECONOMICO-FINANZIARIA IN CASO DI ASSENZA DEL RESPONSABILE DEL SERVIZIO FINANZIARIO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1824084</link>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1824084</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">18/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">03/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3195</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/8hybrrjdpesjeou50dn69ctx17lip2e1.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>RICONOSCIMENTO DEGLI ARRETRATI E DEGLI ADEGUAMENTI CONTRATTUALI - CCNL PER IL PERSONALE NON DIRIGENTE DEL COMPARTO FUNZIONI LOCALI 2025-2027, SOTTOSCRITTO IL 28/10/2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1824022</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/7ckugnabwg4btx5j26pma9n7wvuc5scn.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>DIVIETO DI SOSTA AREA CIRCOSTANTE LA FONTANA IN PIAZZA DELLA VITTORIA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1821123</link>
-      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1821123</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">15/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">30/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3175</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/6ysjlpoqjv7n1hfmj446t7e0brhh7qw6.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
