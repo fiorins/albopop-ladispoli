@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 19 Nov 2026 08:06:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 11:11:28 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>DETERMINA A CONTRARRE PER ACCORDO QUADRO GARA CONSIP “SERVIZI APPLICATIVI IN OTTICA CLOUD E SERVIZI DI DEMAND E PMO PER LE PAL 3” - PER LA GESTIONE DEL SISTEMA OPERATIVO DELLE CONTRAVVENZIONI DERIVANTI DA INFRAZIONI AL C.D.S., GESTIONE E SICUREZZA DEI DATI – CIG A02590F330</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1824682</link>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1824682</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">19/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">04/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3202</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/esv7vdacgv855cd5z7atr7vz03fank8c.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>SELEZIONE PER LA PROGRESSIONE TRA LE AREE, AI SENSI DELL’ART. 13 COMMA 6 DEL CCNL 16/11/2022 E DALL’ART. 12 C. 1 DEL CCNL 23/02/2026, PER TITOLI, RISERVATA AL PERSONALE DELLA POLIZIA LOCALE DEL COMUNE DI LADISPOLI PER LA COPERTURA DI N. 1 POSTO DI “FUNZIONARIO” – AREA DEI FUNZIONARI E E.Q. (EX CATEGORIA D). APPROVAZIONE NUOVO AVVISO.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1824647</link>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1824647</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">19/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">04/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3201</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/s6xp1ptjmkpcon0g1bhtkkqq135z0k19.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 5]]></description>
+    </item>
     <item>
       <title>INTEGRAZIONE ALL’ART. 6 DEL REGOLAMENTO PER LA DISCIPLINA DELLE PROCEDURE COMPARATIVE PER LE PROGRESSIONI VERTICALI TRA AREE</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1824249</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/x9q1s7656p8imu65k8ehkqz5lohf6wpo.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>SERVIZIO DI ELABORAZIONE ATTI, PROVVEDIMENTI, AVVISI E COMUNICAZIONI OGGETTO DI NOTIFICA PER IL RELATIVO DEPOSITO SULLA PIATTAFORMA NOTIFICHE DIGITALI E PER LA GESTIONE DEGLI ESITI DELLA NOTIFICA – LIQUIDAZIONE FATTURA MAGGIOLI S.P.A.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1821658</link>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1821658</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3182</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/l9te2wqvgh4izxwz1o25zkms5eekv48i.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>PRENOTAZIONE DI IMPEGNO - SPESE PER CONTENZIOSO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1821655</link>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1821655</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3181</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/4hko2ixikz9vsg33b3utb51jjut7zwu3.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
