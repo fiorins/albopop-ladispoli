@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 19 Nov 2026 07:07:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 08:06:38 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>INTEGRAZIONE ALL’ART. 6 DEL REGOLAMENTO PER LA DISCIPLINA DELLE PROCEDURE COMPARATIVE PER LE PROGRESSIONI VERTICALI TRA AREE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1824249</link>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1824249</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">19/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">04/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3200</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/7w9277s9yz7i9ffdlabhhtrx49r0lmki.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>RETTIFICA DELIBERAZIONE DI GIUNTA N. 219 DEL 28/10/2026 AVENTE AD OGGETTO DESTINAZIONE PROVENTI CONTRAVVENZIONALI DERIVANTI DA VIOLAZIONI DEL CODICE DELLA STRADA AI SENSI DEGLI ARTICOLI 142 E 208 DEL CDS. BILANCIO 2027/2028 ANNUALITÀ 2027.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1824246</link>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1824246</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">19/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">04/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3199</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/pj5bmzdus2f8napnsq6mkpd466wjn7sd.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 5]]></description>
+    </item>
+    <item>
+      <title>CICLO DELLA PERFORMANCE 2026 RENDICONTAZIONE INTERMEDIA AL 30/09/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1824243</link>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1824243</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">19/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">04/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3198</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/ew0m13ntvcf4sq5yzrrglt08hcsjij9j.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 5]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI A LUX SERVICE SOCIETÀ</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1824215</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/4hko2ixikz9vsg33b3utb51jjut7zwu3.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>IMPEGNO DI SPESA ANNO 2026, PER AMPLIAMENTO ORARIO CIMITERO COMUNALE, A FAVORE DELLA SOC. SARA'94 – S.R.L. P.I. IT04793501000 – CIG. 0845692F19.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1821652</link>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1821652</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3180</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/mu4fsraxd6occill39jrrektkn2qthi1.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>DETERMINA DI IMPEGNO PER SPERIMENTAZIONE PIATTAFORMA NOTIFICHE DIGITALI SEND - AFFIDAMENTO PAGOPA SPA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1821649</link>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1821649</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3179</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/fvb3kcvqoawhma1czieq1oskjtc237it.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ANNULLAMENTO DELLA DETERMINAZIONE DIRIGENZIALE N. 2456/2026 - RECUPERO FUNZIONALE DEL CASTELLACCIO DI MONTERONI – CUP E64D21000000005 – FINANZIATO DALL’UNIONE EUROPEA – NEXTGENERATION EU A VALERE SU FONDI P.N.R.R. – M5C2INV2.1 RIGENERAZIONE URBANA – ORDINANZA DI LIQUIDAZIONE “AFFIDAMENTO COORDINAMENTO SICUREZZA IN ESECUZIONE DA MAGGIO 2024” – SALDO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1821646</link>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1821646</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3178</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/f3vn67ifa58to6oxlbs12mruvhr20xdp.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
