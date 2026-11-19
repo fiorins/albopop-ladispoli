@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:05:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 07:07:14 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A LUX SERVICE SOCIETÀ</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1824215</link>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1824215</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">19/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">27/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3197</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/8diz5x6j48t1lo35oxc12vbxjydudi8v.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A ANTONELLI ELENA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1824213</link>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1824213</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">19/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">27/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3196</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/r8vv8li3xktixmren36emeijj3x1cbia.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>CONFERIMENTO DELEGA DI FIRMA A DIPENDENTI ASSEGNATI ALL’AREA II SETTORE I – BILANCIO E PROGRAMMAZIONE ECONOMICO-FINANZIARIA IN CASO DI ASSENZA DEL RESPONSABILE DEL SERVIZIO FINANZIARIO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1824084</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/f3vn67ifa58to6oxlbs12mruvhr20xdp.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>RIU 123/2026 – “SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI NON DIFFERENZIATI EER 20.03.01 ‘SECCO RESIDUO’ PRODOTTI DAL COMUNE DI LADISPOLI – MODIFICA PARZIALE IN AUTOTUTELA DELLE DETERMINAZIONI DIRIGENZIALI N. 2367 DEL 27/10/2026 E N. 2411 DEL 04/11/2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1821372</link>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1821372</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3177</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/j0p7m7htw1unfdq2a43w2xbtmgi1oq7e.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE CONTRIBUTO UNIFICATO TRIBUTARIO TRAMITE AVVISO PAGOPA – RICORSO IN CORTE DI CASSAZIONE DELLA SENTENZA N. 2241/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1821340</link>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1821340</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3176</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/7ckugnabwg4btx5j26pma9n7wvuc5scn.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
