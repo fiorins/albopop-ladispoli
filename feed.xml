@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 19 Nov 2026 11:11:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:41:40 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CHIUSURA TEMPORANEA LUNGOMARE REGINA ELENA PER CEDIMENTO MANTO STRADALE ATTIGUO A TOMBINO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1824834</link>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1824834</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">19/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">04/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3204</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/98rnh4ro2d9m3o16zhyvimi16ek7i0ju.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>CONFERIMENTO DELEGA AL CONSIGLIERE COMUNALE GABRIELE LANCIANESE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1824832</link>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1824832</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">19/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">04/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3203</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DECRETI</category>
+      <enclosure url="https://app.box.com/shared/static/251fdahfebo6ycrm4byiipq7zszmcqbg.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>DETERMINA A CONTRARRE PER ACCORDO QUADRO GARA CONSIP “SERVIZI APPLICATIVI IN OTTICA CLOUD E SERVIZI DI DEMAND E PMO PER LE PAL 3” - PER LA GESTIONE DEL SISTEMA OPERATIVO DELLE CONTRAVVENZIONI DERIVANTI DA INFRAZIONI AL C.D.S., GESTIONE E SICUREZZA DEI DATI – CIG A02590F330</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1824682</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/w5356fej5rksjux13s319ae3ouqlq8u1.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>RIU 122/2026 - POTENZIAMENTO E INNOVAZIONE DELLA RACCOLTA DIFFERENZIATA DEI RIFIUTI URBANI DI CUI ALLA DELIBERAZIONE DI GIUNTA REGIONALE N.519/2023 - FINANZIAMENTO A VALERE SUL PR FESR LAZIO 2021-2027 - CODICE SIGEM A0788B0002 - AZIONE 2.6.2.E62F25000360006 - REALIZZAZIONE DEL CENTRO DEL RIUSO - AFFIDAMENTO DEL SERVIZIO DI DIREZIONE DEI LAVORI E DI COORDINAMENTO DELLA SICUREZZA IN FASE DI ESECUZIONE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1821664</link>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1821664</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3184</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/hz7kk81ez7t4zr35vawcnke9kj3erra8.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA N.432 DEL 04/08/2026, DELLA DITTA PERETTI S.R.L. P.IVA IT09577741219, CON SEDE IN CORSO UMBERTO I, N.35, 80138 - NA, - CIG: BC3D546ADC.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1821661</link>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1821661</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">16/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">01/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3183</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/x9q1s7656p8imu65k8ehkqz5lohf6wpo.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
