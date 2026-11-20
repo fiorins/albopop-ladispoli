@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 20 Nov 2026 10:05:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 10:35:30 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI N. 8 ATTI NELLA CASA DEL COMUNE LADISPOLI - ANDRONIC VALENTIN - ED ALTRI IRREPERIBILI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1825795</link>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1825795</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">20/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">21/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3224</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/6y5n7xokxl9jfptkvv6b8v0q9a0uwkcq.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>VARIAZIONE COMPENSATIVA TRA CAPITOLI DI SPESA APPARTENENTI ALLA STESSA MISSIONE, PROGRAMMA E MACROAGGREGATO, ANNUALITÀ 2026 - UFFICIO TURISMO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1825740</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/h04uvpn53e573npbg8k5l9u65urybheo.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>CHIUSURA TEMPORANEA LUNGOMARE REGINA ELENA PER CEDIMENTO MANTO STRADALE ATTIGUO A TOMBINO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1824834</link>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1824834</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">19/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">04/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3204</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/98rnh4ro2d9m3o16zhyvimi16ek7i0ju.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
