@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 20 Nov 2026 08:09:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:36:01 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LAVORI DI MANUTENZIONE STRAORDINARIA DEGLI IMPIANTI AFFERENTI AL SERVIZIO IDRICO INTEGRATO - LOTTO 1 E 2 - DIREZIONE LAVORI E COORDINAMENTO DELLA SICUREZZA IN ESECUZIONE – ORDINANZA DI LIQUIDAZIONE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1825562</link>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1825562</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">20/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">05/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3222</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/1bufk4janovx5hqmdi3h5rrepbk4egma.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATT. N.308 DEL 09/11/2026 ARTI GRAFICHE LAURIA SNC PER LA FORNITURA DI BUSTE E CARTONCINI - ARTI GRAFICHE LAURIA S.N.C.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1825559</link>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1825559</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">20/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">05/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3221</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/jyvixxe1i277zthtzgn4oxgffa4u41q4.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA N. FIE 000569 DEL 14/11/2026 DITTA TUTTOUFFICIO DI GIRALDO CINZIA - CIG BD894D6850</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1825556</link>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1825556</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">20/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">05/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3220</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/81qgdrffvdw2g1tmrpj6uwv1wb5p3vij.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DI PAGOPA PIATTAFORMA SEND FATTURA N. 5226035005 DEL 15/10/2026 - NOTA DI CREDITO N. 5226022062 DEL 30/06/2026 E NOTA DI CREDITO N. 5226005923 DEL 15/02/2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1825534</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">DECRETI</category>
       <enclosure url="https://app.box.com/shared/static/251fdahfebo6ycrm4byiipq7zszmcqbg.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>DETERMINA A CONTRARRE PER ACCORDO QUADRO GARA CONSIP “SERVIZI APPLICATIVI IN OTTICA CLOUD E SERVIZI DI DEMAND E PMO PER LE PAL 3” - PER LA GESTIONE DEL SISTEMA OPERATIVO DELLE CONTRAVVENZIONI DERIVANTI DA INFRAZIONI AL C.D.S., GESTIONE E SICUREZZA DEI DATI – CIG A02590F330</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1824682</link>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1824682</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">19/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">04/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3202</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/esv7vdacgv855cd5z7atr7vz03fank8c.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>SELEZIONE PER LA PROGRESSIONE TRA LE AREE, AI SENSI DELL’ART. 13 COMMA 6 DEL CCNL 16/11/2022 E DALL’ART. 12 C. 1 DEL CCNL 23/02/2026, PER TITOLI, RISERVATA AL PERSONALE DELLA POLIZIA LOCALE DEL COMUNE DI LADISPOLI PER LA COPERTURA DI N. 1 POSTO DI “FUNZIONARIO” – AREA DEI FUNZIONARI E E.Q. (EX CATEGORIA D). APPROVAZIONE NUOVO AVVISO.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1824647</link>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1824647</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">19/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">04/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3201</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/s6xp1ptjmkpcon0g1bhtkkqq135z0k19.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 5]]></description>
-    </item>
-    <item>
-      <title>INTEGRAZIONE ALL’ART. 6 DEL REGOLAMENTO PER LA DISCIPLINA DELLE PROCEDURE COMPARATIVE PER LE PROGRESSIONI VERTICALI TRA AREE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1824249</link>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1824249</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">19/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">04/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3200</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
-      <enclosure url="https://app.box.com/shared/static/7w9277s9yz7i9ffdlabhhtrx49r0lmki.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
 </rss>
