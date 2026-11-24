@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 24 Nov 2026 13:07:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 13:36:19 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,58 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE IN FAVORE DELLA COOPERATIVA SOCIALE "STILE LIBERO” PER IL SERVIZIO DI “SOSTEGNO ALLE AUTONOMIE – OEPAC” IN FAVORE DI UNO STUDENTE RESIDENTE NEL COMUNE DI LADISPOLI CHE FREQUENTA UN ISTITUTO SCOLASTICO IN ALTRO COMUNE – PERIODO OTTOBRE 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1828426</link>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1828426</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">24/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">09/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3234</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/y8c2oh85d8uwlk8et8kk2vlvr83nh5fr.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA N. SFPA-0033113 DEL 05/11/2026 - SOCIETA' MONDOFFICE SRL</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1828423</link>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1828423</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">24/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">09/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3233</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/0we7umnk95fnd57ct9zo4m1mwlip557c.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE IN FAVORE DELLA COOPERATIVA SOCIALE “ALDIA” PER IL SERVIZIO DI “SOSTEGNO ALLE AUTONOMIE IN FAVORE DI UNO STUDENTE DISABILE” RESIDENTE NEL COMUNE DI LADISPOLI MA COLLOCATO TEMPORANEAMENTE C/O UNA FAMIGLIA FUORI REGIONE.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1828420</link>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1828420</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">24/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">09/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3232</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/9u5mfw3fyp01h88okhvmemvgptrodasb.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>VARIAZIONE COMPENSATIVA TRA CAPITOLI DI SPESA DEL BILANCIO DI PREVISIONE 2026-2028, ANNUALITÀ 2026, PER IL PAGAMENTO DEGLI ARRETRATI CONTRATTUALI AL PERSONALE DIPENDENTE DERIVANTI DALL'APPLICAZIONE DEL C.C.N.L. COMPARTO FUNZIONI LOCALI 2025-2027.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1828417</link>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1828417</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">24/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">09/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3231</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/7hodhvfy6r3y1f590bta4wzbr926jehw.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>RIU 127/2026 - SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI EER 20.03.03 – ORDINANZA DI LIQUIDAZIONE AGOSTO, SETTEMBRE E OTTOBRE 2026.</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1828450</link>
@@ -225,58 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/rof5h1md6bicaq56cf4ghvsrshp796se.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LAVORI DI MANUTENZIONE STRAORDINARIA DEGLI IMPIANTI AFFERENTI AL SERVIZIO IDRICO INTEGRATO - LOTTO 1 E 2 - DIREZIONE LAVORI E COORDINAMENTO DELLA SICUREZZA IN ESECUZIONE – ORDINANZA DI LIQUIDAZIONE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1825562</link>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1825562</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">20/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">05/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3222</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/1bufk4janovx5hqmdi3h5rrepbk4egma.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATT. N.308 DEL 09/11/2026 ARTI GRAFICHE LAURIA SNC PER LA FORNITURA DI BUSTE E CARTONCINI - ARTI GRAFICHE LAURIA S.N.C.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1825559</link>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1825559</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">20/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">05/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3221</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/jyvixxe1i277zthtzgn4oxgffa4u41q4.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA N. FIE 000569 DEL 14/11/2026 DITTA TUTTOUFFICIO DI GIRALDO CINZIA - CIG BD894D6850</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1825556</link>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1825556</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">20/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">05/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3220</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/81qgdrffvdw2g1tmrpj6uwv1wb5p3vij.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DI PAGOPA PIATTAFORMA SEND FATTURA N. 5226035005 DEL 15/10/2026 - NOTA DI CREDITO N. 5226022062 DEL 30/06/2026 E NOTA DI CREDITO N. 5226005923 DEL 15/02/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1825534</link>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1825534</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">20/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">05/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3219</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/554ymv77ljzr6dnihh75h916gm4whe7j.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
