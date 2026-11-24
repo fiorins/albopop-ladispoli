@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 23 Nov 2026 08:35:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 10:36:04 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE SPESA PER IL SERVIZIO FUNEBRE DELLA SALMA N.M. IN FAVORE DELLA FUNERARIA SAMPAOLESI SRL IN OTTEMPERANZA ALL'ORDINANZA SINDACALE N. 168/2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1828061</link>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1828061</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">24/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">09/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3229</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/vvetuotiq1eyx6daszyi9smbpnyc6qih.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>PROCEDURA APERTA AI SENSI DELL’ART. 71 DEL D.LGS. 36/2023 PER L’AFFIDAMENTO IN REGIME DI CONCESSIONE DEL SERVIZIO DI RISCOSSIONE COATTIVA DELLE SANZIONI AMMINISTRATIVE ELEVATE IN VIOLAZIONE DELLE NORME DEL CODICE DELLA STRADA E DI TUTTE LE ALTRE SANZIONI AMMINISTRATIVE IN GENERE PASSIBILI DI RISCOSSIONE DA PARTE DELLA POLIZIA LOCALE. NOMINA DELLA COMMISSIONE GIUDICATRICE EX ART. 93 D.LGS. 36/23 AI FINI DELL'ESPLETAMENTO DELL'AGGIUDICAZIONE DELLA GARA D'APPALTO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1826767</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/l5uspyz973ys66565e6jz3ew6ctfgghq.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>ORDINATIVO DI LIQUIDAZIONE IN FAVORE DELLA DITTA ATS SRL - CIG BC45D63DDC III° SAL SALDO LAVORI - FATTURA N. 476 DEL 12/11/2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1825486</link>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1825486</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">20/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">05/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3209</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/fgd2i1fxuuh2l65qfzuk4uvr0gmfsaf3.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
