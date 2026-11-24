@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 24 Nov 2026 10:36:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 11:35:36 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>CONCORSO PUBBLICO, PER ESAMI, PER LA COPERTURA A TEMPO PIENO ED INDETERMINATO DI N. 2 POSTI DI “AGENTE DI POLIZIA LOCALE”, AREA PROFESSIONALE DEGLI ISTRUTTORI (EX CATEGORIA “C”). APPROVAZIONE GRADUATORIA DI MERITO.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1828064</link>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1828064</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">24/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">09/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3230</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/oh5699wg4ddqux32mu8ubg0itlno1yu1.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>LIQUIDAZIONE SPESA PER IL SERVIZIO FUNEBRE DELLA SALMA N.M. IN FAVORE DELLA FUNERARIA SAMPAOLESI SRL IN OTTEMPERANZA ALL'ORDINANZA SINDACALE N. 168/2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1828061</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/u1hikryj6z5ywg0z8m1cx9f3bin10uk0.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELL’APS APERTA PARENTESI E DEL CENTRO DI RICERCA ERBA SACRA PER L’EROGAZIONE DI SERVIZI NELL’AMBITO DEL CONTRIBUTO DELLA REGIONE LAZIO A FAVORE DELLA BIBLIOTECA COMUNALE (DETERMINAZIONE G17639 DEL 22/12/2025) - LINEA DI INTERVENTO A.1</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1825506</link>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1825506</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">20/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">05/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3210</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/l5uspyz973ys66565e6jz3ew6ctfgghq.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
