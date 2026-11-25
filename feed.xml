@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 25 Nov 2026 08:07:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 11:05:45 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>IMPEGNO SOMMA PER CONTRIBUTO ECONOMICO URGENTE PER NUCLEO FAMILIARE CON FIGLI MINORI</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1829311</link>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1829311</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">25/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">10/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3251</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/f669cdeena2l4cuwz5hd8a2at1jcf5ra.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>STRUTTURA IL LORETO CASA DI RIPOSO "LE QUERCE CASA DEI NONNI" - LIQUIDAZIONE SOMMA PER COMPARTECIPAZIONE ALLA RETTA UTENTI RICOVERATI - PERIODO LUGLIO/OTTOBRE 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1829058</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/wy0768yds352bu4vc8rfqxfb6ice76lb.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>AFFIDAMENTO DIRETTO EX ART. 50, COMMA 1, LETT. B) D.LGS. 36/2023 E CONTESTUALE IMPEGNO DI SPESA IN FAVORE DEGLI AUTORI E PRODUTTORI DEL FILM “L’ACQUA NON E’ MAI FERMA” PER IL SERVIZIO DI PROIEZIONE PUBBLICA PRESSO IL CINETEATRO COMUNALE MASSIMO FRECCIA.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1828429</link>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1828429</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">24/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">09/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3235</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/hf5uzan95zxrwm8i49mu6f01s0w9nmdh.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
