@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 25 Nov 2026 14:06:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:35:41 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>OCCUPAZIONE SUOLO PUBBLICO VIA BARI 13 SIGN.CIFANI ROBERTO</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1829771</link>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1829771</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">25/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">10/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3284</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">ORDINANZE</category>
+      <enclosure url="https://app.box.com/shared/static/43n6e2hk7030tq88kiuut687rj774mbn.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>TRASPORTO SCOLASTICO ALUNNI CON DISABILITA' ANNO SCOLASTICO 2025/2026 - ACCERTAMENTO IN ENTRATA DEL CONTRIBUTO ECONOMICO ASSEGNATO DALLA REGIONE LAZIO CON DETERMINAZIONE N. G15220 DEL 02/11/2026 E CONTESTUALE IMPEGNO DI SPESA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1829748</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/91n14d7k4s6l6ju3blbw08g4npyo6a30.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>DECISIONE A CONTRARRE PER LA REALIZZAZIONE DI UNO SPETTACOLO MUSICALE DENOMINATO “VOGLIO TORNARE NEGLI ANNI 90” INSERITO NEI FESTEGGIAMENTI DELL'ULTIMO DELL'ANNO 2026 / CAPODANNO 2027, COMPRENSIVO DI ALLESTIMENTO SCENICO, STRUTTURE, IMPIANTI AUDIO, LUCI E VIDEO, PERSONALE TECNICO E SERVIZI CONNESSI ALLA PRODUZIONE.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1829686</link>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1829686</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">25/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">10/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3264</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/4hl9kl31jkrktell1k1mef1er62btrao.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
