@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 26 Nov 2026 12:05:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:36:09 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RIU 132/2026 - SERVIZIO PER LA GESTIONE DELLA FRAZIONE DI RIFIUTO URBANO EER 20.01.38 – ORDINANZA DI LIQUIDAZIONE MESI DI AGOSTO, SETTEMBRE E OTTOBRE 2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1830857</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1830857</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">11/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3291</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/zejxhmwweqxf6bux8ghud8rv8yypxsyj.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA N. FPA 967/26 DEL 12/11/2026 - RD SISTEMI SRL</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1830854</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1830854</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">11/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3290</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/78u01soc8c8u6ezd8vi449te38v1gsnf.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE SAL. N. 1 IN FAVORE DELLA SOCIETÀ VIMA S.R.L - DEI LAVORI PER L' OPERA “CAMPAGNA DI MANUTENZIONE STRADALE DELLA VIABILITÀ COMUNALE – VIE VARIE NEL COMUNE DI LADISPOLI”- CUP: E67H26000250004 E CIG BC17967656.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1830851</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1830851</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">11/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3289</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/inlx7wvspqsgbba7wbabx8vkqu0vnuas.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>IMPEGNO DI SPESA PER FORNITURA DI ETICHETTE PER ELIMINACODE - SOC. QM ITALY SRL - CIG BDF88CA572</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1830707</link>
@@ -239,45 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/hvzj7g0cwkwd9gw1bkthte8k74n4uy4w.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>RIU 130/2026 - SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI EER 20.02.01 – ORDINANZA DI LIQUIDAZIONE AGOSTO, SETTEMBRE E OTTOBRE 2026.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1829709</link>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1829709</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">25/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">10/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3272</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/an8vw6193ezhwdlgzgg0149lre3gdm2j.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DI UTENTI ANZIANI PER IL SERVIZIO DI ASSISTENZA DOMICILIARE (SAISA) CON QUIETANZA DIRETTA ALLA COOPERATIVA "CASSIAVASS" SOGGETTO EROGATORE DEL SERVIZIO ISCRITTO AL RUA DEL DISTRETTO 4.2 – PERIODO OTTOBRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1829703</link>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1829703</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">25/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">10/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3270</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/vmjfeuk8mw1o9wpewtnp5gocslv3vf4x.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DI UTENTI ANZIANI E CON DISABILITÀ PER IL SERVIZIO DI ASSISTENZA DOMICILIARE (SAISA E SAISD) EFFETTUATO NEL MESE DI OTTOBRE 2026 CON QUIETANZA DIRETTA ALLA COOPERATIVA SOCIALE "CASA COMUNE 2000" SOGGETTO EROGATORE DEL SERVIZIO ISCRITTO AL RUA DEL DISTRETTO 4.2.</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1829700</link>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1829700</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">25/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">10/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3269</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/k0v57owkblt5c1imliuyp6kf94l1y3bn.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 4]]></description>
     </item>
   </channel>
 </rss>
