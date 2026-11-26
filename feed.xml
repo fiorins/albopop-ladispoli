@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 25 Nov 2026 14:35:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 08:05:59 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AFFIDAMENTO DELL'INCARICO DI RILEVATORE PER LE ATTIVITÀ DI RILEVAZIONE DEL CENSIMENTO PERMANENTE DELLA POPOLAZIONE E DELLE ABITAZIONI EDIZIONE 2026.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1830259</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1830259</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">11/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3286</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/u74hzo3fcjvifkjrpqzll9zmnyuf06re.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE DEL CONTRIBUTO ECONOMICO CONCESSO ALL'ASSOCIAZIONE NAZIONALE MARINAI D’ITALIA – GRUPPO DI LADISPOLI PER LA REALIZZAZIONE DELLA MANIFESTAZIONE DENOMINATA “LUCI SUL MARE PER MARIA” IN PROGRAMMA IL 12/09/2026 - SALDO.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1830256</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1830256</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">11/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3285</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/5oxfombeofc4bozl1b7po4x0grogmrha.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>OCCUPAZIONE SUOLO PUBBLICO VIA BARI 13 SIGN.CIFANI ROBERTO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1829771</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/ur3sv32xjz512xy5a1fisav2zsx2kq3a.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RICHIESTA CHIUSURA P.LE ONOFRI PER MANIFESTAZIONE NEI GG 19/12/26 E 23/01/27 DENOMINATA AFFARI SU RUOTE</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1829691</link>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1829691</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">25/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">10/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3266</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">ORDINANZE</category>
-      <enclosure url="https://app.box.com/shared/static/q1k0acth6xu204vohvxomdoqnc5gg4pp.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>RESTITUZIONE SOMME NON UTILIZZATE INERENTI IL FINANZIAMENTO RELATIVO ALL’ AVVISO PUBBLICO AI COMUNI PER “INIZIATIVE RIVOLTE AL RECUPERO DEL BENESSERE PSICO FISICO DEI MINORI CENTRI ESTIVI ACCREDITATI ANNUALITA’2026”, AL DIPARTIMENTO POLITICHE PER LA FAMIGLIA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1829689</link>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1829689</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">25/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">10/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3265</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/91n14d7k4s6l6ju3blbw08g4npyo6a30.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
