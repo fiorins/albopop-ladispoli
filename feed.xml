@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 26 Nov 2026 11:05:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:05:44 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>IMPEGNO DI SPESA PER FORNITURA DI ETICHETTE PER ELIMINACODE - SOC. QM ITALY SRL - CIG BDF88CA572</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1830707</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1830707</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">26/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">11/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3288</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/fcgaahslyazx267df4057k11wqt9jm2h.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>AREA DELLA DIRIGENZA - COSTITUZIONE DEL FONDO RISORSE DECENTRATE ANNO 2026 - CCNL 2022-2024 – RETTIFICA E INTEGRAZIONE DELLA DETERMINAZIONE N. 2211 DEL 08/10/2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1830491</link>
@@ -265,19 +278,6 @@
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/k0v57owkblt5c1imliuyp6kf94l1y3bn.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DI UTENTI DISABILI PER IL SERVIZIO DI ASSISTENZA DOMICILIARE (SAISD) EFFETTUATO NEL PERIODO DI OTTOBRE 2026 CON QUIETANZA DIRETTA ALLA COOPERATIVA "CASSIAVASS" SOGGETTO EROGATORE DEL SERVIZIO ISCRITTO AL RUA DEL DISTRETTO 4.2</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1829697</link>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1829697</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">25/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">10/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3268</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/nqjbzczard2pq50voo3pim003pbac99r.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
