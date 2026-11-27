@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 27 Nov 2026 11:36:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:05:40 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>VARIAZIONE COMPENSATIVA TRA CAPITOLI DI SPESA APPARTENENTI ALLA STESSA MISSIONE, PROGRAMMA E MACROAGGREGATO, PER TRASFERIMENTO SOMMA NECESSARIA PER RICOVERO IN EMERGENZA DI UN UTENTE IN STRUTTURA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1832867</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1832867</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3333</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/kd8jr1qo11y8wopl9211b0nnhu7cx98z.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 2]]></description>
+    </item>
     <item>
       <title>FORNITURA DI PC ALL-IN-ONE, NOTEBOOK, STAMPANTE E MONITOR, CON GARANZIE ED ESTENSIONI DI ASSISTENZA COME DA SCHEDA DI FORNITURA E TRASPORTO. AFFIDAMENTO DIRETTO A EUROME S.R.L. MEDIANTE ORDINE DIRETTO DI ACQUISTO SUL MEPA E IMPEGNO DI SPESA. CIG BDFE3E328C</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1832766</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/myfgn0xhmzngae3n40pnjzo6dt4e1pql.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A MASSAI MARIO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1831860</link>
-      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1831860</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">27/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">05/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3313</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/l9p13j2gip0jdt38viugtjn413n0tay9.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
