@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 27 Nov 2026 09:36:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 11:36:03 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>FORNITURA DI PC ALL-IN-ONE, NOTEBOOK, STAMPANTE E MONITOR, CON GARANZIE ED ESTENSIONI DI ASSISTENZA COME DA SCHEDA DI FORNITURA E TRASPORTO. AFFIDAMENTO DIRETTO A EUROME S.R.L. MEDIANTE ORDINE DIRETTO DI ACQUISTO SUL MEPA E IMPEGNO DI SPESA. CIG BDFE3E328C</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1832766</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1832766</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3332</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/catvlv1ruklpdoli3bc5x96fyvl56tki.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 6]]></description>
+    </item>
     <item>
       <title>RIU 136/2026 - SERVIZIO DI “PIATTAFORMA COREVE” DEI RIFIUTI URBANI EER 15.01.07 – ORDINANZA DI LIQUIDAZIONE MESI DI AGOSTO, SETTEMBRE E OTTOBRE 2026 E DELL’ADEGUAMENTO ISTAT NEL PERIODO GENNAIO - SETTEMBRE 2026</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1832463</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/l9p13j2gip0jdt38viugtjn413n0tay9.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A PIGNOTTI GABRIELLA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1831858</link>
-      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1831858</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">27/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">05/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3312</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/aosrcnhkjktdbrgkez3dandz3x8b0u2a.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
