@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 27 Nov 2026 12:05:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:35:51 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,19 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>PRELEVAMENTO DAL FONDO DI RISERVA, AI SENSI DELL'ARTICOLO 166 DEL T.U.E.L. (D.LGS. N. 267/2000), PER VISITE MEDICHE CANDIDATI RISULTATI IDONEI AL CONCORSO PER AGENTI DI POLIZIA LOCALE</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1832886</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1832886</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3334</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DELIBERE DI GIUNTA</category>
+      <enclosure url="https://app.box.com/shared/static/8v5spdbxscafybfe6u3p9hgnq2ce15p7.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
     <item>
       <title>VARIAZIONE COMPENSATIVA TRA CAPITOLI DI SPESA APPARTENENTI ALLA STESSA MISSIONE, PROGRAMMA E MACROAGGREGATO, PER TRASFERIMENTO SOMMA NECESSARIA PER RICOVERO IN EMERGENZA DI UN UTENTE IN STRUTTURA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1832867</link>
@@ -264,19 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/ngqfu74r0k2pv6wzdbpm0hecd7luehu8.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A PAGLIOCCA MARTINA</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1831862</link>
-      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1831862</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">27/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">05/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3314</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/myfgn0xhmzngae3n40pnjzo6dt4e1pql.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
