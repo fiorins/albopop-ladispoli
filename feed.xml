@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:36:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:05:31 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A AGNANO AURORA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1831874</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1831874</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">05/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3320</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/2tghb13okbclkpzpu820efxax621izpp.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO ATTI A BENEDETTI LINA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1831872</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1831872</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">05/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3319</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/tq0yoixjbe5c2n5l5p9lqxfnl18j4fct.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>AVVISO DI DEPOSITO ATTI A LAPUCCI LORENZINA</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1831870</link>
@@ -251,32 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
       <category domain="item-category-subType">DETERMINE</category>
       <enclosure url="https://app.box.com/shared/static/4mlqxxrdir6rinl4mmq19y97slifu3v0.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>RIU 135/2026 - SERVIZIO DI TRATTAMENTO E RECUPERO DEI RIFIUTI URBANI EER 20.01.08 – ORDINANZA DI LIQUIDAZIONE OTTOBRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1831305</link>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1831305</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">11/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3300</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/9b0w7wc2uyxbsrxd9dc3peke9tulryof.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 3]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE SOC. GESAP CONSULTING SRL - DIRETTORE DI ESECUZIONE DEL CONTRATTO DEL SERVIZIO ASSOCIATO DI TRASPORTO PUBBLICO LOCALE DEI COMUNI DI CERVETERI E LADISPOLI PERIODO LUGLIO/OTTOBRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1831302</link>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1831302</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">11/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3299</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/2s6bi9y0lksdnlerzn1lw3d5o0rzyvdg.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 3]]></description>
     </item>
   </channel>
