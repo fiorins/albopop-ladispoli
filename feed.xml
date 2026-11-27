@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 27 Nov 2026 08:06:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 08:35:57 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>LIQUIDAZIONE AGENZIA DELLE ENTRATE-RISCOSSIONE. CARTELLA DI PAGAMENTO N. 097 2026 01742664 14 000 - SOMME ISCRITTE AL RUOLO N. 2026/004216</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1832267</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1832267</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3327</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/36vz6h9qqehqxif8sfv5y0sdcolo9yl6.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>FONDO DELLE RISORSE DECENTRATE PER L’ANNO 2026 – RETTIFICA DELLA DETERMINAZIONE DIRIGENZIALE N. 2210 DEL 08/10/2026: RIDETERMINAZIONE DELL’ADEGUAMENTO DEL LIMITE DI CUI ALL’ART. 23, COMMA 2, DEL D.LGS. N. 75/2017 E DELLE SOMME INDISPONIBILI.</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1832264</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1832264</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3326</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/ck4v3t2p59kcp9ohz7ou4aewtmq29kw4.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
     <item>
       <title>PNRR M5C2 - INVESTIMENTO 1.3 - SUBINVESTIMENTO 1.3.1 “HOUSING TEMPORANEO”- CUP E65I22000050001 – LIQUIDAZIONE PER 3° RENDICONTAZIONE - MANDATARIA ATI “DOMUS COOPERATIVA SOCIALE”</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1832141</link>
@@ -252,32 +278,6 @@
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/bx2crds2b2r9wlb1wa2no1i68zn2wgrk.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 4]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELLA COOPERATIVA SOCIALE “CASA COMUNE 2000” PER IL SERVIZIO DI ASSISTENZA EDUCATIVA SCOLASTICA A SOSTEGNO DELLE AUTONOMIE - OEPAC - EFFETTUATO NEL MESE DI OTTOBRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1831577</link>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1831577</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">11/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3307</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/a8oq64hldquz40l6jncr8i1010h4i26l.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE DI SPESA IN FAVORE DELLA “COOPERATIVA SOCIALE SOLIDARIETÀ” PER IL SERVIZIO DI ASSISTENZA EDUCATIVA SCOLASTICA A SOSTEGNO DELLE AUTONOMIE - OEPAC - EFFETTUATO NEL MESE DI OTTOBRE 2026</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1831574</link>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1831574</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">26/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">11/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3306</category>
-      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
-      <category domain="item-category-subType">DETERMINE</category>
-      <enclosure url="https://app.box.com/shared/static/o5lzrikz0octsgsx4m126nxmdk2ycp7u.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 2]]></description>
     </item>
   </channel>
 </rss>
