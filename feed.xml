@@ -7,7 +7,7 @@
     <docs>http://albopop.it/comune/ladispoli/</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 27 Nov 2026 09:05:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 09:36:19 +0000</lastBuildDate>
     <webMaster>davidefiorini@outlook.com (Davide Fiorini)</webMaster>
     <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
     <category domain="http://albopop.it/specs#channel-category-municipality">Ladispoli</category>
@@ -19,6 +19,45 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ladispoli</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:058116</category>
     <html:meta xmlns:html="http://www.w3.org/1999/xhtml" name="robots" content="noindex"/>
+    <item>
+      <title>RIU 136/2026 - SERVIZIO DI “PIATTAFORMA COREVE” DEI RIFIUTI URBANI EER 15.01.07 – ORDINANZA DI LIQUIDAZIONE MESI DI AGOSTO, SETTEMBRE E OTTOBRE 2026 E DELL’ADEGUAMENTO ISTAT NEL PERIODO GENNAIO - SETTEMBRE 2026</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1832463</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1832463</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3331</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/22edmcm25cto033thknosp4wovnjrsv9.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 3]]></description>
+    </item>
+    <item>
+      <title>VARIAZIONI COMPENSATIVE TRA CAPITOLI DI ENTRATA APPARTENENTI ALLA MEDESIMA CATEGORIA E/O TRA CAPITOLI DI SPESA APPARTENENTI ALLO STESSO MACRO-AGGREGATO (ART. 175, COMMA 5-QUATER, LETT. A), D.LGS. N. 267/000)</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1832460</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1832460</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">12/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3330</category>
+      <category domain="http://albopop.it/specs#item-category-type">ATTI AMMINISTRATIVI</category>
+      <category domain="item-category-subType">DETERMINE</category>
+      <enclosure url="https://app.box.com/shared/static/9ahbrviog6c1m38m1twk7s91tqhtex58.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 4]]></description>
+    </item>
+    <item>
+      <title>AVVISO DI NOTIFICA 1 ATTO A CARICO DELLA SIG.RA CRESTA ERNESTA</title>
+      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1832439</link>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1832439</guid>
+      <category domain="http://albopop.it/specs#item-category-pubStart">27/11/2026</category>
+      <category domain="http://albopop.it/specs#item-category-pubEnd">05/12/2026</category>
+      <category domain="http://albopop.it/specs#item-category-uid">2026-3329</category>
+      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
+      <category domain="item-category-subType">AVVISI</category>
+      <enclosure url="https://app.box.com/shared/static/gpty3jk5sxbj53vi9vaplnmbbr74xm4m.pdf" length="0" type="application/pdf"/>
+      <description><![CDATA[📬 Allegati totali: 1]]></description>
+    </item>
     <item>
       <title>AVVISO DI NOTIFICA 1 ATTO A CARICO DEL SIG. CACCIOTTI VIRGINIO</title>
       <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1832406</link>
@@ -238,45 +277,6 @@
       <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
       <category domain="item-category-subType">AVVISI</category>
       <enclosure url="https://app.box.com/shared/static/aosrcnhkjktdbrgkez3dandz3x8b0u2a.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A ASAVESI STEFAN ROBERT</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1831856</link>
-      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1831856</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">27/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">05/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3311</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/uoj8pt2ivaq5karbjelzl8crh1c3wuat.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A GUGLIELMI ALESSIO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1831854</link>
-      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1831854</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">27/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">05/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3310</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/0zib0tieaubzdskdpq968f24ftle4285.pdf" length="0" type="application/pdf"/>
-      <description><![CDATA[📬 Allegati totali: 1]]></description>
-    </item>
-    <item>
-      <title>AVVISO DI DEPOSITO ATTI A ABBATE FILIPPO</title>
-      <link>https://ladispoli.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio/-/papca/display/1831852</link>
-      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1831852</guid>
-      <category domain="http://albopop.it/specs#item-category-pubStart">27/11/2026</category>
-      <category domain="http://albopop.it/specs#item-category-pubEnd">05/12/2026</category>
-      <category domain="http://albopop.it/specs#item-category-uid">2026-3309</category>
-      <category domain="http://albopop.it/specs#item-category-type">GENERICO</category>
-      <category domain="item-category-subType">AVVISI</category>
-      <enclosure url="https://app.box.com/shared/static/4g6fu2l1tuzwu4mwwots2vrn1nezqfkw.pdf" length="0" type="application/pdf"/>
       <description><![CDATA[📬 Allegati totali: 1]]></description>
     </item>
   </channel>
